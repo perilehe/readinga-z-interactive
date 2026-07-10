@@ -1,0 +1,552 @@
+{
+  "meta": {
+    "id": "a-new-skyline",
+    "title": "A New Skyline",
+    "level": "W",
+    "author": "Susan Lennox",
+    "focusQuestion": "How has New York City's skyline changed?"
+  },
+
+  "activities": ["read", "sequence", "evidence", "summarize", "vocabulary", "typing"],
+
+  "sections": [
+    {
+      "id": "intro",
+      "title": "Introduction",
+      "paragraphs": [
+        "What would Paris be without the Eiffel Tower, or London without its famous clock tower, Big Ben? <s>Iconic structures</s> such as these, along with surrounding buildings, <v>create</v> <o>an outline</o> against the sky, called a skyline. <s>Skylines</s> <v>are</v> <o>unique identifiers</o> of places, just as your fingerprints are one-of-a-kind identifiers of you. Unlike fingerprints, however, <s>skylines</s> <v>don't stay</v> <o>the same</o> forever. They grow and change, sometimes gradually and at other times quite suddenly.",
+        "<s>New York City</s> <v>is</v> <o>a great example</o> of a place whose skyline has experienced both slow and rapid change. In recent years, New York's skyline has been altered dramatically. Buildings and structures have risen, fallen, and risen again. New York's skyline has continuously evolved."
+      ]
+    },
+    {
+      "id": "growing",
+      "title": "Growing the Big Apple",
+      "paragraphs": [
+        "During the nineteenth century, <s>New York City's famous skyline</s>, along with its diverse population, <v>began to grow</v> rapidly. With the end of the Civil War came freed slaves from the South in search of work. Later, <s>waves of Europeans</s> <v>immigrated</v> <o>to the United States</o> through the port of New York. Many of them stayed on New York's Manhattan Island. By the late 1800s, New York was the most densely populated city in the country; by 1925, it was the most densely populated city in the world.",
+        "All the city's new residents needed places to live, work, and shop. Gradually, <s>the city</s> <v>expanded</v> <o>northward</o> as more stores, factories, and homes were built. However, <s>Manhattan Island</s> <v>is</v> <o>only about 23 square miles</o> in area. There was no more room for the city to expand outward; the only place to grow was up.",
+        "To do that, <s>new building methods</s> <v>had to be employed</v>. Up until that time, <s>walls</s> <v>had been used</v> <o>to support a building's weight</o>. The walls on a building's ground floor had to be strong enough to bear the weight of all the floors and the roof above them. This type of construction limited a building's height. There was no practical way to make walls thick and strong enough to support a building with dozens of floors.",
+        "A new way of building involved using a steel frame instead of walls to support the structure. Gigantic steel beams were connected to form the building's skeleton. Then the walls were hung from the beams, much like curtains from a rod, and attached at the bottom to the floor. With the use of steel frame construction, the walls of the building's upper floors were not weighing heavily on the lower floors' walls. The weight of the walls was distributed along the steel beams holding them up.",
+        "<s>Steel frame construction</s> <v>made</v> <o>it possible</o> for buildings to reach new heights. By the turn of the twentieth century, New York City housed a number of huge structures that came to be called skyscrapers. Soon skyscrapers were going up one after another as builders and architects competed to make the world's tallest building."
+      ]
+    },
+    {
+      "id": "empire",
+      "title": "Building an Empire",
+      "paragraphs": [
+        "By the late 1920s, New York City's skyline had risen to new heights. It was during this time that two of the city's best-known structures were built.",
+        "In 1928, the builder of the seventy-seven-story Chrysler Building wanted to make it the world's tallest. So fierce was the competition for this title that the Chrysler builder smuggled a tall spire onto the top of his structure. The secret plan worked: in 1930, the Chrysler Building became not only the world's tallest structure but also the only one to stand taller than 1,000 feet (305 m).",
+        "The Chrysler Building's reign would not last. Just blocks away, a steel-framed behemoth was rising. Not only would the Empire State Building take the crown for world's tallest, but it would also come to define the city it called home.",
+        "<s>Workers</s> <v>broke ground</v> <o>on the Empire State Building</o> in January 1930. Amazingly, it was completed just 410 days later. The steel and granite building had 103 floors and stood over 1,400 feet (427 m) tall. More than 3,000 workers contributed skills and labor to finish the building.",
+        "The completed building had 64 working elevators that took less than one minute to get to the 80th floor. An outside observation deck on the 86th floor and an inside deck on the 102nd floor provided panoramic views of the city.",
+        "<s>The Empire State Building</s> <v>symbolized</v> <o>New York City</o>. It was named one of the Seven Wonders of the Modern World and was featured in many books and movies. It wore the crown of world's tallest building for nearly forty years until deposed by twin giants rising in the lower part of Manhattan."
+      ]
+    },
+    {
+      "id": "twins",
+      "title": "Twin Giants Rise, Then Fall",
+      "paragraphs": [
+        "After the Empire State Building was completed, <s>skyscraper construction</s> <v>slowed down</v>. Mammoth structures were costly to build, and the American economy was struggling. It was not until 1970 that the city's skyline would grow even higher.",
+        "In the 1960s, <s>city officials</s> <v>considered building</v> <o>a \"world trade center\"</o>—a hub for international commerce—in Lower Manhattan. <s>The Port Authority of New York and New Jersey</s> <v>was</v> <o>in charge of the project</o>. <s>Architect Minoru Yamasaki</s> <v>designed</v> <o>the buildings</o>. He proposed twin towers as part of the multibuilding complex of offices and storefronts. The 110-story towers would include some structural innovations.",
+        "<s>One innovation</s> <v>was</v> <o>the use of tube-frame construction</o> instead of steel-frame construction. <s>Each tower</s> <v>was</v> <o>similar to a hollow square pipe</o>. The outside perimeter of the building had columns that were spaced close together. Surrounding the edge of the building with main support columns created more usable floor space inside.",
+        "<s>Another innovation</s> <v>was</v> <o>the use of sky lobbies</o>. The taller a building is, the more elevators it needs. Yamasaki proposed an elevator system modeled after the city's subway system. The towers had both express and local elevators.",
+        "People could take an express elevator to a sky lobby on the forty-fourth floor that would bypass the first forty-three floors. Then they would transfer to a local elevator, which would stop at every floor, to get to their office on the forty-eighth floor. <s>This system</s> <v>was</v> <o>a new, efficient way</o> to transport people vertically, and it reduced the number of elevator shafts needed.",
+        "<s>Construction of the towers</s> <v>began</v> in 1966. <s>The North Tower</s> <v>was completed</v> in December 1970, topping out at 1,727 feet (526 m) at the top of its spire. A restaurant called Windows on the World offered diners a breathtaking view from the top of the North Tower. The South Tower, reaching 1,362 feet (415 m) in height, was finished seven months later. Beneath both buildings was a parking garage that could accommodate up to two thousand vehicles. Railroad and subway stations were situated underneath the parking garage.",
+        "<s>The Twin Towers</s> <v>were</v> <o>a striking addition</o> to the city's skyline. Because they were built away from the city's other tall skyscrapers, they dwarfed the surrounding buildings and were the most prominent structures on Manhattan Island. For thirty years, the World Trade Center towers were the tallest buildings in New York. Then disaster struck.",
+        "On the morning of September 11, 2001, <s>hijackers</s> <v>flew</v> <o>two passenger jets</o> into the towers. Within an hour after the attack, <s>the South Tower</s> <v>began to fall</v> in on itself and crumble to the ground. The North Tower followed thirty minutes later. New Yorkers watched in stunned disbelief as these enormous structures were reduced to heaps of burning rubble. Nearly three thousand people died as a result of the attack."
+      ]
+    },
+    {
+      "id": "newtower",
+      "title": "A New Tower Rises from the Ashes",
+      "paragraphs": [
+        "<s>The World Trade Center tragedy</s> <v>devastated</v> <o>New York and the rest of the country</o>. <s>New Yorkers</s> <v>mourned</v> <o>the loss of their neighbors and their landmark</o>. At the same time, they vowed to rebuild at the World Trade Center site.",
+        "Excavating the ruins of the old towers took time. Plans for the site took years to develop; there were many opinions on what should be done, and many designs were submitted with considerable controversy. Finally, the Port Authority unveiled the design for the new World Trade Center complex. One area was set aside as a memorial park for those who lost their lives that day. The sites where the original buildings stood are now reflecting pools with cascading waterfalls. A memorial museum contains items from the old towers.",
+        "Nearby, a new 104-story tower has been constructed. Nicknamed the Freedom Tower, <s>the structure</s> <v>rises</v> <o>an astonishing 1,776 feet</o> (541 m). <s>The building's height</s> <v>symbolizes</v> <o>the year of the United States' independence</o>. The glass-paneled tower has a twisted octagon shape, and its huge reflective surface mirrors the changes in light all around it. At the top is a spire equipped with a light beam that is visible for miles.",
+        "Several other high-rises are being constructed at the site as well. By the year 2020, the new World Trade Center complex should be complete. <s>New York's ever-changing skyline</s> <v>will reflect</v> <o>the spirit of a city</o> that continues to adapt and grow."
+      ]
+    }
+  ],
+
+  "vocabulary": [
+    {
+      "word": "architects",
+      "pos": "n.",
+      "definition": "people who design buildings",
+      "section": "growing",
+      "sentence": "Soon skyscrapers were going up one after another as builders and architects competed to make the world's tallest building.",
+      "quiz": {
+        "prompt": "\"Architects\" are people who:",
+        "options": ["design buildings", "drive trucks", "cook food", "teach students"],
+        "answer": 0
+      }
+    },
+    {
+      "word": "behemoth",
+      "pos": "n.",
+      "definition": "someone or something with immense size or power",
+      "section": "empire",
+      "sentence": "Just blocks away, a steel-framed behemoth was rising.",
+      "quiz": {
+        "prompt": "\"Behemoth\" means something that is:",
+        "options": ["very small and weak", "extremely large and powerful", "old and broken", "fast and colorful"],
+        "answer": 1
+      }
+    },
+    {
+      "word": "complex",
+      "pos": "n.",
+      "definition": "a group of buildings close to one another used for a common purpose",
+      "section": "twins",
+      "sentence": "He proposed twin towers as part of the multibuilding complex of offices and storefronts.",
+      "quiz": {
+        "prompt": "A \"complex\" is:",
+        "options": ["a single house", "a group of buildings used for a common purpose", "a type of bridge", "an underground tunnel"],
+        "answer": 1
+      }
+    },
+    {
+      "word": "dwarfed",
+      "pos": "v.",
+      "definition": "caused something to seem smaller or less important",
+      "section": "twins",
+      "sentence": "Because they were built away from the city's other tall skyscrapers, they dwarfed the surrounding buildings.",
+      "quiz": {
+        "prompt": "\"Dwarfed\" means:",
+        "options": ["destroyed completely", "made something seem very small by comparison", "painted in bright colors", "surrounded by water"],
+        "answer": 1
+      }
+    },
+    {
+      "word": "iconic",
+      "pos": "adj.",
+      "definition": "of or relating to an important symbol; famous and recognizable",
+      "section": "intro",
+      "sentence": "Iconic structures such as these, along with surrounding buildings, create an outline against the sky, called a skyline.",
+      "quiz": {
+        "prompt": "\"Iconic\" is closest in meaning to:",
+        "options": ["famous and recognizable", "old and historical", "tall and impressive", "beautiful and colorful"],
+        "answer": 0
+      }
+    },
+    {
+      "word": "innovations",
+      "pos": "n.",
+      "definition": "new ideas, products, or ways of doing something",
+      "section": "twins",
+      "sentence": "The 110-story towers would include some structural innovations.",
+      "quiz": {
+        "prompt": "\"Innovations\" are:",
+        "options": ["old traditions", "new ideas or ways of doing something", "expensive materials", "government laws"],
+        "answer": 1
+      }
+    },
+    {
+      "word": "landmark",
+      "pos": "n.",
+      "definition": "an important historical building or site; an object on land that marks a place",
+      "section": "newtower",
+      "sentence": "New Yorkers mourned the loss of their neighbors and their landmark.",
+      "quiz": {
+        "prompt": "A \"landmark\" is:",
+        "options": ["a new building being planned", "an important historical building or place", "a small house", "a park bench"],
+        "answer": 1
+      }
+    },
+    {
+      "word": "panoramic",
+      "pos": "adj.",
+      "definition": "having a complete view in every direction",
+      "section": "empire",
+      "sentence": "An outside observation deck on the 86th floor and an inside deck on the 102nd floor provided panoramic views of the city.",
+      "quiz": {
+        "prompt": "\"Panoramic\" means:",
+        "options": ["narrow and limited", "close-up and detailed", "a complete view in all directions", "dark and shadowy"],
+        "answer": 2
+      }
+    },
+    {
+      "word": "perimeter",
+      "pos": "n.",
+      "definition": "the measurement around the outside edge of an area or surface",
+      "section": "twins",
+      "sentence": "The outside perimeter of the building had columns that were spaced close together.",
+      "quiz": {
+        "prompt": "\"Perimeter\" means:",
+        "options": ["the center of something", "the inside floor", "the outside edge or boundary", "the very top"],
+        "answer": 2
+      }
+    },
+    {
+      "word": "prominent",
+      "pos": "adj.",
+      "definition": "easily seen, standing out, or important",
+      "section": "twins",
+      "sentence": "They dwarfed the surrounding buildings and were the most prominent structures on Manhattan Island.",
+      "quiz": {
+        "prompt": "\"Prominent\" means:",
+        "options": ["hidden from view", "very small", "easily seen, standing out, or important", "old and forgotten"],
+        "answer": 2
+      }
+    },
+    {
+      "word": "skeleton",
+      "pos": "n.",
+      "definition": "a framework that supports a structure, such as a building",
+      "section": "growing",
+      "sentence": "Gigantic steel beams were connected to form the building's skeleton.",
+      "quiz": {
+        "prompt": "In building, a \"skeleton\" is:",
+        "options": ["the outer walls", "a framework that supports the structure", "the roof", "the foundation underground"],
+        "answer": 1
+      }
+    },
+    {
+      "word": "vertically",
+      "pos": "adv.",
+      "definition": "in a way that is straight up and down",
+      "section": "twins",
+      "sentence": "This system was a new, efficient way to transport people vertically, and it reduced the number of elevator shafts needed.",
+      "quiz": {
+        "prompt": "\"Vertically\" means:",
+        "options": ["side to side", "in a circle", "straight up and down", "diagonally"],
+        "answer": 2
+      }
+    }
+  ],
+
+  "sequenceEvents": [
+    {
+      "event": "The Park Row Building was constructed, standing 391 feet tall with 29 stories.",
+      "year": 1899,
+      "detail": "391 feet (119 m), 29 stories",
+      "order": 1
+    },
+    {
+      "event": "The Singer Building was completed, reaching 612 feet with 37 stories.",
+      "year": 1908,
+      "detail": "612 feet (186.5 m), 37 stories",
+      "order": 2
+    },
+    {
+      "event": "The Metropolitan Life Tower was built, towering 700 feet with 50 stories.",
+      "year": 1909,
+      "detail": "700 feet (213 m), 50 stories",
+      "order": 3
+    },
+    {
+      "event": "The Woolworth Building opened as the world's tallest at 792 feet with 55 stories.",
+      "year": 1913,
+      "detail": "792 feet (241 m), 55 stories",
+      "order": 4
+    },
+    {
+      "event": "The Chrysler Building became the world's tallest structure, surpassing 1,000 feet with 77 stories.",
+      "year": 1930,
+      "detail": "1,048 feet (319 m), 77 stories",
+      "order": 5
+    },
+    {
+      "event": "The Empire State Building was completed in just 410 days, standing 1,454 feet tall with 103 stories.",
+      "year": 1931,
+      "detail": "1,454 feet (443 m), 103 stories",
+      "order": 6
+    },
+    {
+      "event": "The World Trade Center North Tower was completed, reaching 1,727 feet with 110 stories.",
+      "year": 1970,
+      "detail": "1,727 feet (526 m), 110 stories",
+      "order": 7
+    },
+    {
+      "event": "One World Trade Center opened, rising 1,776 feet with 104 stories to symbolize American independence.",
+      "year": 2014,
+      "detail": "1,776 feet (541 m), 104 stories",
+      "order": 8
+    }
+  ],
+
+  "questions": [
+    {
+      "id": "q1",
+      "level": 1,
+      "question": "How are city skylines similar to fingerprints? How are they different?",
+      "section": "intro",
+      "pages": "4",
+      "evidence": "Skylines are unique identifiers of places, just as your fingerprints are one-of-a-kind identifiers of you. Unlike fingerprints, however, skylines don't stay the same forever.",
+      "choices": [
+        "Both are unique identifiers, but skylines change over time while fingerprints stay the same.",
+        "Both stay the same forever and never change.",
+        "Neither skylines nor fingerprints are unique.",
+        "Fingerprints change over time, but skylines do not."
+      ],
+      "correctChoice": 0,
+      "explanation": "The text says skylines are unique like fingerprints, BUT unlike fingerprints, skylines grow and change over time."
+    },
+    {
+      "id": "q2",
+      "level": 1,
+      "question": "What caused New York City to become the most densely populated city in the world by 1925?",
+      "section": "growing",
+      "pages": "5",
+      "evidence": "With the end of the Civil War came freed slaves from the South in search of work. Later, waves of Europeans immigrated to the United States through the port of New York. Many of them stayed on New York's Manhattan Island.",
+      "choices": [
+        "People came from the American South and from other countries to live in New York.",
+        "The city built taller buildings to fit more people.",
+        "The government forced people to move there.",
+        "New York's economy was the worst in the country."
+      ],
+      "correctChoice": 0,
+      "explanation": "Freed slaves came from the South, and waves of Europeans immigrated through the port of New York, making it the most densely populated city."
+    },
+    {
+      "id": "q3",
+      "level": 2,
+      "question": "What kinds of structural innovations were used to build the World Trade Center towers?",
+      "section": "twins",
+      "pages": "11–12",
+      "evidence": "One innovation was the use of tube-frame construction instead of steel-frame construction. Another innovation was the use of sky lobbies.",
+      "choices": [
+        "Tube-frame construction and sky lobbies with express and local elevators.",
+        "Steel-frame construction and panoramic observation decks.",
+        "Granite walls and underground parking garages.",
+        "Glass panels and reflective surfaces."
+      ],
+      "correctChoice": 0,
+      "explanation": "The towers used tube-frame construction (like a hollow square pipe) and sky lobbies with express and local elevators, modeled after the subway system."
+    },
+    {
+      "id": "q4",
+      "level": 2,
+      "question": "How did the use of sky lobbies change New York's skyline?",
+      "section": "twins",
+      "pages": "11–12",
+      "evidence": "This system was a new, efficient way to transport people vertically, and it reduced the number of elevator shafts needed.",
+      "choices": [
+        "They reduced the number of elevator shafts needed, making very tall buildings more practical.",
+        "They made buildings shorter and wider.",
+        "They replaced the need for all stairs in buildings.",
+        "They only served restaurants on the top floor."
+      ],
+      "correctChoice": 0,
+      "explanation": "Sky lobbies let people take express elevators partway, then transfer to local elevators. This reduced the number of elevator shafts, freeing up floor space and making taller buildings possible."
+    },
+    {
+      "id": "q5",
+      "level": 2,
+      "question": "How did the attacks on New York City on September 11, 2001, change the skyline?",
+      "section": "twins",
+      "pages": "13–15",
+      "evidence": "Within an hour after the attack, the South Tower began to fall in on itself and crumble to the ground. The North Tower followed thirty minutes later. New Yorkers watched in stunned disbelief as these enormous structures were reduced to heaps of burning rubble.",
+      "choices": [
+        "The Twin Towers were destroyed and fell, dramatically changing the skyline.",
+        "New towers were immediately built in their place.",
+        "Only small nearby buildings were damaged.",
+        "The skyline stayed exactly the same."
+      ],
+      "correctChoice": 0,
+      "explanation": "Both Twin Towers collapsed on September 11, 2001, and were reduced to rubble. The skyline lost its most prominent structures."
+    },
+    {
+      "id": "q6",
+      "level": 2,
+      "question": "In what ways has the New York City skyline changed slowly? In what ways has it changed quickly?",
+      "section": "intro",
+      "pages": "multiple",
+      "evidence": "Gradually, the city expanded northward. Within an hour after the attack, the South Tower began to fall.",
+      "choices": [
+        "Slowly: new skyscrapers rose over decades. Quickly: the Twin Towers were destroyed on 9/11.",
+        "Slowly: buildings were painted. Quickly: they were torn down overnight.",
+        "The skyline only changed slowly, never quickly.",
+        "The skyline only changed quickly, never slowly."
+      ],
+      "correctChoice": 0,
+      "explanation": "The skyline changed slowly as new buildings went up one after another over many decades. It changed quickly when the Twin Towers were destroyed within an hour on September 11, 2001."
+    },
+    {
+      "id": "q7",
+      "level": 3,
+      "question": "What would you change about New York City's skyline? Why?",
+      "section": "newtower",
+      "pages": "multiple",
+      "evidence": "",
+      "choices": [],
+      "correctChoice": -1,
+      "explanation": "This is an opinion question. Support your answer with details from the book!",
+      "opinionPrompts": [
+        "What would you add, remove, or change?",
+        "Why would you make this change?",
+        "What evidence from the book supports your idea?"
+      ]
+    }
+  ],
+
+  "summarizeActivities": [
+    {
+      "section": "growing",
+      "sectionTitle": "Growing the Big Apple",
+      "mainIdea": "New York City grew rapidly but had limited space, so it had to build upward using new steel-frame construction.",
+      "keyDetails": [
+        "Freed slaves and European immigrants caused rapid population growth",
+        "Manhattan Island was only 23 square miles — no room to expand outward",
+        "Steel frame construction replaced wall-bearing construction",
+        "Steel skeleton supported the building's weight, allowing much taller buildings"
+      ],
+      "distractors": [
+        "The Civil War ended in 1865",
+        "Paris has the Eiffel Tower"
+      ],
+      "transitionWords": ["During", "Gradually", "However", "As a result", "By the turn of"]
+    },
+    {
+      "section": "empire",
+      "sectionTitle": "Building an Empire",
+      "mainIdea": "In the late 1920s and early 1930s, two iconic skyscrapers were built that defined New York City's skyline.",
+      "keyDetails": [
+        "The Chrysler Building became the world's tallest in 1930 with a secret spire",
+        "The Empire State Building was completed in just 410 days",
+        "The Empire State Building had 103 floors and stood over 1,400 feet tall",
+        "It was named one of the Seven Wonders of the Modern World"
+      ],
+      "distractors": [
+        "The Chrysler Building had 110 stories",
+        "The Empire State Building was built in the 1970s"
+      ],
+      "transitionWords": ["By the late 1920s", "In 1928", "Amazingly", "For nearly forty years"]
+    },
+    {
+      "section": "twins",
+      "sectionTitle": "Twin Giants Rise, Then Fall",
+      "mainIdea": "The World Trade Center's Twin Towers introduced new structural innovations but were destroyed on September 11, 2001.",
+      "keyDetails": [
+        "Tube-frame construction created more usable floor space",
+        "Sky lobbies with express and local elevators were efficient",
+        "The Twin Towers were the tallest in New York for thirty years",
+        "On 9/11, both towers collapsed within an hour"
+      ],
+      "distractors": [
+        "The towers were built in the 1920s",
+        "The towers had wooden frames"
+      ],
+      "transitionWords": ["In the 1960s", "One innovation", "Another innovation", "Construction began", "Then disaster struck"]
+    },
+    {
+      "section": "newtower",
+      "sectionTitle": "A New Tower Rises from the Ashes",
+      "mainIdea": "After the 9/11 tragedy, New Yorkers rebuilt the World Trade Center site with a memorial and a new 1,776-foot tower.",
+      "keyDetails": [
+        "Reflecting pools and waterfalls mark where the original towers stood",
+        "One World Trade Center rises 1,776 feet, symbolizing the year of U.S. independence",
+        "The tower has a twisted octagon shape with a glass surface",
+        "The new complex honors the past while looking to the future"
+      ],
+      "distractors": [
+        "The new tower is shorter than the original Twin Towers",
+        "No memorial was built at the site"
+      ],
+      "transitionWords": ["The tragedy devastated", "Finally", "Nearby", "By the year 2020"]
+    }
+  ],
+
+  "notes": {
+    "intro": [
+      {
+        "type": "vocab",
+        "title": "Iconic",
+        "content": "Means very famous and everyone recognizes it as a symbol. Like the Eiffel Tower is iconic for Paris!"
+      },
+      {
+        "type": "grammar",
+        "title": "Rhetorical Question",
+        "content": "\"What would Paris be without...?\" - This is a rhetorical question. It doesn't need an answer! It's used to show something is very important."
+      },
+      {
+        "type": "vocab",
+        "title": "Unique",
+        "content": "Means one-of-a-kind, special, different from everything else. Your fingerprints are unique to you!"
+      }
+    ],
+    "growing": [
+      {
+        "type": "vocab",
+        "title": "Diverse",
+        "content": "Means having many different types. A diverse population means people from many different countries and backgrounds."
+      },
+      {
+        "type": "vocab",
+        "title": "Immigrated",
+        "content": "Means came to live in a new country permanently. Remember: IMMIGRATE = IN to a country."
+      },
+      {
+        "type": "grammar",
+        "title": "Simile",
+        "content": "\"much like curtains from a rod\" - This is a simile! It compares walls hanging from steel beams to curtains hanging from a rod. Uses \"like\" or \"as\"."
+      },
+      {
+        "type": "vocab",
+        "title": "Skeleton",
+        "content": "Here means the framework that supports the building, like bones support your body!"
+      }
+    ],
+    "empire": [
+      {
+        "type": "vocab",
+        "title": "Reign",
+        "content": "Means the period when someone or something is the champion or in power. Like a king's reign!"
+      },
+      {
+        "type": "vocab",
+        "title": "Broke Ground",
+        "content": "A phrase meaning to start construction. Workers break the ground to begin building!"
+      },
+      {
+        "type": "vocab",
+        "title": "Panoramic",
+        "content": "Means a complete, wide view in all directions. From the top, you can see everything around you!"
+      }
+    ],
+    "twins": [
+      {
+        "type": "vocab",
+        "title": "Perimeter",
+        "content": "Means the outer edge or boundary. The perimeter of the building = the outside edge of the building."
+      },
+      {
+        "type": "vocab",
+        "title": "Dwarfed",
+        "content": "Means made something look very small by comparison. The tall towers dwarfed the small buildings!"
+      },
+      {
+        "type": "vocab",
+        "title": "Prominent",
+        "content": "Means easily seen, standing out, or very important. The most prominent building is the one everyone notices!"
+      },
+      {
+        "type": "grammar",
+        "title": "The + comparative, the + comparative",
+        "content": "\"The taller a building is, the more elevators it needs\" - This pattern shows that as one thing increases, another increases too!"
+      },
+      {
+        "type": "vocab",
+        "title": "Stunned",
+        "content": "Means shocked, very surprised, often unable to react. Like when you see something unbelievable!"
+      }
+    ],
+    "newtower": [
+      {
+        "type": "vocab",
+        "title": "Landmark",
+        "content": "An important or famous building or place that everyone knows. The Statue of Liberty is a landmark!"
+      },
+      {
+        "type": "vocab",
+        "title": "Symbolizes",
+        "content": "Means represents or stands for something else. The height of 1,776 feet symbolizes the year 1776!"
+      },
+      {
+        "type": "vocab",
+        "title": "Adapt",
+        "content": "Means to change or adjust to new conditions. New York adapts and grows, no matter what happens!"
+      }
+    ]
+  }
+}

@@ -1,0 +1,497 @@
+{
+  "meta": {
+    "id": "ancient-greek-gods",
+    "title": "Ancient Greek and Roman Gods",
+    "level": "W",
+    "author": "Cheryl Reifsnyder",
+    "focusQuestion": "What did the ancient Greeks believe about their gods?"
+  },
+
+  "activities": ["read", "evidence", "authorPurpose", "kwls", "pronoun", "vocabulary", "typing"],
+
+  "sections": [
+    {
+      "id": "intro",
+      "title": "Introduction",
+      "paragraphs": [
+        "The ancient Greeks told stories about great adventures, wars, and romance. They built temples to their gods and crafted great works of art.",
+        "The ancient Greeks believed that their gods were much like humans, except larger, stronger, more beautiful, and most important—<s>immortal</s>! They were called Olympians because they lived on Mount Olympus. A gate of clouds circled its peak, allowing only the gods to pass.",
+        "Like mere mortals, the Olympians enjoyed games, music, art, and fancy jewelry; they fell in love, married, and had children. They even argued and fought with one another. Sometimes the gods <v>disguised</v> themselves as people or other animals when visiting Earth because in their true forms they glowed with such a bright golden light that humans couldn't stand the sight. The gods helped heroes, honored people who honored them, and punished those who didn't."
+      ]
+    },
+    {
+      "id": "zeus",
+      "title": "Zeus, God of Sky and Weather",
+      "paragraphs": [
+        "Zeus (ZOOS) was king of the Olympians, god of sky and weather, and the wisest and mightiest of the gods. All the other gods had to obey him.",
+        "Zeus had not always ruled the heavens. He led his brothers, Poseidon (poh-SY-dun) and Hades (HAY-deez), to overthrow their father, Kronos, and the other Titans. After the Titans' defeat, Zeus and his brothers divided up the world's rule. Zeus won the contest to become god of the sky. Thunder and lightning became his weapons.",
+        "The Greeks believed that Zeus protected new the kings and rulers of Earth. He watched over everyone to uphold law and protect those who were wronged."
+      ]
+    },
+    {
+      "id": "poseidon",
+      "title": "Poseidon, God of the Oceans",
+      "paragraphs": [
+        "Poseidon was the ruler of Earth's oceans. His kingdom suited him because his mood changed as quickly as the sea. When he was angry, Poseidon summoned storms and earthquakes with his magic trident; with the same trident, he could calm the waves.",
+        "Poseidon roamed his kingdom in a golden chariot pulled by horses in the shape of waves. One story says Poseidon created the first horse while trying to impress the goddess of the harvest, Demeter. She asked him to make her a new animal, one more beautiful than any other. When he made a horse, she was delighted. Poseidon was delighted, too—so much so that he forgot Demeter in his hurry to make more horses!"
+      ]
+    },
+    {
+      "id": "hades",
+      "title": "Hades, God of the Underworld",
+      "paragraphs": [
+        "Hades won the realm known as the underworld. There he ruled as the god of death. He made sure the dead were properly buried. The earth's hidden wealth belonged to him as well: gold, silver, and other treasures buried underground.",
+        "Most Greek gods lived in palaces, but Hades seldom left the dark underworld. He asked Zeus to let him marry the lovely Persephone. When Zeus agreed, Hades carried her to his palace.",
+        "Persephone's mother threatened Zeus until he ordered Hades to return the girl to daylight. Hades obeyed—but only after offering Persephone food from his underworld kingdom. She ate several pomegranate seeds, which required her to return to Hades' realm for a few months each year."
+      ]
+    },
+    {
+      "id": "hermes",
+      "title": "Hermes, God of Merchants",
+      "paragraphs": [
+        "Hermes (HUR-meez), god of merchants, was a son of Zeus and the only god besides Hades allowed into the underworld. When someone died, Hermes guided that person to Hades' realm.",
+        "Any similarity to Hades ended there. Hades seldom spoke or smiled, but Hermes loved to talk and play tricks on people. While still a baby, he tiptoed from his mother's side to steal his brother's cows. He covered the cows' feet with bark to hide their tracks and tied brooms to their tails to sweep the ground behind them.",
+        "Hermes' quick wit and clever tongue so pleased his father that he made Hermes his messenger. Zeus gave Hermes winged sandals and a winged golden cap to speed him on his way."
+      ]
+    },
+    {
+      "id": "hera",
+      "title": "Hera, Queen of the Gods",
+      "paragraphs": [
+        "Hera (HAIR-uh), the goddess of marriage and childbirth, was Zeus' wife and queen of the gods. She was one of the few allowed to argue with Zeus! Hera wore a royal crown, carried a scepter tipped with a lotus blossom, and drove a chariot pulled by peacocks.",
+        "Greek women asked her blessing at weddings. Hera was also the goddess of childbirth, thought to protect a mother when giving birth."
+      ]
+    },
+    {
+      "id": "artemis",
+      "title": "Artemis, Goddess of Hunting",
+      "paragraphs": [
+        "Artemis (AR-teh-mis) was the goddess of hunting, the wilderness, and wild animals. While still a child, she begged her father, Zeus, to let her stay unmarried forever. She would spend her days hunting in the mountains and forests, with the nymphs to tend her hounds.",
+        "Artemis was also a goddess of childbirth because she helped her mother give birth to her twin brother. Artemis' role as a childbirth goddess differed from Hera's: Hera protected the mother, and Artemis guarded the newborn baby."
+      ]
+    },
+    {
+      "id": "hephaestus",
+      "title": "Hephaestus, God of Fire and Blacksmiths",
+      "paragraphs": [
+        "Hephaestus (heh-FES-tus) was the god of fire, volcanoes, and blacksmiths. He was born with crippled legs, and when his mother, Hera, saw him, she was so upset that she threw him from Olympus.",
+        "Hephaestus fell to the ocean far below, where sea goddesses found him and gave him shelter. He lived with them for nine years, working as a blacksmith until he became the Olympians' most skilled craftsman. Both gods and heroes delighted in his finely crafted weapons, armor, and jewelry.",
+        "One day, Hephaestus made a marvelous throne of gold and sent it to Olympus. When Hera sat on the throne, hidden springs wedged her in place! Hephaestus had made a trap to punish her for throwing him away."
+      ]
+    },
+    {
+      "id": "aphrodite",
+      "title": "Aphrodite, Goddess of Love and Beauty",
+      "paragraphs": [
+        "Golden-haired Aphrodite (af-roh-DY-tee) was the goddess of love and beauty. She had the power to give beauty and charm to those who pleased her and make anyone fall in love. The mischievous child-god Eros—called Cupid by the Romans—was her son.",
+        "When Hera was caught by Hephaestus' trap, Zeus offered Aphrodite's hand in marriage to whoever freed his wife. Unable to resist Aphrodite's loveliness, Hephaestus came to Mount Olympus to free his mother and marry Aphrodite.",
+        "When they married, Hephaestus made Aphrodite a metal belt woven with precious gems and magic. Its power made Aphrodite completely irresistible to both gods and men."
+      ]
+    },
+    {
+      "id": "ares",
+      "title": "Ares, God of War",
+      "paragraphs": [
+        "Ares (AIR-eez), the god of war, was a son of Zeus and Hera. He was a fierce, strong warrior who wielded a gigantic spear. Ares loved the destruction and smells of war. Sometimes other gods and goddesses chose one side to support in battle, but not Ares. He didn't care who was right or wrong; sometimes he even switched sides mid-battle! Ares loved fighting for its own sake.",
+        "Ares did not get along well with many of the other Olympians, most of whom hated his attitude and violence. He was often found with his sister Eris, the goddess of discord, who had the power to stir up war. He was also in love with Aphrodite, who loved the handsome god of war more than she loved her husband, Hephaestus."
+      ]
+    },
+    {
+      "id": "athena",
+      "title": "Athena, Goddess of Wisdom",
+      "paragraphs": [
+        "Of all Zeus' children, the goddess of wisdom had the strangest birth. Athena sprang from Zeus' head, fully grown and dressed in golden armor! Athena became Zeus' favorite child, the only one allowed to use all his weapons—even his thunderbolts and lightning.",
+        "The Greeks believed that Athena was responsible for many types of wisdom. They gave her credit for inventing almost every type of art and craft done by women, such as spinning, weaving, pottery, and cooking. For farmers, she invented the plow and the horse's bridle. She was also considered a goddess of war and was thought to give leaders good advice."
+      ]
+    },
+    {
+      "id": "conclusion",
+      "title": "Conclusion",
+      "paragraphs": [
+        "The Greek gods held a central role in ancient Greek society, inspiring countless sculptures, temples, and other works of art—but their influence didn't end in ancient Greece. Not far away in Italy, the Romans modeled much of their society on the Greeks'.",
+        "Even modern people look to ancient Greece for ideas from their temples and statues. The first Olympic Games, in 776 bc, were running contests held to honor the gods. They gave rise to today's Olympic Games. In fact, ancient Greece is sometimes called the birthplace of Western society. The ideas illustrated in Greek mythology helped shape the way people think and interact today."
+      ]
+    }
+  ],
+
+  "vocabulary": [
+    {
+      "word": "chariot",
+      "pos": "n.",
+      "definition": "a horse-drawn carriage with two wheels that was used in ancient times, usually for racing and fighting battles",
+      "section": "poseidon",
+      "sentence": "Poseidon roamed his kingdom in a golden chariot pulled by horses in the shape of waves.",
+      "quiz": {
+        "prompt": "\"Chariot\" means:",
+        "options": ["a type of weapon", "a horse-drawn carriage used in ancient times", "a temple for worship", "a golden crown"],
+        "answer": 1
+      }
+    },
+    {
+      "word": "disguised",
+      "pos": "v.",
+      "definition": "changed to appear to be something different so as not to be recognized",
+      "section": "intro",
+      "sentence": "Sometimes the gods disguised themselves as people or other animals when visiting Earth.",
+      "quiz": {
+        "prompt": "\"Disguised\" means:",
+        "options": ["destroyed completely", "changed appearance to not be recognized", "made very large", "turned into gold"],
+        "answer": 1
+      }
+    },
+    {
+      "word": "immortal",
+      "pos": "adj.",
+      "definition": "not subject to death; living forever",
+      "section": "intro",
+      "sentence": "The ancient Greeks believed that their gods were much like humans, except larger, stronger, more beautiful, and most important—immortal!",
+      "quiz": {
+        "prompt": "\"Immortal\" means:",
+        "options": ["very powerful", "living forever; not subject to death", "extremely beautiful", "invisible to humans"],
+        "answer": 1
+      }
+    },
+    {
+      "word": "mischievous",
+      "pos": "adj.",
+      "definition": "liking to cause trouble in a playful way",
+      "section": "aphrodite",
+      "sentence": "The mischievous child-god Eros—called Cupid by the Romans—was her son.",
+      "quiz": {
+        "prompt": "\"Mischievous\" means:",
+        "options": ["very serious", "liking to cause trouble in a playful way", "extremely powerful", "beautiful and charming"],
+        "answer": 1
+      }
+    },
+    {
+      "word": "mythology",
+      "pos": "n.",
+      "definition": "the myths, or ancient stories about heroes or supernatural beings, of a culture or group",
+      "section": "conclusion",
+      "sentence": "The ideas illustrated in Greek mythology helped shape the way people think and interact today.",
+      "quiz": {
+        "prompt": "\"Mythology\" refers to:",
+        "options": ["ancient temples", "ancient stories about heroes or supernatural beings", "royal crowns", "battle weapons"],
+        "answer": 1
+      }
+    },
+    {
+      "word": "nymphs",
+      "pos": "n.",
+      "definition": "in stories, spirits in the shape of young women who live in mountains, forests, meadows, or water",
+      "section": "artemis",
+      "sentence": "She would spend her days hunting in the mountains and forests, with the nymphs to tend her hounds.",
+      "quiz": {
+        "prompt": "\"Nymphs\" are:",
+        "options": ["powerful gods", "spirits in the shape of young women who live in nature", "golden weapons", "ancient temples"],
+        "answer": 1
+      }
+    },
+    {
+      "word": "realm",
+      "pos": "n.",
+      "definition": "an area over which a person, such as a monarch, rules or has power",
+      "section": "hades",
+      "sentence": "Hades won the realm known as the underworld.",
+      "quiz": {
+        "prompt": "A \"realm\" is:",
+        "options": ["a type of weapon", "an area over which a person rules or has power", "a golden chariot", "a royal crown"],
+        "answer": 1
+      }
+    },
+    {
+      "word": "scepter",
+      "pos": "n.",
+      "definition": "a decorated rod held by a ruler as a symbol of power",
+      "section": "hera",
+      "sentence": "Hera wore a royal crown, carried a scepter tipped with a lotus blossom, and drove a chariot pulled by peacocks.",
+      "quiz": {
+        "prompt": "A \"scepter\" is:",
+        "options": ["a decorated rod held by a ruler as a symbol of power", "a type of horse-drawn carriage", "a magical belt", "a golden throne"],
+        "answer": 0
+      }
+    },
+    {
+      "word": "temples",
+      "pos": "n.",
+      "definition": "buildings that are places of worship",
+      "section": "intro",
+      "sentence": "They built temples to their gods and crafted great works of art.",
+      "quiz": {
+        "prompt": "\"Temples\" are:",
+        "options": ["weapons used in battles", "buildings that are places of worship", "royal chariots", "mountain peaks"],
+        "answer": 1
+      }
+    },
+    {
+      "word": "Titans",
+      "pos": "n.",
+      "definition": "in Greek myths, large and powerful beings who ruled before the gods",
+      "section": "zeus",
+      "sentence": "He led his brothers, Poseidon and Hades, to overthrow their father, Kronos, and the other Titans.",
+      "quiz": {
+        "prompt": "\"Titans\" were:",
+        "options": ["the first Olympic athletes", "large and powerful beings who ruled before the gods", "golden weapons forged by Hephaestus", "sea goddesses who lived in the ocean"],
+        "answer": 1
+      }
+    },
+    {
+      "word": "trident",
+      "pos": "n.",
+      "definition": "a weapon that looks like a spear with three points",
+      "section": "poseidon",
+      "sentence": "When he was angry, Poseidon summoned storms and earthquakes with his magic trident.",
+      "quiz": {
+        "prompt": "A \"trident\" is:",
+        "options": ["a golden chariot", "a weapon that looks like a spear with three points", "a royal crown", "a magical belt"],
+        "answer": 1
+      }
+    },
+    {
+      "word": "underworld",
+      "pos": "n.",
+      "definition": "the place where some of the dead go in Greek myths, ruled by the god Hades",
+      "section": "hades",
+      "sentence": "Hades won the realm known as the underworld.",
+      "quiz": {
+        "prompt": "The \"underworld\" is:",
+        "options": ["the sky where Zeus lives", "the place where some of the dead go in Greek myths", "a golden temple on Mount Olympus", "the ocean ruled by Poseidon"],
+        "answer": 1
+      }
+    }
+  ],
+
+  "questions": [
+    {
+      "id": "q1",
+      "level": 1,
+      "question": "What was the most important quality that the gods possessed that humans did not?",
+      "section": "intro",
+      "pages": "4",
+      "evidence": "The ancient Greeks believed that their gods were much like humans, except larger, stronger, more beautiful, and most important—immortal!",
+      "choices": [
+        "The gods were immortal — they lived forever.",
+        "The gods could fly.",
+        "The gods could become invisible.",
+        "The gods could control time."
+      ],
+      "correctChoice": 0,
+      "explanation": "The text says the gods were like humans except for being immortal — living forever. This was the 'most important' difference."
+    },
+    {
+      "id": "q2",
+      "level": 1,
+      "question": "How would you describe Poseidon?",
+      "section": "poseidon",
+      "pages": "6",
+      "evidence": "His kingdom suited him because his mood changed as quickly as the sea. When he was angry, Poseidon summoned storms and earthquakes with his magic trident.",
+      "choices": [
+        "His mood changed quickly like the sea — he could be calm or summon storms.",
+        "He was gentle and never got angry.",
+        "He preferred to stay in his palace.",
+        "He was the wisest of all the gods."
+      ],
+      "correctChoice": 0,
+      "explanation": "Poseidon's mood changed as quickly as the sea. He could calm waves or summon storms and earthquakes with his trident."
+    },
+    {
+      "id": "q3",
+      "level": 2,
+      "question": "How would you compare and contrast Hermes and Hades?",
+      "section": "hermes",
+      "pages": "7-8",
+      "evidence": "Any similarity to Hades ended there. Hades seldom spoke or smiled, but Hermes loved to talk and play tricks on people.",
+      "choices": [
+        "Both were allowed in the underworld, but Hades was quiet and serious while Hermes was talkative and playful.",
+        "Both loved to play tricks on people.",
+        "Both seldom spoke or smiled.",
+        "Both ruled the underworld together."
+      ],
+      "correctChoice": 0,
+      "explanation": "Both Hermes and Hades were allowed into the underworld, but they were very different in personality: Hades was quiet and serious, while Hermes was talkative and mischievous."
+    },
+    {
+      "id": "q4",
+      "level": 2,
+      "question": "What is the sequence of events that led up to Hephaestus winning Aphrodite's hand in marriage?",
+      "section": "hephaestus",
+      "pages": "11-12",
+      "evidence": "When Hera was caught by Hephaestus' trap, Zeus offered Aphrodite's hand in marriage to whoever freed his wife. Unable to resist Aphrodite's loveliness, Hephaestus came to Mount Olympus to free his mother and marry Aphrodite.",
+      "choices": [
+        "Hephaestus trapped Hera → Zeus offered Aphrodite's hand to whoever freed her → Hephaestus went to Olympus and freed Hera → they married.",
+        "Hephaestus asked Zeus for permission → Zeus agreed → Hephaestus married Aphrodite.",
+        "Aphrodite fell in love with Hephaestus → she asked Zeus → they married.",
+        "Hera threw Hephaestus from Olympus → he made a magic belt → Aphrodite wore it → they married."
+      ],
+      "correctChoice": 0,
+      "explanation": "The sequence: Hephaestus made a golden trap throne for Hera → Hera got stuck → Zeus offered Aphrodite's hand to whoever freed Hera → Hephaestus came to Olympus → freed Hera → married Aphrodite."
+    },
+    {
+      "id": "q5",
+      "level": 3,
+      "question": "How would you organize all of the characteristics the gods possessed?",
+      "section": "intro",
+      "pages": "multiple",
+      "evidence": "",
+      "choices": [],
+      "correctChoice": -1,
+      "explanation": "Think about categories like: physical traits (larger, stronger, more beautiful), powers (immortal, control nature), and human-like behaviors (arguing, falling in love, playing games).",
+      "opinionPrompts": [
+        "What categories would you use to organize the gods' characteristics?",
+        "Give examples from the book for each category."
+      ]
+    },
+    {
+      "id": "q6",
+      "level": 3,
+      "question": "What would have happened if Zeus and his brothers didn't overthrow their father, Kronos?",
+      "section": "zeus",
+      "pages": "5",
+      "evidence": "He led his brothers, Poseidon and Hades, to overthrow their father, Kronos, and the other Titans. After the Titans' defeat, Zeus and his brothers divided up the world's rule.",
+      "choices": [],
+      "correctChoice": -1,
+      "explanation": "This is a hypothetical question. Think about what the text tells us happened AFTER they overthrew Kronos, and imagine the opposite.",
+      "opinionPrompts": [
+        "What would the world look like if the Titans still ruled?",
+        "Would the gods as we know them exist? Use evidence from the book."
+      ]
+    },
+    {
+      "id": "q7",
+      "level": 3,
+      "question": "What conclusions can you draw about the influence the gods had on Greek and Roman societies?",
+      "section": "conclusion",
+      "pages": "multiple",
+      "evidence": "The Greek gods held a central role in ancient Greek society, inspiring countless sculptures, temples, and other works of art. The ideas illustrated in Greek mythology helped shape the way people think and interact today.",
+      "choices": [],
+      "correctChoice": -1,
+      "explanation": "The gods influenced art, architecture, beliefs, daily life, and even modern society. Use evidence from the conclusion and other sections.",
+      "opinionPrompts": [
+        "What evidence shows the gods were central to Greek society?",
+        "How does their influence continue today?"
+      ]
+    }
+  ],
+
+  "authorPurpose": {
+    "purposes": ["Inform", "Entertain", "Persuade"],
+    "prompt": "What was the author's purpose for writing this book? Check all that apply and find evidence from the text.",
+    "evidencePrompts": {
+      "Inform": "Write details from the text that show the author is giving information:",
+      "Entertain": "Write details from the text that show the author is trying to entertain:",
+      "Persuade": "Write details from the text that show the author is trying to persuade:"
+    },
+    "answerKey": {
+      "Inform": "The book gives factual information about each god — their domains, symbols, Roman names, and stories. Example: 'Zeus was king of the Olympians, god of sky and weather.'",
+      "Entertain": "The book tells exciting stories and myths about the gods. Example: Athena springing from Zeus' head fully grown and dressed in golden armor, or Hermes stealing cows as a baby.",
+      "Persuade": "The author does NOT seem to be trying to persuade readers of anything — this is primarily an informational and entertaining text."
+    }
+  },
+
+  "kwls": {
+    "prompts": {
+      "K": "What do you already know about ancient Greek and Roman gods?",
+      "W": "What do you want to learn about ancient Greek and Roman gods?",
+      "L": "What did you learn from reading this book?",
+      "S": "What do you still want to know about ancient Greek and Roman gods?"
+    },
+    "sampleAnswers": {
+      "L": [
+        "The gods were immortal — they lived forever.",
+        "Zeus was the king of all gods and controlled the sky.",
+        "Each god had a specific domain (area of power).",
+        "The Romans adopted the Greek gods with different names.",
+        "Greek mythology still influences modern society today."
+      ]
+    }
+  },
+
+  "pronounAgreement": [
+    {
+      "original": "Zeus led his brothers, Poseidon and Hades, to overthrow their father and the other Titans.",
+      "underline": "his brothers, Poseidon and Hades",
+      "answer": "them",
+      "hint": "Replace 'his brothers, Poseidon and Hades' with a pronoun."
+    },
+    {
+      "original": "Zeus upheld law and protected those who were wronged.",
+      "underline": "those who were wronged",
+      "answer": "them",
+      "hint": "Replace 'those who were wronged' with a pronoun."
+    },
+    {
+      "original": "When Poseidon made a horse, Demeter was delighted.",
+      "underline": "Demeter",
+      "answer": "she",
+      "hint": "Replace 'Demeter' with a pronoun."
+    },
+    {
+      "original": "The earth's hidden wealth belonged to Hades as well.",
+      "underline": "The earth's hidden wealth",
+      "answer": "It",
+      "hint": "Replace 'The earth's hidden wealth' with a pronoun."
+    },
+    {
+      "original": "Artemis would spend her days hunting in the mountains and forests.",
+      "underline": "Artemis",
+      "answer": "She",
+      "hint": "Replace 'Artemis' with a pronoun."
+    },
+    {
+      "original": "When Hera sat on Hera's throne, hidden springs wedged her in place!",
+      "underline": "Hera's",
+      "answer": "her",
+      "hint": "Replace 'Hera's' with a possessive pronoun."
+    },
+    {
+      "original": "The Greeks believed that Athena was responsible for many types of wisdom.",
+      "underline": "The Greeks",
+      "answer": "They",
+      "hint": "Replace 'The Greeks' with a pronoun."
+    }
+  ],
+
+  "sequenceEvents": [],
+
+  "summarizeActivities": [],
+
+  "notes": {
+    "intro": [
+      {"type": "vocab", "title": "Immortal", "content": "Living forever, never dying. The gods were immortal but humans were not!"},
+      {"type": "vocab", "title": "Disguised", "content": "Changed appearance to hide who you really are. The gods disguised themselves as animals or people!"},
+      {"type": "grammar", "title": "Author's Purpose", "content": "Why did the author write this? To INFORM (give facts), ENTERTAIN (tell fun stories), or PERSUADE (convince you)? This book does the first two!"}
+    ],
+    "zeus": [
+      {"type": "vocab", "title": "Titans", "content": "In Greek myths, the Titans were large, powerful beings who ruled BEFORE the gods. Zeus overthrew them!"},
+      {"type": "grammar", "title": "Pronoun Agreement", "content": "'He led HIS brothers' — 'His' is a pronoun that refers to Zeus. The pronoun must agree with what it replaces!"}
+    ],
+    "poseidon": [
+      {"type": "vocab", "title": "Trident", "content": "A three-pointed spear weapon. Poseidon's trident could create storms OR calm the seas!"},
+      {"type": "vocab", "title": "Chariot", "content": "A two-wheeled horse-drawn carriage used in ancient times for racing and battles."}
+    ],
+    "hades": [
+      {"type": "vocab", "title": "Underworld", "content": "The place where the dead go in Greek myths. Hades ruled this dark realm underground."},
+      {"type": "vocab", "title": "Realm", "content": "An area that a ruler controls. Hades' realm was the underworld."}
+    ],
+    "hermes": [
+      {"type": "grammar", "title": "Compare & Contrast", "content": "Hermes and Hades are both allowed in the underworld, BUT they're very different! Hermes is talkative, Hades is quiet. This is comparing and contrasting!"}
+    ],
+    "hera": [
+      {"type": "vocab", "title": "Scepter", "content": "A decorated rod held by a ruler as a symbol of power. Like a king's special stick!"}
+    ],
+    "artemis": [
+      {"type": "vocab", "title": "Nymphs", "content": "Nature spirits in the shape of young women. They lived in mountains, forests, and water."}
+    ],
+    "hephaestus": [
+      {"type": "grammar", "title": "Pronoun Agreement", "content": "'Hephaestus fell...where sea goddesses found HIM' — 'Him' refers back to Hephaestus. This is called the antecedent!"}
+    ],
+    "aphrodite": [
+      {"type": "vocab", "title": "Mischievous", "content": "Liking to cause trouble in a playful way. Eros (Cupid) was mischievous!"}
+    ],
+    "ares": [],
+    "athena": [],
+    "conclusion": [
+      {"type": "vocab", "title": "Mythology", "content": "Ancient stories about heroes and supernatural beings. Greek mythology still influences us today!"}
+    ]
+  }
+}
