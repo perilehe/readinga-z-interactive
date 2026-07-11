@@ -207,7 +207,7 @@ body {
 /* Read tab: two-panel layout */
 .read-layout {
   display: grid;
-  grid-template-columns: 1fr var(--sidebar-width);
+  grid-template-columns: 2fr 1fr;
   min-height: calc(100vh - var(--header-height) - var(--tab-height));
 }
 

@@ -231,24 +231,26 @@ function renderReadTab(container) {
 
   layout.appendChild(textPanel);
 
-  // Right: notes panel
+  // Right: notes panel - sentence patterns and vocabulary explanations
   const notesPanel = document.createElement('div');
   notesPanel.className = 'notes-panel';
-  notesPanel.innerHTML = `<h3 style="color: var(--primary); margin-bottom: 15px; font-family: var(--font-ui);">📝 Study Notes</h3>`;
+  notesPanel.innerHTML = `<h3 style="color: var(--primary); margin-bottom: 15px; font-family: var(--font-ui);">📚 重点讲解</h3>`;
 
   const notesContainer = document.createElement('div');
   bookData.sections.forEach(s => {
     const notes = bookData.notes?.[s.id];
     if (!notes || notes.length === 0) return;
     const label = document.createElement('div');
-    label.style.cssText = 'font-family: var(--font-ui); font-size: 0.8em; color: #999; margin: 15px 0 8px; text-transform: uppercase; letter-spacing: 1px;';
+    label.style.cssText = 'font-family: var(--font-ui); font-size: 0.85em; color: var(--primary); margin: 20px 0 10px; font-weight: 600; border-bottom: 2px solid var(--primary-light); padding-bottom: 5px;';
     label.textContent = s.title;
     notesContainer.appendChild(label);
     notes.forEach(note => {
       const card = document.createElement('div');
       card.className = `note-card ${note.type}-note`;
+      // No star for vocab notes - just explanations
+      const icon = note.type === 'vocab' ? '📖' : '📐';
       card.innerHTML = `
-        <div class="note-title">${note.type === 'vocab' ? '⭐' : '📐'} ${note.title}</div>
+        <div class="note-title">${icon} ${note.title}</div>
         <div class="note-content">${note.content}</div>
       `;
       notesContainer.appendChild(card);
