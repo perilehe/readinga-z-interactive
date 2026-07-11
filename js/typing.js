@@ -42,7 +42,7 @@ const TypingModule = (() => {
 
     const content = wrapper.querySelector('#typingContent');
     if (mode === 'sentence') {
-      sentences = (bookData.vocabulary || []).map(v => ({ text: v.sentence, word: v.word }));
+      sentences = (bookData.vocabulary || []).map(v => ({ text: stripTags(v.sentence), word: v.word }));
       currentIdx = 0;
       renderSentence(content);
     } else {
@@ -425,6 +425,10 @@ const TypingModule = (() => {
     const d = document.createElement('div');
     d.textContent = t;
     return d.innerHTML;
+  }
+
+  function stripTags(html) {
+    return html.replace(/<[^>]*>/g, '');
   }
 
   return { render };

@@ -13,7 +13,7 @@
       "id": "intro",
       "title": "Introduction",
       "paragraphs": [
-        "Human beings have been around for a long time. For much of that time, they lived in groups of families or tribes. It took a while for them to form civilized societies. A civilized society is one with rules that help people live and work together. One of the earliest civilized societies was found in ancient Mesopotamia. Mesopotamia was located where Turkey, Syria, Iraq, and Kuwait are now. This \"land between two rivers\" was the place where civilization was born."
+        "Human beings have been around for a long time. For much of that time, they lived in groups of families or tribes. It took a while for them to form civilized societies. <s>A civilized society</s> <v>is</v> <o>one with rules that help people live and work together</o>. One of the earliest civilized societies was found in ancient Mesopotamia. <s>Mesopotamia</s> <v>was located</v> <o>where Turkey, Syria, Iraq, and Kuwait are now</o>. <s>This \"land between two rivers\"</s> <v>was</v> <o>the place where civilization was born</o>."
       ]
     },
     {
@@ -22,20 +22,20 @@
       "paragraphs": [
         "Ancient Mesopotamian civilization started between the Tigris and Euphrates Rivers. That land came to be known as the Fertile Crescent. The first people to live in Mesopotamia settled the southern part of that region. Today, this area is Iraq and Kuwait.",
         "In modern times, ancient stone tools, bricks, and pottery were found near the Euphrates River. These items told stories about the lives of the early people. Researchers learned that farming settlements began there as early as 5000 bce. They named these early settlers the Ubaid after the site where the items were discovered.",
-        "The Ubaid were the first people to settle the land known as Sumer. Before the Ubaid formed settlements, they were nomadic hunters and gatherers. They roamed from place to place in search of food and water.",
-        "In time, the Ubaid found ways to live in one place. They drained marshes and grew crops in the rich soil. They built canals to bring water to drier areas. They made pottery from river clay. In addition, they wove baskets from plant stems that grew in shallow water.",
-        "The river did not only meet their personal needs. It also gave the Ubaid goods to trade with others. Trade routes from Asia and Europe went through the rich plains of Sumeria. Traders provided items that the Ubaid could not grow or make themselves."
+        "The Ubaid were the first people to settle the land known as Sumer. <s>Before the Ubaid formed settlements</s>, <s>they</s> <v>were</v> <o>nomadic hunters and gatherers</o>. <s>They</s> <v>roamed</v> <o>from place to place in search of food and water</o>.",
+        "<s>In time</s>, <s>the Ubaid</s> <v>found</v> <o>ways to live in one place</o>. <s>They</s> <v>drained</v> <o>marshes</o> and <v>grew</v> <o>crops</o> in the rich soil. <s>They</s> <v>built</v> <o>canals to bring water to drier areas</o>. <s>They</s> <v>made</v> <o>pottery from river clay</o>.",
+        "<s>The river</s> <v>did not only meet</v> <o>their personal needs</o>. <s>It</s> <v>also gave</v> <o>the Ubaid goods to trade with others</o>. <s>Trade routes from Asia and Europe</s> <v>went</v> <o>through the rich plains of Sumeria</o>. <s>Traders</s> <v>provided</v> <o>items that the Ubaid could not grow or make themselves</o>."
       ]
     },
     {
       "id": "uruk",
       "title": "Uruk, the First City",
       "paragraphs": [
-        "Over the years, there were more settlements in the Fertile Crescent. Some grew to become true cities. A number became city-states. The most important of these was Uruk (modern-day Warka, Iraq). At one point, Uruk had up to eighty thousand people. The city covered more than 2.6 square kilometers (1 sq. mi.) and had large buildings made of mud bricks. A huge ziggurat, or temple, was a center of worship.",
-        "Uruk was where Mesopotamian pictographs first appeared. Pictographs are symbols used in writing. This early written language grew out of Uruk's role as a center of trade and business. Simple images were marked on clay tablets to add up workers' pay and as a record of goods. Over time, pictographs changed into a system of writing known as cuneiform. Cuneiform symbols stood for sounds rather than objects. These sound symbols could be used to write in any language.",
-        "This phonologic system had several advantages over a pictographic system. Since the same set of symbols could be shuffled to form different words, fewer symbols were needed. The system also made it easier to express abstract concepts that would be difficult to show as pictures.",
+        "Over the years, there were more settlements in the Fertile Crescent. Some grew to become true cities. <s>A number</s> <v>became</v> <o>city-states</o>. <s>The most important of these</s> <v>was</v> <o>Uruk (modern-day Warka, Iraq)</o>. <s>Uruk</s> <v>had</v> <o>up to eighty thousand people</o>. <s>A huge ziggurat, or temple,</s> <v>was</v> <o>a center of worship</o>.",
+        "<s>Uruk</s> <v>was</v> <o>where Mesopotamian pictographs first appeared</o>. <s>Pictographs</s> <v>are</v> <o>symbols used in writing</o>. <s>Over time</s>, <s>pictographs</s> <v>changed</v> <o>into a system of writing known as cuneiform</o>.",
+        "<s>This phonologic system</s> <v>had</v> <o>several advantages over a pictographic system</o>. <s>The system</s> <v>also made</v> <o>it easier to express abstract concepts that would be difficult to show as pictures</o>.",
         "Clay tablets marked with cuneiform symbols gave information about Sumerian life during that time. The people of Uruk and other city-states lived in organized societies. Women had many of the same rights as men. At the highest level of society was a priest-king. That person led others, such as a leader of the plow, leader of the law, and so on. City rulers used trade to show how important they were. Having rare and valuable items was a way to show off their power.",
-        "One of the most famous rulers was King Gilgamesh (Bilgames in Sumerian). Gilgamesh is believed to have ruled Uruk around 2700 bce. He became an epic hero of song and legend. Poems were written about his 126-year rule. He was said to be a demigod, the son of a human king and a Sumerian mother-goddess. Gilgamesh is known for building the huge wall that protected Uruk. That wall still stands today.",
+        "One of the most famous rulers was King Gilgamesh (Bilgames in Sumerian). <s>He</s> <v>was said to be</v> <o>a demigod, the son of a human king and a Sumerian mother-goddess</o>. <s>Gilgamesh</s> <v>is known for</v> <o>building the huge wall that protected Uruk</o>. <s>That wall</s> <v>still stands</v> <o>today</o>.",
         "In 2003, German scientists found a tomb in a Euphrates riverbed that they thought belonged to Gilgamesh. It was similar to the tomb described in the epic. The Epic of Gilgamesh is a collection of ancient Mesopotamian poems. It tells of the exciting adventures of an ancient king's battles and victories. It is thought to be the oldest epic in history."
       ]
     },
@@ -44,8 +44,8 @@
       "title": "Warring City-States",
       "paragraphs": [
         "As the Sumerian city-states grew and thrived, they began to fight with each other for control of the region. War became more and more common.",
-        "The earliest detailed record of Sumerian warfare shows a battle between the city-states of Lagash and Umma in 2525 bce. Figures on an upright stone post called a stele (STEE-lee) show soldiers carrying swords, spears, and shields into battle. Trade routes supplied the materials needed to craft the tools of war. Blacksmiths had discovered that two soft metals, copper and tin, could be combined to make a harder substance. This metal, known as bronze, was used in swords and spear tips. Tin, however, was rare. It could only be gotten from central Asian or European traders. Blocking trade routes was a way to keep weapons out of the hands of an opposing army.",
-        "The Sumerians' constant fighting stopped when King Sargon of Akkad (in southern Mesopotamia) took control of the region in about 2340 bce. He united the city-states into the Akkadian Empire. Sargon kept order by placing key trusted allies in positions of power. The Akkadian empire lasted until 2150 bce. At its peak, it stretched from the Mediterranean Sea to Arabia and from Iran to what is now Turkey.",
+        "The earliest detailed record of Sumerian warfare shows a battle between the city-states of Lagash and Umma in 2525 bce. <s>Figures on an upright stone post called a stele</s> <v>show</v> <o>soldiers carrying swords, spears, and shields into battle</o>.",
+        "The Sumerians' constant fighting stopped when King Sargon of Akkad (in southern Mesopotamia) took control of the region in about 2340 bce. <s>He</s> <v>united</v> <o>the city-states into the Akkadian Empire</o>.",
         "The Akkadians did not speak Sumerian. However, they used Sumerian cuneiform script to write in their own language. The earliest Sumerian writings in which the author was known were poems by Sargon's daughter Enheduanna. She served as high priestess in the city of Ur."
       ]
     },
@@ -63,8 +63,8 @@
       "id": "fall",
       "title": "Fall of an Empire",
       "paragraphs": [
-        "The Akkadian Empire ended in about 2150 bce after many revolts and an invasion by the Gutians (GOO-tee-uhnz). The Gutians came from the mountains to the north and held regular raids on the outer parts of the kingdom. This made it unsafe for Akkadians to travel or work in the fields. In time, the Gutian nomads took over Akkad, and the Akkadian Empire collapsed.",
-        "The Gutians let the canals fall apart and brought on a terrible famine. Their 125-year rule of Sumer led to what came to be known as the Dark Age of Mesopotamia. It was not until the seventeenth century bce that Mesopotamia would return as a thriving civilization with an empire called Babylonia."
+        "The Akkadian Empire ended in about 2150 bce after many revolts and an invasion by the Gutians (GOO-tee-uhnz). <s>The Gutians</s> <v>came</v> <o>from the mountains to the north</o> and <v>held</v> <o>regular raids on the outer parts of the kingdom</o>. <s>In time</s>, <s>the Gutian nomads</s> <v>took over</v> <o>Akkad</o>, and <s>the Akkadian Empire</s> <v>collapsed</v>.",
+        "<s>The Gutians</s> <v>let</v> <o>the canals fall apart</o> and <v>brought on</v> <o>a terrible famine</o>. <s>Their 125-year rule of Sumer</s> <v>led to</v> <o>what came to be known as the Dark Age of Mesopotamia</o>."
       ]
     }
   ],
