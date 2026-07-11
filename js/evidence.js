@@ -7,6 +7,7 @@ const EvidenceModule = (() => {
   let selectedAnswer = null;
   let answered = false;
   let currentChoices = [];
+  let answerElements = [];
 
   function render(container) {
     questions = (bookData.questions || []).filter(q => q.level !== 3);
@@ -19,6 +20,7 @@ const EvidenceModule = (() => {
     container.innerHTML = '';
     answered = false;
     selectedAnswer = null;
+    answerElements = [];
 
     const wrapper = document.createElement('div');
     wrapper.className = 'activity-layout active';
@@ -26,13 +28,13 @@ const EvidenceModule = (() => {
     // Header
     const header = document.createElement('div');
     header.className = 'activity-header';
-    header.innerHTML = `<h2>❓ Questions with Evidence</h2><p>Read the passage on the left, then answer questions on the right.</p>`;
+    header.innerHTML = '<h2>❓ Questions with Evidence</h2><p>Read the passage on the left, then answer questions on the right.</p>';
     wrapper.appendChild(header);
 
     if (currentQ >= questions.length) {
       const complete = document.createElement('div');
       complete.className = 'completion-banner show';
-      complete.innerHTML = `<h3>🎉 All Questions Done!</h3><p>Great job answering all the questions!</p>`;
+      complete.innerHTML = '<h3>🎉 All Questions Done!</h3><p>Great job answering all the questions!</p>';
       wrapper.appendChild(complete);
       container.appendChild(wrapper);
       return;
@@ -49,13 +51,13 @@ const EvidenceModule = (() => {
     // Left panel: Passage
     const leftPanel = document.createElement('div');
     leftPanel.style.cssText = 'background:white;padding:20px;border-radius:10px;border:2px solid #e0e0e0;max-height:600px;overflow-y:auto;';
-    leftPanel.innerHTML = `<h3 style="font-family:var(--font-ui);color:var(--primary);margin-bottom:15px;">📖 Passage: ${q.section.charAt(0).toUpperCase() + q.section.slice(1)}</h3>`;
+    leftPanel.innerHTML = '<h3 style="font-family:var(--font-ui);color:var(--primary);margin-bottom:15px;">📖 Passage: ' + q.section.charAt(0).toUpperCase() + q.section.slice(1) + '</h3>';
 
     const section = bookData.sections.find(s => s.id === q.section);
     if (section) {
       const passageText = document.createElement('div');
       passageText.style.cssText = 'font-size:0.95em;line-height:2;font-family:var(--font-body);';
-      section.paragraphs.forEach((para, pIdx) => {
+      section.paragraphs.forEach((para) => {
         const cleanPara = para.replace(/<\/?s>/g, '').replace(/<\/?v>/g, '').replace(/<\/?o>/g, '');
         const p = document.createElement('p');
         p.textContent = cleanPara;
@@ -72,44 +74,43 @@ const EvidenceModule = (() => {
     // Question card
     const qCard = document.createElement('div');
     qCard.className = 'question-card';
-    qCard.innerHTML = `<span class="question-level">Level ${q.level} · pp. ${q.pages}</span><div class="question-text">${q.question}</div>`;
+    qCard.innerHTML = '<span class="question-level">Level ' + q.level + ' · pp. ' + q.pages + '</span><div class="question-text">' + q.question + '</div>';
     rightPanel.appendChild(qCard);
 
     // Answer section
     const answerSection = document.createElement('div');
     answerSection.className = 'answer-section unlocked';
     answerSection.style.cssText = 'background:white;padding:20px;border-radius:10px;border:2px solid #e0e0e0;';
-    answerSection.innerHTML = `<h4 style="font-family:var(--font-ui);color:#555;margin-bottom:15px;">📝 Choose your answer:</h4>`;
 
-    const choicesContainer = document.createElement('div');
-    choicesContainer.id = 'choicesContainer';
+    const title = document.createElement('h4');
+    title.style.cssText = 'font-family:var(--font-ui);color:#555;margin-bottom:15px;';
+    title.textContent = '📝 Choose your answer:';
+    answerSection.appendChild(title);
 
+    // Create answer choices with direct onclick handlers
     currentChoices.forEach((choice, idx) => {
       const div = document.createElement('div');
       div.className = 'answer-choice';
-      div.dataset.index = idx;
       div.textContent = choice.text;
-      choicesContainer.appendChild(div);
-    });
-
-    answerSection.appendChild(choicesContainer);
-
-    // Use event delegation for answer choices
-    choicesContainer.addEventListener('click', (e) => {
-      const choice = e.target.closest('.answer-choice');
-      if (!choice || answered) return;
-      const idx = parseInt(choice.dataset.index);
-      answerSection.querySelectorAll('.answer-choice').forEach(c => c.classList.remove('selected'));
-      choice.classList.add('selected');
-      selectedAnswer = idx;
-      console.log('Selected answer:', idx, currentChoices[idx].text);
+      div.style.cursor = 'pointer';
+      div.onclick = function() {
+        if (answered) return;
+        // Remove selected from all
+        answerElements.forEach(el => el.classList.remove('selected'));
+        // Select this one
+        div.classList.add('selected');
+        selectedAnswer = idx;
+        console.log('Selected answer:', idx, currentChoices[idx].text);
+      };
+      answerElements.push(div);
+      answerSection.appendChild(div);
     });
 
     const submitBtn = document.createElement('button');
     submitBtn.className = 'btn btn-primary';
     submitBtn.textContent = 'Submit Answer';
     submitBtn.style.marginTop = '15px';
-    submitBtn.addEventListener('click', () => {
+    submitBtn.onclick = function() {
       console.log('Submit clicked, selectedAnswer:', selectedAnswer, 'answered:', answered);
       if (selectedAnswer === null) {
         alert('Please select an answer first!');
@@ -117,8 +118,8 @@ const EvidenceModule = (() => {
       }
       if (answered) return;
       answered = true;
-      submitAnswer(rightPanel, q);
-    });
+      submitAnswer(answerSection, q);
+    };
     answerSection.appendChild(submitBtn);
 
     const explanation = document.createElement('div');
@@ -142,17 +143,17 @@ const EvidenceModule = (() => {
     prevBtn.className = 'btn btn-secondary';
     prevBtn.textContent = '← Previous';
     prevBtn.disabled = currentQ === 0;
-    prevBtn.addEventListener('click', () => { if (currentQ > 0) { currentQ--; renderQuestion(container); } });
+    prevBtn.onclick = function() { if (currentQ > 0) { currentQ--; renderQuestion(container); } };
 
     const counter = document.createElement('span');
     counter.className = 'evidence-counter';
-    counter.textContent = `Question ${currentQ + 1} / ${questions.length}`;
+    counter.textContent = 'Question ' + (currentQ + 1) + ' / ' + questions.length;
 
     const nextBtn = document.createElement('button');
     nextBtn.className = 'btn btn-secondary';
     nextBtn.textContent = 'Next →';
     nextBtn.disabled = currentQ === questions.length - 1;
-    nextBtn.addEventListener('click', () => { if (currentQ < questions.length - 1) { currentQ++; renderQuestion(container); } });
+    nextBtn.onclick = function() { if (currentQ < questions.length - 1) { currentQ++; renderQuestion(container); } };
 
     nav.appendChild(prevBtn);
     nav.appendChild(counter);
@@ -162,28 +163,28 @@ const EvidenceModule = (() => {
     container.appendChild(wrapper);
   }
 
-  function submitAnswer(panel, q) {
-    const answerSection = panel.querySelector('.answer-section');
+  function submitAnswer(answerSection, q) {
     const choices = answerSection.querySelectorAll('.answer-choice');
-    const explanation = panel.querySelector('#evExplanation');
+    const explanation = answerSection.querySelector('#evExplanation');
     const selectedChoice = currentChoices[selectedAnswer];
     const isCorrect = selectedChoice.isCorrect;
 
     choices.forEach((c, idx) => {
       c.style.pointerEvents = 'none';
+      c.style.cursor = 'default';
       if (currentChoices[idx].isCorrect) c.classList.add('correct');
       if (idx === selectedAnswer && !isCorrect) c.classList.add('incorrect');
     });
 
     let fb = '';
     if (isCorrect) {
-      fb = `✓ Correct!<br><em>${q.explanation}</em>`;
-      StarSystem.earn(`ev-${q.id}`);
+      fb = '✓ Correct!<br><em>' + q.explanation + '</em>';
+      StarSystem.earn('ev-' + q.id);
     } else {
-      fb = `✗ Not quite.<br><em>${q.explanation}</em>`;
+      fb = '✗ Not quite.<br><em>' + q.explanation + '</em>';
     }
 
-    explanation.className = `explanation-box ${isCorrect ? 'correct' : 'incorrect'}`;
+    explanation.className = 'explanation-box ' + (isCorrect ? 'correct' : 'incorrect');
     explanation.innerHTML = fb;
     if (typeof updateAllTabStars === 'function') updateAllTabStars();
   }
