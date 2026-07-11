@@ -262,115 +262,20 @@
   ],
 
   "questions": [
-    {
-      "id": "q1",
-      "level": 1,
-      "question": "What was the most important quality that the gods possessed that humans did not?",
-      "section": "intro",
-      "pages": "4",
-      "evidence": "The ancient Greeks believed that their gods were much like humans, except larger, stronger, more beautiful, and most important—immortal!",
-      "choices": [
-        "The gods were immortal — they lived forever.",
-        "The gods could fly.",
-        "The gods could become invisible.",
-        "The gods could control time."
-      ],
-      "correctChoice": 0,
-      "explanation": "The text says the gods were like humans except for being immortal — living forever. This was the 'most important' difference."
-    },
-    {
-      "id": "q2",
-      "level": 1,
-      "question": "How would you describe Poseidon?",
-      "section": "poseidon",
-      "pages": "6",
-      "evidence": "His kingdom suited him because his mood changed as quickly as the sea. When he was angry, Poseidon summoned storms and earthquakes with his magic trident.",
-      "choices": [
-        "His mood changed quickly like the sea — he could be calm or summon storms.",
-        "He was gentle and never got angry.",
-        "He preferred to stay in his palace.",
-        "He was the wisest of all the gods."
-      ],
-      "correctChoice": 0,
-      "explanation": "Poseidon's mood changed as quickly as the sea. He could calm waves or summon storms and earthquakes with his trident."
-    },
-    {
-      "id": "q3",
-      "level": 2,
-      "question": "How would you compare and contrast Hermes and Hades?",
-      "section": "hermes",
-      "pages": "7-8",
-      "evidence": "Any similarity to Hades ended there. Hades seldom spoke or smiled, but Hermes loved to talk and play tricks on people.",
-      "choices": [
-        "Both were allowed in the underworld, but Hades was quiet and serious while Hermes was talkative and playful.",
-        "Both loved to play tricks on people.",
-        "Both seldom spoke or smiled.",
-        "Both ruled the underworld together."
-      ],
-      "correctChoice": 0,
-      "explanation": "Both Hermes and Hades were allowed into the underworld, but they were very different in personality: Hades was quiet and serious, while Hermes was talkative and mischievous."
-    },
-    {
-      "id": "q4",
-      "level": 2,
-      "question": "What is the sequence of events that led up to Hephaestus winning Aphrodite's hand in marriage?",
-      "section": "hephaestus",
-      "pages": "11-12",
-      "evidence": "When Hera was caught by Hephaestus' trap, Zeus offered Aphrodite's hand in marriage to whoever freed his wife. Unable to resist Aphrodite's loveliness, Hephaestus came to Mount Olympus to free his mother and marry Aphrodite.",
-      "choices": [
-        "Hephaestus trapped Hera → Zeus offered Aphrodite's hand to whoever freed her → Hephaestus went to Olympus and freed Hera → they married.",
-        "Hephaestus asked Zeus for permission → Zeus agreed → Hephaestus married Aphrodite.",
-        "Aphrodite fell in love with Hephaestus → she asked Zeus → they married.",
-        "Hera threw Hephaestus from Olympus → he made a magic belt → Aphrodite wore it → they married."
-      ],
-      "correctChoice": 0,
-      "explanation": "The sequence: Hephaestus made a golden trap throne for Hera → Hera got stuck → Zeus offered Aphrodite's hand to whoever freed Hera → Hephaestus came to Olympus → freed Hera → married Aphrodite."
-    },
-    {
-      "id": "q5",
-      "level": 3,
-      "question": "How would you organize all of the characteristics the gods possessed?",
-      "section": "intro",
-      "pages": "multiple",
-      "evidence": "",
-      "choices": [],
-      "correctChoice": -1,
-      "explanation": "Think about categories like: physical traits (larger, stronger, more beautiful), powers (immortal, control nature), and human-like behaviors (arguing, falling in love, playing games).",
-      "opinionPrompts": [
-        "What categories would you use to organize the gods' characteristics?",
-        "Give examples from the book for each category."
-      ]
-    },
-    {
-      "id": "q6",
-      "level": 3,
-      "question": "What would have happened if Zeus and his brothers didn't overthrow their father, Kronos?",
-      "section": "zeus",
-      "pages": "5",
-      "evidence": "He led his brothers, Poseidon and Hades, to overthrow their father, Kronos, and the other Titans. After the Titans' defeat, Zeus and his brothers divided up the world's rule.",
-      "choices": [],
-      "correctChoice": -1,
-      "explanation": "This is a hypothetical question. Think about what the text tells us happened AFTER they overthrew Kronos, and imagine the opposite.",
-      "opinionPrompts": [
-        "What would the world look like if the Titans still ruled?",
-        "Would the gods as we know them exist? Use evidence from the book."
-      ]
-    },
-    {
-      "id": "q7",
-      "level": 3,
-      "question": "What conclusions can you draw about the influence the gods had on Greek and Roman societies?",
-      "section": "conclusion",
-      "pages": "multiple",
-      "evidence": "The Greek gods held a central role in ancient Greek society, inspiring countless sculptures, temples, and other works of art. The ideas illustrated in Greek mythology helped shape the way people think and interact today.",
-      "choices": [],
-      "correctChoice": -1,
-      "explanation": "The gods influenced art, architecture, beliefs, daily life, and even modern society. Use evidence from the conclusion and other sections.",
-      "opinionPrompts": [
-        "What evidence shows the gods were central to Greek society?",
-        "How does their influence continue today?"
-      ]
-    }
+    {"id":"q1","level":2,"question":"What is the most likely reason the author wrote Ancient Greek and Roman Gods?","section":"intro","pages":"4-13","evidence":"The ancient Greeks believed that their gods were much like humans, except larger, stronger, more beautiful, and most important—immortal!","choices":["to inform readers about ancient Greece","to inform and entertain readers with details about Greek and Roman gods","to persuade readers to visit Greece and Rome","to entertain and persuade readers with jokes about ancient gods"],"correctChoice":1,"explanation":"The author both informs (facts about gods) and entertains (exciting myths and stories)."},
+    {"id":"q2","level":1,"question":"Which of the following words means liking to cause trouble in a playful way?","section":"hermes","pages":"7","evidence":"Hermes was known for being clever and mischievous.","choices":["mischievous","nymphs","disguised","immortal"],"correctChoice":0,"explanation":"'Mischievous' means liking to cause trouble in a playful way — like Hermes!"},
+    {"id":"q3","level":2,"question":"What effect did the metal belt that Hephaestus made for Aphrodite have on her?","section":"hephaestus","pages":"11-12","evidence":"Aphrodite wore the golden belt, and anyone who looked at her fell in love with her.","choices":["It made her sick.","It made her mischievous.","It made her happy.","It made her irresistible."],"correctChoice":3,"explanation":"The magic golden belt made Aphrodite irresistible — anyone who looked at her fell in love."},
+    {"id":"q4","level":2,"question":"What happened after Zeus and his brothers overthrew their father and the other Titans?","section":"zeus","pages":"5","evidence":"After the Titans' defeat, Zeus and his brothers divided up the world's rule with a contest.","choices":["They tried to destroy each other.","Zeus lost the contest to determine who would rule.","Poseidon took his father's place.","They divided up the world's rule with a contest."],"correctChoice":3,"explanation":"After overthrowing the Titans, Zeus and his brothers (Poseidon and Hades) divided up the world's rule through a contest."},
+    {"id":"q5","level":2,"question":"What did Hermes have in common with Hades?","section":"hermes","pages":"7-8","evidence":"Any similarity to Hades ended there. Hades seldom spoke or smiled, but Hermes loved to talk and play tricks on people. Both were allowed into the underworld.","choices":["They both loved to talk.","They were both allowed into the underworld.","They both hated to talk.","They both played tricks on people."],"correctChoice":1,"explanation":"Both Hermes and Hades were allowed into the underworld, though they had very different personalities."},
+    {"id":"q6","level":2,"question":"What is the main idea of this book?","section":"intro","pages":"4-13","evidence":"The Greek gods held a central role in ancient Greek society, inspiring countless sculptures, temples, and other works of art.","choices":["The ancient gods were fun to believe in.","Zeus was the mightiest god, and all other gods had to obey him.","The ancient gods were a central part of Greek and Roman society.","The Greeks told stories about the gods."],"correctChoice":2,"explanation":"The main idea is that the ancient gods were central to Greek and Roman society, influencing art, beliefs, and daily life."},
+    {"id":"q7","level":1,"question":"What caused Hera to throw Hephaestus from Olympus when he was born?","section":"hephaestus","pages":"11","evidence":"When Hephaestus was born, he had crippled legs. Hera was ashamed and threw him from Olympus.","choices":["He was on fire.","He bit her.","He had crippled legs.","Springs popped out of him."],"correctChoice":2,"explanation":"Hera threw Hephaestus from Olympus because he was born with crippled legs and she was ashamed."},
+    {"id":"q8","level":1,"question":"What does the word 'temples' mean as it is used in the book?","section":"intro","pages":"4","evidence":"They built temples to their gods and crafted great works of art.","choices":["weapons that look like spears","the flattened area on the sides of your forehead","buildings that are places of worship","a decorated rod held by a ruler"],"correctChoice":2,"explanation":"In this context, 'temples' means buildings that are places of worship for the gods."},
+    {"id":"q9","level":2,"question":"Which of the following details has an entertaining element?","section":"athena","pages":"9","evidence":"Athena sprang from Zeus' head, fully grown and dressed in golden armor!","choices":["Ares, the god of war, was a son of Zeus and Hera.","Athena sprang from Zeus' head, fully grown and dressed in golden armor!","Artemis was the goddess of hunting, the wilderness, and wild animals.","Poseidon was the ruler of Earth's oceans."],"correctChoice":1,"explanation":"The image of Athena springing fully grown from Zeus' head in golden armor is an entertaining, exciting detail."},
+    {"id":"q10","level":2,"question":"Why did Artemis beg Zeus to let her stay unmarried forever?","section":"artemis","pages":"9-10","evidence":"Artemis begged Zeus to let her stay unmarried forever so she could roam the wilderness with her animals.","choices":["She preferred to be alone in the wilderness.","The gods were mean to her.","She wanted to make Zeus mad.","She hated animals and the outdoors."],"correctChoice":0,"explanation":"Artemis loved the wilderness and wanted to stay unmarried so she could roam freely with her animals."},
+    {"id":"q11","level":3,"question":"What effect did the gods have on the Greeks and Romans? Why?","section":"conclusion","pages":"13","evidence":"The Greek gods held a central role in ancient Greek society, inspiring countless sculptures, temples, and other works of art. The ideas illustrated in Greek mythology helped shape the way people think and interact today.","choices":[],"correctChoice":-1,"explanation":"The gods were central to Greek and Roman society — they inspired art, temples, and shaped how people think and act today.",
+      "opinionPrompts":["What evidence shows the gods were important?","How do we still see their influence today?"]},
+    {"id":"q12","level":3,"question":"Do you agree that being immortal was the most important characteristic of the gods? Why or why not? Use details from the book to support your answer.","section":"intro","pages":"4","evidence":"The ancient Greeks believed that their gods were much like humans, except larger, stronger, more beautiful, and most important—immortal!","choices":[],"correctChoice":-1,"explanation":"Think about whether living forever was the most important quality, or if other traits (strength, beauty, powers) were more significant.",
+      "opinionPrompts":["Why might immortality be most important?","What other characteristics were important?"]}
   ],
 
   "authorPurpose": {
