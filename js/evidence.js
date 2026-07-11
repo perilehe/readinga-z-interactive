@@ -81,29 +81,35 @@ const EvidenceModule = (() => {
     answerSection.style.cssText = 'background:white;padding:20px;border-radius:10px;border:2px solid #e0e0e0;';
     answerSection.innerHTML = `<h4 style="font-family:var(--font-ui);color:#555;margin-bottom:15px;">📝 Choose your answer:</h4>`;
 
+    const choicesContainer = document.createElement('div');
+    choicesContainer.id = 'choicesContainer';
+
     currentChoices.forEach((choice, idx) => {
       const div = document.createElement('div');
       div.className = 'answer-choice';
+      div.dataset.index = idx;
       div.textContent = choice.text;
-      div.style.cursor = 'pointer';
-      div.addEventListener('click', (e) => {
-        e.stopPropagation();
-        if (answered) return;
-        answerSection.querySelectorAll('.answer-choice').forEach(c => c.classList.remove('selected'));
-        div.classList.add('selected');
-        selectedAnswer = idx;
-        console.log('Selected answer:', idx, choice.text);
-      });
-      answerSection.appendChild(div);
+      choicesContainer.appendChild(div);
+    });
+
+    answerSection.appendChild(choicesContainer);
+
+    // Use event delegation for answer choices
+    choicesContainer.addEventListener('click', (e) => {
+      const choice = e.target.closest('.answer-choice');
+      if (!choice || answered) return;
+      const idx = parseInt(choice.dataset.index);
+      answerSection.querySelectorAll('.answer-choice').forEach(c => c.classList.remove('selected'));
+      choice.classList.add('selected');
+      selectedAnswer = idx;
+      console.log('Selected answer:', idx, currentChoices[idx].text);
     });
 
     const submitBtn = document.createElement('button');
     submitBtn.className = 'btn btn-primary';
     submitBtn.textContent = 'Submit Answer';
     submitBtn.style.marginTop = '15px';
-    submitBtn.style.cursor = 'pointer';
-    submitBtn.addEventListener('click', (e) => {
-      e.stopPropagation();
+    submitBtn.addEventListener('click', () => {
       console.log('Submit clicked, selectedAnswer:', selectedAnswer, 'answered:', answered);
       if (selectedAnswer === null) {
         alert('Please select an answer first!');

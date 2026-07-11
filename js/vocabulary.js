@@ -109,19 +109,21 @@ const VocabularyModule = (() => {
       el.className = 'match-word';
       el.textContent = v.word;
       el.dataset.word = v.word;
-      el.style.cursor = 'pointer';
-      el.addEventListener('click', (e) => {
-        e.stopPropagation();
-        console.log('Word clicked:', v.word);
-        if (el.classList.contains('locked')) return;
-        const existing = pairs.find(p => p.wEl === el);
-        if (existing) { existing.line.remove(); el.classList.remove('paired','selected'); existing.dEl.classList.remove('paired','selected'); pairs = pairs.filter(p => p !== existing); selectedWordEl = null; return; }
-        wordsCol.querySelectorAll('.match-word').forEach(w => { if (!w.classList.contains('locked') && !w.classList.contains('paired')) w.classList.remove('selected'); });
-        el.classList.add('selected');
-        selectedWordEl = el;
-        console.log('Selected word:', v.word);
-      });
       wordsCol.appendChild(el);
+    });
+
+    // Event delegation for words
+    wordsCol.addEventListener('click', (e) => {
+      const el = e.target.closest('.match-word');
+      if (!el) return;
+      console.log('Word clicked:', el.dataset.word);
+      if (el.classList.contains('locked')) return;
+      const existing = pairs.find(p => p.wEl === el);
+      if (existing) { existing.line.remove(); el.classList.remove('paired','selected'); existing.dEl.classList.remove('paired','selected'); pairs = pairs.filter(p => p !== existing); selectedWordEl = null; return; }
+      wordsCol.querySelectorAll('.match-word').forEach(w => { if (!w.classList.contains('locked') && !w.classList.contains('paired')) w.classList.remove('selected'); });
+      el.classList.add('selected');
+      selectedWordEl = el;
+      console.log('Selected word:', el.dataset.word);
     });
 
     shuffledD.forEach(v => {
@@ -129,22 +131,24 @@ const VocabularyModule = (() => {
       el.className = 'match-definition';
       el.textContent = v.definition;
       el.dataset.word = v.word;
-      el.style.cursor = 'pointer';
-      el.addEventListener('click', (e) => {
-        e.stopPropagation();
-        console.log('Definition clicked:', v.definition.substring(0, 30), 'selectedWordEl:', selectedWordEl ? selectedWordEl.dataset.word : 'none');
-        if (el.classList.contains('locked') || !selectedWordEl) return;
-        const existing = pairs.find(p => p.dEl === el);
-        if (existing) { existing.line.remove(); existing.wEl.classList.remove('paired','selected'); el.classList.remove('paired','selected'); pairs = pairs.filter(p => p !== existing); return; }
-        const line = drawLine(selectedWordEl, el, '#2196f3', true);
-        selectedWordEl.classList.remove('selected');
-        selectedWordEl.classList.add('paired');
-        el.classList.add('paired');
-        pairs.push({ wEl: selectedWordEl, dEl: el, word: selectedWordEl.dataset.word, line, locked: false });
-        selectedWordEl = null;
-        console.log('Pair created, total pairs:', pairs.length);
-      });
       defsCol.appendChild(el);
+    });
+
+    // Event delegation for definitions
+    defsCol.addEventListener('click', (e) => {
+      const el = e.target.closest('.match-definition');
+      if (!el) return;
+      console.log('Definition clicked:', el.dataset.word, 'selectedWordEl:', selectedWordEl ? selectedWordEl.dataset.word : 'none');
+      if (el.classList.contains('locked') || !selectedWordEl) return;
+      const existing = pairs.find(p => p.dEl === el);
+      if (existing) { existing.line.remove(); existing.wEl.classList.remove('paired','selected'); el.classList.remove('paired','selected'); pairs = pairs.filter(p => p !== existing); return; }
+      const line = drawLine(selectedWordEl, el, '#2196f3', true);
+      selectedWordEl.classList.remove('selected');
+      selectedWordEl.classList.add('paired');
+      el.classList.add('paired');
+      pairs.push({ wEl: selectedWordEl, dEl: el, word: selectedWordEl.dataset.word, line, locked: false });
+      selectedWordEl = null;
+      console.log('Pair created, total pairs:', pairs.length);
     });
 
     grid.appendChild(wordsCol);
