@@ -75,7 +75,7 @@
       "pos": "adj.",
       "definition": "existing as or relating to an idea rather than a physical thing; not concrete",
       "section": "uruk",
-      "sentence": "The system also made it easier to express abstract concepts that would be difficult to show as pictures.",
+      "sentence": "<s>The system</s> <v>made</v> <o>it easier to express abstract concepts that would be difficult to show as pictures</o>.",
       "quiz": {
         "prompt": "\"Abstract\" means:",
         "options": ["physical and solid", "relating to an idea rather than a physical thing", "rare and valuable", "ancient and old"],
@@ -87,7 +87,7 @@
       "pos": "n.",
       "definition": "cities or urban areas that act as independent countries",
       "section": "uruk",
-      "sentence": "A number became city-states.",
+      "sentence": "<s>A number</s> <v>became</v> <o>city-states</o>.",
       "quiz": {
         "prompt": "\"City-states\" are:",
         "options": ["large empires", "cities that act as independent countries", "farming villages", "mountain fortresses"],
@@ -99,7 +99,7 @@
       "pos": "adj.",
       "definition": "having an advanced level of social order and cultural development",
       "section": "intro",
-      "sentence": "A civilized society is one with rules that help people live and work together.",
+      "sentence": "<s>A civilized society</s> <v>is</v> <o>one with rules that help people live and work together</o>.",
       "quiz": {
         "prompt": "\"Civilized\" means:",
         "options": ["having an advanced level of social order and cultural development", "living in tribes", "moving from place to place", "fighting wars"],
@@ -111,7 +111,7 @@
       "pos": "n.",
       "definition": "a system of writing made up of wedge-shaped characters, used in parts of the ancient Middle East",
       "section": "uruk",
-      "sentence": "Over time, pictographs changed into a system of writing known as cuneiform.",
+      "sentence": "<s>Over time</s>, <s>pictographs</s> <v>changed</v> <o>into a system of writing known as cuneiform</o>.",
       "quiz": {
         "prompt": "\"Cuneiform\" was:",
         "options": ["a type of temple", "a system of writing with wedge-shaped characters", "a metal weapon", "a farming tool"],
@@ -123,7 +123,7 @@
       "pos": "n.",
       "definition": "a being from mythology who is part human and part god",
       "section": "uruk",
-      "sentence": "He was said to be a demigod, the son of a human king and a Sumerian mother-goddess.",
+      "sentence": "<s>He</s> <v>was said to be</v> <o>a demigod, the son of a human king and a Sumerian mother-goddess</o>.",
       "quiz": {
         "prompt": "A \"demigod\" is:",
         "options": ["a powerful king", "a being who is part human and part god", "a temple priest", "a famous warrior"],
@@ -135,7 +135,7 @@
       "pos": "n.",
       "definition": "a collection of nations or people ruled by one person or government",
       "section": "warring",
-      "sentence": "He united the city-states into the Akkadian Empire.",
+      "sentence": "<s>He</s> <v>united</v> <o>the city-states into the Akkadian Empire</o>.",
       "quiz": {
         "prompt": "An \"empire\" is:",
         "options": ["a single city", "a collection of nations or people ruled by one person or government", "a religious ceremony", "a type of writing"],
@@ -147,7 +147,7 @@
       "pos": "adj.",
       "definition": "moving from place to place without a permanent home",
       "section": "ubaid",
-      "sentence": "Before the Ubaid formed settlements, they were nomadic hunters and gatherers.",
+      "sentence": "<s>Before the Ubaid formed settlements</s>, <s>they</s> <v>were</v> <o>nomadic hunters and gatherers</o>.",
       "quiz": {
         "prompt": "\"Nomadic\" means:",
         "options": ["living in cities", "moving from place to place without a permanent home", "farming the land", "building temples"],
@@ -159,7 +159,7 @@
       "pos": "adj.",
       "definition": "of or relating to the study of speech sounds within or among languages",
       "section": "uruk",
-      "sentence": "This phonologic system had several advantages over a pictographic system.",
+      "sentence": "<s>This phonologic system</s> <v>had</v> <o>several advantages over a pictographic system</o>.",
       "quiz": {
         "prompt": "\"Phonologic\" relates to:",
         "options": ["speech sounds within or among languages", "ancient temples", "farming techniques", "trade routes"],
@@ -171,7 +171,7 @@
       "pos": "n.",
       "definition": "symbols or pictures that represent words or ideas",
       "section": "uruk",
-      "sentence": "Pictographs are symbols used in writing.",
+      "sentence": "<s>Pictographs</s> <v>are</v> <o>symbols used in writing</o>.",
       "quiz": {
         "prompt": "\"Pictographs\" are:",
         "options": ["symbols or pictures that represent words or ideas", "types of ancient weapons", "kings and rulers", "trade goods"],
@@ -183,7 +183,7 @@
       "pos": "n.",
       "definition": "sudden invasions or surprise attacks",
       "section": "fall",
-      "sentence": "The Gutians came from the mountains to the north and held regular raids on the outer parts of the kingdom.",
+      "sentence": "<s>The Gutians</s> <v>came</v> from the mountains to the north and <v>held</v> <o>regular raids on the outer parts of the kingdom</o>.",
       "quiz": {
         "prompt": "\"Raids\" are:",
         "options": ["peaceful trading", "sudden invasions or surprise attacks", "religious ceremonies", "farming methods"],
@@ -195,7 +195,7 @@
       "pos": "n.",
       "definition": "a large, upright slab or column of rock, usually inscribed with designs or words",
       "section": "warring",
-      "sentence": "Figures on an upright stone post called a stele show soldiers carrying swords, spears, and shields into battle.",
+      "sentence": "<s>Figures on an upright stone post called a stele</s> <v>show</v> <o>soldiers carrying swords, spears, and shields into battle</o>.",
       "quiz": {
         "prompt": "A \"stele\" is:",
         "options": ["a type of weapon", "a large, upright stone slab with inscribed designs", "a religious temple", "a farming tool"],
@@ -207,7 +207,7 @@
       "pos": "n.",
       "definition": "a rectangular structure in ancient Mesopotamia with steps up the sides and a temple at the top",
       "section": "uruk",
-      "sentence": "A huge ziggurat, or temple, was a center of worship.",
+      "sentence": "<s>A huge ziggurat, or temple,</s> <v>was</v> <o>a center of worship</o>.",
       "quiz": {
         "prompt": "A \"ziggurat\" was:",
         "options": ["a rectangular structure with steps and a temple at the top", "a type of metal", "a farming village", "a trade route"],
