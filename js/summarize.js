@@ -107,6 +107,8 @@ const SummarizeModule = (() => {
     // Store order for checking
     builder.dataset.order = JSON.stringify(selected);
 
+    let draggedElement = null;
+
     selected.forEach((text, i) => {
       const line = document.createElement('div');
       line.className = 'summary-line';
@@ -161,25 +163,48 @@ const SummarizeModule = (() => {
 
       // Drag and drop for reordering
       line.addEventListener('dragstart', e => {
-        e.dataTransfer.setData('line-index', i.toString());
+        draggedElement = line;
         e.dataTransfer.effectAllowed = 'move';
-        line.style.opacity = '0.5';
+        setTimeout(() => line.style.opacity = '0.4', 0);
       });
-      line.addEventListener('dragend', () => { line.style.opacity = ''; });
+
+      line.addEventListener('dragend', () => {
+        line.style.opacity = '';
+        draggedElement = null;
+        builder.querySelectorAll('.summary-line').forEach(l => l.classList.remove('drag-over'));
+      });
+
       line.addEventListener('dragover', e => {
         e.preventDefault();
         e.dataTransfer.dropEffect = 'move';
-        line.classList.add('drag-over');
+        if (line !== draggedElement) {
+          line.classList.add('drag-over');
+        }
       });
-      line.addEventListener('dragleave', () => { line.classList.remove('drag-over'); });
+
+      line.addEventListener('dragleave', () => {
+        line.classList.remove('drag-over');
+      });
+
       line.addEventListener('drop', e => {
         e.preventDefault();
         line.classList.remove('drag-over');
-        const fromIndex = parseInt(e.dataTransfer.getData('line-index'));
-        const toIndex = parseInt(line.dataset.index);
-        if (fromIndex !== toIndex) {
-          reorderLines(builder, fromIndex, toIndex);
+        if (!draggedElement || draggedElement === line) return;
+
+        const allLines = Array.from(builder.querySelectorAll('.summary-line'));
+        const fromIdx = allLines.indexOf(draggedElement);
+        const toIdx = allLines.indexOf(line);
+
+        if (fromIdx < toIdx) {
+          builder.insertBefore(draggedElement, line.nextSibling);
+        } else {
+          builder.insertBefore(draggedElement, line);
         }
+
+        // Update indices
+        builder.querySelectorAll('.summary-line').forEach((l, idx) => {
+          l.dataset.index = idx.toString();
+        });
       });
 
       builder.appendChild(line);
@@ -224,26 +249,6 @@ const SummarizeModule = (() => {
     } else {
       parent.insertBefore(lines[pos], lines[newPos]);
     }
-  }
-
-  function reorderLines(builder, fromIndex, toIndex) {
-    const lines = Array.from(builder.querySelectorAll('.summary-line'));
-    const fromLine = lines[fromIndex];
-    const toLine = lines[toIndex];
-
-    if (fromIndex < toIndex) {
-      // Moving down
-      builder.insertBefore(fromLine, toLine.nextSibling);
-    } else {
-      // Moving up
-      builder.insertBefore(fromLine, toLine);
-    }
-
-    // Update dataset.index for all lines
-    const updatedLines = Array.from(builder.querySelectorAll('.summary-line'));
-    updatedLines.forEach((line, idx) => {
-      line.dataset.index = idx.toString();
-    });
   }
 
   function checkSummary(actIdx, act, section) {
