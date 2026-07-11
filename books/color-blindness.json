@@ -13,75 +13,75 @@
       "title": "What Colors Do You See?",
       "paragraphs": [
         "Imagine looking at a box of crayons and seeing only shades of gray, blue, and yellow, or looking at a traffic signal on which the red and green lights look very similar. That's how the world can appear to someone who is color-blind. As you can imagine, this can cause problems!",
-        "Color blindness is the world's most common genetic disorder, affecting more than ten million people in the United States alone. Despite its name, though, color blindness does not cause blindness. Most people affected by color blindness can still see some colors. Color blindness simply means the inability or decreased ability to see certain colors."
+        "<s>Color blindness</s> <v>is</v> <o>the world's most common genetic disorder, affecting more than ten million people in the United States alone</o>. Despite its name, though, color blindness does not cause blindness. Most people affected by color blindness can still see some colors. <s>Color blindness</s> <v>simply means</v> <o>the inability or decreased ability to see certain colors</o>."
       ]
     },
     {
       "id": "wavelengths",
       "title": "Where Do Colors Come From?",
       "paragraphs": [
-        "It's easier to understand color blindness when you realize that colors are actually different wavelengths of light. If you use a prism to separate white light into a rainbow, you're actually separating it into its different wavelengths. The red end of the spectrum contains longer wavelengths of light while shorter wavelengths of light are at the purple end.",
-        "Objects appear to be different colors because they absorb and reflect different wavelengths of light. A strawberry looks red because it reflects long (red) wavelengths. If it instead reflected short wavelengths of light, it would look blue!"
+        "It's easier to understand color blindness when you realize that <s>colors</s> <v>are</v> <o>actually different wavelengths of light</o>. If you use a prism to separate white light into a rainbow, you're actually separating it into its different wavelengths. <s>The red end of the spectrum</s> <v>contains</v> <o>longer wavelengths of light</o> while shorter wavelengths of light are at the purple end.",
+        "<s>Objects</s> <v>appear to be</v> <o>different colors</o> because <s>they</s> <v>absorb and reflect</v> <o>different wavelengths of light</o>. <s>A strawberry</s> <v>looks</v> <o>red</o> because <s>it</s> <v>reflects</v> <o>long (red) wavelengths</o>. If it instead reflected short wavelengths of light, it would look blue!"
       ]
     },
     {
       "id": "howvision",
       "title": "How Color Vision Works",
       "paragraphs": [
-        "Humans see colors because light-detecting cells in our eyes respond differently to different wavelengths of light.",
-        "When light enters one of your eyes, the lens focuses it on the retina, a thin layer of tissue at the back of the eyeball. There it activates light-sensitive cells, called rod cells and cone cells. Activated cells send electrical signals to the brain, where they are translated into images."
+        "<s>Humans</s> <v>see</v> <o>colors</o> because <s>light-detecting cells in our eyes</s> <v>respond</v> <o>differently to different wavelengths of light</o>.",
+        "When light enters one of your eyes, <s>the lens</s> <v>focuses</v> <o>it on the retina, a thin layer of tissue at the back of the eyeball</o>. There <s>it</s> <v>activates</v> <o>light-sensitive cells, called rod cells and cone cells</o>. <s>Activated cells</s> <v>send</v> <o>electrical signals to the brain, where they are translated into images</o>."
       ]
     },
     {
       "id": "rodscones",
       "title": "Rods and Cones",
       "paragraphs": [
-        "Rod cells are the most sensitive cells in your retina. They allow you to see in extremely dim light, but they can't tell different colors apart. Cone cells are responsible for color vision. Each cell contains one of three different light-absorbing molecules, called photopigments, found which detect blue, green, or red light. Combining these three main colors allows you to see thousands of colors. When one or more photopigments aren't functioning properly, though, color blindness results."
+        "<s>Rod cells</s> <v>are</v> <o>the most sensitive cells in your retina</o>. <s>They</s> <v>allow</v> <o>you to see in extremely dim light</o>, but <s>they</s> <v>can't tell</v> <o>different colors apart</o>. <s>Cone cells</s> <v>are responsible for</v> <o>color vision</o>. <s>Each cell</s> <v>contains</v> <o>one of three different light-absorbing molecules, called photopigments, found which detect blue, green, or red light</o>. <s>Combining these three main colors</s> <v>allows</v> <o>you to see thousands of colors</o>. When one or more photopigments aren't functioning properly, though, <s>color blindness</s> <v>results</v>."
       ]
     },
     {
       "id": "types",
       "title": "Different Types of Color Blindness",
       "paragraphs": [
-        "Red-green color blindness, which causes difficulty when it comes to telling the difference between red and green, is the most common type of color vision problem. It's hereditary, found most often in people of northern European ancestry. It's also more common in men, of which it affects one out of twelve, than in women, of which it affects only one in two hundred.",
-        "Red-green color blindness is usually caused by defects in the green photopigment. Without the green photopigment, green and yellow objects appear reddish in color. Defects in the red photopigment also cause red-green color blindness. In this case, red, orange, and yellow objects appear green or black.",
-        "Blue-yellow color blindness occurs when the blue photopigment is defective or missing. It's fairly rare, only occurring in about one out of every ten thousand people worldwide. Unlike red-green color blindness, it's equally common in men and women.",
-        "Complete color blindness is the most severe form of color blindness. It occurs when there are defects in two or more of the three types of cones. People who are missing two or more types of cones tend to be extra-sensitive to light. They may also have difficulty seeing clearly, especially in bright light.",
-        "Only about one out of thirty thousand people worldwide are missing all three types of cones. People who lack any functioning cone cells see the world in shades of black, white, and gray."
+        "<s>Red-green color blindness</s>, which causes difficulty when it comes to telling the difference between red and green, <v>is</v> <o>the most common type of color vision problem</o>. It's hereditary, found most often in people of northern European ancestry. It's also more common in men, of which it affects one out of twelve, than in women, of which it affects only one in two hundred.",
+        "<s>Red-green color blindness</s> <v>is usually caused by</v> <o>defects in the green photopigment</o>. Without the green photopigment, <s>green and yellow objects</s> <v>appear</v> <o>reddish in color</o>. <s>Defects in the red photopigment</s> <v>also cause</v> <o>red-green color blindness</o>. In this case, <s>red, orange, and yellow objects</s> <v>appear</v> <o>green or black</o>.",
+        "<s>Blue-yellow color blindness</s> <v>occurs</v> when <s>the blue photopigment</s> <v>is</v> <o>defective or missing</o>. It's fairly rare, only occurring in about one out of every ten thousand people worldwide. Unlike red-green color blindness, it's equally common in men and women.",
+        "<s>Complete color blindness</s> <v>is</v> <o>the most severe form of color blindness</o>. It occurs when there are defects in two or more of the three types of cones. <s>People who are missing two or more types of cones</s> <v>tend to be</v> <o>extra-sensitive to light</o>. <s>They</s> <v>may also have</v> <o>difficulty seeing clearly, especially in bright light</o>.",
+        "<s>Only about one out of thirty thousand people worldwide</s> <v>are missing</v> <o>all three types of cones</o>. <s>People who lack any functioning cone cells</s> <v>see</v> <o>the world in shades of black, white, and gray</o>."
       ]
     },
     {
       "id": "effects",
       "title": "Color Blindness Is No Joke",
       "paragraphs": [
-        "Color blindness can cause serious problems. People who are color-blind have trouble reading color-coded information on maps, graphs, and charts. Children with color blindness may have trouble in school, especially if their color blindness has not been diagnosed. Red-green color blindness makes it difficult to read yellow chalk on a green chalkboard.",
-        "Color blindness can also cause safety issues. Fire hydrants, car warning lights, and emergency equipment are often colored red or yellow to make them more visible. These bright colors may be obvious to those with full-color vision but unnoticeable to those who are color-blind.",
-        "Color blindness can even limit a person's career options. Some positions, such as geologist or commercial airline pilot, require full-color vision. Other careers, such as interior design, photography, and food inspection, are significantly more difficult with color vision defects."
+        "<s>Color blindness</s> <v>can cause</v> <o>serious problems</o>. <s>People who are color-blind</s> <v>have</v> <o>trouble reading color-coded information on maps, graphs, and charts</o>. <s>Children with color blindness</s> <v>may have</v> <o>trouble in school</o>, especially if their color blindness has not been diagnosed. <s>Red-green color blindness</s> <v>makes</v> <o>it difficult to read yellow chalk on a green chalkboard</o>.",
+        "<s>Color blindness</s> <v>can also cause</v> <o>safety issues</o>. <s>Fire hydrants, car warning lights, and emergency equipment</s> <v>are often colored</v> <o>red or yellow to make them more visible</o>. These bright colors may be obvious to those with full-color vision but unnoticeable to those who are color-blind.",
+        "<s>Color blindness</s> <v>can even limit</v> <o>a person's career options</o>. <s>Some positions, such as geologist or commercial airline pilot,</s> <v>require</v> <o>full-color vision</o>. <s>Other careers, such as interior design, photography, and food inspection,</s> <v>are</v> <o>significantly more difficult with color vision defects</o>."
       ]
     },
     {
       "id": "testing",
       "title": "Testing for Color Blindness",
       "paragraphs": [
-        "The Ishihara Test is the most common test for red-green color vision problems. It uses images made up of dots that are different sizes and colors. People with full-color vision can see numbers or shapes inside the pictures. People with red-green color blindness find it difficult or impossible to identify the hidden symbols.",
-        "Other, similar tests are used to detect yellow-blue color blindness."
+        "<s>The Ishihara Test</s> <v>is</v> <o>the most common test for red-green color vision problems</o>. <s>It</s> <v>uses</v> <o>images made up of dots that are different sizes and colors</o>. <s>People with full-color vision</s> <v>can see</v> <o>numbers or shapes inside the pictures</o>. <s>People with red-green color blindness</s> <v>find</v> <o>it difficult or impossible to identify the hidden symbols</o>.",
+        "<s>Other, similar tests</s> <v>are used</v> <o>to detect yellow-blue color blindness</o>."
       ]
     },
     {
       "id": "tools",
       "title": "Tools to Help Color-Blind People",
       "paragraphs": [
-        "Currently, there's no known cure for color blindness. However, modern technology has led to the development of many new tools to help people who are color-blind. Smartphone apps perform tasks such as identifying colors and recommending complementary colors.",
-        "Some smartphone apps can only identify colors after the user snaps a photo, but others can analyze them in the camera's viewfinder without requiring the user to take a photo first. This lets users identify colors in real time.",
-        "Researchers have also created high-tech tinted lenses that filter out specific wavelengths of light. Special sunglasses that use these lenses allow people with red-green color blindness to distinguish between the two colors."
+        "Currently, there's no known cure for color blindness. However, <s>modern technology</s> <v>has led to</v> <o>the development of many new tools to help people who are color-blind</o>. <s>Smartphone apps</s> <v>perform</v> <o>tasks such as identifying colors and recommending complementary colors</o>.",
+        "Some smartphone apps can only identify colors after the user snaps a photo, but others can analyze them in the camera's viewfinder without requiring the user to take a photo first. <s>This</s> <v>lets</v> <o>users identify colors in real time</o>.",
+        "<s>Researchers</s> <v>have also created</v> <o>high-tech tinted lenses that filter out specific wavelengths of light</o>. <s>Special sunglasses that use these lenses</s> <v>allow</v> <o>people with red-green color blindness to distinguish between the two colors</o>."
       ]
     },
     {
       "id": "treating",
       "title": "Treating Color Blindness",
       "paragraphs": [
-        "Although no true treatment for color blindness currently exists, that may soon change. In recent experiments, scientists were able to correct red-green color blindness in squirrel monkeys. The monkeys lacked the red photopigment and, as a result, couldn't tell the difference between red and green. Researchers engineered a specially constructed virus to insert the red photopigment gene into the monkeys' green cone cells. Within about twenty weeks, treated monkeys could distinguish between red and green dots.",
-        "This was exciting news! The monkeys had been color-blind since birth. Many doctors and scientists had predicted that it would be impossible to correct their color blindness because the monkeys' brains would not have developed the connections needed to interpret color information.",
+        "Although no true treatment for color blindness currently exists, that may soon change. In recent experiments, <s>scientists</s> <v>were able to correct</v> <o>red-green color blindness in squirrel monkeys</o>. <s>The monkeys</s> <v>lacked</v> <o>the red photopigment</o> and, as a result, <v>couldn't tell</v> <o>the difference between red and green</o>. <s>Researchers</s> <v>engineered</v> <o>a specially constructed virus to insert the red photopigment gene into the monkeys' green cone cells</o>. Within about twenty weeks, <s>treated monkeys</s> <v>could distinguish between</v> <o>red and green dots</o>.",
+        "This was exciting news! <s>The monkeys</s> <v>had been</v> <o>color-blind since birth</o>. <s>Many doctors and scientists</s> <v>had predicted</v> <o>that it would be impossible to correct their color blindness because the monkeys' brains would not have developed the connections needed to interpret color information</o>.",
         "Now that we know that color blindness can be cured in adult squirrel monkeys, there's hope for a cure in adult humans, too."
       ]
     },
@@ -89,7 +89,7 @@
       "id": "future",
       "title": "Color Vision for All?",
       "paragraphs": [
-        "Every year, researchers gain a better understanding of color blindness and its causes. New tools help color-blind people choose ripe fruit and pick out matching clothes. People with red-green color blindness can use special glasses to allow them to tell the difference between shades of red and green.",
+        "Every year, <s>researchers</s> <v>gain</v> <o>a better understanding of color blindness and its causes</o>. <s>New tools</s> <v>help</v> <o>color-blind people choose ripe fruit and pick out matching clothes</o>. <s>People with red-green color blindness</s> <v>can use</v> <o>special glasses to allow them to tell the difference between shades of red and green</o>.",
         "Best of all, a treatment for color blindness may be available in the near future. Maybe someday soon, color blindness will become a thing of the past!"
       ]
     }

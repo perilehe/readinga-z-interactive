@@ -12,78 +12,78 @@
       "id": "intro",
       "title": "About Erik",
       "paragraphs": [
-        "Erik Weihenmayer, 36 years old, has climbed the Seven Summits, the highest peaks on each of the seven continents. He was born with a genetic condition that caused him to lose his sight by age 13.",
-        "Interviewer: Can you see at all, or is everything black? Erik: It's your eyes that go blind, not your brain, so I imagine an outline or shades of color. If I hear someone talking, I imagine a face and a body.",
-        "Interviewer: Is it like how I picture people when I talk to them on the phone? Erik: Exactly. It's a fuzzy outline of things that my brain fills in so I understand the shape of the world.",
-        "Interviewer: How did you feel when you lost your sight? Erik: Like a raccoon that's been cornered—I didn't know what to do or who to turn to. I just panicked. I didn't know what would happen to me as a result of being blind, just that everything seemed harder. I had a lot of fears, and a lot of anger bubbled beneath the surface; but I gradually realized I had to accept it. Rock climbing was one of the ways I renewed myself."
+        "<s>Erik Weihenmayer, 36 years old,</s> <v>has climbed</v> <o>the Seven Summits, the highest peaks on each of the seven continents</o>. <s>He</s> <v>was born with</v> <o>a genetic condition that caused him to lose his sight by age 13</o>.",
+        "Interviewer: Can you see at all, or is everything black? Erik: It's your eyes that go blind, not your brain, so <s>I</s> <v>imagine</v> <o>an outline or shades of color</o>. If <s>I</s> <v>hear</v> <o>someone talking</o>, <s>I</s> <v>imagine</v> <o>a face and a body</o>.",
+        "Interviewer: Is it like how I picture people when I talk to them on the phone? Erik: Exactly. It's a fuzzy outline of things that my brain fills in so <s>I</s> <v>understand</v> <o>the shape of the world</o>.",
+        "Interviewer: How did you feel when you lost your sight? Erik: Like a raccoon that's been cornered—<s>I</s> <v>didn't know</v> <o>what to do or who to turn to</o>. I just panicked. <s>I</s> <v>didn't know</v> <o>what would happen to me as a result of being blind</o>, just that everything seemed harder. <s>I</s> <v>had</v> <o>a lot of fears</o>, and a lot of anger bubbled beneath the surface; but <s>I</s> <v>gradually realized</v> <o>I had to accept it</o>. Rock climbing was one of the ways I renewed myself."
       ]
     },
     {
       "id": "learning",
       "title": "How Erik Learned to Climb",
       "paragraphs": [
-        "Interviewer: How did you learn to rock climb? Erik: At first someone gave me detailed instructions like \"reach right\" and \"put your foot farther left,\" but now I climb much more independently by feeling the cracks and pockets in the rock.",
-        "Interviewer: What does mountain climbing mean to you? Erik: The scenery is exciting—the sounds, how the rock feels under my hands, the sun in my face, the ways the ground changes under my feet. It's exciting to challenge the environment with my team, using my skill and endurance, bringing uncontrollable situations under control.",
-        "Interviewer: How did you get started in climbing? Erik: The Carroll Center for the Blind had an activities program for blind kids. Blind kids can't participate in team ball sports, so when they took us rock climbing, I knew I'd found something I could do that was really exciting."
+        "Interviewer: How did you learn to rock climb? Erik: At first <s>someone</s> <v>gave</v> <o>me detailed instructions</o> like \"reach right\" and \"put your foot farther left,\" but now <s>I</s> <v>climb</v> much more independently by <v>feeling</v> <o>the cracks and pockets in the rock</o>.",
+        "Interviewer: What does mountain climbing mean to you? Erik: The scenery is exciting—the sounds, how the rock feels under my hands, the sun in my face, the ways the ground changes under my feet. It's exciting to <v>challenge</v> <o>the environment with my team, using my skill and endurance</o>, <v>bringing</v> <o>uncontrollable situations under control</o>.",
+        "Interviewer: How did you get started in climbing? Erik: <s>The Carroll Center for the Blind</s> <v>had</v> <o>an activities program for blind kids</o>. Blind kids can't participate in team ball sports, so when they took us rock climbing, <s>I</s> <v>knew</v> <o>I'd found something I could do that was really exciting</o>."
       ]
     },
     {
       "id": "iceclimbing",
       "title": "Ice Climbing",
       "paragraphs": [
-        "When I climb vertical ice—frozen walls of ice that look like waterfalls—I kick into the ice with crampons, which are sharp points on the toes of my boots. I stand up high on the toes of my boots and swing my ice tools into the ice, and then I hang from the ice tools and pull myself up. I don't have to see where I'm swinging.",
-        "Sighted climbers look for blue ice because white ice is rotten, but I can tell if it's rotten by tapping the ice with the tools and listening to the sound and the vibration."
+        "When <s>I</s> <v>climb</v> <o>vertical ice</o>—frozen walls of ice that look like waterfalls—<s>I</s> <v>kick into</v> <o>the ice with crampons</o>, <o>which are sharp points on the toes of my boots</o>. <s>I</s> <v>stand up</v> high on the toes of my boots and <v>swing</v> <o>my ice tools into the ice</o>, and then <s>I</s> <v>hang from</v> <o>the ice tools</o> and <v>pull</v> <o>myself up</o>. I don't have to see where I'm swinging.",
+        "<s>Sighted climbers</s> <v>look for</v> <o>blue ice</o> because white ice is rotten, but <s>I</s> <v>can tell</v> if it's rotten by tapping the ice with the tools and listening to the sound and the vibration."
       ]
     },
     {
       "id": "navigation",
       "title": "How Erik Navigates",
       "paragraphs": [
-        "Interviewer: Please describe how you know where you're going when mountain climbing. Erik: When I'm hiking, I follow somebody who has a bell tied to his pack. I use long trekking poles to feel the terrain in front of me. When I find a place I want to step, I lean on that pole and take a step, and then I scan with the other pole. It sounds slow, but it's not; I can hike as fast as anyone.",
-        "When we go up nearly vertical snow in deep gullies called couloirs, I kick the toes of my boots into the snow and take one step at a time, and I swing an ice ax into the snow. I'm feeling my way up slowly just like everyone else.",
-        "Interviewer: Can you take the lead climbing on a mountain? Erik: I can lead a climb on rocks by touch when we're climbing a vertical crack or pockets.",
-        "Interviewer: But you don't lead when you're crossing areas where there are crevasses? Erik: On very narrow snow bridges that go over crevasses, I would need to be able to see in order to line up the best route. On a big mountain, I'm usually roped to two other people, and I follow someone."
+        "Interviewer: Please describe how you know where you're going when mountain climbing. Erik: When I'm hiking, <s>I</s> <v>follow</v> <o>somebody who has a bell tied to his pack</o>. <s>I</s> <v>use</v> <o>long trekking poles</o> to <v>feel</v> <o>the terrain in front of me</o>. When I find a place I want to step, I lean on that pole and take a step, and then I scan with the other pole. It sounds slow, but it's not; I can hike as fast as anyone.",
+        "When we go up nearly vertical snow in deep gullies called couloirs, <s>I</s> <v>kick</v> <o>the toes of my boots into the snow</o> and <v>take</v> <o>one step at a time</o>, and <s>I</s> <v>swing</v> <o>an ice ax into the snow</o>. I'm feeling my way up slowly just like everyone else.",
+        "Interviewer: Can you take the lead climbing on a mountain? Erik: <s>I</s> <v>can lead</v> <o>a climb on rocks</o> by touch when we're climbing a vertical crack or pockets.",
+        "Interviewer: But you don't lead when you're crossing areas where there are crevasses? Erik: <s>On very narrow snow bridges that go over crevasses</s>, <s>I</s> <v>would need</v> <o>to be able to see in order to line up the best route</o>. On a big mountain, I'm usually roped to two other people, and <s>I</s> <v>follow</v> <o>someone</o>."
       ]
     },
     {
       "id": "moments",
       "title": "Funniest and Scariest Moments",
       "paragraphs": [
-        "Interviewer: What is the funniest thing that ever happened to you while climbing? Erik: About a half hour before we summited Mt. McKinley, we radioed down to the village. When we reached the top, my dad, wife, and two brothers were flying above us in a small plane. We waved our ski poles, all wearing red suits, looking identical to each other. My friend said, \"Yeah, you're the only one waving your ski pole in the wrong direction.\"",
-        "Interviewer: What is the scariest thing? Erik: My idea of climbing is to keep it boring. I've fallen in crevasses when snow bridges have collapsed. Once when I was on a lead climb, a piece of gear popped out of the rock, causing me to fall about 25 feet and dangle at the end of my rope. Once I was hanging on some ice while an avalanche poured down over my head."
+        "Interviewer: What is the funniest thing that ever happened to you while climbing? Erik: About a half hour before we summited Mt. McKinley, <s>we</s> <v>radioed down</v> to the village. When <s>we</s> <v>reached</v> <o>the top</o>, <s>my dad, wife, and two brothers</s> <v>were flying</v> above us in a small plane. <s>We</s> <v>waved</v> <o>our ski poles</o>, all wearing red suits, looking identical to each other. My friend said, \"Yeah, you're the only one waving your ski pole in the wrong direction.\"",
+        "Interviewer: What is the scariest thing? Erik: My idea of climbing is to keep it boring. <s>I</s>'ve <v>fallen</v> in <o>crevasses</o> when snow bridges have collapsed. Once when I was on a lead climb, <s>a piece of gear</s> <v>popped out of</v> <o>the rock</o>, causing me to fall about 25 feet and dangle at the end of my rope. <s>Once I</s> <v>was hanging</v> on <o>some ice</o> while <s>an avalanche</s> <v>poured down</v> <o>over my head</o>."
       ]
     },
     {
       "id": "everest",
       "title": "Summiting Everest",
       "paragraphs": [
-        "Interviewer: Can you describe what it is like to be on top of Mount Everest? Erik: When you get to the summit, it's done—it's over. What's exciting to me is the planning, building a team, and getting prepared the best I can. You stand on the summit for 20 minutes at the most. On top of a mountain, the sound changes, because there's sky above and around you, and the sound vibrations move forever.",
-        "Ninety percent of climbing accidents happen on the way down. Edmund Hillary, the first man to climb Mount Everest, said it only counts if you get down."
+        "Interviewer: Can you describe what it is like to be on top of Mount Everest? Erik: When <s>you</s> <v>get to</v> <o>the summit</o>, it's done—it's over. What's exciting to me is the planning, building a team, and getting prepared the best I can. <s>You</s> <v>stand</v> on the summit for 20 minutes at the most. On top of a mountain, the sound changes, because there's sky above and around you, and the sound vibrations move forever.",
+        "<s>Ninety percent of climbing accidents</s> <v>happen</v> on the way down. <s>Edmund Hillary, the first man to climb Mount Everest,</s> <v>said</v> <o>it only counts if you get down</o>."
       ]
     },
     {
       "id": "otheractivities",
       "title": "Guide Dogs and Other Sports",
       "paragraphs": [
-        "Interviewer: Do you have a guide dog? Erik: Yes, I've had three German shepherds. My first dog, when I was 16, was Wizard; my second, Seigo, is retired; and I've had my third dog, Willa, for about a year. If I come out of a movie theater and say, \"Find the car,\" she'll bring me right to our car when there are 100 cars in the parking lot.",
-        "Interviewer: Do you do other extreme sports? Erik: I tandem bike. I've done adventure races, where you mountain bike, kayak, raft, rock climb, hike, and canoe. In the Primal Quest, the toughest adventure race in the world, we were one of 42 teams to finish out of 80 teams that started."
+        "Interviewer: Do you have a guide dog? Erik: Yes, <s>I</s>'ve <v>had</v> <o>three German shepherds</o>. My first dog, when I was 16, was Wizard; my second, Seigo, is retired; and I've had my third dog, Willa, for about a year. If <s>I</s> <v>come out of</v> a movie theater and <v>say</v>, \"Find the car,\" <s>she</s>'ll <v>bring</v> <o>me</o> right to our car when there are 100 cars in the parking lot.",
+        "Interviewer: Do you do other extreme sports? Erik: I tandem bike. <s>I</s>'ve <v>done</v> <o>adventure races</o>, where you mountain bike, kayak, raft, rock climb, hike, and canoe. In the Primal Quest, the toughest adventure race in the world, we were one of 42 teams to finish out of 80 teams that started."
       ]
     },
     {
       "id": "tibet",
       "title": "Tibet Trip",
       "paragraphs": [
-        "Interviewer: Tell me about your upcoming trip to Tibet. Erik: A German lady named Sabriye Tenberken traveled to Tibet, where she found blind kids who were four years old and hadn't even learned to walk. She started a school for the blind that now teaches 39 kids who were outcasts six or seven years ago. Now they're walking with their canes through the city of Lhasa, learning Braille in three different languages.",
-        "We thought it'd be cool to take six of her most fit, motivated kids up a peak called Lhakpa Ri that's just north of Mount Everest. We trained them for three weeks for a month-long trip. One day we went over a big 17,500-foot mountain pass. It was storming—one was throwing up, and one fell into a river. They all passed, so we think they're ready."
+        "Interviewer: Tell me about your upcoming trip to Tibet. Erik: <s>A German lady named Sabriye Tenberken</s> <v>traveled to</v> <o>Tibet</o>, where <s>she</s> <v>found</v> <o>blind kids who were four years old and hadn't even learned to walk</o>. <s>She</s> <v>started</v> <o>a school for the blind that now teaches 39 kids who were outcasts six or seven years ago</o>. <s>Now they're</s> <v>walking</v> <o>with their canes through the city of Lhasa</o>, <v>learning</v> <o>Braille in three different languages</o>.",
+        "We thought it'd be cool to take six of her most fit, motivated kids up a peak called Lhakpa Ri that's just north of Mount Everest. <s>We</s> <v>trained</v> <o>them</o> for three weeks for a month-long trip. One day <s>we</s> <v>went over</v> <o>a big 17,500-foot mountain pass</o>. It was storming—one was throwing up, and one fell into a river. They all passed, so we think they're ready."
       ]
     },
     {
       "id": "message",
       "title": "Erik's Message",
       "paragraphs": [
-        "Interviewer: What's your message for other people who are facing difficult challenges? Erik: When a blind person stands on top of a mountain, it makes people reconsider what they think is possible. People think less about what they can't do and more about what they might be able to do.",
-        "I've learned from the mountains that you don't have to be the fastest, or the smartest, or the most popular, or the person with the best eyesight to be a leader. You need some skill, but you also need a vision of who you are and what kind of person you want to be. Then you need a lot of courage to carry it through.",
-        "Climbers call it \"taking the sharp end of the rope,\" which means actually getting out there and climbing. When I think about leadership, it's about taking the sharp end—it shows in your decisions rather than in your words."
+        "Interviewer: What's your message for other people who are facing difficult challenges? Erik: When <s>a blind person</s> <v>stands</v> on top of <o>a mountain</o>, <s>it</s> <v>makes</v> <o>people reconsider what they think is possible</o>. <s>People</s> <v>think</v> less about <o>what they can't do</o> and more about <o>what they might be able to do</o>.",
+        "I've learned from the mountains that you don't have to be the fastest, or the smartest, or the most popular, or the person with the best eyesight to be a leader. <s>You</s> <v>need</v> <o>some skill</o>, but <s>you</s> also <v>need</v> <o>a vision of who you are and what kind of person you want to be</o>. Then <s>you</s> <v>need</v> <o>a lot of courage to carry it through</o>.",
+        "<s>Climbers</s> <v>call</v> <o>it \"taking the sharp end of the rope,\"</o> which means actually getting out there and climbing. When I think about leadership, it's about taking the sharp end—<s>it</s> <v>shows</v> in <o>your decisions</o> rather than in your words."
       ]
     }
   ],
