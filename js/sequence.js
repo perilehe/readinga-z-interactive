@@ -82,10 +82,63 @@ const SequenceModule = (() => {
       slot.addEventListener('drop', e => {
         e.preventDefault();
         slot.classList.remove('hover');
-        placeEvent(parseInt(e.dataTransfer.getData('text/plain')), i);
+        const fromSlot = e.dataTransfer.getData('fromSlot');
+        if (fromSlot !== '') {
+          // Dragging from another timeline slot - swap
+          swapSlots(parseInt(fromSlot), i);
+        } else {
+          // Dragging from card pool
+          placeEvent(parseInt(e.dataTransfer.getData('text/plain')), i);
+        }
       });
+      // Make filled slots draggable too
+      slot.addEventListener('dragstart', e => {
+        if (slot.classList.contains('filled') && placements[i] !== undefined) {
+          e.dataTransfer.setData('fromSlot', i.toString());
+          slot.style.opacity = '0.5';
+        }
+      });
+      slot.addEventListener('dragend', () => { slot.style.opacity = ''; });
       timeline.appendChild(slot);
     });
+  }
+
+  function swapSlots(fromSlotIdx, toSlotIdx) {
+    if (fromSlotIdx === toSlotIdx) return;
+    if (checked) return;
+
+    const fromEvent = placements[fromSlotIdx];
+    const toEvent = placements[toSlotIdx];
+
+    // Update placements
+    if (toEvent !== undefined) {
+      placements[fromSlotIdx] = toEvent;
+    } else {
+      delete placements[fromSlotIdx];
+    }
+    placements[toSlotIdx] = fromEvent;
+
+    // Update UI
+    updateSlotUI(fromSlotIdx);
+    updateSlotUI(toSlotIdx);
+  }
+
+  function updateSlotUI(slotIdx) {
+    const slot = document.querySelectorAll('.timeline-slot')[slotIdx];
+    if (!slot) return;
+
+    if (placements[slotIdx] !== undefined) {
+      const evt = events[placements[slotIdx]];
+      slot.querySelector('.slot-event').textContent = evt.event;
+      slot.querySelector('.slot-event').style.cssText = 'color:#333;font-style:normal;';
+      slot.classList.add('filled');
+      slot.draggable = true;
+    } else {
+      slot.querySelector('.slot-event').textContent = 'Empty';
+      slot.querySelector('.slot-event').style.cssText = 'color:#aaa;font-style:italic;';
+      slot.classList.remove('filled');
+      slot.draggable = false;
+    }
   }
 
   function selectCard(card, eventIndex) {
@@ -109,22 +162,13 @@ const SequenceModule = (() => {
     Object.entries(placements).forEach(([s, e]) => {
       if (e === eventIndex) {
         delete placements[s];
-        const slot = document.querySelectorAll('.timeline-slot')[parseInt(s)];
-        if (slot) {
-          slot.classList.remove('filled');
-          slot.querySelector('.slot-event').textContent = 'Click a card, then click here';
-          slot.querySelector('.slot-event').style.cssText = 'color:#aaa;font-style:italic;';
-        }
+        updateSlotUI(parseInt(s));
       }
     });
     placements[slotIndex] = eventIndex;
     const card = document.querySelector(`.event-card[data-event-index="${eventIndex}"]`);
     if (card) { card.classList.add('placed'); card.classList.remove('selected'); }
-    const slot = document.querySelectorAll('.timeline-slot')[slotIndex];
-    const evt = events[eventIndex];
-    slot.querySelector('.slot-event').textContent = evt.event;
-    slot.querySelector('.slot-event').style.cssText = 'color:#333;font-style:normal;';
-    slot.classList.add('filled');
+    updateSlotUI(slotIndex);
   }
 
   function checkSequence() {
