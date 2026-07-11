@@ -77,7 +77,7 @@ const EvidenceModule = (() => {
 
     // Answer section
     const answerSection = document.createElement('div');
-    answerSection.className = 'answer-section';
+    answerSection.className = 'answer-section unlocked';
     answerSection.style.cssText = 'background:white;padding:20px;border-radius:10px;border:2px solid #e0e0e0;';
     answerSection.innerHTML = `<h4 style="font-family:var(--font-ui);color:#555;margin-bottom:15px;">📝 Choose your answer:</h4>`;
 
