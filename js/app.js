@@ -35,9 +35,10 @@ function getBookId() {
 async function loadBook() {
   const id = getBookId();
   try {
-    const resp = await fetch(`books/${id}.json`);
+    const resp = await fetch(`books/${id}.json?v=${Date.now()}`);
     if (!resp.ok) throw new Error('Book not found');
     bookData = await resp.json();
+    console.log('Book loaded, first paragraph sample:', bookData.sections[0]?.paragraphs[0]?.substring(0, 200));
     initApp();
   } catch (e) {
     console.error('Failed to load book:', e);
