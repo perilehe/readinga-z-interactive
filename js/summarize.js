@@ -44,10 +44,17 @@ const SummarizeModule = (() => {
         const item = document.createElement('div');
         item.className = 'detail-item';
         item.textContent = detail.text;
+        item.draggable = true;
         item.addEventListener('click', () => {
           item.classList.toggle('selected');
           updateArrangeArea(actIdx, act);
         });
+        item.addEventListener('dragstart', e => {
+          e.dataTransfer.setData('text/plain', detail.text);
+          e.dataTransfer.effectAllowed = 'move';
+          item.style.opacity = '0.5';
+        });
+        item.addEventListener('dragend', () => { item.style.opacity = ''; });
         pool.appendChild(item);
       });
 
@@ -103,6 +110,8 @@ const SummarizeModule = (() => {
     selected.forEach((text, i) => {
       const line = document.createElement('div');
       line.className = 'summary-line';
+      line.draggable = true;
+      line.dataset.index = i;
 
       // Transition dropdown
       const select = document.createElement('select');
@@ -149,6 +158,30 @@ const SummarizeModule = (() => {
       line.appendChild(select);
       line.appendChild(textSpan);
       line.appendChild(btns);
+
+      // Drag and drop for reordering
+      line.addEventListener('dragstart', e => {
+        e.dataTransfer.setData('line-index', i.toString());
+        e.dataTransfer.effectAllowed = 'move';
+        line.style.opacity = '0.5';
+      });
+      line.addEventListener('dragend', () => { line.style.opacity = ''; });
+      line.addEventListener('dragover', e => {
+        e.preventDefault();
+        e.dataTransfer.dropEffect = 'move';
+        line.classList.add('drag-over');
+      });
+      line.addEventListener('dragleave', () => { line.classList.remove('drag-over'); });
+      line.addEventListener('drop', e => {
+        e.preventDefault();
+        line.classList.remove('drag-over');
+        const fromIndex = parseInt(e.dataTransfer.getData('line-index'));
+        const toIndex = parseInt(line.dataset.index);
+        if (fromIndex !== toIndex) {
+          reorderLines(builder, fromIndex, toIndex);
+        }
+      });
+
       builder.appendChild(line);
     });
 
@@ -191,6 +224,26 @@ const SummarizeModule = (() => {
     } else {
       parent.insertBefore(lines[pos], lines[newPos]);
     }
+  }
+
+  function reorderLines(builder, fromIndex, toIndex) {
+    const lines = Array.from(builder.querySelectorAll('.summary-line'));
+    const fromLine = lines[fromIndex];
+    const toLine = lines[toIndex];
+
+    if (fromIndex < toIndex) {
+      // Moving down
+      builder.insertBefore(fromLine, toLine.nextSibling);
+    } else {
+      // Moving up
+      builder.insertBefore(fromLine, toLine);
+    }
+
+    // Update dataset.index for all lines
+    const updatedLines = Array.from(builder.querySelectorAll('.summary-line'));
+    updatedLines.forEach((line, idx) => {
+      line.dataset.index = idx.toString();
+    });
   }
 
   function checkSummary(actIdx, act, section) {

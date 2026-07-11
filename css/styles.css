@@ -846,6 +846,13 @@ body {
   border-radius: 6px;
   font-family: var(--font-ui);
   font-size: 0.9em;
+  transition: all 0.2s ease;
+}
+
+.summary-line.drag-over {
+  background: var(--primary-light);
+  border: 2px dashed var(--primary);
+  transform: scale(1.02);
 }
 
 .summary-line .line-transition {
