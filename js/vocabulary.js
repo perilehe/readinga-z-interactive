@@ -95,6 +95,7 @@ const VocabularyModule = (() => {
       line.setAttribute('stroke-width', '2.5');
       if (dash) line.setAttribute('stroke-dasharray', '6,4');
       svg.appendChild(line);
+      console.log('Drawing line:', { wEl: wEl.textContent, dEl: dEl.textContent.substring(0, 30), color });
       return line;
     }
 
@@ -108,13 +109,17 @@ const VocabularyModule = (() => {
       el.className = 'match-word';
       el.textContent = v.word;
       el.dataset.word = v.word;
-      el.addEventListener('click', () => {
+      el.style.cursor = 'pointer';
+      el.addEventListener('click', (e) => {
+        e.stopPropagation();
+        console.log('Word clicked:', v.word);
         if (el.classList.contains('locked')) return;
         const existing = pairs.find(p => p.wEl === el);
         if (existing) { existing.line.remove(); el.classList.remove('paired','selected'); existing.dEl.classList.remove('paired','selected'); pairs = pairs.filter(p => p !== existing); selectedWordEl = null; return; }
         wordsCol.querySelectorAll('.match-word').forEach(w => { if (!w.classList.contains('locked') && !w.classList.contains('paired')) w.classList.remove('selected'); });
         el.classList.add('selected');
         selectedWordEl = el;
+        console.log('Selected word:', v.word);
       });
       wordsCol.appendChild(el);
     });
@@ -124,7 +129,10 @@ const VocabularyModule = (() => {
       el.className = 'match-definition';
       el.textContent = v.definition;
       el.dataset.word = v.word;
-      el.addEventListener('click', () => {
+      el.style.cursor = 'pointer';
+      el.addEventListener('click', (e) => {
+        e.stopPropagation();
+        console.log('Definition clicked:', v.definition.substring(0, 30), 'selectedWordEl:', selectedWordEl ? selectedWordEl.dataset.word : 'none');
         if (el.classList.contains('locked') || !selectedWordEl) return;
         const existing = pairs.find(p => p.dEl === el);
         if (existing) { existing.line.remove(); existing.wEl.classList.remove('paired','selected'); el.classList.remove('paired','selected'); pairs = pairs.filter(p => p !== existing); return; }
@@ -134,6 +142,7 @@ const VocabularyModule = (() => {
         el.classList.add('paired');
         pairs.push({ wEl: selectedWordEl, dEl: el, word: selectedWordEl.dataset.word, line, locked: false });
         selectedWordEl = null;
+        console.log('Pair created, total pairs:', pairs.length);
       });
       defsCol.appendChild(el);
     });

@@ -85,11 +85,14 @@ const EvidenceModule = (() => {
       const div = document.createElement('div');
       div.className = 'answer-choice';
       div.textContent = choice.text;
-      div.addEventListener('click', () => {
+      div.style.cursor = 'pointer';
+      div.addEventListener('click', (e) => {
+        e.stopPropagation();
         if (answered) return;
         answerSection.querySelectorAll('.answer-choice').forEach(c => c.classList.remove('selected'));
         div.classList.add('selected');
         selectedAnswer = idx;
+        console.log('Selected answer:', idx, choice.text);
       });
       answerSection.appendChild(div);
     });
@@ -98,8 +101,15 @@ const EvidenceModule = (() => {
     submitBtn.className = 'btn btn-primary';
     submitBtn.textContent = 'Submit Answer';
     submitBtn.style.marginTop = '15px';
-    submitBtn.addEventListener('click', () => {
-      if (selectedAnswer === null || answered) return;
+    submitBtn.style.cursor = 'pointer';
+    submitBtn.addEventListener('click', (e) => {
+      e.stopPropagation();
+      console.log('Submit clicked, selectedAnswer:', selectedAnswer, 'answered:', answered);
+      if (selectedAnswer === null) {
+        alert('Please select an answer first!');
+        return;
+      }
+      if (answered) return;
       answered = true;
       submitAnswer(rightPanel, q);
     });
