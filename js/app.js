@@ -87,7 +87,7 @@ function calculateTotalStars(activities) {
         total += (bookData.vocabulary || []).length * 2;
         break;
       case 'typing':
-        total += (bookData.vocabulary || []).length;
+        total += (bookData.vocabulary || []).length + 1;
         break;
       case 'authorPurpose':
         total += (bookData.authorPurpose?.purposes || []).length;
@@ -299,7 +299,7 @@ function getModuleStars(act) {
     case 'typing':
       return {
         earned: StarSystem.getSectionStars('typing-'),
-        total: (bookData.vocabulary || []).length
+        total: (bookData.vocabulary || []).length + 1
       };
     case 'authorPurpose':
       return {
