@@ -220,49 +220,115 @@
     {
       "id": "q1",
       "level": 1,
-      "question": "What was Mesopotamia, and where was it located?",
+      "question": "Mesopotamia was located ___.",
       "section": "intro",
       "pages": "4",
-      "evidence": "Mesopotamia was located where Turkey, Syria, Iraq, and Kuwait are now. This \"land between two rivers\" was the place where civilization was born.",
-      "choices": ["The land between two rivers, located where Turkey, Syria, Iraq, and Kuwait are now.", "An island in the Mediterranean Sea.", "A mountain region in northern Europe.", "A desert in Africa."],
-      "correctChoice": 0,
-      "explanation": "Mesopotamia means \"land between two rivers\" — the Tigris and Euphrates — in the area of modern-day Turkey, Syria, Iraq, and Kuwait."
+      "evidence": "Mesopotamia was located where Turkey, Syria, Iraq, and Kuwait are now.",
+      "choices": ["where the United States is now", "where Greece, Italy, and Spain are now", "where Egypt is now", "where Turkey, Syria, Iraq, and Kuwait are now"],
+      "correctChoice": 3,
+      "explanation": "Mesopotamia was located in the area of modern-day Turkey, Syria, Iraq, and Kuwait."
     },
     {
       "id": "q2",
-      "level": 2,
-      "question": "How were the Ubaid different from traditional nomadic people?",
-      "section": "ubaid",
-      "pages": "5-6",
-      "evidence": "Before the Ubaid formed settlements, they were nomadic hunters and gatherers. They roamed from place to place in search of food and water. In time, the Ubaid found ways to live in one place.",
-      "choices": ["The Ubaid settled in one place, drained marshes, grew crops, and built canals instead of roaming.", "The Ubaid continued to roam but traded more.", "The Ubaid moved to the mountains.", "The Ubaid gave up farming entirely."],
-      "correctChoice": 0,
-      "explanation": "Unlike nomadic people who moved around, the Ubaid settled down, drained marshes, grew crops, built canals, and made pottery."
+      "level": 1,
+      "question": "The book states that it took a long time for humans to form civilized societies. A civilized society is ___.",
+      "section": "intro",
+      "pages": "4",
+      "evidence": "A civilized society is one with rules that help people live and work together.",
+      "choices": ["one that moves from place to place without a permanent home", "one with rules and laws that help people live together", "one with people who are hunters and others who are gatherers", "one that is peaceful and where everyone agrees"],
+      "correctChoice": 1,
+      "explanation": "A civilized society has rules and laws that help people live and work together."
     },
     {
       "id": "q3",
       "level": 2,
-      "question": "What made Uruk the most important city-state?",
+      "question": "Why did ancient leaders desire to have rare and valuable items?",
       "section": "uruk",
-      "pages": "7-10",
-      "evidence": "The most important of these was Uruk. At one point, Uruk had up to eighty thousand people. The city covered more than 2.6 square kilometers and had large buildings made of mud bricks. A huge ziggurat, or temple, was a center of worship.",
-      "choices": ["It had 80,000 people, large buildings, a ziggurat, and was where pictographs and cuneiform first appeared.", "It was the smallest city-state.", "It had no written language.", "It was located far from rivers."],
-      "correctChoice": 0,
-      "explanation": "Uruk was the largest and most important city-state, with 80,000 people, a ziggurat, and it was where writing (pictographs and cuneiform) first appeared."
+      "pages": "9",
+      "evidence": "City rulers used trade to show how important they were. Having rare and valuable items was a way to show off their power.",
+      "choices": ["to share with their people", "to show off their power", "to use them to pay their taxes", "to show the quality of the work of their people"],
+      "correctChoice": 1,
+      "explanation": "Ancient leaders used rare and valuable items to show off their power and importance."
     },
     {
       "id": "q4",
       "level": 2,
-      "question": "What was cuneiform, and how did it change Mesopotamian culture?",
+      "question": "What can you conclude about the people of Uruk?",
       "section": "uruk",
-      "pages": "8-9",
-      "evidence": "Over time, pictographs changed into a system of writing known as cuneiform. Cuneiform symbols stood for sounds rather than objects. These sound symbols could be used to write in any language.",
-      "choices": ["A writing system where symbols stood for sounds rather than objects, allowing people to write in any language.", "A type of pottery decoration.", "A system of counting trade goods.", "A way to decorate temples."],
-      "correctChoice": 0,
-      "explanation": "Cuneiform was a writing system with wedge-shaped symbols that stood for sounds, making it possible to write in any language — a huge advance over pictographs."
+      "pages": "7-10",
+      "evidence": "A huge ziggurat, or temple, was a center of worship.",
+      "choices": ["They had no system of communication.", "They preferred to live in the countryside.", "They did not like to follow the laws.", "They were religious people."],
+      "correctChoice": 3,
+      "explanation": "The people of Uruk built a huge ziggurat (temple) as a center of worship, showing they were religious."
     },
     {
       "id": "q5",
+      "level": 2,
+      "question": "Why was the Gutian rule of Sumer known as the Dark Age of Mesopotamia?",
+      "section": "fall",
+      "pages": "12",
+      "evidence": "The Gutians let the canals fall apart and brought on a terrible famine. Their 125-year rule of Sumer led to what came to be known as the Dark Age of Mesopotamia.",
+      "choices": ["A large sand storm blocked out the Sun, and all the crops died.", "Many people were taken as slaves and lost their homes and families.", "The land and canals were not taken care of, and many people starved.", "All the artwork was destroyed, and people were not allowed to be creative."],
+      "correctChoice": 2,
+      "explanation": "The Gutians let the canals fall apart, causing famine. This period became known as the Dark Age."
+    },
+    {
+      "id": "q6",
+      "level": 2,
+      "question": "What was King Sargon's influence on the Sumerians?",
+      "section": "warring",
+      "pages": "10-11",
+      "evidence": "The Sumerians' constant fighting stopped when King Sargon of Akkad took control of the region in about 2340 bce. He united the city-states into the Akkadian Empire. Sargon kept order by placing key trusted allies in positions of power.",
+      "choices": ["He encouraged fighting because he enjoyed being in battle.", "He enslaved anyone who participated in war.", "He stopped the fighting and chose leaders he trusted to keep the peace.", "He stopped all trade and therefore stopped all fighting."],
+      "correctChoice": 2,
+      "explanation": "King Sargon stopped the constant fighting between city-states and united them, placing trusted allies in power to keep peace."
+    },
+    {
+      "id": "q7",
+      "level": 2,
+      "question": "After reading the section 'Prosperity and Advancement,' what can you conclude about Mesopotamia?",
+      "section": "prosperity",
+      "pages": "11-12",
+      "evidence": "Peace during the Akkadian empire brought progress to Mesopotamia. Under Akkadian rule, Mesopotamia created the first mail system.",
+      "choices": ["Times of peace allowed people in Mesopotamia to create new systems, such as a mail system.", "Money made during wartimes helped create a numerical place system.", "The people of Mesopotamia resettled in new places based on an increase in trade routes.", "During times of peace, there was little money for the people, so leaders encouraged war."],
+      "correctChoice": 0,
+      "explanation": "Peace brought progress — Mesopotamia created the first mail system, the potter's wheel, and numerical place value during peaceful times."
+    },
+    {
+      "id": "q8",
+      "level": 1,
+      "question": "Read this sentence: 'Before the Ubaid formed settlements, they were nomadic hunters and gatherers.' Which sentence from the text helps readers understand the meaning of the word 'nomadic'?",
+      "section": "ubaid",
+      "pages": "5",
+      "evidence": "They roamed from place to place in search of food and water.",
+      "choices": ["The Ubaid were the first people to settle the land known as Sumer.", "They named these early settlers the Ubaid after the site where the items were discovered.", "They roamed from place to place in search of food and water.", "They built canals to bring water to drier areas."],
+      "correctChoice": 2,
+      "explanation": "'Roamed from place to place' explains that 'nomadic' means moving around without a permanent home."
+    },
+    {
+      "id": "q9",
+      "level": 1,
+      "question": "Some settlements in the Fertile Crescent became city-states. Which of the following is true of a city-state?",
+      "section": "uruk",
+      "pages": "7",
+      "evidence": "A number became city-states.",
+      "choices": ["It acts like its own country.", "It does not have any laws.", "It does not allow trade.", "It is run by a president."],
+      "correctChoice": 0,
+      "explanation": "A city-state is a city that acts like its own independent country with its own government and laws."
+    },
+    {
+      "id": "q10",
+      "level": 1,
+      "question": "The name Mesopotamia means ___.",
+      "section": "intro",
+      "pages": "4",
+      "evidence": "This \"land between two rivers\" was the place where civilization was born.",
+      "choices": ["the land between two rivers", "the land between two mountain ranges", "the land between two seas", "the land between two deserts"],
+      "correctChoice": 0,
+      "explanation": "Mesopotamia means 'land between two rivers' — the Tigris and Euphrates."
+    },
+    {
+      "id": "q11",
       "level": 3,
       "question": "In what ways did trade influence the culture of ancient Mesopotamia?",
       "section": "ubaid",
@@ -274,28 +340,16 @@
       "opinionPrompts": ["How did trade affect both cooperation and warfare?", "What materials came through trade routes?"]
     },
     {
-      "id": "q6",
+      "id": "q12",
       "level": 3,
-      "question": "Why was Mesopotamia also known as the Fertile Crescent?",
+      "question": "Why was the land where ancient Mesopotamia was located called the 'Fertile Crescent'?",
       "section": "ubaid",
       "pages": "multiple",
       "evidence": "Ancient Mesopotamian civilization started between the Tigris and Euphrates Rivers. That land came to be known as the Fertile Crescent.",
       "choices": [],
       "correctChoice": -1,
-      "explanation": "The land between the Tigris and Euphrates Rivers had rich soil that supported farming, making it 'fertile' — and the arc-shaped area on a map resembled a crescent.",
-      "opinionPrompts": ["What features made the land fertile?", "How did the rivers help people settle there?"]
-    },
-    {
-      "id": "q7",
-      "level": 3,
-      "question": "How did ancient Mesopotamia influence the world?",
-      "section": "prosperity",
-      "pages": "multiple",
-      "evidence": "The Mesopotamians also developed the idea of numerical place value. The way we measure time uses this same system from long ago. We use a system created by the ancient Mesopotamians—base sixty.",
-      "choices": [],
-      "correctChoice": -1,
-      "explanation": "Mesopotamia gave the world writing (cuneiform), the wheel, the potter's wheel, the first mail system, base-60 number system (our 60-second minutes), and the concept of city-states.",
-      "opinionPrompts": ["What inventions from Mesopotamia do we still use today?", "How did their writing system influence later cultures?"]
+      "explanation": "The land was called 'Fertile Crescent' because it had rich soil for farming (fertile) and the area on a map was shaped like a crescent.",
+      "opinionPrompts": ["What made the land fertile?", "How did the rivers help people settle there?"]
     }
   ],
 
