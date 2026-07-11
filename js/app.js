@@ -399,5 +399,43 @@ function closeQuiz() {
   currentQuiz = null;
 }
 
+// ===================== FONT SIZE CONTROL =====================
+let currentFontSize = parseInt(localStorage.getItem('fontSize') || '18');
+
+function updateFontSize() {
+  const textContent = document.querySelectorAll('.text-content, .text-content p');
+  textContent.forEach(el => {
+    el.style.fontSize = currentFontSize + 'px';
+  });
+  document.getElementById('fontLabel').textContent = currentFontSize + 'px';
+  localStorage.setItem('fontSize', currentFontSize);
+}
+
+function initFontSizeControl() {
+  const minusBtn = document.getElementById('fontMinus');
+  const plusBtn = document.getElementById('fontPlus');
+
+  if (minusBtn) {
+    minusBtn.addEventListener('click', () => {
+      if (currentFontSize > 14) {
+        currentFontSize -= 2;
+        updateFontSize();
+      }
+    });
+  }
+
+  if (plusBtn) {
+    plusBtn.addEventListener('click', () => {
+      if (currentFontSize < 28) {
+        currentFontSize += 2;
+        updateFontSize();
+      }
+    });
+  }
+
+  updateFontSize();
+}
+
 // Start
 loadBook();
+initFontSizeControl();

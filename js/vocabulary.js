@@ -26,10 +26,8 @@ const VocabularyModule = (() => {
         wrapper.querySelectorAll('.vocab-tab').forEach(t => t.classList.remove('active'));
         tab.classList.add('active');
         wrapper.querySelectorAll('.vocab-subpanel').forEach(p => p.classList.remove('active'));
-        wrapper.querySelector(`#${tab.id.replace('tab-btn', 'Panel')}`)?.classList.add('active');
         // Fix: map data-vtab to panel id
         const vtab = tab.dataset.vtab;
-        wrapper.querySelectorAll('.vocab-subpanel').forEach(p => p.classList.remove('active'));
         if (vtab === 'wordwall') wrapper.querySelector('#vwPanel').classList.add('active');
         if (vtab === 'matching') wrapper.querySelector('#vmPanel').classList.add('active');
         if (vtab === 'context') wrapper.querySelector('#vcPanel').classList.add('active');

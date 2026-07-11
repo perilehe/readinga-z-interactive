@@ -60,10 +60,28 @@ const TypingModule = (() => {
     // Input
     const input = document.createElement('textarea');
     input.style.cssText = 'width:100%;min-height:80px;padding:14px;border:2px solid #ddd;border-radius:10px;font-family:var(--font-body);font-size:1.05em;line-height:1.8;resize:vertical;';
-    input.placeholder = 'Start typing...';
+    input.placeholder = 'Start typing... (Press Enter to submit)';
     input.addEventListener('input', () => {
       if (!timerStart && !finished && input.value.length > 0) startTimer();
       handleTyping(input, sentence, wrapper);
+    });
+    input.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter' && !finished && input.value.length > 0) {
+        e.preventDefault();
+        // Submit with current accuracy
+        const typed = input.value;
+        const target = sentence.text;
+        const comparison = compare(typed, target);
+        let correct = 0, errors = 0;
+        comparison.forEach(item => {
+          if (item.correct) correct++;
+          else errors++;
+        });
+        const elapsed = (Date.now()-timerStart)/1000/60;
+        const wpm = elapsed > 0 ? Math.round((correct/5)/elapsed) : 0;
+        const acc = (correct+errors) > 0 ? Math.round(correct/(correct+errors)*100) : 100;
+        finish(wpm, acc, (Date.now()-timerStart)/1000, wrapper);
+      }
     });
     wrapper.appendChild(input);
 
@@ -160,7 +178,8 @@ const TypingModule = (() => {
     let grade='', color='';
     if (wpm>=40&&acc>=95){grade='⭐⭐⭐ Excellent!';color='var(--correct-text)';}
     else if(wpm>=25&&acc>=85){grade='⭐⭐ Great!';color='#f57f17';}
-    else{grade='⭐ Good effort!';color='#666';}
+    else if(acc>=70){grade='⭐ Good effort!';color='#666';}
+    else{grade='💪 Keep practicing!';color='#999';}
 
     result.innerHTML = `
       <div style="background:white;padding:20px;border-radius:10px;border:2px solid var(--primary);font-family:var(--font-ui);">
@@ -176,7 +195,8 @@ const TypingModule = (() => {
         </div>
       </div>
     `;
-    if (wpm>=20&&acc>=80) { StarSystem.earn(`typing-${currentIdx}`); if(typeof updateAllTabStars==='function') updateAllTabStars(); }
+    // Give star if accuracy >= 70%
+    if (acc>=70) { StarSystem.earn(`typing-${currentIdx}`); if(typeof updateAllTabStars==='function') updateAllTabStars(); }
     wrapper.querySelector('#tNext').addEventListener('click', () => { currentIdx++; renderSentence(wrapper.closest('.activity-layout').parentElement || document.getElementById('mainContent')); });
     wrapper.querySelector('#tRetry').addEventListener('click', () => renderSentence(wrapper.closest('.activity-layout').parentElement || document.getElementById('mainContent')));
   }
