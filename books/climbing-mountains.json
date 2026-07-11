@@ -1,0 +1,154 @@
+{
+  "meta": {
+    "id": "climbing-mountains",
+    "title": "Climbing Mountains: An Interview with Erik Weihenmayer",
+    "level": "W",
+    "author": "Kathie Lester",
+    "focusQuestion": "How has Erik Weihenmayer overcome blindness to become a world-class mountain climber?"
+  },
+  "activities": ["read", "sequence", "evidence", "vocabulary", "typing"],
+  "sections": [
+    {
+      "id": "intro",
+      "title": "About Erik",
+      "paragraphs": [
+        "Erik Weihenmayer, 36 years old, has climbed the Seven Summits, the highest peaks on each of the seven continents. He was born with a genetic condition that caused him to lose his sight by age 13.",
+        "Interviewer: Can you see at all, or is everything black? Erik: It's your eyes that go blind, not your brain, so I imagine an outline or shades of color. If I hear someone talking, I imagine a face and a body.",
+        "Interviewer: Is it like how I picture people when I talk to them on the phone? Erik: Exactly. It's a fuzzy outline of things that my brain fills in so I understand the shape of the world.",
+        "Interviewer: How did you feel when you lost your sight? Erik: Like a raccoon that's been cornered—I didn't know what to do or who to turn to. I just panicked. I didn't know what would happen to me as a result of being blind, just that everything seemed harder. I had a lot of fears, and a lot of anger bubbled beneath the surface; but I gradually realized I had to accept it. Rock climbing was one of the ways I renewed myself."
+      ]
+    },
+    {
+      "id": "learning",
+      "title": "How Erik Learned to Climb",
+      "paragraphs": [
+        "Interviewer: How did you learn to rock climb? Erik: At first someone gave me detailed instructions like \"reach right\" and \"put your foot farther left,\" but now I climb much more independently by feeling the cracks and pockets in the rock.",
+        "Interviewer: What does mountain climbing mean to you? Erik: The scenery is exciting—the sounds, how the rock feels under my hands, the sun in my face, the ways the ground changes under my feet. It's exciting to challenge the environment with my team, using my skill and endurance, bringing uncontrollable situations under control.",
+        "Interviewer: How did you get started in climbing? Erik: The Carroll Center for the Blind had an activities program for blind kids. Blind kids can't participate in team ball sports, so when they took us rock climbing, I knew I'd found something I could do that was really exciting."
+      ]
+    },
+    {
+      "id": "iceclimbing",
+      "title": "Ice Climbing",
+      "paragraphs": [
+        "When I climb vertical ice—frozen walls of ice that look like waterfalls—I kick into the ice with crampons, which are sharp points on the toes of my boots. I stand up high on the toes of my boots and swing my ice tools into the ice, and then I hang from the ice tools and pull myself up. I don't have to see where I'm swinging.",
+        "Sighted climbers look for blue ice because white ice is rotten, but I can tell if it's rotten by tapping the ice with the tools and listening to the sound and the vibration."
+      ]
+    },
+    {
+      "id": "navigation",
+      "title": "How Erik Navigates",
+      "paragraphs": [
+        "Interviewer: Please describe how you know where you're going when mountain climbing. Erik: When I'm hiking, I follow somebody who has a bell tied to his pack. I use long trekking poles to feel the terrain in front of me. When I find a place I want to step, I lean on that pole and take a step, and then I scan with the other pole. It sounds slow, but it's not; I can hike as fast as anyone.",
+        "When we go up nearly vertical snow in deep gullies called couloirs, I kick the toes of my boots into the snow and take one step at a time, and I swing an ice ax into the snow. I'm feeling my way up slowly just like everyone else.",
+        "Interviewer: Can you take the lead climbing on a mountain? Erik: I can lead a climb on rocks by touch when we're climbing a vertical crack or pockets.",
+        "Interviewer: But you don't lead when you're crossing areas where there are crevasses? Erik: On very narrow snow bridges that go over crevasses, I would need to be able to see in order to line up the best route. On a big mountain, I'm usually roped to two other people, and I follow someone."
+      ]
+    },
+    {
+      "id": "moments",
+      "title": "Funniest and Scariest Moments",
+      "paragraphs": [
+        "Interviewer: What is the funniest thing that ever happened to you while climbing? Erik: About a half hour before we summited Mt. McKinley, we radioed down to the village. When we reached the top, my dad, wife, and two brothers were flying above us in a small plane. We waved our ski poles, all wearing red suits, looking identical to each other. My friend said, \"Yeah, you're the only one waving your ski pole in the wrong direction.\"",
+        "Interviewer: What is the scariest thing? Erik: My idea of climbing is to keep it boring. I've fallen in crevasses when snow bridges have collapsed. Once when I was on a lead climb, a piece of gear popped out of the rock, causing me to fall about 25 feet and dangle at the end of my rope. Once I was hanging on some ice while an avalanche poured down over my head."
+      ]
+    },
+    {
+      "id": "everest",
+      "title": "Summiting Everest",
+      "paragraphs": [
+        "Interviewer: Can you describe what it is like to be on top of Mount Everest? Erik: When you get to the summit, it's done—it's over. What's exciting to me is the planning, building a team, and getting prepared the best I can. You stand on the summit for 20 minutes at the most. On top of a mountain, the sound changes, because there's sky above and around you, and the sound vibrations move forever.",
+        "Ninety percent of climbing accidents happen on the way down. Edmund Hillary, the first man to climb Mount Everest, said it only counts if you get down."
+      ]
+    },
+    {
+      "id": "otheractivities",
+      "title": "Guide Dogs and Other Sports",
+      "paragraphs": [
+        "Interviewer: Do you have a guide dog? Erik: Yes, I've had three German shepherds. My first dog, when I was 16, was Wizard; my second, Seigo, is retired; and I've had my third dog, Willa, for about a year. If I come out of a movie theater and say, \"Find the car,\" she'll bring me right to our car when there are 100 cars in the parking lot.",
+        "Interviewer: Do you do other extreme sports? Erik: I tandem bike. I've done adventure races, where you mountain bike, kayak, raft, rock climb, hike, and canoe. In the Primal Quest, the toughest adventure race in the world, we were one of 42 teams to finish out of 80 teams that started."
+      ]
+    },
+    {
+      "id": "tibet",
+      "title": "Tibet Trip",
+      "paragraphs": [
+        "Interviewer: Tell me about your upcoming trip to Tibet. Erik: A German lady named Sabriye Tenberken traveled to Tibet, where she found blind kids who were four years old and hadn't even learned to walk. She started a school for the blind that now teaches 39 kids who were outcasts six or seven years ago. Now they're walking with their canes through the city of Lhasa, learning Braille in three different languages.",
+        "We thought it'd be cool to take six of her most fit, motivated kids up a peak called Lhakpa Ri that's just north of Mount Everest. We trained them for three weeks for a month-long trip. One day we went over a big 17,500-foot mountain pass. It was storming—one was throwing up, and one fell into a river. They all passed, so we think they're ready."
+      ]
+    },
+    {
+      "id": "message",
+      "title": "Erik's Message",
+      "paragraphs": [
+        "Interviewer: What's your message for other people who are facing difficult challenges? Erik: When a blind person stands on top of a mountain, it makes people reconsider what they think is possible. People think less about what they can't do and more about what they might be able to do.",
+        "I've learned from the mountains that you don't have to be the fastest, or the smartest, or the most popular, or the person with the best eyesight to be a leader. You need some skill, but you also need a vision of who you are and what kind of person you want to be. Then you need a lot of courage to carry it through.",
+        "Climbers call it \"taking the sharp end of the rope,\" which means actually getting out there and climbing. When I think about leadership, it's about taking the sharp end—it shows in your decisions rather than in your words."
+      ]
+    }
+  ],
+  "vocabulary": [
+    {"word":"avalanche","pos":"n.","definition":"a large mass of snow and ice sliding down a mountain","section":"moments","sentence":"Once I was hanging on some ice while an avalanche poured down over my head.","quiz":{"prompt":"An \"avalanche\" is:","options":["a type of boot","a large mass of snow and ice sliding down a mountain","a deep crack in ice","a climbing rope"],"answer":1}},
+    {"word":"Braille","pos":"n.","definition":"a system of printing for the blind that uses raised dots for letters","section":"tibet","sentence":"Now they're walking with their canes through the city of Lhasa, learning Braille in three different languages.","quiz":{"prompt":"\"Braille\" is:","options":["a mountain peak","a system of printing for the blind that uses raised dots for letters","a type of climbing gear","a guide dog breed"],"answer":1}},
+    {"word":"couloirs","pos":"n.","definition":"open, deep gorges or gullies usually containing snow or ice","section":"navigation","sentence":"When we go up nearly vertical snow in deep gullies called couloirs, I kick the toes of my boots into the snow.","quiz":{"prompt":"\"Couloirs\" are:","options":["types of rope","open, deep gorges or gullies usually containing snow or ice","sharp metal spikes","frozen waterfalls"],"answer":1}},
+    {"word":"crampons","pos":"n.","definition":"metal spikes attached to the bottom of boots to allow firm walking on snow or ice","section":"iceclimbing","sentence":"I kick into the ice with crampons, which are sharp points on the toes of my boots.","quiz":{"prompt":"\"Crampons\" are:","options":["ice tools for swinging","metal spikes attached to boots for walking on snow or ice","type of guide dog","a mountain peak"],"answer":1}},
+    {"word":"crevasses","pos":"n.","definition":"deep cracks, especially in glacier ice","section":"navigation","sentence":"On very narrow snow bridges that go over crevasses, I would need to be able to see in order to line up the best route.","quiz":{"prompt":"\"Crevasses\" are:","options":["types of snow","deep cracks, especially in glacier ice","frozen waterfalls","metal climbing gear"],"answer":1}},
+    {"word":"documentary","pos":"n.","definition":"film that dramatically shows factual events","section":"tibet","sentence":"I often speak to schools and show our Everest documentary.","quiz":{"prompt":"A \"documentary\" is:","options":["a type of mountain","a film that dramatically shows factual events","a climbing competition","a guide dog"],"answer":1}},
+    {"word":"echolocation","pos":"n.","definition":"a way of locating objects by sending out a sound and measuring how long it takes to bounce back","section":"navigation","sentence":"Echolocation helps Erik understand the shape of the world around him.","quiz":{"prompt":"\"Echolocation\" is:","options":["a way of locating objects by sending out a sound and measuring how long it takes to bounce back","a type of climbing boot","a mountain navigation system","a guide dog command"],"answer":0}},
+    {"word":"endurance","pos":"n.","definition":"the ability to make it through suffering and strain","section":"learning","sentence":"It's exciting to challenge the environment with my team, using my skill and endurance.","quiz":{"prompt":"\"Endurance\" means:","options":["the ability to make it through suffering and strain","a type of mountain boot","the speed of climbing","a climbing technique"],"answer":0}},
+    {"word":"genetic","pos":"adj.","definition":"having to do with heredity and variation of living things","section":"intro","sentence":"He was born with a genetic condition that caused him to lose his sight by age 13.","quiz":{"prompt":"\"Genetic\" means:","options":["having to do with heredity and variation of living things","related to mountains","a type of weather","a climbing technique"],"answer":0}},
+    {"word":"outcasts","pos":"n.","definition":"people who are rejected by society","section":"tibet","sentence":"She started a school for the blind that now teaches 39 kids who were outcasts six or seven years ago.","quiz":{"prompt":"\"Outcasts\" are:","options":["people who are rejected by society","expert mountain climbers","guide dogs","famous leaders"],"answer":0}},
+    {"word":"terrain","pos":"n.","definition":"the characteristics of a piece of land","section":"navigation","sentence":"I use long trekking poles to feel the terrain in front of me.","quiz":{"prompt":"\"Terrain\" is:","options":["a type of boot","the characteristics of a piece of land","a climbing rope","a mountain peak"],"answer":1}},
+    {"word":"vibration","pos":"n.","definition":"a rapid back and forth movement","section":"iceclimbing","sentence":"I can tell if it's rotten by tapping the ice with the tools and listening to the sound and the vibration.","quiz":{"prompt":"\"Vibration\" is:","options":["a type of rope","a rapid back and forth movement","a mountain peak","a kind of boot"],"answer":1}}
+  ],
+  "sequenceEvents": [
+    {"event":"Erik was born with a genetic condition that would cause progressive sight loss.","year":"Birth","detail":"Born with genetic condition","order":1},
+    {"event":"Erik lost his sight completely and felt like a cornered raccoon — panicked and angry.","year":"Age 13","detail":"Lost his sight completely","order":2},
+    {"event":"Erik got his first guide dog, Wizard, a German shepherd.","year":"Age 16","detail":"First guide dog: Wizard","order":3},
+    {"event":"Erik discovered rock climbing through the Carroll Center for the Blind activities program.","year":"Teen years","detail":"Found rock climbing at Carroll Center","order":4},
+    {"event":"Erik climbed the Seven Summits — the highest peaks on all seven continents.","year":"By age 36","detail":"Completed Seven Summits","order":5},
+    {"event":"Erik summited Mount Everest (29,035 feet), the highest peak in the world.","year":"Part of Seven Summits","detail":"Everest: 29,035 feet","order":6},
+    {"event":"Erik completed a five-day adventure race across Greenland.","year":"Adult","detail":"5-day race across Greenland","order":7},
+    {"event":"Erik finished the Primal Quest, the toughest adventure race in the world (42 of 80 teams finished).","year":"Adult","detail":"Primal Quest finisher","order":8},
+    {"event":"Erik got his third guide dog, Willa, because he had a young daughter, Emma.","year":"About age 35","detail":"Third guide dog: Willa","order":9},
+    {"event":"Erik trained six blind Tibetan teenagers for three weeks to climb Lhakpa Ri (23,100 ft) near Everest.","year":"2004","detail":"Trained Tibetan blind teens","order":10}
+  ],
+  "questions": [
+    {"id":"q1","level":1,"question":"How does Erik's sense of touch help him?","section":"iceclimbing","pages":"7-8","evidence":"I climb much more independently by feeling the cracks and pockets in the rock when climbing. I can tell if ice is rotten by tapping the ice with the tools and listening to the sound and the vibration.","choices":["All of the above — he feels cracks in rocks, changes in the ground when hiking, and vibrations in ice.","He can only tie knots.","He can only feel wind direction.","He can only hold onto ropes."],"correctChoice":0,"explanation":"Erik uses touch for everything: feeling cracks and pockets in rock, sensing ground changes when hiking, and detecting rotten ice through vibration."},
+    {"id":"q2","level":1,"question":"What does endurance mean?","section":"learning","pages":"6","evidence":"It's exciting to challenge the environment with my team, using my skill and endurance, bringing uncontrollable situations under control.","choices":["The ability to make it through suffering and strain.","Being able to climb mountains quickly.","Being able to sense vibrations from objects.","A special type of climbing boot."],"correctChoice":0,"explanation":"Endurance means the ability to push through suffering and strain — both physical and mental."},
+    {"id":"q3","level":2,"question":"How does Erik's sense of hearing help him?","section":"iceclimbing","pages":"7","evidence":"I can tell if it's rotten by tapping the ice with the tools and listening to the sound and the vibration. Sighted climbers look for blue ice because white ice is rotten, but I can tell by the sound.","choices":["He can identify rotten ice by tapping it and listening to the vibration and sound.","He can hear ice waterfalls.","He can find cracks in rocks by listening.","He can tell if a snow bridge will break by the sound."],"correctChoice":0,"explanation":"Erik taps the ice and listens to the sound and vibration to determine if it's rotten (white) or solid (blue)."},
+    {"id":"q4","level":2,"question":"Why would 90 percent of all climbing accidents happen on the way down the mountain?","section":"everest","pages":"14","evidence":"Ninety percent of climbing accidents happen on the way down. You're tired, and you don't want to trip and fall down the mountain.","choices":["The climbers are tired after the summit and must be extra careful on the descent.","It is harder to climb down than up.","There are more dangers on the descent.","Both A and C — tired climbers and more dangers going down."],"correctChoice":3,"explanation":"After summiting, climbers are exhausted and the descent has its own dangers — tired climbers are more likely to trip and fall."},
+    {"id":"q5","level":3,"question":"Why would Erik say he wants to keep climbing 'boring'?","section":"moments","pages":"13","evidence":"My idea of climbing is to keep it boring. I've fallen in crevasses when snow bridges have collapsed...","choices":[],"correctChoice":-1,"explanation":"Erik wants climbing to be 'boring' because boring means SAFE — no avalanches, no falls, no crevasse collapses. Excitement in climbing usually means danger!",
+      "opinionPrompts":["What does 'boring' mean in climbing?","How does this connect to Erik's experience with danger?"]},
+    {"id":"q6","level":3,"question":"What effect did Erik's climbing have on blind Tibetan teenagers?","section":"tibet","pages":"17-18","evidence":"We think this project will create leaders out of these kids and give them a sense of their lives being full of possibilities. We also think it's a message to the world about what people are capable of.","choices":[],"correctChoice":-1,"explanation":"Erik believes climbing will transform blind Tibetan kids from outcasts into leaders, showing them — and the world — that blind people are capable of extraordinary things.",
+      "opinionPrompts":["How did the teenagers change?","What message does this send to the world?"]}
+  ],
+  "notes": {
+    "intro": [
+      {"type":"vocab","title":"Genetic","content":"Having to do with heredity — traits passed from parents to children. Erik's blindness was genetic."},
+      {"type":"grammar","title":"Sequence Events","content":"Signal words like 'first', 'then', 'after', 'by age 13' help you put events in order. Look for DATES and TIMES!"}
+    ],
+    "learning": [
+      {"type":"vocab","title":"Endurance","content":"The ability to keep going through suffering and strain. Erik needed endurance for long climbs!"}
+    ],
+    "iceclimbing": [
+      {"type":"vocab","title":"Crampons","content":"Metal spikes on boots for walking on ice. Erik kicks them into frozen waterfalls!"},
+      {"type":"vocab","title":"Vibration","content":"A rapid back and forth movement. Erik taps ice and LISTENS to the vibration to find rotten ice!"}
+    ],
+    "navigation": [
+      {"type":"vocab","title":"Crevasses","content":"Deep cracks in glacier ice. Erik follows others when crossing snow bridges over crevasses because he needs to SEE them!"},
+      {"type":"vocab","title":"Couloirs","content":"Deep gullies filled with snow or ice. Erik kicks his boots into the snow to climb these!"}
+    ],
+    "moments": [
+      {"type":"vocab","title":"Avalanche","content":"A large mass of snow and ice sliding down a mountain. Erik was once pelted with ice from one!"}
+    ],
+    "everest": [
+      {"type":"grammar","title":"Past vs Present Tense","content":"'Erik CLIMBED Everest' = past tense (already happened). 'Erik CLIMBS mountains' = present tense (still true now). Which tense does Erik use when talking about the past vs. today?"}
+    ],
+    "tibet": [
+      {"type":"vocab","title":"Outcasts","content":"People rejected by society. The blind Tibetan kids were outcasts before Sabriye's school changed their lives!"},
+      {"type":"vocab","title":"Braille","content":"A printing system for blind people using raised dots. Erik reads and writes Braille!"}
+    ],
+    "message": []
+  }
+}

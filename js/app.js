@@ -16,7 +16,8 @@ const MODULE_REGISTRY = {
   typing:         { icon: '⌨️', label: 'Typing',       moduleName: 'TypingModule' },
   authorPurpose:  { icon: '🎯', label: 'Purpose',      moduleName: 'AuthorPurposeModule' },
   kwls:           { icon: '📊', label: 'KWLS',         moduleName: 'KwlsModule' },
-  pronoun:        { icon: '🔤', label: 'Pronouns',     moduleName: 'PronounModule' }
+  pronoun:        { icon: '🔤', label: 'Pronouns',     moduleName: 'PronounModule' },
+  problemSolution:{ icon: '🔍', label: 'Problem',      moduleName: 'ProblemSolutionModule' }
 };
 
 // Lazy lookup — modules are loaded after app.js
@@ -95,6 +96,9 @@ function calculateTotalStars(activities) {
         break;
       case 'pronoun':
         total += (bookData.pronounAgreement || []).length;
+        break;
+      case 'problemSolution':
+        total += (bookData.problemSolution || []).length;
         break;
     }
   });
@@ -308,6 +312,11 @@ function getModuleStars(act) {
       return {
         earned: StarSystem.getSectionStars('pronoun-'),
         total: (bookData.pronounAgreement || []).length
+      };
+    case 'problemSolution':
+      return {
+        earned: StarSystem.getSectionStars('ps-'),
+        total: (bookData.problemSolution || []).length
       };
     default:
       return { earned: 0, total: 0 };

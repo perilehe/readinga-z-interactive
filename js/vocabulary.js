@@ -66,7 +66,7 @@ const VocabularyModule = (() => {
     wrapperDiv.style.cssText = 'position:relative;padding:10px 0;';
 
     const svg = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
-    svg.style.cssText = 'position:absolute;top:0;left:0;width:100%;height:100%;pointer-events:none;z-index:5;';
+    svg.style.cssText = 'position:absolute;top:0;left:0;width:100%;height:100%;pointer-events:none;z-index:5;overflow:visible;';
     wrapperDiv.appendChild(svg);
 
     const grid = document.createElement('div');
@@ -83,7 +83,9 @@ const VocabularyModule = (() => {
     let pairs = [];
 
     function drawLine(wEl, dEl, color, dash) {
+      // Ensure SVG viewBox matches wrapper dimensions
       const r = wrapperDiv.getBoundingClientRect();
+      svg.setAttribute('viewBox', `0 0 ${r.width} ${r.height}`);
       const wr = wEl.getBoundingClientRect();
       const dr = dEl.getBoundingClientRect();
       const line = document.createElementNS('http://www.w3.org/2000/svg', 'line');
@@ -95,7 +97,6 @@ const VocabularyModule = (() => {
       line.setAttribute('stroke-width', '2.5');
       if (dash) line.setAttribute('stroke-dasharray', '6,4');
       svg.appendChild(line);
-      console.log('Drawing line:', { wEl: wEl.textContent, dEl: dEl.textContent.substring(0, 30), color });
       return line;
     }
 
@@ -116,14 +117,12 @@ const VocabularyModule = (() => {
     wordsCol.addEventListener('click', (e) => {
       const el = e.target.closest('.match-word');
       if (!el) return;
-      console.log('Word clicked:', el.dataset.word);
       if (el.classList.contains('locked')) return;
       const existing = pairs.find(p => p.wEl === el);
       if (existing) { existing.line.remove(); el.classList.remove('paired','selected'); existing.dEl.classList.remove('paired','selected'); pairs = pairs.filter(p => p !== existing); selectedWordEl = null; return; }
       wordsCol.querySelectorAll('.match-word').forEach(w => { if (!w.classList.contains('locked') && !w.classList.contains('paired')) w.classList.remove('selected'); });
       el.classList.add('selected');
       selectedWordEl = el;
-      console.log('Selected word:', el.dataset.word);
     });
 
     shuffledD.forEach(v => {
@@ -138,7 +137,6 @@ const VocabularyModule = (() => {
     defsCol.addEventListener('click', (e) => {
       const el = e.target.closest('.match-definition');
       if (!el) return;
-      console.log('Definition clicked:', el.dataset.word, 'selectedWordEl:', selectedWordEl ? selectedWordEl.dataset.word : 'none');
       if (el.classList.contains('locked') || !selectedWordEl) return;
       const existing = pairs.find(p => p.dEl === el);
       if (existing) { existing.line.remove(); existing.wEl.classList.remove('paired','selected'); el.classList.remove('paired','selected'); pairs = pairs.filter(p => p !== existing); return; }
@@ -148,7 +146,6 @@ const VocabularyModule = (() => {
       el.classList.add('paired');
       pairs.push({ wEl: selectedWordEl, dEl: el, word: selectedWordEl.dataset.word, line, locked: false });
       selectedWordEl = null;
-      console.log('Pair created, total pairs:', pairs.length);
     });
 
     grid.appendChild(wordsCol);

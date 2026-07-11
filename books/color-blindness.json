@@ -1,0 +1,166 @@
+{
+  "meta": {
+    "id": "color-blindness",
+    "title": "Color Blindness",
+    "level": "W",
+    "author": "Cheryl Reifsnyder",
+    "focusQuestion": "What causes color blindness, and how can it affect a person's life?"
+  },
+  "activities": ["read", "evidence", "summarize", "authorPurpose", "vocabulary", "typing"],
+  "sections": [
+    {
+      "id": "intro",
+      "title": "What Colors Do You See?",
+      "paragraphs": [
+        "Imagine looking at a box of crayons and seeing only shades of gray, blue, and yellow, or looking at a traffic signal on which the red and green lights look very similar. That's how the world can appear to someone who is color-blind. As you can imagine, this can cause problems!",
+        "Color blindness is the world's most common genetic disorder, affecting more than ten million people in the United States alone. Despite its name, though, color blindness does not cause blindness. Most people affected by color blindness can still see some colors. Color blindness simply means the inability or decreased ability to see certain colors."
+      ]
+    },
+    {
+      "id": "wavelengths",
+      "title": "Where Do Colors Come From?",
+      "paragraphs": [
+        "It's easier to understand color blindness when you realize that colors are actually different wavelengths of light. If you use a prism to separate white light into a rainbow, you're actually separating it into its different wavelengths. The red end of the spectrum contains longer wavelengths of light while shorter wavelengths of light are at the purple end.",
+        "Objects appear to be different colors because they absorb and reflect different wavelengths of light. A strawberry looks red because it reflects long (red) wavelengths. If it instead reflected short wavelengths of light, it would look blue!"
+      ]
+    },
+    {
+      "id": "howvision",
+      "title": "How Color Vision Works",
+      "paragraphs": [
+        "Humans see colors because light-detecting cells in our eyes respond differently to different wavelengths of light.",
+        "When light enters one of your eyes, the lens focuses it on the retina, a thin layer of tissue at the back of the eyeball. There it activates light-sensitive cells, called rod cells and cone cells. Activated cells send electrical signals to the brain, where they are translated into images."
+      ]
+    },
+    {
+      "id": "rodscones",
+      "title": "Rods and Cones",
+      "paragraphs": [
+        "Rod cells are the most sensitive cells in your retina. They allow you to see in extremely dim light, but they can't tell different colors apart. Cone cells are responsible for color vision. Each cell contains one of three different light-absorbing molecules, called photopigments, found which detect blue, green, or red light. Combining these three main colors allows you to see thousands of colors. When one or more photopigments aren't functioning properly, though, color blindness results."
+      ]
+    },
+    {
+      "id": "types",
+      "title": "Different Types of Color Blindness",
+      "paragraphs": [
+        "Red-green color blindness, which causes difficulty when it comes to telling the difference between red and green, is the most common type of color vision problem. It's hereditary, found most often in people of northern European ancestry. It's also more common in men, of which it affects one out of twelve, than in women, of which it affects only one in two hundred.",
+        "Red-green color blindness is usually caused by defects in the green photopigment. Without the green photopigment, green and yellow objects appear reddish in color. Defects in the red photopigment also cause red-green color blindness. In this case, red, orange, and yellow objects appear green or black.",
+        "Blue-yellow color blindness occurs when the blue photopigment is defective or missing. It's fairly rare, only occurring in about one out of every ten thousand people worldwide. Unlike red-green color blindness, it's equally common in men and women.",
+        "Complete color blindness is the most severe form of color blindness. It occurs when there are defects in two or more of the three types of cones. People who are missing two or more types of cones tend to be extra-sensitive to light. They may also have difficulty seeing clearly, especially in bright light.",
+        "Only about one out of thirty thousand people worldwide are missing all three types of cones. People who lack any functioning cone cells see the world in shades of black, white, and gray."
+      ]
+    },
+    {
+      "id": "effects",
+      "title": "Color Blindness Is No Joke",
+      "paragraphs": [
+        "Color blindness can cause serious problems. People who are color-blind have trouble reading color-coded information on maps, graphs, and charts. Children with color blindness may have trouble in school, especially if their color blindness has not been diagnosed. Red-green color blindness makes it difficult to read yellow chalk on a green chalkboard.",
+        "Color blindness can also cause safety issues. Fire hydrants, car warning lights, and emergency equipment are often colored red or yellow to make them more visible. These bright colors may be obvious to those with full-color vision but unnoticeable to those who are color-blind.",
+        "Color blindness can even limit a person's career options. Some positions, such as geologist or commercial airline pilot, require full-color vision. Other careers, such as interior design, photography, and food inspection, are significantly more difficult with color vision defects."
+      ]
+    },
+    {
+      "id": "testing",
+      "title": "Testing for Color Blindness",
+      "paragraphs": [
+        "The Ishihara Test is the most common test for red-green color vision problems. It uses images made up of dots that are different sizes and colors. People with full-color vision can see numbers or shapes inside the pictures. People with red-green color blindness find it difficult or impossible to identify the hidden symbols.",
+        "Other, similar tests are used to detect yellow-blue color blindness."
+      ]
+    },
+    {
+      "id": "tools",
+      "title": "Tools to Help Color-Blind People",
+      "paragraphs": [
+        "Currently, there's no known cure for color blindness. However, modern technology has led to the development of many new tools to help people who are color-blind. Smartphone apps perform tasks such as identifying colors and recommending complementary colors.",
+        "Some smartphone apps can only identify colors after the user snaps a photo, but others can analyze them in the camera's viewfinder without requiring the user to take a photo first. This lets users identify colors in real time.",
+        "Researchers have also created high-tech tinted lenses that filter out specific wavelengths of light. Special sunglasses that use these lenses allow people with red-green color blindness to distinguish between the two colors."
+      ]
+    },
+    {
+      "id": "treating",
+      "title": "Treating Color Blindness",
+      "paragraphs": [
+        "Although no true treatment for color blindness currently exists, that may soon change. In recent experiments, scientists were able to correct red-green color blindness in squirrel monkeys. The monkeys lacked the red photopigment and, as a result, couldn't tell the difference between red and green. Researchers engineered a specially constructed virus to insert the red photopigment gene into the monkeys' green cone cells. Within about twenty weeks, treated monkeys could distinguish between red and green dots.",
+        "This was exciting news! The monkeys had been color-blind since birth. Many doctors and scientists had predicted that it would be impossible to correct their color blindness because the monkeys' brains would not have developed the connections needed to interpret color information.",
+        "Now that we know that color blindness can be cured in adult squirrel monkeys, there's hope for a cure in adult humans, too."
+      ]
+    },
+    {
+      "id": "future",
+      "title": "Color Vision for All?",
+      "paragraphs": [
+        "Every year, researchers gain a better understanding of color blindness and its causes. New tools help color-blind people choose ripe fruit and pick out matching clothes. People with red-green color blindness can use special glasses to allow them to tell the difference between shades of red and green.",
+        "Best of all, a treatment for color blindness may be available in the near future. Maybe someday soon, color blindness will become a thing of the past!"
+      ]
+    }
+  ],
+  "vocabulary": [
+    {"word":"ancestry","pos":"n.","definition":"family members and relations from past times","section":"types","sentence":"It's hereditary, found most often in people of northern European ancestry.","quiz":{"prompt":"\"Ancestry\" means:","options":["a type of eye cell","family members and relations from past times","a medical condition","a way of testing vision"],"answer":1}},
+    {"word":"complementary","pos":"adj.","definition":"serving to complete, balance, or improve something else","section":"tools","sentence":"Smartphone apps perform tasks such as identifying colors and recommending complementary colors.","quiz":{"prompt":"\"Complementary\" means:","options":["opposite and conflicting","serving to complete, balance, or improve something else","expensive and rare","hard to understand"],"answer":1}},
+    {"word":"cone cells","pos":"n.","definition":"cells in the eye's retina that are color sensitive and work best in bright light","section":"rodscones","sentence":"Cone cells are responsible for color vision.","quiz":{"prompt":"\"Cone cells\" are:","options":["cells that see in dim light","cells in the retina that are color sensitive and work best in bright light","cells that send sound to the brain","cells in the skin"],"answer":1}},
+    {"word":"defects","pos":"n.","definition":"weaknesses, imperfections, or failures","section":"types","sentence":"Red-green color blindness is usually caused by defects in the green photopigment.","quiz":{"prompt":"\"Defects\" are:","options":["improvements and strengths","weaknesses, imperfections, or failures","types of medicine","kinds of tests"],"answer":1}},
+    {"word":"genetic disorder","pos":"n.","definition":"an inherited physical condition that is caused by a problem in one or more genes","section":"intro","sentence":"Color blindness is the world's most common genetic disorder.","quiz":{"prompt":"A \"genetic disorder\" is:","options":["a condition caused by eating bad food","an inherited condition caused by a problem in one or more genes","a type of eye surgery","a condition caused by bright lights"],"answer":1}},
+    {"word":"hereditary","pos":"adj.","definition":"of or relating to genetic traits passed from parents to offspring","section":"types","sentence":"It's hereditary, found most often in people of northern European ancestry.","quiz":{"prompt":"\"Hereditary\" means:","options":["caused by pollution","of or relating to genetic traits passed from parents to offspring","common in all countries","easy to cure"],"answer":1}},
+    {"word":"molecules","pos":"n.","definition":"the smallest parts of substances that can exist by themselves, made of one or more atoms","section":"rodscones","sentence":"Each cell contains one of three different light-absorbing molecules, called photopigments.","quiz":{"prompt":"\"Molecules\" are:","options":["the smallest parts of substances that can exist by themselves","types of eye cells","kinds of light waves","special vitamins"],"answer":0}},
+    {"word":"photopigments","pos":"n.","definition":"natural compounds that undergo chemical changes when they absorb light","section":"rodscones","sentence":"Each cell contains one of three different light-absorbing molecules, called photopigments, found which detect blue, green, or red light.","quiz":{"prompt":"\"Photopigments\" are:","options":["types of sunglasses","natural compounds that undergo chemical changes when they absorb light","cells in the brain","a kind of eye test"],"answer":1}},
+    {"word":"prism","pos":"n.","definition":"a clear object that bends light so that it separates into a rainbow of colors","section":"wavelengths","sentence":"If you use a prism to separate white light into a rainbow, you're actually separating it into its different wavelengths.","quiz":{"prompt":"A \"prism\" is:","options":["a clear object that bends light so that it separates into a rainbow of colors","a type of eye cell","a medical instrument","a color blindness test"],"answer":0}},
+    {"word":"retina","pos":"n.","definition":"tissue at the back of the eye that receives images and transmits them to the brain","section":"howvision","sentence":"The lens focuses it on the retina, a thin layer of tissue at the back of the eyeball.","quiz":{"prompt":"The \"retina\" is:","options":["the front of the eye","tissue at the back of the eye that receives images and transmits them to the brain","the colored part of the eye","a type of eye surgery"],"answer":1}},
+    {"word":"rod cells","pos":"n.","definition":"cells in the eye's retina that are light sensitive and work best in dim light","section":"rodscones","sentence":"Rod cells are the most sensitive cells in your retina. They allow you to see in extremely dim light, but they can't tell different colors apart.","quiz":{"prompt":"\"Rod cells\" are:","options":["cells that detect color","cells in the retina that are light sensitive and work best in dim light","cells that send sound signals","cells that help the eye move"],"answer":1}},
+    {"word":"wavelengths","pos":"n.","definition":"the distances between the consecutive high or low points of a wave","section":"wavelengths","sentence":"Colors are actually different wavelengths of light.","quiz":{"prompt":"\"Wavelengths\" are:","options":["a type of eye surgery","the distances between the consecutive high or low points of a wave","a kind of color blindness","a type of cell in the eye"],"answer":1}}
+  ],
+  "questions": [
+    {"id":"q1","level":1,"question":"What is color blindness?","section":"intro","pages":"4","evidence":"Color blindness simply means the inability or decreased ability to see certain colors.","choices":["The inability or decreased ability to see certain colors.","A condition that causes total blindness.","An eye disease that gets worse over time.","A type of dream where you see no colors."],"correctChoice":0,"explanation":"Color blindness means you have trouble seeing certain colors, but most color-blind people can still see some colors."},
+    {"id":"q2","level":1,"question":"How does the use of a prism help explain wavelengths of light?","section":"wavelengths","pages":"5","evidence":"If you use a prism to separate white light into a rainbow, you're actually separating it into its different wavelengths.","choices":["A prism separates white light into different wavelengths, showing the colors of the rainbow.","A prism makes light disappear.","A prism changes the color of objects.","A prism makes light travel faster."],"correctChoice":0,"explanation":"A prism separates white light into its component wavelengths, each appearing as a different color of the rainbow."},
+    {"id":"q3","level":1,"question":"How are cone cells responsible for color vision?","section":"rodscones","pages":"7","evidence":"Cone cells are responsible for color vision. Each cell contains one of three different light-absorbing molecules, called photopigments, found which detect blue, green, or red light.","choices":["Each cone cell contains photopigments that detect blue, green, or red light, and combining them allows you to see thousands of colors.","Cone cells only work in darkness.","Cone cells send sound signals to the brain.","Cone cells make the pupil larger."],"correctChoice":0,"explanation":"Cone cells have three types of photopigments detecting blue, green, and red. Combining these lets us see thousands of colors."},
+    {"id":"q4","level":2,"question":"How are red-green color blindness and blue-yellow color blindness the same? How are they different?","section":"types","pages":"8-9","evidence":"Red-green color blindness...is the most common type of color vision problem. It's hereditary...more common in men. Blue-yellow color blindness occurs when the blue photopigment is defective or missing. It's fairly rare...equally common in men and women.","choices":["Both are caused by defective photopigments. Red-green is very common and more common in men; blue-yellow is rare and equally common in both sexes.","They are exactly the same.","Red-green affects women more; blue-yellow affects men more.","Neither type is hereditary."],"correctChoice":0,"explanation":"Both involve defective photopigments, but red-green is the most common type (1 in 12 men) while blue-yellow is rare (1 in 10,000) and equally affects both sexes."},
+    {"id":"q5","level":2,"question":"In what ways can color blindness cause serious problems?","section":"effects","pages":"11","evidence":"Color blindness can cause serious problems...trouble reading color-coded information...safety issues...fire hydrants, car warning lights...can even limit a person's career options.","choices":["It can cause trouble in school, create safety issues with warning lights, and limit career options.","It only affects how people see art.","It makes people completely blind.","It has no real problems."],"correctChoice":0,"explanation":"Color blindness can cause problems in school, create safety risks (fire hydrants, warning lights), and limit careers like pilot or geologist."},
+    {"id":"q6","level":3,"question":"Why is the author hopeful that a cure for color blindness will be found?","section":"treating","pages":"multiple","evidence":"In recent experiments, scientists were able to correct red-green color blindness in squirrel monkeys...Now that we know that color blindness can be cured in adult squirrel monkeys, there's hope for a cure in adult humans, too.","choices":[],"correctChoice":-1,"explanation":"Scientists cured color blindness in squirrel monkeys using gene therapy, giving hope that similar treatments could work in humans.",
+      "opinionPrompts":["What experiment gave scientists hope?","Why was curing adult monkeys surprising?"]}
+  ],
+  "authorPurpose": {
+    "purposes": ["Inform", "Entertain", "Persuade"],
+    "prompt": "What was the author's purpose for writing Color Blindness? Check all that apply and find evidence from the text.",
+    "evidencePrompts": {
+      "Inform": "Write details showing the author is giving information:",
+      "Entertain": "Write details showing the author is trying to entertain:",
+      "Persuade": "Write details showing the author is trying to persuade:"
+    },
+    "answerKey": {
+      "Inform": "The book gives detailed facts about color blindness: causes, types, effects on daily life, testing methods, and research. Example: 'Color blindness is the world's most common genetic disorder, affecting more than ten million people in the United States alone.'",
+      "Entertain": "The author uses engaging language and scenarios to keep readers interested. Example: 'Imagine looking at a box of crayons and seeing only shades of gray, blue, and yellow.' The stories about squirrel monkeys and future cures are also entertaining.",
+      "Persuade": "The author does NOT appear to be trying to persuade readers of anything. The text presents facts without trying to change opinions or behavior."
+    }
+  },
+  "summarizeActivities": [
+    {"section":"rodscones","sectionTitle":"Rods and Cones","mainIdea":"Cone cells and rod cells work together to help us see, but when photopigments malfunction, color blindness results.","keyDetails":["Rod cells are the most sensitive cells — they let you see in dim light but can't tell colors apart","Cone cells are responsible for color vision, each containing one of three photopigments","The three photopigments detect blue, green, or red light","When one or more photopigments aren't functioning properly, color blindness results"],"distractors":["Rod cells detect red and green light","Cone cells only work in complete darkness"],"transitionWords":["Rod cells","Cone cells","Each cell","When one or more"]},
+    {"section":"effects","sectionTitle":"Color Blindness Is No Joke","mainIdea":"Color blindness can cause problems in school, create safety risks, and limit career options.","keyDetails":["Color-blind people have trouble reading color-coded information on maps and charts","Safety issues arise because warning lights and fire hydrants may be unnoticeable","Some careers like pilot and geologist require full-color vision","Children may struggle in school if their condition hasn't been diagnosed"],"distractors":["Color blindness improves your night vision","All careers are equally easy for color-blind people"],"transitionWords":["Color blindness can","Safety issues","Color blindness can even","Children with"]},
+    {"section":"treating","sectionTitle":"Treating Color Blindness","mainIdea":"Although no cure exists yet, gene therapy experiments on monkeys give hope for future human treatments.","keyDetails":["Scientists corrected red-green color blindness in squirrel monkeys","They used a virus to insert the red photopigment gene into cone cells","Within twenty weeks, treated monkeys could distinguish red from green","This was surprising because doctors thought adult brains couldn't develop color connections"],"distractors":["A cure is already available for humans","The monkeys were born with normal color vision"],"transitionWords":["Although no","In recent experiments","Within about","Now that we know"]}
+  ],
+  "notes": {
+    "intro": [
+      {"type":"vocab","title":"Genetic Disorder","content":"An inherited condition caused by a problem in your genes. Color blindness is passed down from parents!"},
+      {"type":"grammar","title":"Summarize","content":"A summary tells the MOST important details: Who? What? When? Where? Why? Only the key facts!"}
+    ],
+    "wavelengths": [
+      {"type":"vocab","title":"Wavelengths","content":"The distance between the high points of a light wave. Different wavelengths = different colors!"},
+      {"type":"vocab","title":"Prism","content":"A clear object that bends light to separate it into rainbow colors. Like a crystal!"}
+    ],
+    "rodscones": [
+      {"type":"vocab","title":"Photopigments","content":"Special molecules in cone cells that absorb light and detect blue, green, or red colors."},
+      {"type":"grammar","title":"Hyphenated Compound Adjectives","content":"'light-absorbing molecules' — 'light-absorbing' is TWO words joined with a hyphen to describe 'molecules'. These are hyphenated compound adjectives!"}
+    ],
+    "types": [
+      {"type":"vocab","title":"Hereditary","content":"Passed down from parents to children through genes. Red-green color blindness is hereditary."},
+      {"type":"vocab","title":"Ancestry","content":"Your family history — where your family came from generations ago."},
+      {"type":"grammar","title":"Author's Purpose","content":"Is the author trying to INFORM you (give facts), ENTERTAIN you (tell fun stories), or PERSUADE you (change your mind)? Look for clues!"}
+    ],
+    "effects": [
+      {"type":"grammar","title":"Hyphenated Compound Adjectives","content":"'color-coded information' — 'color-coded' is two words joined with a hyphen to describe 'information'. Find more on pages 8-11!"}
+    ],
+    "tools": [
+      {"type":"vocab","title":"Complementary","content":"Serving to complete or balance something. Complementary colors go well together — like blue and orange!"}
+    ],
+    "treating": [],
+    "future": []
+  }
+}
