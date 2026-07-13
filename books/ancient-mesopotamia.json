@@ -78,7 +78,7 @@
       "sentence": "<s>The system</s> <v>made</v> <o>it easier to express abstract concepts that would be difficult to show as pictures</o>.",
       "quiz": {
         "prompt": "\"Abstract\" means:",
-        "options": ["physical and solid", "relating to an idea rather than a physical thing", "rare and valuable", "ancient and old"],
+        "options": ["something that is physical and solid and can be touched easily", "relating to an idea rather than a physical thing you can touch", "something that is rare and valuable like gold or precious gems", "something that is ancient and old from many thousands of years ago"],
         "answer": 1
       }
     },
@@ -90,7 +90,7 @@
       "sentence": "<s>A number</s> <v>became</v> <o>city-states</o>.",
       "quiz": {
         "prompt": "\"City-states\" are:",
-        "options": ["large empires", "cities that act as independent countries", "farming villages", "mountain fortresses"],
+        "options": ["large empires that controlled many nations and people by force", "cities that act as independent countries with their own government and laws", "small farming villages where people grew crops and raised animals", "mountain fortresses built to protect soldiers during times of war and conflict"],
         "answer": 1
       }
     },
@@ -102,7 +102,7 @@
       "sentence": "<s>A civilized society</s> <v>is</v> <o>one with rules that help people live and work together</o>.",
       "quiz": {
         "prompt": "\"Civilized\" means:",
-        "options": ["having an advanced level of social order and cultural development", "living in tribes", "moving from place to place", "fighting wars"],
+        "options": ["having an advanced level of social order and cultural development", "living in small tribes that moved from place to place following animals", "moving from place to place without ever having a permanent home anywhere", "fighting wars against neighboring cities to gain more land and resources"],
         "answer": 0
       }
     },
@@ -114,7 +114,7 @@
       "sentence": "<s>Over time</s>, <s>pictographs</s> <v>changed</v> <o>into a system of writing known as cuneiform</o>.",
       "quiz": {
         "prompt": "\"Cuneiform\" was:",
-        "options": ["a type of temple", "a system of writing with wedge-shaped characters", "a metal weapon", "a farming tool"],
+        "options": ["a type of temple used for religious worship in ancient times", "a system of writing made up of wedge-shaped characters on clay", "a metal weapon used by soldiers in battles against their enemies", "a farming tool used to plant seeds in the rich soil near rivers"],
         "answer": 1
       }
     },
@@ -126,7 +126,7 @@
       "sentence": "<s>He</s> <v>was said to be</v> <o>a demigod, the son of a human king and a Sumerian mother-goddess</o>.",
       "quiz": {
         "prompt": "A \"demigod\" is:",
-        "options": ["a powerful king", "a being who is part human and part god", "a temple priest", "a famous warrior"],
+        "options": ["a powerful king who ruled over a large empire with many soldiers", "a being from mythology who is part human and part god in nature", "a temple priest who served the gods and led religious ceremonies", "a famous warrior who won many battles against enemy city-states"],
         "answer": 1
       }
     },
@@ -138,7 +138,7 @@
       "sentence": "<s>He</s> <v>united</v> <o>the city-states into the Akkadian Empire</o>.",
       "quiz": {
         "prompt": "An \"empire\" is:",
-        "options": ["a single city", "a collection of nations or people ruled by one person or government", "a religious ceremony", "a type of writing"],
+        "options": ["a single city with its own government and laws for its people", "a collection of nations or people ruled by one person or government", "a religious ceremony held to honor the gods and ask for their blessing", "a type of writing used to record important events and trade deals"],
         "answer": 1
       }
     },
@@ -150,7 +150,7 @@
       "sentence": "<s>Before the Ubaid formed settlements</s>, <s>they</s> <v>were</v> <o>nomadic hunters and gatherers</o>.",
       "quiz": {
         "prompt": "\"Nomadic\" means:",
-        "options": ["living in cities", "moving from place to place without a permanent home", "farming the land", "building temples"],
+        "options": ["living in large cities with many buildings and a central government", "moving from place to place without a permanent home in search of food", "farming the land and growing crops in one location for many years", "building temples and ziggurats to worship the gods of the city"],
         "answer": 1
       }
     },
@@ -162,7 +162,7 @@
       "sentence": "<s>This phonologic system</s> <v>had</v> <o>several advantages over a pictographic system</o>.",
       "quiz": {
         "prompt": "\"Phonologic\" relates to:",
-        "options": ["speech sounds within or among languages", "ancient temples", "farming techniques", "trade routes"],
+        "options": ["speech sounds within or among languages and how they are produced", "ancient temples built to honor the gods and serve as places of worship", "farming techniques used to grow crops in the rich soil near rivers", "trade routes that connected distant cities and carried valuable goods"],
         "answer": 0
       }
     },
@@ -174,7 +174,7 @@
       "sentence": "<s>Pictographs</s> <v>are</v> <o>symbols used in writing</o>.",
       "quiz": {
         "prompt": "\"Pictographs\" are:",
-        "options": ["symbols or pictures that represent words or ideas", "types of ancient weapons", "kings and rulers", "trade goods"],
+        "options": ["symbols or pictures that represent words or ideas in early writing systems", "types of ancient weapons used by soldiers in battles against enemies", "kings and rulers who governed the city-states of ancient Mesopotamia", "trade goods that were carried along routes from distant cities and lands"],
         "answer": 0
       }
     },
@@ -186,7 +186,7 @@
       "sentence": "<s>The Gutians</s> <v>came</v> from the mountains to the north and <v>held</v> <o>regular raids on the outer parts of the kingdom</o>.",
       "quiz": {
         "prompt": "\"Raids\" are:",
-        "options": ["peaceful trading", "sudden invasions or surprise attacks", "religious ceremonies", "farming methods"],
+        "options": ["peaceful trading between neighboring cities and their local merchants", "sudden invasions or surprise attacks on the outer parts of the kingdom", "religious ceremonies held to honor the gods and ask for their protection", "farming methods used to grow crops in the rich soil near the rivers"],
         "answer": 1
       }
     },
@@ -198,7 +198,7 @@
       "sentence": "<s>Figures on an upright stone post called a stele</s> <v>show</v> <o>soldiers carrying swords, spears, and shields into battle</o>.",
       "quiz": {
         "prompt": "A \"stele\" is:",
-        "options": ["a type of weapon", "a large, upright stone slab with inscribed designs", "a religious temple", "a farming tool"],
+        "options": ["a type of weapon used by soldiers to fight in battles against enemies", "a large, upright stone slab with inscribed designs recording events", "a religious temple where people went to worship the gods of the city", "a farming tool used to plant seeds in the fields near the rivers"],
         "answer": 1
       }
     },
@@ -210,7 +210,7 @@
       "sentence": "<s>A huge ziggurat, or temple,</s> <v>was</v> <o>a center of worship</o>.",
       "quiz": {
         "prompt": "A \"ziggurat\" was:",
-        "options": ["a rectangular structure with steps and a temple at the top", "a type of metal", "a farming village", "a trade route"],
+        "options": ["a rectangular structure with steps up the sides and a temple at the top", "a type of metal used to make weapons and tools for everyday use", "a farming village where people lived and worked the land for crops", "a trade route that connected distant cities and carried valuable goods"],
         "answer": 0
       }
     }
@@ -224,7 +224,7 @@
       "section": "intro",
       "pages": "4",
       "evidence": "Mesopotamia was located where Turkey, Syria, Iraq, and Kuwait are now.",
-      "choices": ["where the United States is now", "where Greece, Italy, and Spain are now", "where Egypt is now", "where Turkey, Syria, Iraq, and Kuwait are now"],
+      "choices": ["where the United States is now with its many large cities", "where Greece, Italy, and Spain are now in southern Europe", "where Egypt and the great pyramids are now in northeastern Africa", "where Turkey, Syria, Iraq, and Kuwait are now in the Middle East"],
       "correctChoice": 3,
       "explanation": "Mesopotamia was located in the area of modern-day Turkey, Syria, Iraq, and Kuwait."
     },
@@ -235,7 +235,7 @@
       "section": "intro",
       "pages": "4",
       "evidence": "A civilized society is one with rules that help people live and work together.",
-      "choices": ["one that moves from place to place without a permanent home", "one with rules and laws that help people live together", "one with people who are hunters and others who are gatherers", "one that is peaceful and where everyone agrees"],
+      "choices": ["one that moves from place to place without a permanent home anywhere", "one with rules and laws that help people live together in an organized way", "one with people who are hunters and others who are gatherers of food", "one that is peaceful and where everyone always agrees about everything"],
       "correctChoice": 1,
       "explanation": "A civilized society has rules and laws that help people live and work together."
     },
@@ -246,7 +246,7 @@
       "section": "uruk",
       "pages": "9",
       "evidence": "City rulers used trade to show how important they were. Having rare and valuable items was a way to show off their power.",
-      "choices": ["to share with their people", "to show off their power", "to use them to pay their taxes", "to show the quality of the work of their people"],
+      "choices": ["to share with their people and improve the quality of life for everyone", "to show off their power and demonstrate how important they were as rulers", "to use them to pay their taxes to the government and fund public projects", "to show the quality of the work produced by the people of their city-state"],
       "correctChoice": 1,
       "explanation": "Ancient leaders used rare and valuable items to show off their power and importance."
     },
@@ -257,7 +257,7 @@
       "section": "uruk",
       "pages": "7-10",
       "evidence": "A huge ziggurat, or temple, was a center of worship.",
-      "choices": ["They had no system of communication.", "They preferred to live in the countryside.", "They did not like to follow the laws.", "They were religious people."],
+      "choices": ["They had no system of communication and could not write anything down.", "They preferred to live in the countryside rather than in the large city.", "They did not like to follow the laws and often broke the rules of society.", "They were religious people who built a huge temple as a center of worship."],
       "correctChoice": 3,
       "explanation": "The people of Uruk built a huge ziggurat (temple) as a center of worship, showing they were religious."
     },
@@ -268,7 +268,7 @@
       "section": "fall",
       "pages": "12",
       "evidence": "The Gutians let the canals fall apart and brought on a terrible famine. Their 125-year rule of Sumer led to what came to be known as the Dark Age of Mesopotamia.",
-      "choices": ["A large sand storm blocked out the Sun, and all the crops died.", "Many people were taken as slaves and lost their homes and families.", "The land and canals were not taken care of, and many people starved.", "All the artwork was destroyed, and people were not allowed to be creative."],
+      "choices": ["A large sand storm blocked out the Sun, and all the crops died in the fields.", "Many people were taken as slaves and lost their homes and families forever.", "The land and canals were not taken care of, and many people starved to death.", "All the artwork was destroyed, and people were not allowed to be creative at all."],
       "correctChoice": 2,
       "explanation": "The Gutians let the canals fall apart, causing famine. This period became known as the Dark Age."
     },
@@ -279,7 +279,7 @@
       "section": "warring",
       "pages": "10-11",
       "evidence": "The Sumerians' constant fighting stopped when King Sargon of Akkad took control of the region in about 2340 bce. He united the city-states into the Akkadian Empire. Sargon kept order by placing key trusted allies in positions of power.",
-      "choices": ["He encouraged fighting because he enjoyed being in battle.", "He enslaved anyone who participated in war.", "He stopped the fighting and chose leaders he trusted to keep the peace.", "He stopped all trade and therefore stopped all fighting."],
+      "choices": ["He encouraged fighting between city-states because he enjoyed being in battle.", "He enslaved anyone who participated in war and forced them to work for him.", "He stopped the fighting and chose trusted leaders to help him keep the peace.", "He stopped all trade between city-states and therefore stopped all fighting too."],
       "correctChoice": 2,
       "explanation": "King Sargon stopped the constant fighting between city-states and united them, placing trusted allies in power to keep peace."
     },
@@ -290,7 +290,7 @@
       "section": "prosperity",
       "pages": "11-12",
       "evidence": "Peace during the Akkadian empire brought progress to Mesopotamia. Under Akkadian rule, Mesopotamia created the first mail system.",
-      "choices": ["Times of peace allowed people in Mesopotamia to create new systems, such as a mail system.", "Money made during wartimes helped create a numerical place system.", "The people of Mesopotamia resettled in new places based on an increase in trade routes.", "During times of peace, there was little money for the people, so leaders encouraged war."],
+      "choices": ["Times of peace allowed people in Mesopotamia to create new systems, such as a mail system.", "Money made during wartimes helped create a numerical place value system for trade.", "The people of Mesopotamia resettled in new places based on an increase in trade routes.", "During times of peace, there was little money for the people, so leaders encouraged war."],
       "correctChoice": 0,
       "explanation": "Peace brought progress — Mesopotamia created the first mail system, the potter's wheel, and numerical place value during peaceful times."
     },
@@ -301,7 +301,7 @@
       "section": "ubaid",
       "pages": "5",
       "evidence": "They roamed from place to place in search of food and water.",
-      "choices": ["The Ubaid were the first people to settle the land known as Sumer.", "They named these early settlers the Ubaid after the site where the items were discovered.", "They roamed from place to place in search of food and water.", "They built canals to bring water to drier areas."],
+      "choices": ["The Ubaid were the first people to settle the land known as Sumer in ancient times.", "They named these early settlers the Ubaid after the site where items were discovered.", "They roamed from place to place in search of food and water for their families.", "They built canals to bring water to drier areas so they could grow crops there."],
       "correctChoice": 2,
       "explanation": "'Roamed from place to place' explains that 'nomadic' means moving around without a permanent home."
     },
@@ -312,7 +312,7 @@
       "section": "uruk",
       "pages": "7",
       "evidence": "A number became city-states.",
-      "choices": ["It acts like its own country.", "It does not have any laws.", "It does not allow trade.", "It is run by a president."],
+      "choices": ["It acts like its own independent country with its own government and set of laws.", "It does not have any laws and people are free to do whatever they want to do.", "It does not allow trade with other cities and keeps all its goods for its own people.", "It is run by a president who is elected by the people who live in the city-state."],
       "correctChoice": 0,
       "explanation": "A city-state is a city that acts like its own independent country with its own government and laws."
     },
@@ -323,7 +323,7 @@
       "section": "intro",
       "pages": "4",
       "evidence": "This \"land between two rivers\" was the place where civilization was born.",
-      "choices": ["the land between two rivers", "the land between two mountain ranges", "the land between two seas", "the land between two deserts"],
+      "choices": ["the land between two rivers that flow through the fertile plains of the region", "the land between two mountain ranges where people lived in small cave dwellings", "the land between two seas where fishermen caught fish and traded with other people", "the land between two deserts where travelers crossed on camels carrying valuable goods"],
       "correctChoice": 0,
       "explanation": "Mesopotamia means 'land between two rivers' — the Tigris and Euphrates."
     },

@@ -123,7 +123,7 @@
       "sentence": "Poseidon roamed his kingdom in a golden chariot pulled by horses in the shape of waves.",
       "quiz": {
         "prompt": "\"Chariot\" means:",
-        "options": ["a type of weapon", "a horse-drawn carriage used in ancient times", "a temple for worship", "a golden crown"],
+        "options": ["a type of weapon used by soldiers in ancient battles and wars", "a horse-drawn carriage used in ancient times for racing and battles", "a sacred temple where ancient Greeks went to worship their gods", "a golden crown worn by kings and queens during important ceremonies"],
         "answer": 1
       }
     },
@@ -135,7 +135,7 @@
       "sentence": "Sometimes the gods disguised themselves as people or other animals when visiting Earth.",
       "quiz": {
         "prompt": "\"Disguised\" means:",
-        "options": ["destroyed completely", "changed appearance to not be recognized", "made very large", "turned into gold"],
+        "options": ["destroyed completely by a powerful force and reduced to rubble", "changed their appearance so they would not be recognized by others", "made very large in size so that everyone could see them clearly", "turned into solid gold by a magical power or supernatural force"],
         "answer": 1
       }
     },
@@ -147,7 +147,7 @@
       "sentence": "The ancient Greeks believed that their gods were much like humans, except larger, stronger, more beautiful, and most important—immortal!",
       "quiz": {
         "prompt": "\"Immortal\" means:",
-        "options": ["very powerful", "living forever; not subject to death", "extremely beautiful", "invisible to humans"],
+        "options": ["very powerful and able to defeat any enemy in a battle", "living forever and never subject to death at any point in time", "extremely beautiful in a way that amazed everyone who saw them", "invisible to humans and able to move around without being seen"],
         "answer": 1
       }
     },
@@ -159,7 +159,7 @@
       "sentence": "The mischievous child-god Eros—called Cupid by the Romans—was her son.",
       "quiz": {
         "prompt": "\"Mischievous\" means:",
-        "options": ["very serious", "liking to cause trouble in a playful way", "extremely powerful", "beautiful and charming"],
+        "options": ["very serious and careful about following every rule and law", "liking to cause trouble in a playful and lighthearted way for fun", "extremely powerful and able to control forces of nature at will", "beautiful and charming in a way that attracted everyone's attention"],
         "answer": 1
       }
     },
@@ -171,7 +171,7 @@
       "sentence": "The ideas illustrated in Greek mythology helped shape the way people think and interact today.",
       "quiz": {
         "prompt": "\"Mythology\" refers to:",
-        "options": ["ancient temples", "ancient stories about heroes or supernatural beings", "royal crowns", "battle weapons"],
+        "options": ["ancient temples where people gathered to worship the Greek gods", "ancient stories about heroes and supernatural beings of a culture", "royal crowns worn by kings and queens during important ceremonies", "battle weapons forged by the god Hephaestus in his fiery forge"],
         "answer": 1
       }
     },
@@ -183,7 +183,7 @@
       "sentence": "She would spend her days hunting in the mountains and forests, with the nymphs to tend her hounds.",
       "quiz": {
         "prompt": "\"Nymphs\" are:",
-        "options": ["powerful gods", "spirits in the shape of young women who live in nature", "golden weapons", "ancient temples"],
+        "options": ["powerful gods who ruled over the sky, sea, and underworld", "spirits in the shape of young women who live in nature", "golden weapons forged by the craftsman god Hephaestus", "ancient temples built on the highest peaks of mountains"],
         "answer": 1
       }
     },
@@ -195,7 +195,7 @@
       "sentence": "Hades won the realm known as the underworld.",
       "quiz": {
         "prompt": "A \"realm\" is:",
-        "options": ["a type of weapon", "an area over which a person rules or has power", "a golden chariot", "a royal crown"],
+        "options": ["a type of weapon used by warriors in battles against their enemies", "an area over which a person such as a monarch rules or has power", "a golden chariot pulled by horses shaped from ocean waves", "a royal crown worn on the head as a symbol of authority"],
         "answer": 1
       }
     },
@@ -207,7 +207,7 @@
       "sentence": "Hera wore a royal crown, carried a scepter tipped with a lotus blossom, and drove a chariot pulled by peacocks.",
       "quiz": {
         "prompt": "A \"scepter\" is:",
-        "options": ["a decorated rod held by a ruler as a symbol of power", "a type of horse-drawn carriage", "a magical belt", "a golden throne"],
+        "options": ["a decorated rod held by a ruler as a symbol of royal power", "a type of horse-drawn carriage used for transportation in ancient times", "a magical belt woven with precious gems that gives special powers", "a golden throne where the king or queen sits during ceremonies"],
         "answer": 0
       }
     },
@@ -219,7 +219,7 @@
       "sentence": "They built temples to their gods and crafted great works of art.",
       "quiz": {
         "prompt": "\"Temples\" are:",
-        "options": ["weapons used in battles", "buildings that are places of worship", "royal chariots", "mountain peaks"],
+        "options": ["weapons used by soldiers in battles against enemy city-states", "buildings that serve as places of worship for the ancient gods", "royal chariots pulled by horses during religious ceremonies", "high mountain peaks where the gods were believed to reside"],
         "answer": 1
       }
     },
@@ -231,7 +231,7 @@
       "sentence": "He led his brothers, Poseidon and Hades, to overthrow their father, Kronos, and the other Titans.",
       "quiz": {
         "prompt": "\"Titans\" were:",
-        "options": ["the first Olympic athletes", "large and powerful beings who ruled before the gods", "golden weapons forged by Hephaestus", "sea goddesses who lived in the ocean"],
+        "options": ["the first Olympic athletes who competed in ancient sporting contests", "large and powerful beings who ruled the world before the gods", "golden weapons forged by Hephaestus in his volcanic mountain forge", "sea goddesses who lived in the ocean and helped sailors navigate"],
         "answer": 1
       }
     },
@@ -243,7 +243,7 @@
       "sentence": "When he was angry, Poseidon summoned storms and earthquakes with his magic trident.",
       "quiz": {
         "prompt": "A \"trident\" is:",
-        "options": ["a golden chariot", "a weapon that looks like a spear with three points", "a royal crown", "a magical belt"],
+        "options": ["a golden chariot pulled by horses that ran across the ocean waves", "a weapon that looks like a spear with three sharp points on the end", "a royal crown worn by the king or queen as a symbol of power", "a magical belt woven with precious gems that makes the wearer irresistible"],
         "answer": 1
       }
     },
@@ -255,23 +255,23 @@
       "sentence": "Hades won the realm known as the underworld.",
       "quiz": {
         "prompt": "The \"underworld\" is:",
-        "options": ["the sky where Zeus lives", "the place where some of the dead go in Greek myths", "a golden temple on Mount Olympus", "the ocean ruled by Poseidon"],
+        "options": ["the bright sky where Zeus lived and ruled over all the other gods", "the place where some of the dead go in Greek myths, ruled by Hades", "a golden temple built on top of Mount Olympus for the gods to live in", "the deep ocean ruled by Poseidon where storms and earthquakes began"],
         "answer": 1
       }
     }
   ],
 
   "questions": [
-    {"id":"q1","level":2,"question":"What is the most likely reason the author wrote Ancient Greek and Roman Gods?","section":"intro","pages":"4-13","evidence":"The ancient Greeks believed that their gods were much like humans, except larger, stronger, more beautiful, and most important—immortal!","choices":["to inform readers about ancient Greece","to inform and entertain readers with details about Greek and Roman gods","to persuade readers to visit Greece and Rome","to entertain and persuade readers with jokes about ancient gods"],"correctChoice":1,"explanation":"The author both informs (facts about gods) and entertains (exciting myths and stories)."},
+    {"id":"q1","level":2,"question":"What is the most likely reason the author wrote Ancient Greek and Roman Gods?","section":"intro","pages":"4-13","evidence":"The ancient Greeks believed that their gods were much like humans, except larger, stronger, more beautiful, and most important—immortal!","choices":["to inform readers about the ancient civilizations of Greece and Rome","to inform and entertain readers with fascinating details about Greek and Roman gods","to persuade readers to travel and visit the ancient sites in Greece and Rome","to entertain and persuade readers with humorous jokes about ancient Greek gods"],"correctChoice":1,"explanation":"The author both informs (facts about gods) and entertains (exciting myths and stories)."},
     {"id":"q2","level":1,"question":"Which of the following words means liking to cause trouble in a playful way?","section":"hermes","pages":"7","evidence":"Hermes was known for being clever and mischievous.","choices":["mischievous","nymphs","disguised","immortal"],"correctChoice":0,"explanation":"'Mischievous' means liking to cause trouble in a playful way — like Hermes!"},
-    {"id":"q3","level":2,"question":"What effect did the metal belt that Hephaestus made for Aphrodite have on her?","section":"hephaestus","pages":"11-12","evidence":"Aphrodite wore the golden belt, and anyone who looked at her fell in love with her.","choices":["It made her sick.","It made her mischievous.","It made her happy.","It made her irresistible."],"correctChoice":3,"explanation":"The magic golden belt made Aphrodite irresistible — anyone who looked at her fell in love."},
-    {"id":"q4","level":2,"question":"What happened after Zeus and his brothers overthrew their father and the other Titans?","section":"zeus","pages":"5","evidence":"After the Titans' defeat, Zeus and his brothers divided up the world's rule with a contest.","choices":["They tried to destroy each other.","Zeus lost the contest to determine who would rule.","Poseidon took his father's place.","They divided up the world's rule with a contest."],"correctChoice":3,"explanation":"After overthrowing the Titans, Zeus and his brothers (Poseidon and Hades) divided up the world's rule through a contest."},
-    {"id":"q5","level":2,"question":"What did Hermes have in common with Hades?","section":"hermes","pages":"7-8","evidence":"Any similarity to Hades ended there. Hades seldom spoke or smiled, but Hermes loved to talk and play tricks on people. Both were allowed into the underworld.","choices":["They both loved to talk.","They were both allowed into the underworld.","They both hated to talk.","They both played tricks on people."],"correctChoice":1,"explanation":"Both Hermes and Hades were allowed into the underworld, though they had very different personalities."},
-    {"id":"q6","level":2,"question":"What is the main idea of this book?","section":"intro","pages":"4-13","evidence":"The Greek gods held a central role in ancient Greek society, inspiring countless sculptures, temples, and other works of art.","choices":["The ancient gods were fun to believe in.","Zeus was the mightiest god, and all other gods had to obey him.","The ancient gods were a central part of Greek and Roman society.","The Greeks told stories about the gods."],"correctChoice":2,"explanation":"The main idea is that the ancient gods were central to Greek and Roman society, influencing art, beliefs, and daily life."},
-    {"id":"q7","level":1,"question":"What caused Hera to throw Hephaestus from Olympus when he was born?","section":"hephaestus","pages":"11","evidence":"When Hephaestus was born, he had crippled legs. Hera was ashamed and threw him from Olympus.","choices":["He was on fire.","He bit her.","He had crippled legs.","Springs popped out of him."],"correctChoice":2,"explanation":"Hera threw Hephaestus from Olympus because he was born with crippled legs and she was ashamed."},
-    {"id":"q8","level":1,"question":"What does the word 'temples' mean as it is used in the book?","section":"intro","pages":"4","evidence":"They built temples to their gods and crafted great works of art.","choices":["weapons that look like spears","the flattened area on the sides of your forehead","buildings that are places of worship","a decorated rod held by a ruler"],"correctChoice":2,"explanation":"In this context, 'temples' means buildings that are places of worship for the gods."},
-    {"id":"q9","level":2,"question":"Which of the following details has an entertaining element?","section":"athena","pages":"9","evidence":"Athena sprang from Zeus' head, fully grown and dressed in golden armor!","choices":["Ares, the god of war, was a son of Zeus and Hera.","Athena sprang from Zeus' head, fully grown and dressed in golden armor!","Artemis was the goddess of hunting, the wilderness, and wild animals.","Poseidon was the ruler of Earth's oceans."],"correctChoice":1,"explanation":"The image of Athena springing fully grown from Zeus' head in golden armor is an entertaining, exciting detail."},
-    {"id":"q10","level":2,"question":"Why did Artemis beg Zeus to let her stay unmarried forever?","section":"artemis","pages":"9-10","evidence":"Artemis begged Zeus to let her stay unmarried forever so she could roam the wilderness with her animals.","choices":["She preferred to be alone in the wilderness.","The gods were mean to her.","She wanted to make Zeus mad.","She hated animals and the outdoors."],"correctChoice":0,"explanation":"Artemis loved the wilderness and wanted to stay unmarried so she could roam freely with her animals."},
+    {"id":"q3","level":2,"question":"What effect did the metal belt that Hephaestus made for Aphrodite have on her?","section":"hephaestus","pages":"11-12","evidence":"Aphrodite wore the golden belt, and anyone who looked at her fell in love with her.","choices":["It made her feel very sick and weak all the time.","It made her act mischievous and play tricks on others.","It made her feel happy and excited every single day.","It made her completely irresistible to everyone who saw her."],"correctChoice":3,"explanation":"The magic golden belt made Aphrodite irresistible — anyone who looked at her fell in love."},
+    {"id":"q4","level":2,"question":"What happened after Zeus and his brothers overthrew their father and the other Titans?","section":"zeus","pages":"5","evidence":"After the Titans' defeat, Zeus and his brothers divided up the world's rule with a contest.","choices":["They tried to destroy each other in a terrible battle for power.","Zeus lost the contest to determine who would rule the entire world.","Poseidon took his father's place as the ruler of all the Titans.","They divided up the world's rule among themselves through a contest."],"correctChoice":3,"explanation":"After overthrowing the Titans, Zeus and his brothers (Poseidon and Hades) divided up the world's rule through a contest."},
+    {"id":"q5","level":2,"question":"What did Hermes have in common with Hades?","section":"hermes","pages":"7-8","evidence":"Any similarity to Hades ended there. Hades seldom spoke or smiled, but Hermes loved to talk and play tricks on people. Both were allowed into the underworld.","choices":["They both loved to talk to people and tell funny stories.","They were both allowed into the underworld, despite their different personalities.","They both hated to talk and preferred to stay quiet and alone.","They both played tricks on people and caused trouble for fun."],"correctChoice":1,"explanation":"Both Hermes and Hades were allowed into the underworld, though they had very different personalities."},
+    {"id":"q6","level":2,"question":"What is the main idea of this book?","section":"intro","pages":"4-13","evidence":"The Greek gods held a central role in ancient Greek society, inspiring countless sculptures, temples, and other works of art.","choices":["The ancient gods were very fun and exciting for people to believe in.","Zeus was the mightiest god of all, and all other gods had to obey him.","The ancient gods were a central part of Greek and Roman society and culture.","The ancient Greeks told many stories about the gods and their many adventures."],"correctChoice":2,"explanation":"The main idea is that the ancient gods were central to Greek and Roman society, influencing art, beliefs, and daily life."},
+    {"id":"q7","level":1,"question":"What caused Hera to throw Hephaestus from Olympus when he was born?","section":"hephaestus","pages":"11","evidence":"When Hephaestus was born, he had crippled legs. Hera was ashamed and threw him from Olympus.","choices":["He was on fire and burning everything around him.","He bit her hand when she tried to hold him.","He had crippled legs, which made Hera feel ashamed.","Springs popped out of him and hit Hera in the face."],"correctChoice":2,"explanation":"Hera threw Hephaestus from Olympus because he was born with crippled legs and she was ashamed."},
+    {"id":"q8","level":1,"question":"What does the word 'temples' mean as it is used in the book?","section":"intro","pages":"4","evidence":"They built temples to their gods and crafted great works of art.","choices":["weapons that look like long spears with sharp points on the end","the flattened area on the sides of your forehead above your ears","buildings that are places of worship where people honor the gods","a decorated rod held by a ruler as a symbol of royal power"],"correctChoice":2,"explanation":"In this context, 'temples' means buildings that are places of worship for the gods."},
+    {"id":"q9","level":2,"question":"Which of the following details has an entertaining element?","section":"athena","pages":"9","evidence":"Athena sprang from Zeus' head, fully grown and dressed in golden armor!","choices":["Ares, the god of war, was a son of Zeus and the goddess Hera.","Athena sprang from Zeus' head, fully grown and dressed in golden armor!","Artemis was the goddess of hunting, the wilderness, and wild animals.","Poseidon was the ruler of Earth's oceans and controlled all the seas."],"correctChoice":1,"explanation":"The image of Athena springing fully grown from Zeus' head in golden armor is an entertaining, exciting detail."},
+    {"id":"q10","level":2,"question":"Why did Artemis beg Zeus to let her stay unmarried forever?","section":"artemis","pages":"9-10","evidence":"Artemis begged Zeus to let her stay unmarried forever so she could roam the wilderness with her animals.","choices":["She preferred to spend her time roaming freely in the wilderness with animals.","The other gods were mean to her and she wanted to get away from them.","She wanted to make Zeus angry by refusing to do what he asked of her.","She hated animals and the outdoors and wanted to stay inside the palace."],"correctChoice":0,"explanation":"Artemis loved the wilderness and wanted to stay unmarried so she could roam freely with her animals."},
     {"id":"q11","level":3,"question":"What effect did the gods have on the Greeks and Romans? Why?","section":"conclusion","pages":"13","evidence":"The Greek gods held a central role in ancient Greek society, inspiring countless sculptures, temples, and other works of art. The ideas illustrated in Greek mythology helped shape the way people think and interact today.","choices":[],"correctChoice":-1,"explanation":"The gods were central to Greek and Roman society — they inspired art, temples, and shaped how people think and act today.",
       "opinionPrompts":["What evidence shows the gods were important?","How do we still see their influence today?"]},
     {"id":"q12","level":3,"question":"Do you agree that being immortal was the most important characteristic of the gods? Why or why not? Use details from the book to support your answer.","section":"intro","pages":"4","evidence":"The ancient Greeks believed that their gods were much like humans, except larger, stronger, more beautiful, and most important—immortal!","choices":[],"correctChoice":-1,"explanation":"Think about whether living forever was the most important quality, or if other traits (strength, beauty, powers) were more significant.",

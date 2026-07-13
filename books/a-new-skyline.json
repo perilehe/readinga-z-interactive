@@ -76,7 +76,7 @@
       "sentence": "Soon skyscrapers were going up one after another as builders and architects competed to make the world's tallest building.",
       "quiz": {
         "prompt": "\"Architects\" are people who:",
-        "options": ["design buildings", "drive trucks", "cook food", "teach students"],
+        "options": ["design buildings and create detailed plans for construction", "drive trucks and deliver heavy loads across long distances", "cook food and prepare meals in large restaurant kitchens", "teach students and grade papers in a school classroom"],
         "answer": 0
       }
     },
@@ -88,7 +88,7 @@
       "sentence": "Just blocks away, a steel-framed behemoth was rising.",
       "quiz": {
         "prompt": "\"Behemoth\" means something that is:",
-        "options": ["very small and weak", "extremely large and powerful", "old and broken", "fast and colorful"],
+        "options": ["very small and weak compared to most other things", "extremely large and powerful in size or strength", "old and broken beyond any useful purpose now", "fast and colorful in a way that attracts attention"],
         "answer": 1
       }
     },
@@ -100,7 +100,7 @@
       "sentence": "He proposed twin towers as part of the multibuilding complex of offices and storefronts.",
       "quiz": {
         "prompt": "A \"complex\" is:",
-        "options": ["a single house", "a group of buildings used for a common purpose", "a type of bridge", "an underground tunnel"],
+        "options": ["a single house built for one family to live in", "a group of buildings used together for a common purpose", "a type of bridge that connects two distant places together", "an underground tunnel used for transportation between cities"],
         "answer": 1
       }
     },
@@ -112,7 +112,7 @@
       "sentence": "Because they were built away from the city's other tall skyscrapers, they dwarfed the surrounding buildings.",
       "quiz": {
         "prompt": "\"Dwarfed\" means:",
-        "options": ["destroyed completely", "made something seem very small by comparison", "painted in bright colors", "surrounded by water"],
+        "options": ["destroyed completely by a powerful force or disaster", "made something seem very small by comparison with something larger", "painted in bright colors to attract attention from far away", "surrounded by water on all sides like an island in the sea"],
         "answer": 1
       }
     },
@@ -124,7 +124,7 @@
       "sentence": "Iconic structures such as these, along with surrounding buildings, create an outline against the sky, called a skyline.",
       "quiz": {
         "prompt": "\"Iconic\" is closest in meaning to:",
-        "options": ["famous and recognizable", "old and historical", "tall and impressive", "beautiful and colorful"],
+        "options": ["famous and widely recognized as an important symbol of something", "old and historical with connections to events from the distant past", "tall and impressive in a way that catches everyone's attention", "beautiful and colorful with many decorative features on display"],
         "answer": 0
       }
     },
@@ -136,7 +136,7 @@
       "sentence": "The 110-story towers would include some structural innovations.",
       "quiz": {
         "prompt": "\"Innovations\" are:",
-        "options": ["old traditions", "new ideas or ways of doing something", "expensive materials", "government laws"],
+        "options": ["old traditions that have been followed for many generations", "new ideas or creative ways of doing something differently", "expensive materials used in the construction of large buildings", "government laws that regulate how businesses must operate"],
         "answer": 1
       }
     },
@@ -148,7 +148,7 @@
       "sentence": "New Yorkers mourned the loss of their neighbors and their landmark.",
       "quiz": {
         "prompt": "A \"landmark\" is:",
-        "options": ["a new building being planned", "an important historical building or place", "a small house", "a park bench"],
+        "options": ["a new building that is still being planned for the future", "an important historical building or place that is widely recognized", "a small house built for a family with limited space and resources", "a park bench where people can sit and rest during the day"],
         "answer": 1
       }
     },
@@ -160,7 +160,7 @@
       "sentence": "An outside observation deck on the 86th floor and an inside deck on the 102nd floor provided panoramic views of the city.",
       "quiz": {
         "prompt": "\"Panoramic\" means:",
-        "options": ["narrow and limited", "close-up and detailed", "a complete view in all directions", "dark and shadowy"],
+        "options": ["narrow and limited in what can be seen from that vantage point", "close-up and detailed, showing only a small area very clearly", "providing a complete and wide view in all directions at once", "dark and shadowy, making it difficult to see any clear details"],
         "answer": 2
       }
     },
@@ -172,7 +172,7 @@
       "sentence": "The outside perimeter of the building had columns that were spaced close together.",
       "quiz": {
         "prompt": "\"Perimeter\" means:",
-        "options": ["the center of something", "the inside floor", "the outside edge or boundary", "the very top"],
+        "options": ["the exact center point of something, like the middle of a room", "the inside floor area of a building where people walk and stand", "the outside edge or boundary that marks the limit of an area", "the very top surface of something, such as the roof of a building"],
         "answer": 2
       }
     },
@@ -184,7 +184,7 @@
       "sentence": "They dwarfed the surrounding buildings and were the most prominent structures on Manhattan Island.",
       "quiz": {
         "prompt": "\"Prominent\" means:",
-        "options": ["hidden from view", "very small", "easily seen, standing out, or important", "old and forgotten"],
+        "options": ["hidden from view and difficult for anyone to find or notice", "very small in size and easy to overlook when walking past", "easily seen and standing out as important among other things", "old and forgotten after many years of being ignored by everyone"],
         "answer": 2
       }
     },
@@ -196,7 +196,7 @@
       "sentence": "Gigantic steel beams were connected to form the building's skeleton.",
       "quiz": {
         "prompt": "In building, a \"skeleton\" is:",
-        "options": ["the outer walls", "a framework that supports the structure", "the roof", "the foundation underground"],
+        "options": ["the outer walls that enclose a building and keep weather out", "a framework of steel beams that supports the entire structure", "the roof that covers the top of a building and keeps rain out", "the foundation buried underground that anchors a building in place"],
         "answer": 1
       }
     },
@@ -208,7 +208,7 @@
       "sentence": "This system was a new, efficient way to transport people vertically, and it reduced the number of elevator shafts needed.",
       "quiz": {
         "prompt": "\"Vertically\" means:",
-        "options": ["side to side", "in a circle", "straight up and down", "diagonally"],
+        "options": ["moving from side to side in a horizontal direction across a surface", "moving in a circle around a fixed central point over and over", "moving in a straight direction going up and down along a line", "moving diagonally at an angle that is neither straight nor flat"],
         "answer": 2
       }
     }
@@ -274,10 +274,10 @@
       "pages": "4",
       "evidence": "Skylines are unique identifiers of places, just as your fingerprints are one-of-a-kind identifiers of you. Unlike fingerprints, however, skylines don't stay the same forever.",
       "choices": [
-        "Both are unique identifiers, but skylines change over time while fingerprints stay the same.",
-        "Both stay the same forever and never change.",
-        "Neither skylines nor fingerprints are unique.",
-        "Fingerprints change over time, but skylines do not."
+        "Both serve as unique identifiers, but skylines change over time while fingerprints stay the same.",
+        "Both skylines and fingerprints stay exactly the same forever and never change at all.",
+        "Neither skylines nor fingerprints can serve as unique identifiers of anything.",
+        "Fingerprints change over time as people age, but skylines remain the same forever."
       ],
       "correctChoice": 0,
       "explanation": "The text says skylines are unique like fingerprints, BUT unlike fingerprints, skylines grow and change over time."
@@ -290,10 +290,10 @@
       "pages": "5",
       "evidence": "With the end of the Civil War came freed slaves from the South in search of work. Later, waves of Europeans immigrated to the United States through the port of New York. Many of them stayed on New York's Manhattan Island.",
       "choices": [
-        "People came from the American South and from other countries to live in New York.",
-        "The city built taller buildings to fit more people.",
-        "The government forced people to move there.",
-        "New York's economy was the worst in the country."
+        "People came from the American South and other countries to live in New York City.",
+        "The city built many taller buildings to fit more people on the small island.",
+        "The federal government forced people from other states to move to New York City.",
+        "New York City had the worst economy in the entire country at that time period."
       ],
       "correctChoice": 0,
       "explanation": "Freed slaves came from the South, and waves of Europeans immigrated through the port of New York, making it the most densely populated city."
@@ -306,10 +306,10 @@
       "pages": "11–12",
       "evidence": "One innovation was the use of tube-frame construction instead of steel-frame construction. Another innovation was the use of sky lobbies.",
       "choices": [
-        "Tube-frame construction and sky lobbies with express and local elevators.",
-        "Steel-frame construction and panoramic observation decks.",
-        "Granite walls and underground parking garages.",
-        "Glass panels and reflective surfaces."
+        "Tube-frame construction and sky lobbies with express and local elevators for efficiency.",
+        "Steel-frame construction and panoramic observation decks for tourists visiting the city.",
+        "Granite walls and underground parking garages built beneath both towers for vehicles.",
+        "Glass panels and reflective surfaces that mirrored the changes in light around them."
       ],
       "correctChoice": 0,
       "explanation": "The towers used tube-frame construction (like a hollow square pipe) and sky lobbies with express and local elevators, modeled after the subway system."
@@ -322,10 +322,10 @@
       "pages": "11–12",
       "evidence": "This system was a new, efficient way to transport people vertically, and it reduced the number of elevator shafts needed.",
       "choices": [
-        "They reduced the number of elevator shafts needed, making very tall buildings more practical.",
-        "They made buildings shorter and wider.",
-        "They replaced the need for all stairs in buildings.",
-        "They only served restaurants on the top floor."
+        "They reduced the number of elevator shafts needed, making very tall buildings more practical to build.",
+        "They made buildings shorter and wider by reducing the number of floors that could be built.",
+        "They completely replaced the need for all stairs and stairways inside the new buildings.",
+        "They only served restaurants and dining areas on the very top floor of the buildings."
       ],
       "correctChoice": 0,
       "explanation": "Sky lobbies let people take express elevators partway, then transfer to local elevators. This reduced the number of elevator shafts, freeing up floor space and making taller buildings possible."
@@ -338,10 +338,10 @@
       "pages": "13–15",
       "evidence": "Within an hour after the attack, the South Tower began to fall in on itself and crumble to the ground. The North Tower followed thirty minutes later. New Yorkers watched in stunned disbelief as these enormous structures were reduced to heaps of burning rubble.",
       "choices": [
-        "The Twin Towers were destroyed and fell, dramatically changing the skyline.",
-        "New towers were immediately built in their place.",
-        "Only small nearby buildings were damaged.",
-        "The skyline stayed exactly the same."
+        "The Twin Towers were destroyed and fell to the ground, dramatically changing the city's skyline.",
+        "New replacement towers were immediately built in their place within just a few short months.",
+        "Only small nearby buildings were damaged while the Twin Towers remained standing and intact.",
+        "The city's skyline stayed exactly the same because the towers were quickly repaired after the attack."
       ],
       "correctChoice": 0,
       "explanation": "Both Twin Towers collapsed on September 11, 2001, and were reduced to rubble. The skyline lost its most prominent structures."
@@ -354,10 +354,10 @@
       "pages": "multiple",
       "evidence": "Gradually, the city expanded northward. Within an hour after the attack, the South Tower began to fall.",
       "choices": [
-        "Slowly: new skyscrapers rose over decades. Quickly: the Twin Towers were destroyed on 9/11.",
-        "Slowly: buildings were painted. Quickly: they were torn down overnight.",
-        "The skyline only changed slowly, never quickly.",
-        "The skyline only changed quickly, never slowly."
+        "Slowly: new skyscrapers rose over many decades. Quickly: the Twin Towers were destroyed on September 11.",
+        "Slowly: buildings were painted different colors each year. Quickly: old buildings were torn down overnight.",
+        "The New York City skyline only changed slowly over time and never changed quickly at all.",
+        "The New York City skyline only changed quickly due to disasters and never changed slowly at all."
       ],
       "correctChoice": 0,
       "explanation": "The skyline changed slowly as new buildings went up one after another over many decades. It changed quickly when the Twin Towers were destroyed within an hour on September 11, 2001."
