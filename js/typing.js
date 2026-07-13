@@ -1,6 +1,6 @@
 /**
  * typing.js - Typing speed test module (Typing Club style)
- * Type directly on the displayed text - no separate input box
+ * Uses hidden textarea for mobile keyboard support
  */
 const TypingModule = (() => {
   let mode = 'sentence'; // 'sentence' or 'words'
@@ -22,9 +22,6 @@ const TypingModule = (() => {
     typedChars = [];
     currentPos = 0;
     if (timerInterval) clearInterval(timerInterval);
-
-    // Remove any existing key handler
-    document.onkeydown = null;
 
     const wrapper = document.createElement('div');
     wrapper.className = 'activity-layout active';
@@ -76,19 +73,33 @@ const TypingModule = (() => {
     `;
     container.appendChild(stats);
 
-    // Target display - large font, click to focus
+    // Display wrapper with hidden textarea overlay
+    const displayWrapper = document.createElement('div');
+    displayWrapper.style.cssText = 'position:relative;margin-bottom:25px;';
+
+    // Target display - large font
     const targetDisplay = document.createElement('div');
     targetDisplay.id = 'targetDisplay';
-    targetDisplay.style.cssText = 'background:white;padding:35px;border-radius:15px;border:3px solid #e0e0e0;font-family:"Courier New",monospace;font-size:2em;line-height:1.8;margin-bottom:25px;min-height:150px;cursor:text;outline:none;';
-    targetDisplay.tabIndex = 0;
+    targetDisplay.style.cssText = 'background:white;padding:35px;border-radius:15px;border:3px solid #e0e0e0;font-family:"Courier New",monospace;font-size:2em;line-height:1.8;min-height:150px;cursor:text;';
     updateWordsDisplay(targetDisplay);
-    targetDisplay.addEventListener('click', () => targetDisplay.focus());
-    container.appendChild(targetDisplay);
+    displayWrapper.appendChild(targetDisplay);
+
+    // Hidden textarea for input (mobile keyboard support)
+    const textarea = document.createElement('textarea');
+    textarea.id = 'typingInput';
+    textarea.style.cssText = 'position:absolute;top:0;left:0;width:100%;height:100%;opacity:0;cursor:text;font-size:16px;resize:none;';
+    textarea.autocomplete = 'off';
+    textarea.autocorrect = 'off';
+    textarea.autocapitalize = 'off';
+    textarea.spellcheck = false;
+    displayWrapper.appendChild(textarea);
+
+    container.appendChild(displayWrapper);
 
     // Instructions
     const instructions = document.createElement('div');
     instructions.style.cssText = 'text-align:center;font-family:var(--font-ui);font-size:1.1em;color:#666;padding:15px;background:#f5f5f5;border-radius:10px;';
-    instructions.innerHTML = '👆 Click above and start typing!';
+    instructions.innerHTML = '👆 点击上方区域开始输入！';
     container.appendChild(instructions);
 
     // Result area
@@ -100,9 +111,21 @@ const TypingModule = (() => {
     finished = false;
     timerStart = null;
 
-    // Setup keyboard handler
-    targetDisplay.focus();
-    document.onkeydown = (e) => handleWordsKeydown(e, container);
+    // Click on display focuses the textarea (brings up mobile keyboard)
+    targetDisplay.addEventListener('click', () => textarea.focus());
+    displayWrapper.addEventListener('click', () => textarea.focus());
+
+    // Handle input from textarea
+    textarea.addEventListener('input', (e) => handleWordsInput(e, container));
+    textarea.addEventListener('keydown', (e) => {
+      if (e.key === 'Backspace') {
+        e.preventDefault();
+        handleBackspace(container);
+      }
+    });
+
+    // Auto-focus
+    setTimeout(() => textarea.focus(), 100);
   }
 
   function updateWordsDisplay(display) {
@@ -128,31 +151,32 @@ const TypingModule = (() => {
     display.innerHTML = html;
   }
 
-  function handleWordsKeydown(e, container) {
+  function handleWordsInput(e, container) {
     if (finished) return;
-    if (e.key.length !== 1 && e.key !== 'Backspace') return;
-    e.preventDefault();
+
+    const textarea = e.target;
+    const newValue = textarea.value;
+
+    // Get the last character added
+    if (newValue.length === 0) return;
+
+    // Handle new characters
+    const lastChar = newValue[newValue.length - 1];
 
     if (!timerStart) startTimer();
 
-    const display = container.querySelector('#targetDisplay');
-
-    if (e.key === 'Backspace') {
-      // Delete previous character
-      if (currentPos > 0) {
-        currentPos--;
-        typedChars[currentPos] = null;
-        updateWordsDisplay(display);
-        updateStats(container);
-      }
+    if (currentPos >= targetChars.length) {
+      textarea.value = '';
       return;
     }
 
-    if (currentPos >= targetChars.length) return;
-
-    typedChars[currentPos] = e.key;
+    typedChars[currentPos] = lastChar;
     currentPos++;
 
+    // Clear textarea to prevent accumulation
+    textarea.value = '';
+
+    const display = container.querySelector('#targetDisplay');
     updateWordsDisplay(display);
     updateStats(container);
 
@@ -160,6 +184,16 @@ const TypingModule = (() => {
     const correct = typedChars.filter((t, i) => t === targetChars[i] && t !== null).length;
     if (correct >= targetChars.length) {
       finishWords(container);
+    }
+  }
+
+  function handleBackspace(container) {
+    if (currentPos > 0) {
+      currentPos--;
+      typedChars[currentPos] = null;
+      const display = container.querySelector('#targetDisplay');
+      updateWordsDisplay(display);
+      updateStats(container);
     }
   }
 
@@ -180,7 +214,6 @@ const TypingModule = (() => {
   function finishWords(container) {
     finished = true;
     if (timerInterval) clearInterval(timerInterval);
-    document.onkeydown = null;
 
     const correct = typedChars.filter((t, i) => t === targetChars[i] && t !== null).length;
     const errors = typedChars.filter((t, i) => t !== null && t !== targetChars[i]).length;
@@ -258,19 +291,33 @@ const TypingModule = (() => {
     `;
     container.appendChild(stats);
 
+    // Display wrapper with hidden textarea overlay
+    const displayWrapper = document.createElement('div');
+    displayWrapper.style.cssText = 'position:relative;margin-bottom:20px;';
+
     // Target display - large font
     const targetDisplay = document.createElement('div');
     targetDisplay.id = 'targetDisplay';
-    targetDisplay.style.cssText = 'background:white;padding:30px;border-radius:15px;border:3px solid #e0e0e0;font-family:"Courier New",monospace;font-size:1.8em;line-height:1.8;margin-bottom:20px;min-height:120px;cursor:text;outline:none;';
-    targetDisplay.tabIndex = 0;
+    targetDisplay.style.cssText = 'background:white;padding:30px;border-radius:15px;border:3px solid #e0e0e0;font-family:"Courier New",monospace;font-size:1.8em;line-height:1.8;min-height:120px;cursor:text;';
     updateSentenceDisplay(targetDisplay, sentence);
-    targetDisplay.addEventListener('click', () => targetDisplay.focus());
-    container.appendChild(targetDisplay);
+    displayWrapper.appendChild(targetDisplay);
+
+    // Hidden textarea for input (mobile keyboard support)
+    const textarea = document.createElement('textarea');
+    textarea.id = 'typingInput';
+    textarea.style.cssText = 'position:absolute;top:0;left:0;width:100%;height:100%;opacity:0;cursor:text;font-size:16px;resize:none;';
+    textarea.autocomplete = 'off';
+    textarea.autocorrect = 'off';
+    textarea.autocapitalize = 'off';
+    textarea.spellcheck = false;
+    displayWrapper.appendChild(textarea);
+
+    container.appendChild(displayWrapper);
 
     // Instructions
     const instructions = document.createElement('div');
     instructions.style.cssText = 'text-align:center;font-family:var(--font-ui);font-size:1.1em;color:#666;padding:15px;background:#f5f5f5;border-radius:10px;';
-    instructions.innerHTML = '👆 Click above and start typing!';
+    instructions.innerHTML = '👆 点击上方区域开始输入！';
     container.appendChild(instructions);
 
     // Result area
@@ -282,9 +329,21 @@ const TypingModule = (() => {
     finished = false;
     timerStart = null;
 
-    // Setup keyboard handler
-    targetDisplay.focus();
-    document.onkeydown = (e) => handleSentenceKeydown(e, sentence, container);
+    // Click on display focuses the textarea (brings up mobile keyboard)
+    targetDisplay.addEventListener('click', () => textarea.focus());
+    displayWrapper.addEventListener('click', () => textarea.focus());
+
+    // Handle input from textarea
+    textarea.addEventListener('input', (e) => handleSentenceInput(e, sentence, container));
+    textarea.addEventListener('keydown', (e) => {
+      if (e.key === 'Backspace') {
+        e.preventDefault();
+        handleBackspace(container);
+      }
+    });
+
+    // Auto-focus
+    setTimeout(() => textarea.focus(), 100);
   }
 
   function updateSentenceDisplay(display, sentence) {
@@ -322,31 +381,30 @@ const TypingModule = (() => {
     display.innerHTML = html;
   }
 
-  function handleSentenceKeydown(e, sentence, container) {
+  function handleSentenceInput(e, sentence, container) {
     if (finished) return;
-    if (e.key.length !== 1 && e.key !== 'Backspace') return;
-    e.preventDefault();
+
+    const textarea = e.target;
+    const newValue = textarea.value;
+
+    if (newValue.length === 0) return;
+
+    const lastChar = newValue[newValue.length - 1];
 
     if (!timerStart) startTimer();
 
-    const display = container.querySelector('#targetDisplay');
-
-    if (e.key === 'Backspace') {
-      // Delete previous character
-      if (currentPos > 0) {
-        currentPos--;
-        typedChars[currentPos] = null;
-        updateSentenceDisplay(display, sentence);
-        updateStats(container);
-      }
+    if (currentPos >= targetChars.length) {
+      textarea.value = '';
       return;
     }
 
-    if (currentPos >= targetChars.length) return;
-
-    typedChars[currentPos] = e.key;
+    typedChars[currentPos] = lastChar;
     currentPos++;
 
+    // Clear textarea to prevent accumulation
+    textarea.value = '';
+
+    const display = container.querySelector('#targetDisplay');
     updateSentenceDisplay(display, sentence);
     updateStats(container);
 
@@ -360,7 +418,6 @@ const TypingModule = (() => {
   function finishSentence(container) {
     finished = true;
     if (timerInterval) clearInterval(timerInterval);
-    document.onkeydown = null;
 
     const correct = typedChars.filter((t, i) => t === targetChars[i] && t !== null).length;
     const errors = typedChars.filter((t, i) => t !== null && t !== targetChars[i]).length;
