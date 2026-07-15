@@ -13,11 +13,15 @@ const TypingModule = (() => {
   let typedChars = [];
   let targetChars = [];
   let currentPos = 0;
+  let enterCount = 0;  // Track consecutive Enter presses for submission
+  let allTyped = false; // Whether all characters have been typed
 
   function render(container) {
     if (!container) container = document.getElementById('mainContent');
     container.innerHTML = '';
     finished = false;
+    allTyped = false;
+    enterCount = 0;
     timerStart = null;
     typedChars = [];
     currentPos = 0;
@@ -85,9 +89,10 @@ const TypingModule = (() => {
     displayWrapper.appendChild(targetDisplay);
 
     // Hidden textarea for input (mobile keyboard support)
+    // Use opacity:0.01 instead of 0 to ensure mobile keyboard appears
     const textarea = document.createElement('textarea');
     textarea.id = 'typingInput';
-    textarea.style.cssText = 'position:absolute;top:0;left:0;width:100%;height:100%;opacity:0;cursor:text;font-size:16px;resize:none;';
+    textarea.style.cssText = 'position:absolute;top:0;left:0;width:100%;height:100%;opacity:0.01;cursor:text;font-size:16px;resize:none;z-index:10;';
     textarea.autocomplete = 'off';
     textarea.autocorrect = 'off';
     textarea.autocapitalize = 'off';
@@ -99,7 +104,7 @@ const TypingModule = (() => {
     // Instructions
     const instructions = document.createElement('div');
     instructions.style.cssText = 'text-align:center;font-family:var(--font-ui);font-size:1.1em;color:#666;padding:15px;background:#f5f5f5;border-radius:10px;';
-    instructions.innerHTML = '👆 点击上方区域开始输入！';
+    instructions.innerHTML = '👆 点击上方区域开始输入！打完所有字后按两次回车提交';
     container.appendChild(instructions);
 
     // Result area
@@ -109,11 +114,15 @@ const TypingModule = (() => {
     container.appendChild(result);
 
     finished = false;
+    allTyped = false;
+    enterCount = 0;
     timerStart = null;
 
     // Click on display focuses the textarea (brings up mobile keyboard)
     targetDisplay.addEventListener('click', () => textarea.focus());
     displayWrapper.addEventListener('click', () => textarea.focus());
+    textarea.addEventListener('click', () => textarea.focus());
+    textarea.addEventListener('touchstart', () => textarea.focus());
 
     // Handle input from textarea
     textarea.addEventListener('input', (e) => handleWordsInput(e, container));
@@ -121,6 +130,18 @@ const TypingModule = (() => {
       if (e.key === 'Backspace') {
         e.preventDefault();
         handleBackspace(container);
+      } else if (e.key === 'Enter') {
+        e.preventDefault();
+        if (allTyped) {
+          enterCount++;
+          if (enterCount >= 2) {
+            finishWords(container);
+          } else {
+            // Show "press Enter again" hint
+            const inst = container.querySelector('.activity-layout > div:nth-child(4)');
+            if (inst) inst.innerHTML = '⏎ 再按一次回车提交！';
+          }
+        }
       }
     });
 
@@ -180,10 +201,13 @@ const TypingModule = (() => {
     updateWordsDisplay(display);
     updateStats(container);
 
-    // Check if complete
-    const correct = typedChars.filter((t, i) => t === targetChars[i] && t !== null).length;
-    if (correct >= targetChars.length) {
-      finishWords(container);
+    // Check if all characters have been typed (regardless of accuracy)
+    if (currentPos >= targetChars.length && !allTyped) {
+      allTyped = true;
+      enterCount = 0;
+      // Show "press Enter twice" hint
+      const inst = container.querySelector('.activity-layout > div:nth-child(4)');
+      if (inst) inst.innerHTML = '✅ 输入完成！按两次回车提交 ⏎⏎';
     }
   }
 
@@ -303,9 +327,10 @@ const TypingModule = (() => {
     displayWrapper.appendChild(targetDisplay);
 
     // Hidden textarea for input (mobile keyboard support)
+    // Use opacity:0.01 instead of 0 to ensure mobile keyboard appears
     const textarea = document.createElement('textarea');
     textarea.id = 'typingInput';
-    textarea.style.cssText = 'position:absolute;top:0;left:0;width:100%;height:100%;opacity:0;cursor:text;font-size:16px;resize:none;';
+    textarea.style.cssText = 'position:absolute;top:0;left:0;width:100%;height:100%;opacity:0.01;cursor:text;font-size:16px;resize:none;z-index:10;';
     textarea.autocomplete = 'off';
     textarea.autocorrect = 'off';
     textarea.autocapitalize = 'off';
@@ -317,7 +342,7 @@ const TypingModule = (() => {
     // Instructions
     const instructions = document.createElement('div');
     instructions.style.cssText = 'text-align:center;font-family:var(--font-ui);font-size:1.1em;color:#666;padding:15px;background:#f5f5f5;border-radius:10px;';
-    instructions.innerHTML = '👆 点击上方区域开始输入！';
+    instructions.innerHTML = '👆 点击上方区域开始输入！打完所有字后按两次回车提交';
     container.appendChild(instructions);
 
     // Result area
@@ -327,11 +352,15 @@ const TypingModule = (() => {
     container.appendChild(result);
 
     finished = false;
+    allTyped = false;
+    enterCount = 0;
     timerStart = null;
 
     // Click on display focuses the textarea (brings up mobile keyboard)
     targetDisplay.addEventListener('click', () => textarea.focus());
     displayWrapper.addEventListener('click', () => textarea.focus());
+    textarea.addEventListener('click', () => textarea.focus());
+    textarea.addEventListener('touchstart', () => textarea.focus());
 
     // Handle input from textarea
     textarea.addEventListener('input', (e) => handleSentenceInput(e, sentence, container));
@@ -339,6 +368,17 @@ const TypingModule = (() => {
       if (e.key === 'Backspace') {
         e.preventDefault();
         handleBackspace(container);
+      } else if (e.key === 'Enter') {
+        e.preventDefault();
+        if (allTyped) {
+          enterCount++;
+          if (enterCount >= 2) {
+            finishSentence(container);
+          } else {
+            const inst = container.querySelector('.activity-layout > div:nth-child(5)');
+            if (inst) inst.innerHTML = '⏎ 再按一次回车提交！';
+          }
+        }
       }
     });
 
@@ -408,10 +448,12 @@ const TypingModule = (() => {
     updateSentenceDisplay(display, sentence);
     updateStats(container);
 
-    // Check if complete
-    const correct = typedChars.filter((t, i) => t === targetChars[i] && t !== null).length;
-    if (correct >= targetChars.length) {
-      finishSentence(container);
+    // Check if all characters have been typed (regardless of accuracy)
+    if (currentPos >= targetChars.length && !allTyped) {
+      allTyped = true;
+      enterCount = 0;
+      const inst = container.querySelector('.activity-layout > div:nth-child(5)');
+      if (inst) inst.innerHTML = '✅ 输入完成！按两次回车提交 ⏎⏎';
     }
   }
 
