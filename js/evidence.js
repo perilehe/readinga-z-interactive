@@ -58,7 +58,7 @@ const EvidenceModule = (() => {
       const passageText = document.createElement('div');
       passageText.style.cssText = 'font-size:0.95em;line-height:2;font-family:var(--font-body);';
       section.paragraphs.forEach((para) => {
-        const cleanPara = para.replace(/<\/?s>/g, '').replace(/<\/?v>/g, '').replace(/<\/?o>/g, '');
+        const cleanPara = para.replace(/<\/?s>/g, '').replace(/<\/?v>/g, '').replace(/<\/?o>/g, '').replace(/<g [^>]*>([^<]*)<\/g>/g, '$1');
         const p = document.createElement('p');
         p.textContent = cleanPara;
         p.style.marginBottom = '12px';
