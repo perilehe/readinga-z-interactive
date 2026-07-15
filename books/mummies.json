@@ -1,0 +1,685 @@
+{
+  "meta": {
+    "id": "mummies",
+    "title": "Mummies",
+    "level": "W",
+    "author": "Lisa Ing",
+    "focusQuestion": "How did the ancient Egyptians preserve their dead, and what did they believe about the afterlife?"
+  },
+  "activities": [
+    "read",
+    "evidence",
+    "summarize",
+    "vocabulary",
+    "typing"
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "title": "Introduction",
+      "paragraphs": [
+        "In modern countries around the world, including Egypt, <s>people</s> often <v>are buried</v> <o>in coffins after they die</o>. Sometimes <s>the body</s> <v>is cremated</v>, and <s>the ashes</s> <v>are</v> either <v>kept</v> by <o>loved ones</o> or <v>are spread</v> over <o>an area that the person enjoyed</o>, such as the ocean. But <s>this</s> <v>is</v> not <o>the way it has always been</o>. <s>The ancient Egyptians</s> <v>turned</v> <o>their dead into mummies</o>.",
+        "<s>The ancient Egyptians</s> <v>are famous</v> for <o>making mummies</o>. <s>They</s> <v>mummified</v> <o>everyone from kings to pets</o> by drying the bodies, rubbing them with spices, and wrapping them in strips of cloth. However, <s>the Egyptians</s> <v>are</v> not <o>the only people that mummified their dead</o>. <s>There</s> <v>is</v> <o>evidence of mummification in many places around the world</o>."
+      ]
+    },
+    {
+      "id": "whatAre",
+      "title": "What Are Mummies?",
+      "paragraphs": [
+        "<s>A mummy</s> <v>is</v> <o>a preserved corpse</o>. Normally, <s>a dead body</s> <v>decays</v> <o>very quickly</o>. <s>Bacteria in the air</s> <v>start decomposing</v> <o>body cells immediately after death</o>. If the body is left alone, <s>scavengers and pests, like vultures and flies</s>, <v>devour</v> <o>the corpse</o>. In a mummy, <s>the decay process</s> <v>is arrested</v>, and <s>the dead body</v> <v>is preserved</v> <o>for thousands of years</o>.",
+        "<s>The first mummifications</s> <v>occurred</v> naturally, in <o>areas that were too dry or cold for bacteria to grow</o>. <s>Bodies</s> <v>were preserved</v> <o>without human interference</o>. Later on, <s>people</s> <v>developed</v> <o>ways to preserve mummies artificially</o>.",
+        "<s>The first Egyptian mummies</s> <v>were buried</v> <o>in the hot desert sand</o>. <s>It</s> <v>was</v> <o>so dry</o> that <s>the bodies</s> <v>dried out</v> almost immediately, preserving them from decay. These dried mummies looked a lot like beef jerky. Their flesh became tough and hard.",
+        "Unfortunately, <s>unprotected bodies buried in the desert</s> often <v>were eaten</v> <o>by jackals</o>, which love the taste of \"human jerky.\" <s>Egyptians</s> <v>tried to protect</v> <o>their buried ancestors</o> by covering the burial site with rocks. <s>Wealthier Egyptians</s> <v>buried</v> <o>family members in painted coffins</o>. But the coffins, which kept out the jackals, also kept out the hot sand, and <s>the bodies inside</s> <v>decayed</v>."
+      ]
+    },
+    {
+      "id": "mummification",
+      "title": "Mummification",
+      "paragraphs": [
+        "<s>Resourceful Egyptians</s> <v>developed</v> <o>ways to preserve the bodies before burial</o>. When someone died, <s>the body</s> <v>was given</v> <o>to a team of embalmers</o>. First, <s>the embalmers</s> <v>laid</v> <o>the body face up on a six-foot-wide embalming table</o>. <s>Their first job</s> <v>was</v> <o>to remove all the soft organs that encouraged the growth of bacteria</o>.",
+        "<s>They</s> carefully <v>pulled</v> <o>the brain out through the nose</o> with an embalming hook, making sure not to deform the person's face. <s>The brain</s> <v>was</v> not <o>very important to the ancient Egyptians</o>. <s>They</s> <v>believed</v> that <s>the heart</s> <v>was</v> <o>the most important organ</o> and that <s>it</s> <v>was</v> <o>the center of thought and feeling</o>.",
+        "<s>The chief embalmer</s> <v>cut</v> <o>an incision in the left side of the stomach</o>. From this hole, <s>the embalming team</s> <v>pulled out</v> <o>all the internal organs except the heart</o> and <v>placed</v> <o>them to the side</o>. <s>The stomach, liver, lungs, and intestines</s> <v>were preserved</v> individually in <o>special jars called canopic jars</o>. These organs accompanied the body during burial but were not as important as the heart. <s>The heart</s> <v>was preserved</v> <o>inside the body</o>.",
+        "<s>Embalmers</s> <v>washed</v> <o>the body, inside and out, with palm wine</o>. <s>The alcohol in the wine</s> <v>killed</v> <o>bacteria</o>. By this time, the body had probably begun to stink, a sign of decay. So <s>the embalmers</s> <v>filled</v> <o>the body with bags of sweet-smelling spices mixed with natron</o>, a special salt. Then <s>they</s> <v>covered up</v> <o>the body and internal organs with more natron</o> and <v>left</v> <o>them alone for 40 days</o>.",
+        "<s>The whole mummification process</s> <v>took</v> <o>seventy days</o>. Once the drying process had been completed, <s>the embalmers</s> <v>removed</v> <o>the salt</o>. <s>The mummy</s> <v>became</v> <o>very light</o>, since all the water—which made up over 65 percent of the body's weight—had been removed. <s>The embalmers</s> <v>filled</v> <o>the inside of the corpse with linen stuffing</o>, producing a body that appeared strong and healthy instead of shriveled.",
+        "Then <s>they</s> <v>rubbed</v> <o>the corpse with more spices, mixed with wax and oil</o>, to make it smell sweet. Next, <s>a sticky resin made of tree sap</s> <v>was poured</v> over <o>the body</o>. When the resin hardened, <s>it</s> <v>formed</v> <o>a thin, protective shell around the body</o>. This shell protected the mummy from bacteria and caused it to become darker in color.",
+        "<s>Embalmers</s> often <v>applied</v> <o>makeup to the mummy's face</o> to make it look more alive. They also placed jewelry on a rich person's corpse before wrapping it up. <s>The resin-soaked wrap</s> <v>consisted of</v> <o>linen bandages the length of a football field</o>. <s>The wrap</s> <v>helped to preserve</v> <o>the shape of the body</o>.",
+        "<s>The best linen</s> <v>was saved</v> for <o>the outermost layer of bandages</o>. Cheap linen was used on the inside, where it couldn't be seen. <s>Magical charms and talismans</s> meant to ensure the mummy's safety in the realm of the dead <v>were put</v> between <o>the layers of bandages</o>. These talismans were carved out of precious stones."
+      ]
+    },
+    {
+      "id": "afterlife",
+      "title": "The Afterlife",
+      "paragraphs": [
+        "<s>The ancient Egyptians</s> <v>believed</v> that <s>immortality</s> <v>depended on</v> <o>having a well-preserved body</o>. They believed that a dead person split up at the moment of death into several parts: the ba, the ka, and the physical body. <s>The ka</s> <v>was</v> <o>a person's ghostly identical twin</o>. <s>It</s> <v>lived</v> inside <o>the mummified heart</o> and could not move from the tomb.",
+        "<s>The ba</s>, which <v>represented</v> <o>the personality and spirit of a person</o>, <v>was</v> <o>a human-headed bird that could fly around freely by day</o>. <s>The ba and the ka</s> <v>joined</v> to form <o>the akh, a person's soul</o>.",
+        "According to ancient Egyptian belief, <s>a dead person's soul</s> <v>traveled</v> through <o>the dangerous realm of the dead</o> to a special palace of judgment, called Osiris's palace. Along the way, <s>the soul</s> <v>dodged</v> <o>monstrous snakes and crocodiles while crossing huge rivers of fire</o>.",
+        "<s>Osiris, the god of the dead</s>, <v>judged</v> <o>everyone by weighing their hearts on a scale</o>. If a person's heart was heavy with sin, <s>it</s> <v>was thrown</v> to <o>the hungry monster beneath the scales</o>. That person would die permanently. But if the heart was lighter than a feather, then <s>the dead person</s> <v>would live forever</v>—or be <o>immortal</o>—in the world of Osiris.",
+        "When the Egyptians first began to make mummies, <s>only very rich or important people</s> <v>were mummified</v>. <s>They</s> <v>believed</v> that <s>only pharaohs and nobles</s> <v>deserved</v> <o>an afterlife</o>. However, as the embalming process became easier and the Egyptians became richer, <s>more people</s> <v>were mummified</v>. <s>The Egyptians</s> eventually <v>believed</v> that <s>everyone</s> <v>deserved</v> <o>to have a chance at immortality</o>.",
+        "Since the Egyptians believed that the afterlife was exactly like life, <s>they</s> <v>buried</v> <o>mummies with their favorite objects and tools</o>. <s>Wealthy nobles</s> <v>were buried</v> <o>with gold and gems</o>. <s>Children</s> <v>were buried</v> <o>with their favorite toys</o>. <s>Everyone</s> <v>was buried</v> with <o>clay representations of food and drink, and with clay figurines called shabtis—servants who would work for them in the afterlife</o>."
+      ]
+    },
+    {
+      "id": "burial",
+      "title": "The Burial",
+      "paragraphs": [
+        "<s>Mummies</s> <v>were laid to rest</v> <o>in decorated coffins usually made of papier-mâché and beaten gold</o>. <s>Richer people</s> <v>were buried</v> in <o>a sarcophagus made of stone or a coffin of imported wood</o>. <s>Pharaohs</s> <v>were buried</v> in <o>up to four gold-covered coffins nested inside each other</o>.",
+        "<s>The coffins</s> <v>were painted</v> with <o>a representation of the person's face</o> so that <s>the ba</s> <v>could find</v> <o>the right tomb when it returned at night</o>. <s>Hieroglyphs</s>, painted or chiseled onto the coffin, <v>told</v> <o>the story of the person's life</o>. These inscriptions also held spells to keep the dead person safe in the underworld.",
+        "<s>Superstitions</s> <v>were common</v> <o>in Egypt</o>. <s>Most people</s> <v>believed</v> that <s>mummies</s> <v>would curse</v> <o>anyone who disturbed their tomb and stole from the dead</o>. But tempted by the treasures buried with the mummies, <s>thieves</s> <v>broke into</v> even <o>the best-guarded tombs</o>. They often tore the mummies apart, looking for the gold and gems under the bandages. They were willing to risk death and punishment for riches. <s>Most tombs</s> <v>were robbed</v> <o>within a few years of their mummies' burials</o>."
+      ]
+    },
+    {
+      "id": "tutankhamun",
+      "title": "The Tomb of Tutankhamun",
+      "paragraphs": [
+        "<s>The Pharaoh Tutankhamun</s>, also called <o>the Boy King</o>, <v>died</v> when <s>he</s> <v>was</v> only <o>a teenager</o>. <s>We</s> <v>know</v> very little about <o>his life or his rule in Egypt</o>, but <s>he</s> <v>is</v> <o>the most famous mummy in the world</o>.",
+        "<s>Tutankhamun's tomb</s> <v>was opened</v> <o>in 1923</o>. Even though <s>it</s> <v>had been robbed</v> twice in ancient times, <s>King Tut's tomb</s> still <v>held</v> <o>great treasures</o>. <s>The thieves</s> <v>had entered</v> <o>the second room</o>, which was filled with Tut's gold chariots and statues. <s>They</s> <v>stole</v> <o>about a sixth of the tomb's gold</o> but were probably interrupted before they could finish. <s>King Tut's mummy</s> <v>had not been touched</v>.",
+        "<s>King Tut</s> <v>was buried</v> in <o>a series of three coffins, one inside the other</o>. <s>The first two coffins</s> <v>were made</v> <o>of wood covered in bands of gold</o>. But <s>the innermost coffin</s> <v>was made</v> <o>of solid gold and covered with gems</o>. <s>Tut's beautiful burial mask</s> <v>was</v> also <v>made</v> <o>of pure gold</o>. <s>Heavy jeweled bracelets</s> <v>encircled</v> <o>his wrists</o>, and <s>golden amulets and necklaces</s> <v>were draped</v> <o>around his neck</o>."
+      ]
+    },
+    {
+      "id": "animalMummies",
+      "title": "Animal Mummies",
+      "paragraphs": [
+        "<s>The ancient Egyptians</s> <v>mummified</v> <o>animals as well as people</o>. <s>Cats</s> <v>were</v> especially <o>sacred to the Egyptians</o>. <s>They</s> <v>represented</v> <o>Bast, the cat-headed goddess of happiness</o>. Cats were kept as pets, and when one died, <s>the whole family</s> <v>shaved</v> <o>their heads and eyebrows in mourning</o>. <s>Cat mummies</s> <v>were buried</v> <o>with their owners or at the temples of Bast</o>.",
+        "<s>Ancient Egyptians</s> also <v>mummified</v> <o>other animals sacred to the gods</o>, such as crocodiles, ibises, and falcons. These animals were sent to the afterlife as offerings to the gods."
+      ]
+    },
+    {
+      "id": "conclusion",
+      "title": "Conclusion",
+      "paragraphs": [
+        "<s>Natural mummies</s> <v>have been found</v> <o>around the world</o>. They can be found in the cold, acidic water of a marsh in Denmark, in the frozen depths of an Alpine glacier, or in the hot sands of a desert.",
+        "<s>The dead</s> <v>have been preserved</v> as <o>mummies by many different cultures</o>, from Buddhist monks in Japan to tribesmen in Papua New Guinea. The Incas in Peru, half a world away from the ancient Egyptians, mummified their ancestors in much the same way as the Egyptians.",
+        "While artificial and natural mummification vary in some ways, <s>they</s> <v>are alike</v> in <o>one important way</o>. <s>All mummification</s> <v>results in</v> <o>the arrest of cell decay</o>, which preserves the body for hundreds, if not thousands, of years.",
+        "<s>We</s> <v>can learn</v> <o>much about ancient civilizations</o> by studying mummies and the contents of their tombs. <s>Scientists around the world</s> <v>study</v> <o>mummies</o> in order to know more about how ancient people lived and died."
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "afterlife",
+      "pos": "n.",
+      "definition": "the realm of life after death",
+      "section": "afterlife",
+      "sentence": "The ancient Egyptians believed that everyone deserved to have a chance at immortality in the afterlife.",
+      "quiz": {
+        "prompt": "The \"afterlife\" is:",
+        "options": [
+          "the period of time before a person is born",
+          "a type of tomb where pharaohs were buried",
+          "the process of preserving a body after death",
+          "the realm of life after death that the Egyptians believed in"
+        ],
+        "answer": 3
+      }
+    },
+    {
+      "word": "embalmers",
+      "pos": "n.",
+      "definition": "people who preserve corpses after death",
+      "section": "mummification",
+      "sentence": "When someone died, the body was given to a team of embalmers.",
+      "quiz": {
+        "prompt": "\"Embalmers\" are:",
+        "options": [
+          "thieves who broke into tombs to steal gold and treasures",
+          "priests who read spells from the Book of the Dead",
+          "people who preserve bodies after death using special techniques",
+          "artists who painted hieroglyphs on coffin walls"
+        ],
+        "answer": 2
+      }
+    },
+    {
+      "word": "hieroglyphs",
+      "pos": "n.",
+      "definition": "ancient Egyptian picture writing using symbols",
+      "section": "burial",
+      "sentence": "Hieroglyphs, painted or chiseled onto the coffin, told the story of the person's life.",
+      "quiz": {
+        "prompt": "\"Hieroglyphs\" are:",
+        "options": [
+          "special jars that held the mummy's internal organs",
+          "a cardboard-like material used to make coffins",
+          "carved figurines that served as servants in the afterlife",
+          "symbols or pictures used as a form of writing in ancient Egypt"
+        ],
+        "answer": 3
+      }
+    },
+    {
+      "word": "immortality",
+      "pos": "n.",
+      "definition": "living forever",
+      "section": "afterlife",
+      "sentence": "The ancient Egyptians believed that immortality depended on having a well-preserved body.",
+      "quiz": {
+        "prompt": "\"Immortality\" means:",
+        "options": [
+          "living forever, never dying",
+          "being buried with gold and precious gems",
+          "having a well-preserved body after death",
+          "traveling through the dangerous realm of the dead"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "word": "mummified",
+      "pos": "v.",
+      "definition": "made into a mummy; preserved after death",
+      "section": "intro",
+      "sentence": "They mummified everyone from kings to pets by drying the bodies and wrapping them in cloth.",
+      "quiz": {
+        "prompt": "When a body is \"mummified,\" it:",
+        "options": [
+          "is burned until only ashes remain",
+          "is buried in a sarcophagus made of stone",
+          "is preserved after death through drying and wrapping in cloth",
+          "is placed in a coffin with favorite objects and toys"
+        ],
+        "answer": 2
+      }
+    },
+    {
+      "word": "sacred",
+      "pos": "adj.",
+      "definition": "holy; belonging to a deity or connected to a religion",
+      "section": "animalMummies",
+      "sentence": "Cats were especially sacred to the Egyptians. They represented Bast, the cat-headed goddess of happiness.",
+      "quiz": {
+        "prompt": "\"Sacred\" means:",
+        "options": [
+          "very old and forgotten by most people",
+          "holy and connected to a religion or deity",
+          "dangerous and kept far away from temples",
+          "valuable enough to be buried with a pharaoh"
+        ],
+        "answer": 1
+      }
+    },
+    {
+      "word": "akh",
+      "pos": "n.",
+      "definition": "a person's soul, combining the personality (ba) and ghostly form (ka)",
+      "section": "afterlife",
+      "sentence": "The ba and the ka joined to form the akh, a person's soul.",
+      "quiz": {
+        "prompt": "The \"akh\" in Egyptian belief is:",
+        "options": [
+          "a person's soul, formed when the ba and ka join together",
+          "the human-headed bird that represented a person's personality",
+          "the ghostly twin that lived inside the mummified heart",
+          "the god of the dead who judged everyone's heart"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "word": "amulets",
+      "pos": "n.",
+      "definition": "charms worn on the body for protection against evil",
+      "section": "tutankhamun",
+      "sentence": "Heavy jeweled bracelets encircled his wrists, and golden amulets and necklaces were draped around his neck.",
+      "quiz": {
+        "prompt": "\"Amulets\" are:",
+        "options": [
+          "special jars used to hold internal organs",
+          "spells written on papyrus scrolls",
+          "golden coffins nested inside each other",
+          "charms worn on the body for protection"
+        ],
+        "answer": 3
+      }
+    },
+    {
+      "word": "canopic jars",
+      "pos": "n.",
+      "definition": "special jars that held the mummy's preserved internal organs",
+      "section": "mummification",
+      "sentence": "The stomach, liver, lungs, and intestines were preserved individually in special jars called canopic jars.",
+      "quiz": {
+        "prompt": "\"Canopic jars\" were used to:",
+        "options": [
+          "hold the mummy's preserved internal organs during burial",
+          "store palm wine used to wash the body",
+          "contain the natron salt that dried the body",
+          "carry food and drink for the afterlife"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "word": "natron",
+      "pos": "n.",
+      "definition": "a special salt used to dry mummies",
+      "section": "mummification",
+      "sentence": "The embalmers filled the body with bags of sweet-smelling spices mixed with natron, a special salt.",
+      "quiz": {
+        "prompt": "\"Natron\" is:",
+        "options": [
+          "a sticky resin made from tree sap",
+          "a special salt used to dry out the body",
+          "a sweet-smelling spice rubbed on the corpse",
+          "a type of linen used for the outermost bandage"
+        ],
+        "answer": 1
+      }
+    },
+    {
+      "word": "resin",
+      "pos": "n.",
+      "definition": "a sticky substance made from tree sap that forms a protective shell",
+      "section": "mummification",
+      "sentence": "A sticky resin made of tree sap was poured over the body. When the resin hardened, it formed a thin, protective shell.",
+      "quiz": {
+        "prompt": "The \"resin\" poured over the mummy was:",
+        "options": [
+          "a sweet-smelling oil mixed with wax",
+          "a type of makeup applied to make the face look alive",
+          "a sticky substance from tree sap that hardened into a protective shell",
+          "a special salt that removed water from the body"
+        ],
+        "answer": 2
+      }
+    },
+    {
+      "word": "talismans",
+      "pos": "n.",
+      "definition": "magical objects carved from precious stones, placed between bandage layers for protection",
+      "section": "mummification",
+      "sentence": "Magical charms and talismans meant to ensure the mummy's safety in the realm of the dead were put between the layers of bandages.",
+      "quiz": {
+        "prompt": "\"Talismans\" were:",
+        "options": [
+          "clay figurines shaped like servants for the afterlife",
+          "magical objects placed between bandages to protect the mummy",
+          "golden masks placed over the face of the pharaoh",
+          "scrolls containing spells from the Book of the Dead"
+        ],
+        "answer": 1
+      }
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "level": 1,
+      "question": "What is the main idea of this book?",
+      "section": "intro",
+      "pages": "4–5",
+      "evidence": "The ancient Egyptians are famous for making mummies. They mummified everyone from kings to pets by drying the bodies, rubbing them with spices, and wrapping them in strips of cloth.",
+      "choices": [
+        "Ancient Egyptians believed in and practiced the art of mummification to preserve the dead.",
+        "Children in ancient Egypt were buried with their favorite toys and games.",
+        "The mummification process took seventy days from start to finish.",
+        "King Tutankhamun died when he was only a teenager and is the most famous mummy."
+      ],
+      "correctChoice": 0,
+      "explanation": "The book covers how and why Egyptians mummified their dead — from the process to the beliefs about the afterlife. This is the main idea that connects all sections."
+    },
+    {
+      "id": "q2",
+      "level": 1,
+      "question": "What are embalmers?",
+      "section": "mummification",
+      "pages": "7",
+      "evidence": "When someone died, the body was given to a team of embalmers. Their first job was to remove all the soft organs that encouraged the growth of bacteria.",
+      "choices": [
+        "People who broke into tombs to steal gold and treasures from the dead.",
+        "People who preserved bodies after death using special techniques.",
+        "People who painted hieroglyphs and designs on coffin walls.",
+        "People who read spells from the Book of the Dead during burial."
+      ],
+      "correctChoice": 1,
+      "explanation": "Embalmers were the specialists who preserved bodies — removing organs, drying with natron salt, and wrapping in linen bandages."
+    },
+    {
+      "id": "q3",
+      "level": 1,
+      "question": "How did the ancient Egyptians create the very first mummies?",
+      "section": "whatAre",
+      "pages": "6",
+      "evidence": "The first Egyptian mummies were buried in the hot desert sand. It was so dry that the bodies dried out almost immediately, preserving them from decay.",
+      "choices": [
+        "They wrapped the bodies in strips of cloth soaked in tree resin.",
+        "They buried the bodies in hot desert sand, where the dryness preserved them naturally.",
+        "They placed the bodies in painted coffins to protect them from jackals.",
+        "They covered the bodies with natron salt for forty days."
+      ],
+      "correctChoice": 1,
+      "explanation": "Before Egyptians developed the artificial mummification process, the first mummies were created NATURALLY — buried in hot desert sand that dried the bodies immediately."
+    },
+    {
+      "id": "q4",
+      "level": 1,
+      "question": "Which internal organ was NOT removed during mummification?",
+      "section": "mummification",
+      "pages": "7–8",
+      "evidence": "The embalming team pulled out all the internal organs except the heart... The heart was preserved inside the body.",
+      "choices": [
+        "The brain, which was pulled out through the nose.",
+        "The liver, which was placed in a canopic jar.",
+        "The stomach, which was cut out through an incision.",
+        "The heart, which the Egyptians believed was the center of thought and feeling."
+      ],
+      "correctChoice": 3,
+      "explanation": "The heart was the ONLY organ left inside the body. Egyptians believed it was the most important organ — the center of thought and feeling."
+    },
+    {
+      "id": "q5",
+      "level": 2,
+      "question": "What happened to a mummy right before it was wrapped in linen bandages?",
+      "section": "mummification",
+      "pages": "9–10",
+      "evidence": "Embalmers often applied makeup to the mummy's face to make it look more alive. They also placed jewelry on a rich person's corpse before wrapping it up.",
+      "choices": [
+        "The body was covered with piles of natron salt for drying.",
+        "A sticky resin made of tree sap was poured over the body.",
+        "The corpse was filled with linen stuffing to look healthy.",
+        "Makeup was applied to the face and jewelry was placed on the corpse."
+      ],
+      "correctChoice": 3,
+      "explanation": "RIGHT BEFORE wrapping: embalmers applied makeup to the face and placed jewelry on the body. This happened after the resin had already hardened."
+    },
+    {
+      "id": "q6",
+      "level": 2,
+      "question": "Which is NOT a detail from the section \"The Afterlife\"?",
+      "section": "afterlife",
+      "pages": "11–14",
+      "evidence": "Everyone was buried with clay representations of food and drink, and with clay figurines called shabtis—servants who would work for them in the afterlife.",
+      "choices": [
+        "Mummies were buried with their favorite objects and tools.",
+        "Wealthy nobles were buried with gold and gems.",
+        "Only children were buried with clay figurines called shabtis.",
+        "After death, a person's soul traveled to Osiris's palace to be judged."
+      ],
+      "correctChoice": 2,
+      "explanation": "The text says EVERYONE was buried with shabtis, not just children. This is the detail that is NOT correct."
+    },
+    {
+      "id": "q7",
+      "level": 2,
+      "question": "Why did King Tut's mummy become the most famous mummy in the world?",
+      "section": "tutankhamun",
+      "pages": "17–18",
+      "evidence": "Tutankhamun's tomb was opened in 1923. Even though it had been robbed twice in ancient times, King Tut's tomb still held great treasures... King Tut's mummy had not been touched.",
+      "choices": [
+        "His tomb, opened in 1923, still held great treasures including a solid gold coffin and burial mask.",
+        "He was the oldest pharaoh ever discovered in ancient Egypt.",
+        "He was the first pharaoh to be mummified using the full seventy-day process.",
+        "His tomb was the largest pyramid ever built in Egypt."
+      ],
+      "correctChoice": 0,
+      "explanation": "King Tut is famous because his tomb — opened in 1923 — still contained amazing treasures: gold coffins, a pure gold burial mask, jeweled bracelets, and amulets."
+    },
+    {
+      "id": "q8",
+      "level": 2,
+      "question": "Why did historians think robbers of King Tut's tomb were interrupted?",
+      "section": "tutankhamun",
+      "pages": "17",
+      "evidence": "The thieves had entered the second room, which was filled with Tut's gold chariots and statues. They stole about a sixth of the tomb's gold but were probably interrupted before they could finish.",
+      "choices": [
+        "Some of the treasure was still there, suggesting they didn't finish stealing everything.",
+        "Bodies of the thieves were found inside the tomb near the entrance.",
+        "The tomb was left wide open with tools scattered on the floor.",
+        "A curse on the tomb killed the thieves before they could escape."
+      ],
+      "correctChoice": 0,
+      "explanation": "The thieves only stole about 1/6 of the gold. The fact that most of the treasure was still there suggests they were interrupted before finishing."
+    },
+    {
+      "id": "q9",
+      "level": 2,
+      "question": "Which of the following mummification events happened FIRST?",
+      "section": "mummification",
+      "pages": "7–9",
+      "evidence": "First, the embalmers laid the body face up on a six-foot-wide embalming table... Embalmers washed the body, inside and out, with palm wine.",
+      "choices": [
+        "The embalmers applied makeup to the mummy's face.",
+        "The embalmers filled the corpse with linen stuffing.",
+        "The embalmers washed the body inside and out with palm wine.",
+        "A sticky resin was poured over the body."
+      ],
+      "correctChoice": 2,
+      "explanation": "Washing the body with palm wine happened early in the process — after removing organs but BEFORE drying with natron, stuffing with linen, or pouring resin."
+    },
+    {
+      "id": "q10",
+      "level": 2,
+      "question": "What are hieroglyphs?",
+      "section": "burial",
+      "pages": "15",
+      "evidence": "Hieroglyphs, painted or chiseled onto the coffin, told the story of the person's life. These inscriptions also held spells to keep the dead person safe in the underworld.",
+      "choices": [
+        "Special decorative jars with lids that represented minor gods.",
+        "Carved figurines that served as servants in the afterlife.",
+        "A cardboard-like material made from wet paper pulp.",
+        "Symbols or pictures used as a form of writing in ancient Egypt."
+      ],
+      "correctChoice": 3,
+      "explanation": "Hieroglyphs were the ancient Egyptian writing system — symbols and pictures painted or carved on coffins and walls."
+    },
+    {
+      "id": "q11",
+      "level": 3,
+      "question": "According to the book, how does Osiris judge everyone who dies? Write a summary.",
+      "section": "afterlife",
+      "pages": "13",
+      "evidence": "",
+      "choices": [],
+      "correctChoice": -1,
+      "explanation": "Osiris judged everyone by weighing their hearts on a scale. A heart heavy with sin was thrown to a monster (permanent death). A heart lighter than a feather meant the person would live forever with Osiris.",
+      "opinionPrompts": [
+        "How did Osiris weigh each person's heart?",
+        "What happened if the heart was heavy with sin?",
+        "What happened if the heart was lighter than a feather?"
+      ]
+    }
+  ],
+  "summarizeActivities": [
+    {
+      "section": "intro",
+      "sectionTitle": "What Are Mummies?",
+      "mainIdea": "A mummy is a preserved corpse whose decay has been stopped, and mummification existed in many cultures around the world, not just Egypt.",
+      "keyDetails": [
+        "A mummy is a preserved corpse where the decay process is arrested",
+        "Bacteria in the air start decomposing body cells immediately after death",
+        "The first mummifications occurred naturally in areas too dry or cold for bacteria",
+        "The ancient Egyptians are famous for making mummies but were not the only people to do so"
+      ],
+      "distractors": [
+        "King Tut died when he was only a teenager",
+        "Cats were sacred to the Egyptians"
+      ],
+      "transitionWords": [
+        "Normally",
+        "In a mummy",
+        "The first",
+        "However",
+        "Later on"
+      ]
+    },
+    {
+      "section": "mummification",
+      "sectionTitle": "The Mummification Process",
+      "mainIdea": "The ancient Egyptians developed a detailed 70-day process to preserve bodies, from removing organs to wrapping in linen bandages.",
+      "keyDetails": [
+        "Embalmers removed internal organs through an incision, keeping the heart inside the body",
+        "The body was washed with palm wine, filled with spices, and covered with natron salt for 40 days",
+        "After drying, the body was stuffed with linen and covered with resin that hardened into a shell",
+        "Makeup and jewelry were added, then the body was wrapped in linen bandages the length of a football field"
+      ],
+      "distractors": [
+        "The ba and ka joined to form the akh",
+        "Thieves broke into tombs to steal gold"
+      ],
+      "transitionWords": [
+        "First",
+        "From this hole",
+        "Then",
+        "After 40 days",
+        "Next",
+        "Before wrapping"
+      ]
+    },
+    {
+      "section": "afterlife",
+      "sectionTitle": "The Afterlife",
+      "mainIdea": "The ancient Egyptians believed the soul survived death and traveled to Osiris's palace, where the heart was weighed to determine if the person would live forever.",
+      "keyDetails": [
+        "A dead person split into parts: the ba (personality bird), the ka (ghostly twin), and together they formed the akh (soul)",
+        "The soul traveled through dangers to Osiris's palace, where the heart was weighed against a feather",
+        "If the heart was lighter than a feather, the person would live forever; if heavy with sin, it was thrown to a monster",
+        "Everyone was buried with objects for the afterlife, including shabtis — clay servants who would work for them"
+      ],
+      "distractors": [
+        "The embalmers pulled the brain out through the nose",
+        "Hieroglyphs told the story of the person's life on the coffin"
+      ],
+      "transitionWords": [
+        "According to belief",
+        "Along the way",
+        "If the heart",
+        "But if",
+        "Since the Egyptians believed"
+      ]
+    },
+    {
+      "section": "tutankhamun",
+      "sectionTitle": "The Tomb of Tutankhamun",
+      "mainIdea": "King Tutankhamun, the Boy King who died as a teenager, is the most famous mummy because his tomb contained incredible treasures including a solid gold coffin and burial mask.",
+      "keyDetails": [
+        "Tutankhamun's tomb was opened in 1923, even though it had been robbed twice in ancient times",
+        "Thieves stole about a sixth of the gold but were interrupted before finishing",
+        "King Tut was buried in three nested coffins — the innermost made of solid gold",
+        "His beautiful burial mask was also made of pure gold, with jeweled bracelets and amulets"
+      ],
+      "distractors": [
+        "Cats were buried with their owners at the temples of Bast",
+        "The mummification process took seventy days"
+      ],
+      "transitionWords": [
+        "Even though",
+        "The thieves",
+        "King Tut was buried",
+        "But the innermost"
+      ]
+    }
+  ],
+  "notes": {
+    "intro": [
+      {
+        "type": "vocab",
+        "title": "Mummy",
+        "content": "A preserved corpse — a dead body that doesn't decay! The Egyptians turned their dead into mummies to preserve them for thousands of years."
+      },
+      {
+        "type": "grammar",
+        "title": "Adjective: Ancient",
+        "content": "'Ancient' describes something very, very old. 'Ancient Egyptians' = the Egyptians from thousands of years ago!"
+      }
+    ],
+    "whatAre": [
+      {
+        "type": "vocab",
+        "title": "Decay / Decompose",
+        "content": "When a body decays or decomposes, it rots and falls apart. Bacteria in the air start this process immediately after death."
+      },
+      {
+        "type": "vocab",
+        "title": "Arrested",
+        "content": "Here it means STOPPED! The decay process is 'arrested' = stopped. The body doesn't rot anymore."
+      },
+      {
+        "type": "evidence",
+        "title": "Natural vs. Artificial",
+        "content": "First mummies = NATURAL (hot sand dried them). Later = ARTIFICIAL (embalmers used tools, salt, and bandages)."
+      }
+    ],
+    "mummification": [
+      {
+        "type": "vocab",
+        "title": "Natron",
+        "content": "A special salt (similar to baking soda) that DRIES out the body. They covered the body in natron for 40 days!"
+      },
+      {
+        "type": "vocab",
+        "title": "Canopic Jars",
+        "content": "Special jars with decorative lids for the stomach, liver, lungs, intestines. Each lid represented a protective god!"
+      },
+      {
+        "type": "grammar",
+        "title": "Adjective: Sweet-smelling",
+        "content": "'Sweet-smelling spices' — 'sweet-smelling' is an adjective describing WHAT KIND of spices. Can you find more adjectives?"
+      },
+      {
+        "type": "sequence",
+        "title": "70-Day Process",
+        "content": "Remove organs → Wash with palm wine → Fill with spices + natron (40 days) → Remove salt → Stuff with linen → Rub with spices + wax → Pour resin → Apply makeup → Wrap in bandages!"
+      }
+    ],
+    "afterlife": [
+      {
+        "type": "vocab",
+        "title": "Ba, Ka, Akh",
+        "content": "Ba = personality (human-headed bird that flies by day). Ka = ghostly twin (lives in the heart). Akh = soul (ba + ka joined together)."
+      },
+      {
+        "type": "evidence",
+        "title": "Osiris's Judgment",
+        "content": "Osiris weighed the heart on a scale. Heart heavy with sin → thrown to monster (permanent death). Heart lighter than a feather → live forever!"
+      },
+      {
+        "type": "vocab",
+        "title": "Shabtis",
+        "content": "Clay figurines buried with EVERYONE (not just children!) to serve as servants in the afterlife. Depending on rank, they could be clay, stone, wood, or gold."
+      }
+    ],
+    "burial": [
+      {
+        "type": "vocab",
+        "title": "Hieroglyphs",
+        "content": "Ancient Egyptian picture writing! Painted or carved on coffins, they told the story of the person's life AND held magic spells."
+      },
+      {
+        "type": "evidence",
+        "title": "Tomb Robbers",
+        "content": "Most tombs were robbed within a FEW YEARS of burial! People were tempted by gold and gems, even though they believed in the mummy's curse."
+      }
+    ],
+    "tutankhamun": [
+      {
+        "type": "vocab",
+        "title": "Amulets",
+        "content": "Golden charms for protection. King Tut had golden amulets and necklaces draped around his neck, plus a solid gold burial mask!"
+      },
+      {
+        "type": "evidence",
+        "title": "King Tut's Treasures",
+        "content": "3 nested coffins (2 wood+gold, 1 SOLID GOLD). Gold mask. Jeweled bracelets. Even though robbed twice, most treasure was still there!"
+      }
+    ],
+    "animalMummies": [
+      {
+        "type": "vocab",
+        "title": "Sacred",
+        "content": "Holy! Cats were sacred to the Egyptians because they represented Bast, the cat-headed goddess. When a cat died, the whole family shaved their heads!"
+      },
+      {
+        "type": "evidence",
+        "title": "Animal Offerings",
+        "content": "Egyptians also mummified crocodiles, ibises, and falcons — all sacred animals sent to the afterlife as offerings to the gods."
+      }
+    ],
+    "conclusion": [
+      {
+        "type": "evidence",
+        "title": "Mummies Worldwide",
+        "content": "Natural mummies found in Denmark (bogs), Alps (glaciers), deserts! Incas in Peru did it too. ALL mummification stops cell decay."
+      }
+    ]
+  }
+}
