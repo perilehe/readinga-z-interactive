@@ -17,7 +17,8 @@ const MODULE_REGISTRY = {
   authorPurpose:  { icon: '🎯', label: 'Purpose',      moduleName: 'AuthorPurposeModule' },
   kwls:           { icon: '📊', label: 'KWLS',         moduleName: 'KwlsModule' },
   pronoun:        { icon: '🔤', label: 'Pronouns',     moduleName: 'PronounModule' },
-  problemSolution:{ icon: '🔍', label: 'Problem',      moduleName: 'ProblemSolutionModule' }
+  problemSolution:{ icon: '🔍', label: 'Problem',      moduleName: 'ProblemSolutionModule' },
+  grammar:        { icon: '📐', label: 'Grammar',      moduleName: 'GrammarModule' }
 };
 
 // Lazy lookup — modules are loaded after app.js
@@ -66,6 +67,11 @@ function initApp() {
   // Quiz popup for in-text vocab stars
   setupQuizPopup();
 
+  // Grammar tooltip for in-text grammar highlights
+  if (typeof GrammarModule !== 'undefined') {
+    GrammarModule.setupGrammarTooltips();
+  }
+
   // Activate first tab
   activateTab(activities[0]);
 }
@@ -100,6 +106,13 @@ function calculateTotalStars(activities) {
         break;
       case 'problemSolution':
         total += (bookData.problemSolution || []).length;
+        break;
+      case 'grammar':
+        if (bookData.grammar) {
+          total += (bookData.grammar.wordBuilding || []).length;
+          total += (bookData.grammar.homophones || []).length;
+          total += (bookData.grammar.exercises || []).length;
+        }
         break;
     }
   });
@@ -183,18 +196,29 @@ function renderReadTab(container) {
   textPanel.appendChild(toc);
 
   // Legend
+  const grammar = bookData.grammar;
   const legend = document.createElement('div');
   legend.className = 'legend';
-  legend.innerHTML = `
-    <h4>Reading Guide</h4>
-    <div class="legend-items">
-      <div class="legend-item"><span class="subject" style="font-weight:bold;">Subject</span></div>
-      <div class="legend-item"><span class="verb" style="font-weight:bold;">Verb</span></div>
-      <div class="legend-item"><span class="object" style="font-weight:bold;">Object</span></div>
-      <div class="legend-item"><span>⭐</span> Click stars for vocab quiz!</div>
-      <div class="legend-item">📍 Focus: <strong style="font-size:0.9em;">${bookData.meta.focusQuestion}</strong></div>
-    </div>
-  `;
+  if (grammar) {
+    const grammarIcon = grammar.target === 'adverbs' ? '🔵' : grammar.target === 'adjectives' ? '🟢' : '🎨';
+    const grammarColor = grammar.target === 'adverbs' ? 'var(--subject-color)' : grammar.target === 'adjectives' ? '#1565c0' : 'var(--subject-color)';
+    legend.innerHTML = `
+      <h4>Reading Guide</h4>
+      <div class="legend-items">
+        <div class="legend-item"><span class="grammar-highlight grammar-${grammar.target}" style="font-weight:bold;">${grammarIcon} ${grammar.target.charAt(0).toUpperCase() + grammar.target.slice(1)}</span> Click for details!</div>
+        <div class="legend-item"><span>⭐</span> Click stars for vocab quiz!</div>
+        <div class="legend-item">📍 Focus: <strong style="font-size:0.9em;">${bookData.meta.focusQuestion}</strong></div>
+      </div>
+    `;
+  } else {
+    legend.innerHTML = `
+      <h4>Reading Guide</h4>
+      <div class="legend-items">
+        <div class="legend-item"><span>⭐</span> Click stars for vocab quiz!</div>
+        <div class="legend-item">📍 Focus: <strong style="font-size:0.9em;">${bookData.meta.focusQuestion}</strong></div>
+      </div>
+    `;
+  }
   textPanel.appendChild(legend);
 
   // Sections
@@ -209,10 +233,11 @@ function renderReadTab(container) {
 
     s.paragraphs.forEach(p => {
       const para = document.createElement('p');
-      let html = p
-        .replace(/<s>(.*?)<\/s>/g, '<span class="subject">$1</span>')
-        .replace(/<v>(.*?)<\/v>/g, '<span class="verb">$1</span>')
-        .replace(/<o>(.*?)<\/o>/g, '<span class="object">$1</span>');
+      let html = p;
+      // Grammar highlights (<g> tags are processed by GrammarModule)
+      if (typeof GrammarModule !== 'undefined') {
+        html = GrammarModule.highlightGrammarInText(html);
+      }
 
       (bookData.vocabulary || []).forEach(v => {
         const regex = new RegExp(`\\b(${v.word})\\b`, 'gi');
@@ -321,6 +346,8 @@ function getModuleStars(act) {
         earned: StarSystem.getSectionStars('ps-'),
         total: (bookData.problemSolution || []).length
       };
+    case 'grammar':
+      return GrammarModule.getStarCount();
     default:
       return { earned: 0, total: 0 };
   }

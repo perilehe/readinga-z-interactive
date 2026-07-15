@@ -12,73 +12,74 @@
     "summarize",
     "authorPurpose",
     "vocabulary",
-    "typing"
+    "typing",
+    "grammar"
   ],
   "sections": [
     {
       "id": "famous",
       "title": "The Most Famous Prize",
       "paragraphs": [
-        "<s>The Nobel Prize</s> <v>is</v> <o>the most famous honor in the world</o>. <s>The prizes</s> <v>were first awarded</v> <o>on December 10, 1901</o>. That date was <o>the fifth anniversary of the death of Alfred Nobel</o>, the creator of the prizes. Between 1901 and 2015, <s>874 special individuals and 26 groups</s> <v>have been awarded</v> <o>Nobel Prizes</o>.",
-        "For many years, <s>five prizes</s> <v>were awarded</v> <o>annually in the fields of physics, chemistry, physiology or medicine, literature, and peace</o>. <s>A sixth award, for economics</s>, <v>was created</v> <o>in 1968</o>.",
-        "<s>These prizes</s> <v>are</v> <o>the result of one fascinating man, Alfred Nobel</o>."
+        "The Nobel Prize is the most <g data-word=\"famous\" data-type=\"adjective\" data-modifies=\"honor\" data-rule=\"tells WHAT KIND of honor\">famous</g> honor in the world. The prizes were first awarded on December 10, 1901. That date was the fifth anniversary of the death of Alfred Nobel, the creator of the prizes. Between 1901 and 2015, 874 special individuals and 26 groups have been awarded Nobel Prizes.",
+        "For many years, five prizes were awarded annually in the fields of physics, chemistry, physiology or medicine, literature, and peace. A sixth award, for economics, was created in 1968.",
+        "These prizes are the result of one fascinating man, Alfred Nobel."
       ]
     },
     {
       "id": "life",
       "title": "Alfred Nobel's Life",
       "paragraphs": [
-        "<s>Alfred Nobel</s> <v>was born</v> <o>on October 21, 1833, in Stockholm, Sweden</o>. <s>He</s> <v>was</v> <o>one of four sons of Caroline and Immanuel Nobel</o>. <s>Immanuel</s> <v>was</v> <o>an engineer and businessman</o>. <s>He</s> <v>was interested in</v> <o>finding ways to blast through rocks to make bridges and tunnels</o>.",
-        "By 1842, <s>Immanuel</s> <v>had moved</v> from Sweden to <o>St. Petersburg, Russia</o>. There <s>he</s> successfully <v>made</v> <o>explosives for the Russian navy</o>. <s>Alfred</s> <v>received</v> <o>an excellent education in St. Petersburg</o>. By age seventeen, <s>he</s> <v>could speak</v> <o>Swedish, Russian, French, German, and English</o>. He was also interested in chemistry.",
-        "In 1850, <s>Alfred's parents</s> <v>sent</v> <o>him to Paris to study chemical engineering</o>. <s>He</s> <v>worked with</v> <o>a highly explosive liquid that had recently been invented</o>. At that time, <s>it</s> <v>was</v> still <v>considered</v> <o>too dangerous for commercial use</o>. When Alfred returned to St. Petersburg, <s>he</s> <v>worked with</v> <o>his father to try to create a commercial explosive</o>.",
-        "In 1859, <s>the family</s> <v>returned</v> to <o>Sweden</o>, where <s>Alfred</s> <v>continued to experiment</v>. <s>His younger brother, Emil</s>, who also experimented with explosives, <v>was killed</v> <o>in a tragic accident in 1864</o>.",
-        "However, <s>Alfred</s> <v>did not give up</v>. In 1866, <s>he</s> <v>invented</v> <o>an explosive he named dynamite</o>. <s>His invention</s> <v>made</v> <o>him rich and famous</o>.",
-        "<s>The invention of dynamite</s> <v>made</v> <o>the building of tunnels, canals, roads, and railways much easier and safer</o>. However, while dynamite made engineering safer, <s>it</s> also <v>changed</v> <o>the way wars were fought</o>. <s>Nobel</s> <v>was</v> <o>a peaceful man</o>. Yet <s>he</s> <v>saw</v> <o>his invention of dynamite also put to use in war</o>.",
-        "<s>The idea of the prizes</s> <v>was</v> only <v>revealed</v> <o>after Nobel's death in 1896</o>. <s>His will</s> <v>established</v> <o>the Nobel Foundation to manage his fortune and award the prizes</o>."
+        "Alfred Nobel was born on October 21, 1833, in Stockholm, Sweden. He was one of four sons of Caroline and Immanuel Nobel. Immanuel was an engineer and businessman. He was interested in finding ways to blast through rocks to make bridges and tunnels.",
+        "By 1842, Immanuel had moved from Sweden to St. Petersburg, Russia. There he successfully made explosives for the Russian navy. Alfred received an <g data-word=\"excellent\" data-type=\"adjective\" data-modifies=\"education\" data-rule=\"tells WHAT KIND of education\">excellent</g> education in St. Petersburg. By age seventeen, he could speak Swedish, Russian, French, German, and English. He was also interested in chemistry.",
+        "In 1850, Alfred's parents sent him to Paris to study chemical engineering. He worked with a highly explosive liquid that had recently been invented. At that time, it was still considered too dangerous for <g data-word=\"commercial\" data-type=\"adjective\" data-modifies=\"explosive\" data-rule=\"tells WHAT KIND of explosive\">commercial</g> use. When Alfred returned to St. Petersburg, he worked with his father to try to create a commercial explosive.",
+        "In 1859, the family returned to Sweden, where Alfred continued to experiment. His younger brother, Emil, who also experimented with explosives, was killed in a <g data-word=\"tragic\" data-type=\"adjective\" data-modifies=\"accident\" data-rule=\"tells WHAT KIND of accident\">tragic</g> accident in 1864.",
+        "However, Alfred did not give up. In 1866, he invented an explosive he named dynamite. His invention made him rich and famous.",
+        "The invention of dynamite made the building of tunnels, canals, roads, and railways much easier and safer. However, while dynamite made engineering safer, it also changed the way wars were fought. Nobel was a <g data-word=\"peaceful\" data-type=\"adjective\" data-modifies=\"man\" data-rule=\"tells WHAT KIND of man\">peaceful</g> man. Yet he saw his invention of dynamite also put to use in war.",
+        "The idea of the prizes was only revealed after Nobel's death in 1896. His will established the Nobel Foundation to manage his fortune and award the prizes."
       ]
     },
     {
       "id": "process",
       "title": "The Nobel Prize Process",
       "paragraphs": [
-        "<s>The Nobel Prizes</s> <v>are special</v> because of <o>all the research that goes into the selection process</o>. <s>The prize committees</s> <v>are made up of</v> <o>world-famous scholars, scientists, and former prizewinners</o>.",
-        "<s>The committees</s> <v>invite</v> <o>leaders in each field to nominate candidates every year</o>. <s>The voting for candidates</s> <v>is</v> <o>top secret</o>. <s>The prizes</s> <v>are presented</v> to prizewinners every year on <o>December 10—the anniversary of Nobel's death</o>.",
-        "<s>Nobel prizewinners</s> <v>are among</v> <o>the most important people in modern history</o>. <s>Winning the award</s> <v>is intended to help</v> <o>them continue their work</o>."
+        "The Nobel Prizes are special because of all the research that goes into the selection process. The prize committees are made up of <g data-word=\"world-famous\" data-type=\"adjective\" data-modifies=\"scholars\" data-rule=\"tells WHAT KIND of scholars\">world-famous</g> scholars, scientists, and former prizewinners.",
+        "The committees invite leaders in each field to nominate candidates every year. The voting for candidates is top secret. The prizes are presented to prizewinners every year on December 10—the anniversary of Nobel's death.",
+        "Nobel prizewinners are among the most important people in modern history. Winning the award is intended to help them continue their work."
       ]
     },
     {
       "id": "recipients",
       "title": "Famous Recipients",
       "paragraphs": [
-        "<s>Marie Curie</s> <v>was</v> <o>the first woman to receive the award, in 1903 in physics</o>. Born in Poland, <s>Curie</s> <v>spent</v> most of <o>her life working as a scientific researcher in France</o>. <s>She</s> <v>shared</v> <o>the award with her husband, Pierre, and Henri Becquerel</o> for their work in radioactivity. <s>The prize</s> <v>allowed</v> <o>Curie to continue her research</o>. In 1911, <s>she</s> <v>was awarded</v> <o>the prize in chemistry</o> for her discovery of two new elements.",
-        "<s>Curie</s> <v>is</v> <o>one of only two people ever to win Nobel Prizes in different areas</o>. In 1935, <s>her daughter Irène Joliot-Curie</s> also <v>won</v> <o>the Nobel Prize in Chemistry</o>. <s>Marie and Irène</s> <v>are</v> <o>the only mother-daughter pair to have won Nobel Prizes</o>.",
-        "Have you heard of the formula E = mc²? That formula, <s>Albert Einstein's theory of relativity</s>, <v>changed</v> <o>the way we think about physics</o>. <s>Einstein</s> <v>was awarded</v> <o>the prize in 1921 for his work in physics</o>. <s>Winning the prize</s> <v>allowed</v> <o>Einstein to continue his brilliant career</o>. <s>He</s> <v>influenced</v> <o>many of the greatest scientific thinkers who followed him</o>.",
-        "<s>Danish physicist Niels Bohr</s> <v>won</v> <o>the Nobel Prize in Physics the year after Einstein, in 1922</o>. The prize was awarded for his \"services in the investigation of the structure of atoms.\" <s>Bohr's son Aage Bohr</s> <v>was awarded</v> <o>the physics prize in 1975</o>. That made them one of six pairs of fathers and sons who have won Nobel Prizes.",
-        "In 1945, <s>Sir Alexander Fleming of Scotland</s> <v>was awarded</v> <o>the Nobel Prize in Medicine for the discovery of penicillin</o>. <s>His discovery</s> <v>saved</v> <o>many lives and changed medicine forever</o>.",
-        "In 2003, <s>Clive Granger and Robert Engle</s> <v>were awarded</v> <o>the Nobel Prize in Economics</o>. <s>Their research</s> <v>showed</v> <o>ways to avoid serious global financial problems</o>.",
-        "<s>Ernest Hemingway</s>, an American writer, <v>was awarded</v> <o>the Nobel Prize in Literature in 1954</o>. The prize was awarded for \"his mastery of the art of narrative... and for the influence... on contemporary style.\"",
-        "<s>Colombian-born Gabriel García Márquez</s> <v>won</v> <o>the prize in 1982</o>. <s>The committee</s> <v>praised</v> <o>his writing, in which fantasy and reality \"are combined in a richly composed world of imagination\"</o>. These are just two examples of award winners in literature who have influenced writers for years to come."
+        "Marie Curie was the <g data-word=\"first\" data-type=\"adjective\" data-modifies=\"woman\" data-rule=\"tells WHICH woman\">first</g> woman to receive the award, in 1903 in physics. Born in Poland, Curie spent most of her life working as a scientific researcher in France. She shared the award with her husband, Pierre, and Henri Becquerel for their work in radioactivity. The prize allowed Curie to continue her research. In 1911, she was awarded the prize in chemistry for her discovery of two new elements.",
+        "Curie is one of only two people ever to win Nobel Prizes in different areas. In 1935, her daughter Irène Joliot-Curie also won the Nobel Prize in Chemistry. Marie and Irène are the only mother-daughter pair to have won Nobel Prizes.",
+        "Have you heard of the formula E = mc²? That formula, Albert Einstein's theory of relativity, changed the way we think about physics. Einstein was awarded the prize in 1921 for his work in physics. Winning the prize allowed Einstein to continue his <g data-word=\"brilliant\" data-type=\"adjective\" data-modifies=\"career\" data-rule=\"tells WHAT KIND of career\">brilliant</g> career. He influenced many of the greatest scientific thinkers who followed him.",
+        "Danish physicist Niels Bohr won the Nobel Prize in Physics the year after Einstein, in 1922. The prize was awarded for his \"services in the investigation of the structure of atoms.\" Bohr's son Aage Bohr was awarded the physics prize in 1975. That made them one of six pairs of fathers and sons who have won Nobel Prizes.",
+        "In 1945, Sir Alexander Fleming of Scotland was awarded the Nobel Prize in Medicine for the discovery of penicillin. His discovery saved many lives and changed medicine forever.",
+        "In 2003, Clive Granger and Robert Engle were awarded the Nobel Prize in Economics. Their research showed ways to avoid serious global financial problems.",
+        "Ernest Hemingway, an American writer, was awarded the Nobel Prize in Literature in 1954. The prize was awarded for \"his mastery of the art of narrative... and for the influence... on contemporary style.\"",
+        "Colombian-born Gabriel García Márquez won the prize in 1982. The committee praised his writing, in which fantasy and reality \"are combined in a richly composed world of imagination\". These are just two examples of award winners in literature who have influenced writers for years to come."
       ]
     },
     {
       "id": "peace",
       "title": "Peace Prizes",
       "paragraphs": [
-        "<s>Three very famous medal winners</s> <v>were</v> <o>Dr. Martin Luther King Jr., Mother Teresa, and Nelson Mandela</o>. <s>These three individuals</s> <v>fought</v> <o>to improve the lives of people all over the world who were suffering from injustice</o>.",
-        "In 1964, <s>the Nobel Peace Prize</s> <v>honored</v> <o>Dr. King's fight for civil rights in the United States</o>. <s>Mother Teresa</s> <v>was awarded</v> <o>the prize in 1979 for caring for poor people in India</o>. <s>Nelson Mandela</s> <v>was awarded</v> <o>the prize in 1993 for his lifelong struggle against South Africa's unfair political system</o>.",
-        "<s>The youngest winner</s> <v>is</v> <o>Malala Yousafzai, who received the prize in 2014 at age seventeen</o>. In some parts of her home country of Pakistan, <s>a political group</s> <v>banned</v> <o>education for girls</o>. They also destroyed hundreds of schools. <s>Malala</s> <v>fought back</v> for <o>equal educational opportunities for women</o>. In 2012, <s>she</s> <v>was attacked</v> and nearly killed. <s>Malala</s> <v>recovered</v> and bravely <v>continues</v> <o>her fight to this day</o>."
+        "Three very famous medal winners were Dr. Martin Luther King Jr., Mother Teresa, and Nelson Mandela. These three individuals fought to improve the lives of people all over the world who were suffering from injustice.",
+        "In 1964, the Nobel Peace Prize honored Dr. King's fight for civil rights in the United States. Mother Teresa was awarded the prize in 1979 for caring for poor people in India. Nelson Mandela was awarded the prize in 1993 for his lifelong struggle against South Africa's <g data-word=\"unfair\" data-type=\"adjective\" data-modifies=\"political system\" data-rule=\"tells WHAT KIND of system\">unfair</g> political system.",
+        "The <g data-word=\"youngest\" data-type=\"adjective\" data-modifies=\"winner\" data-rule=\"tells WHICH winner\">youngest</g> winner is Malala Yousafzai, who received the prize in 2014 at age seventeen. In some parts of her home country of Pakistan, a political group banned education for girls. They also destroyed hundreds of schools. Malala fought back for equal educational opportunities for women. In 2012, she was attacked and nearly killed. Malala recovered and bravely continues her fight to this day."
       ]
     },
     {
       "id": "reward",
       "title": "Controversies and Rewards",
       "paragraphs": [
-        "Some prizewinners <v>cause</v> <o>controversy</o>. When <s>Yasser Arafat</s>, the leader of the Palestine Liberation Organization (PLO), <v>won</v> <o>the prize in 1994</o>, <s>many people</s> <v>were surprised</v>. <s>Arafat</s> <v>was awarded</v> for <o>his work towards peace in the Middle East</o>. <s>He</s> <v>shared</v> <o>the award with Israeli leaders Yitzhak Rabin and Shimon Peres</o>. <s>The PLO</s> <v>was considered</v> by some to be <o>a terrorist group</o>. <s>The Nobel Committee</s> <v>refused</v> <o>to change their minds</o>.",
-        "<s>Others</s> <v>protested</v> when <s>American Secretary of State Henry Kissinger</s> <v>was awarded</v> <o>the prize in 1973</o>. <s>Kissinger</s> <v>worked</v> <o>to end the war in Vietnam</o>. However, <s>he</s> also <v>had been involved in</v> <o>deadly attacks on Vietnam and nearby countries</o>.",
-        "Even <s>President Barack Obama's Peace Prize in 2009</s> <v>caused</v> <o>controversy</o>. <s>The election of an African American president</s> <v>filled</v> <o>many people in the world with hope</o>. Yet in 2009, <s>he</s> <v>hadn't done</v> much more than <o>get elected</o>. <s>The announcement of Obama's award</s> <v>surprised</v> <o>many, including the president himself</o>.",
-        "<s>The Nobel Foundation</s> <v>awards</v> <o>cash, a diploma, and a gold medal to all prizewinners</o>. <s>The amount of the prize</s> <v>depends on</v> <o>whether it is given to an individual or a group</o>. In 2015, the amount of an individual prize was eight million Swedish kronor (just under one million U.S. dollars). If the prize is shared among two or more people, the award of eight million kronor is divided equally.",
-        "Then <s>the guests</s> <v>are taken</v> to <o>the Nobel Banquet at the Stockholm City Hall</o>. <s>A big party with speeches, dancing, a concert, and a fancy dinner</s> <v>takes place</v> there.",
-        "<s>The Nobel Prize</s> <v>has had</v> <o>a major influence on the entire world</o>. <s>The awards</s> <v>show</v> <o>the work and dreams of great thinkers from around the globe</o>. <s>The fame and cash prizes</s> <v>allow</v> <o>these brilliant individuals to keep working</o>. <s>The prizes</s> <v>honor</v> <o>freedom, peace, and the commitment to improving humankind</o>."
+        "Some prizewinners cause controversy. When Yasser Arafat, the leader of the Palestine Liberation Organization (PLO), won the prize in 1994, many people were surprised. Arafat was awarded for his work towards peace in the Middle East. He shared the award with Israeli leaders Yitzhak Rabin and Shimon Peres. The PLO was considered by some to be a terrorist group. The Nobel Committee refused to change their minds.",
+        "Others protested when American Secretary of State Henry Kissinger was awarded the prize in 1973. Kissinger worked to end the war in Vietnam. However, he also had been involved in deadly attacks on Vietnam and nearby countries.",
+        "Even President Barack Obama's Peace Prize in 2009 caused controversy. The election of an African American president filled many people in the world with hope. Yet in 2009, he hadn't done much more than get elected. The announcement of Obama's award surprised many, including the president himself.",
+        "The Nobel Foundation awards cash, a diploma, and a gold medal to all prizewinners. The amount of the prize depends on whether it is given to an individual or a group. In 2015, the amount of an individual prize was eight million Swedish kronor (just under one million U.S. dollars). If the prize is shared among two or more people, the award of eight million kronor is divided equally.",
+        "Then the guests are taken to the Nobel Banquet at the Stockholm City Hall. A big party with speeches, dancing, a concert, and a <g data-word=\"fancy\" data-type=\"adjective\" data-modifies=\"dinner\" data-rule=\"tells WHAT KIND of dinner\">fancy</g> dinner takes place there.",
+        "The Nobel Prize has had a <g data-word=\"major\" data-type=\"adjective\" data-modifies=\"influence\" data-rule=\"tells HOW MUCH influence\">major</g> influence on the entire world. The awards show the work and dreams of great thinkers from around the globe. The fame and cash prizes allow these brilliant individuals to keep working. The prizes honor freedom, peace, and the commitment to improving humankind."
       ]
     }
   ],
@@ -283,6 +284,108 @@
           "intelligent, well-educated people who study and research",
           "politicians who vote on international treaties",
           "businesspeople who invest money in new discoveries"
+        ],
+        "answer": 1
+      }
+    },
+    {
+      "word": "create",
+      "pos": "v.",
+      "definition": "to make or produce something new",
+      "section": "life",
+      "sentence": "His will established the Nobel Foundation to manage his fortune and award the prizes.",
+      "quiz": {
+        "prompt": "To \"create\" means to:",
+        "options": [
+          "destroy something old",
+          "make or produce something new",
+          "copy something exactly",
+          "study something carefully"
+        ],
+        "answer": 1
+      }
+    },
+    {
+      "word": "important",
+      "pos": "adj.",
+      "definition": "having great significance or value",
+      "section": "famous",
+      "sentence": "Nobel prizewinners are among the most important people in modern history.",
+      "quiz": {
+        "prompt": "\"Important\" means:",
+        "options": [
+          "having great significance or value",
+          "small and not worth noticing",
+          "difficult to understand",
+          "newly discovered"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "word": "individual",
+      "pos": "n.",
+      "definition": "a single person",
+      "section": "famous",
+      "sentence": "Between 1901 and 2015, 874 special individuals and 26 groups have been awarded Nobel Prizes.",
+      "quiz": {
+        "prompt": "An \"individual\" is:",
+        "options": [
+          "a large group of people",
+          "a single person",
+          "a type of award",
+          "a scientific experiment"
+        ],
+        "answer": 1
+      }
+    },
+    {
+      "word": "influence",
+      "pos": "n.",
+      "definition": "the power to affect someone or something",
+      "section": "reward",
+      "sentence": "The Nobel Prize has had a major influence on the entire world.",
+      "quiz": {
+        "prompt": "\"Influence\" means:",
+        "options": [
+          "the power to affect someone or something",
+          "a type of scientific research",
+          "a disagreement between people",
+          "a celebration or party"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "word": "receive",
+      "pos": "v.",
+      "definition": "to get or be given something",
+      "section": "famous",
+      "sentence": "Marie Curie was the first woman to receive the award, in 1903 in physics.",
+      "quiz": {
+        "prompt": "To \"receive\" means to:",
+        "options": [
+          "give something to someone else",
+          "get or be given something",
+          "refuse to accept something",
+          "create something new"
+        ],
+        "answer": 1
+      }
+    },
+    {
+      "word": "study",
+      "pos": "v.",
+      "definition": "to learn about a subject through research and reading",
+      "section": "recipients",
+      "sentence": "Marie Curie spent most of her life working as a scientific researcher in France.",
+      "quiz": {
+        "prompt": "To \"study\" means to:",
+        "options": [
+          "teach a class to students",
+          "learn about a subject through research",
+          "build something with your hands",
+          "travel to a new country"
         ],
         "answer": 1
       }
@@ -661,6 +764,162 @@
         "type": "grammar",
         "title": "Homophones: one/eight",
         "content": "one (the number 1) sounds like 'won' (past tense of win). eight (the number 8) sounds like 'ate' (past tense of eat). These are HOMOPHONES — same sound, different spelling and meaning!"
+      }
+    ]
+  },
+  "grammar": {
+    "target": "adjectives",
+    "title": "Adjectives & Homophones",
+    "explanation": "Adjectives describe nouns (tell what kind, how many, or which one). Homophones are words that sound the same but are spelled differently and have different meanings.",
+    "rules": [
+      "Adjectives describe nouns: brilliant people, major influence, peaceful man",
+      "They tell what kind: famous honor, important people, unfair system",
+      "They tell how many: five prizes, six award categories",
+      "Homophones sound alike but differ in spelling and meaning: one/won, eight/ate"
+    ],
+    "wordBuilding": [
+      {
+        "base": "fame",
+        "answer": "famous"
+      },
+      {
+        "base": "peace",
+        "answer": "peaceful"
+      },
+      {
+        "base": "importance",
+        "answer": "important"
+      },
+      {
+        "base": "brilliance",
+        "answer": "brilliant"
+      },
+      {
+        "base": "controversy",
+        "answer": "controversial"
+      },
+      {
+        "base": "globe",
+        "answer": "global"
+      }
+    ],
+    "homophones": [
+      {
+        "pair": [
+          "one",
+          "won"
+        ],
+        "sentence": "Marie Curie _____ the Nobel Prize in physics in 1903.",
+        "answer": "won"
+      },
+      {
+        "pair": [
+          "eight",
+          "ate"
+        ],
+        "sentence": "The award of _____ million kronor is divided equally.",
+        "answer": "eight"
+      },
+      {
+        "pair": [
+          "to",
+          "too"
+        ],
+        "sentence": "The honor was too great _____ describe in words.",
+        "answer": "to"
+      },
+      {
+        "pair": [
+          "fair",
+          "fare"
+        ],
+        "sentence": "Mandela fought against an unfair _____ system.",
+        "answer": "fair"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "identify",
+        "sentence": "The Nobel Prize is the most famous honor in the world.",
+        "answers": [
+          "famous"
+        ],
+        "hint": "Which word describes the honor?"
+      },
+      {
+        "type": "identify",
+        "sentence": "Nobel prizewinners are among the most important people in modern history.",
+        "answers": [
+          "important",
+          "modern"
+        ],
+        "hint": "Which words describe people and history?"
+      },
+      {
+        "type": "identify",
+        "sentence": "His discovery saved many lives and changed medicine forever.",
+        "answers": [
+          "many"
+        ],
+        "hint": "Which word tells HOW MANY lives?"
+      },
+      {
+        "type": "multipleChoice",
+        "question": "Which word is an adjective?",
+        "sentence": "Alfred Nobel was a peaceful man who saw his invention used in war.",
+        "options": [
+          "invention",
+          "peaceful",
+          "war",
+          "used"
+        ],
+        "answer": 1,
+        "explanation": "'Peaceful' is an adjective describing Nobel — it tells WHAT KIND of man he was."
+      },
+      {
+        "type": "multipleChoice",
+        "question": "Which word is an adjective?",
+        "sentence": "These brilliant individuals keep working to improve the world.",
+        "options": [
+          "individuals",
+          "brilliant",
+          "working",
+          "world"
+        ],
+        "answer": 1,
+        "explanation": "'Brilliant' is an adjective describing 'individuals' — it tells WHAT KIND of people they are."
+      },
+      {
+        "type": "fillBlank",
+        "sentence": "The _____ (fame/famous) prize is awarded every year.",
+        "answer": "famous",
+        "explanation": "'Famous' is the adjective form. It describes the prize."
+      },
+      {
+        "type": "fillBlank",
+        "sentence": "Nobel was a _____ (peace/peaceful) man.",
+        "answer": "peaceful",
+        "explanation": "'Peaceful' is the adjective form. It describes Nobel."
+      },
+      {
+        "type": "homophone",
+        "sentence": "Alfred Nobel _____ (won/one) a fortune from his inventions.",
+        "options": [
+          "won",
+          "one"
+        ],
+        "answer": 0,
+        "explanation": "'Won' is the past tense of 'win'. 'One' is the number 1."
+      },
+      {
+        "type": "homophone",
+        "sentence": "The award of _____ (eight/ate) million kronor is divided equally.",
+        "options": [
+          "eight",
+          "ate"
+        ],
+        "answer": 0,
+        "explanation": "'Eight' is the number 8. 'Ate' is the past tense of 'eat'."
       }
     ]
   }

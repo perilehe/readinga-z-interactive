@@ -11,84 +11,85 @@
     "evidence",
     "problemSolution",
     "vocabulary",
-    "typing"
+    "typing",
+    "grammar"
   ],
   "sections": [
     {
       "id": "intro",
       "title": "A Hurricane Is Coming!",
       "paragraphs": [
-        "\"This just in from the National Hurricane Center in Miami. <s>A hurricane watch</s> <v>is</v> <o>in effect</o> for the Florida east coast from Florida City north to Flagler Beach, including Lake Okeechobee. <s>Hurricane Frances</s> <v>is</v> <o>about 555 miles east-southeast of Palm Beach</o> and <v>is moving</v> toward the west-northwest at about 14 miles per hour.\"",
-        "<s>The message</s> <v>crackles</v> <o>over a small Florida cafe radio</o>. <s>The patrons</s> <v>look</v> outside at a warm, sunny day and then out to sea for any signs of the approaching storm—there are none. However, <s>the television</s> <v>shows</v> <o>a satellite image of a gigantic, spiraling storm</o>. <s>A dotted line</s> <v>shows</v> <o>the hurricane's path</o> and <s>a shaded wedge</s> <v>shows</v> <o>where the hurricane might hit the coast</o>.",
-        "<s>The people in the cafe</s> have already been hit with one hurricane this season, and <s>they</s> <v>know</v> <o>they must prepare</o>. <s>Some</s> <v>buy</v> <o>more plywood to board up windows</o>. <s>Others</s> <v>get</v> <o>supplies at the grocery store</o>, such as water, food, and batteries.",
-        "<s>The next morning</s>, <s>the wind speed</s> <v>picks up</v>, and <s>the sky</s> <v>clouds over</v>. <s>Some people farther down the coast</s> <v>evacuate</v>, or <v>leave</v> <o>their homes to go to safer areas</o>. <s>Winds</s> <v>reach</v> <o>hurricane strength</o>, bending over palm trees as if they are made of rubber. <s>The wind</s> <v>rips</v> <o>roofs off buildings</o>, and <s>flying objects</s> <v>become</v> <o>deadly</o>. <s>High waves and rising water</s> <v>flood</v> <o>low-lying areas on the coast</o>.",
-        "<s>Falling trees</s> <v>break</v> <o>power lines</o>. <s>Some residents who were not evacuated</s> <v>sit</v> <o>in the darkness of their homes</o> listening to the storm's progress on their battery-powered radios. Finally, <s>the storm</s> <v>moves</v> inland, and <s>the wind</s> <v>slows down</v>; but <s>drenching rains and flooding</s> <v>remain</v>. <s>The next day</s> <s>the sun</s> <v>comes out</v>, and <s>people</s> <v>begin</v> <o>the costly cleanup</o>."
+        "\"This just in from the National Hurricane Center in Miami. A hurricane watch is in effect for the Florida east coast from Florida City north to Flagler Beach, including Lake Okeechobee. Hurricane Frances is about 555 miles east-southeast of Palm Beach and is moving toward the west-northwest at about 14 miles per hour.\"",
+        "The message crackles over a small Florida cafe radio. The patrons look outside at a warm, sunny day and then out to sea for any signs of the approaching storm—there are none. However, the television shows a satellite image of a gigantic, spiraling storm. A dotted line shows the hurricane's path and a shaded wedge shows where the hurricane might hit the coast.",
+        "The people in the cafe have already been hit with one hurricane this season, and they know they must prepare. Some buy more plywood to board up windows. Others get supplies at the grocery store, such as water, food, and batteries.",
+        "The next morning, the wind speed picks up, and the sky clouds over. Some people farther down the coast evacuate, or leave their homes to go to safer areas. Winds reach hurricane strength, bending over palm trees as if they are made of rubber. The wind rips roofs off buildings, and flying objects become deadly. High waves and rising water flood low-lying areas on the coast.",
+        "Falling trees break power lines. Some residents who were not evacuated sit in the darkness of their homes listening to the storm's progress on their battery-powered radios. Finally, the storm moves inland, and the wind slows down; but drenching rains and flooding remain. The next day the sun comes out, and people begin the costly cleanup."
       ]
     },
     {
       "id": "whatIs",
       "title": "What Is a Hurricane?",
       "paragraphs": [
-        "We have all experienced wind and rainstorms, but what makes a hurricane different? <s>Hurricanes</s> <v>are</v> <o>gigantic, circular storms that can be hundreds of kilometers wide</o>. When they occur in the Pacific Ocean, <s>they</s> <v>are called</v> <o>typhoons</o>. In the Indian Ocean, <s>they</s> <v>are called</v> <o>severe tropical cyclones</o>. In the Atlantic Ocean, <s>they</s> <v>are called</v> <o>hurricanes</o>. No matter what they are called, winds over hundreds of kilometers per hour, inches of rain, and high seas cause death, and sometimes billions of dollars in damage.",
-        "<s>Hurricanes</s> <v>have</v> <o>a distinct structure that can be seen on satellite photos</o>. <s>Clouds</s> <v>extend out</v> as <o>spiraling arms for hundreds of kilometers around the center</o>. <s>The center of a hurricane</s> <v>is called</v> <o>the eye</o>. <s>Winds</s> <v>become</v> more and more <o>intense</o> from the edge of the storm to the eyewall.",
-        "<s>The eyewall</s> <v>is</v> <o>where winds rushing toward the center suddenly turn upward</o>. <s>The upward-moving air</s> <v>cools</v> rapidly, and <s>rain</s> <v>begins to fall</v>. <s>Most of the rainfall</s> <v>occurs</v> <o>in the eyewall</o>. Sometimes rainfall reaches 20 millimeters (0.78 in.) of rain per hour, which can dump about 15–30 centimeters (6–12 in.) on one area over several days.",
-        "Yet, inside the eye, <s>it</s> <v>is</v> often <o>calm and sunny</o>. <s>Most hurricane eyes</s> <v>are</v> <o>30–60 kilometers (20–40 mi.) in diameter</o>. In the eye of a hurricane, <s>the peacefulness</s> <v>will not last long</v>. Soon <s>the eye</s> <v>will move</v>, and then <s>the sudden force of the other side of the storm</s> <v>will hit</v>.",
-        "As hurricanes approach shore, <s>the combination of high winds and low air pressure</s> actually <v>raises</v> <o>the level of the sea around the storm higher than normal</o>. <s>Scientists</s> <v>call</v> <o>this a storm surge</o>. <s>It</s> <v>extends</v> for <o>miles around the center of a hurricane</o> and <v>floods</v> <o>any low, coastal land</o>. <s>Flooding caused by a storm surge</s> <v>is</v> <o>a major source of property damage from hurricanes</o>."
+        "We have all experienced wind and rainstorms, but what makes a hurricane different? Hurricanes are gigantic, circular storms that can be hundreds of kilometers wide. When they occur in the Pacific Ocean, they are called typhoons. In the Indian Ocean, they are called severe tropical cyclones. In the Atlantic Ocean, they are called hurricanes. No matter what they are called, winds over hundreds of kilometers per hour, inches of rain, and high seas cause death, and sometimes billions of dollars in damage.",
+        "Hurricanes have a distinct structure that can be seen on satellite photos. Clouds extend out as spiraling arms for hundreds of kilometers around the center. The center of a hurricane is called the eye. Winds become more and more intense from the edge of the storm to the eyewall.",
+        "The eyewall is where winds rushing toward the center suddenly turn upward. The upward-moving air cools rapidly, and rain begins to fall. Most of the rainfall occurs in the eyewall. Sometimes rainfall reaches 20 millimeters (0.78 in.) of rain per hour, which can dump about 15–30 centimeters (6–12 in.) on one area over several days.",
+        "Yet, inside the eye, it is often calm and sunny. Most hurricane eyes are 30–60 kilometers (20–40 mi.) in diameter. In the eye of a hurricane, the peacefulness will not last long. Soon the eye will move, and then the sudden force of the other side of the storm will hit.",
+        "As hurricanes approach shore, the combination of high winds and low air pressure actually raises the level of the sea around the storm higher than normal. Scientists call this a storm surge. It extends for miles around the center of a hurricane and floods any low, coastal land. Flooding caused by a storm surge is a major source of property damage from hurricanes."
       ]
     },
     {
       "id": "formation",
       "title": "How Hurricanes Form",
       "paragraphs": [
-        "<s>Hurricanes</s> <v>form</v> <o>over tropical oceans worldwide</o>. These tropical storms tend to be seasonal. <s>They</s> usually <v>form</v> <o>in the summers of the Northern and Southern Hemispheres</o>.",
-        "<s>The storms</s> <v>form</v> when <s>energy from the Sun</s> <v>heats</v> <o>ocean water near the equator</o>. <s>Warm, moist air</s> <v>evaporates</v> from <o>the ocean</o> and <v>is</v> lighter than <o>the cold, dry air above it</o>. <s>The warmer air</s> <v>pushes up</v> through <o>the cooler air</o>, which then <v>sinks down</v> to take the place of the warmer air. <s>The process</s> <v>creates</v> <o>a low-pressure area called a tropical depression</o>.",
-        "As <s>the warm, moist air</s> <v>rises</v>, <s>it</s> <v>cools</v> and <v>condenses</v>, a process that <v>creates</v> <o>clouds</o> and <v>releases</v> <o>heat energy</o>. Soon <s>giant thunderclouds</s> <v>form</v>.",
-        "<s>Wind</s> <v>begins to rotate</v>, or spin, around <o>the low-pressure area</o>. <s>The wind</s> <v>starts blowing</v> harder, and when it reaches about 62 kilometers per hour (39 mph), <s>the tropical depression</s> <v>becomes</v> <o>a tropical storm</o>.",
-        "<s>Tropical storms</s> <v>can grow</v> into <o>hurricanes</o> if <s>they</s> <v>soak up</v> <o>more heat energy from the warm oceans they pass over</o>. Some storms don't ever gain enough energy to become hurricanes.",
-        "If <s>a tropical storm</s> <v>does gain</v> <o>more energy</o>, <s>wind speed</s> <v>picks up</v> and <s>thick spiral bands of clouds</s> <v>spread out</v> from <o>the center of the storm</o>. When wind speeds are greater than 119 kilometers per hour (74 mph), <s>the storm</s> officially <v>becomes</v> <o>a hurricane</o>.",
-        "Generally, <s>hurricanes in the Northern Hemisphere</s> <v>move</v> west, then north, and then <v>turn</v> toward the northeast. This path takes hurricanes away from the equator and away from the warm ocean water that fuels them. In the Southern Hemisphere <s>hurricanes</s> typically <v>travel</v> west, south, and then <v>turn</v> southeast, which also takes them away from warm ocean water.",
-        "As <s>hurricanes</s> <v>move</v> over <o>cooler water and over land</o>, <s>they</s> <v>lose</v> <o>much of their energy</o>. <s>The wind</s> <v>slows down</v>, and <s>the storms</s> eventually <v>disperse</v>."
+        "Hurricanes form over tropical oceans worldwide. These tropical storms tend to be seasonal. They usually form in the summers of the Northern and Southern Hemispheres.",
+        "The storms form when energy from the Sun heats ocean water near the equator. Warm, moist air evaporates from the ocean and is lighter than the cold, dry air above it. The warmer air pushes up through the cooler air, which then sinks down to take the place of the warmer air. The process creates a low-pressure area called a tropical depression.",
+        "As the warm, moist air rises, it cools and condenses, a process that creates clouds and releases heat energy. Soon giant thunderclouds form.",
+        "Wind begins to rotate, or spin, around the low-pressure area. The wind starts blowing harder, and when it reaches about 62 kilometers per hour (39 mph), the tropical depression becomes a tropical storm.",
+        "Tropical storms can grow into hurricanes if they soak up more heat energy from the warm oceans they pass over. Some storms don't ever gain enough energy to become hurricanes.",
+        "If a tropical storm does gain more energy, wind speed picks up and thick spiral bands of clouds spread out from the center of the storm. When wind speeds are greater than 119 kilometers per hour (74 mph), the storm officially becomes a hurricane.",
+        "Generally, hurricanes in the Northern Hemisphere move west, then north, and then turn toward the northeast. This path takes hurricanes away from the equator and away from the warm ocean water that fuels them. In the Southern Hemisphere hurricanes typically travel west, south, and then turn southeast, which also takes them away from warm ocean water.",
+        "As hurricanes move over cooler water and over land, they lose much of their energy. The wind slows down, and the storms <g data-word=\"eventually\" data-type=\"adverb\" data-modifies=\"disperse\" data-rule=\"tells WHEN storms disperse\">eventually</g> disperse."
       ]
     },
     {
       "id": "where",
       "title": "Where Hurricanes Form",
       "paragraphs": [
-        "<s>Central America, islands in the Caribbean, and the East Coast of the United States</s> <v>are hit</v> <o>by hurricanes almost every year</o>. Rarely <v>do</v> <s>hurricanes</s> <v>hit</v> <o>the U.S. West Coast</o>. <s>Atlantic Ocean hurricanes</s> <v>get started</v> <o>southeast of the Caribbean Sea</o>.",
-        "In the Pacific Ocean <s>typhoons</s> most often <v>hit</v> <o>Asia and Indonesia</o>. In the Indian Ocean, <s>severe tropical cyclones</s> <v>affect</v> <o>Australia, the Middle East, parts of Asia, and the eastern coast of Africa</o>.",
-        "During hurricane season (which can last six months or more), <s>meteorologists</s> <v>keep</v> <o>a careful watch on tropical depressions and tropical storms hundreds of kilometers offshore</o> to see if any will become hurricanes."
+        "Central America, islands in the Caribbean, and the East Coast of the United States are hit by hurricanes almost every year. Rarely do hurricanes hit the U.S. West Coast. Atlantic Ocean hurricanes get started southeast of the Caribbean Sea.",
+        "In the Pacific Ocean typhoons most often hit Asia and Indonesia. In the Indian Ocean, severe tropical cyclones affect Australia, the Middle East, parts of Asia, and the eastern coast of Africa.",
+        "During hurricane season (which can last six months or more), meteorologists keep a careful watch on tropical depressions and tropical storms hundreds of kilometers offshore to see if any will become hurricanes."
       ]
     },
     {
       "id": "classified",
       "title": "How Hurricanes Are Classified",
       "paragraphs": [
-        "<s>A tropical storm</s> <v>has</v> <o>sustained winds of 62–119 kilometers per hour (39–74 mph)</o>. When a tropical storm has sustained winds greater than 119 kilometers per hour (74 mph) <s>it</s> <v>is classified</v> as <o>a hurricane</o>.",
-        "<s>Meteorologists</s> <v>classify</v> <o>hurricanes according to their intensity</o> using <o>the Saffir-Simpson Hurricane Scale</o>. <s>The scale</s> <v>goes</v> from <o>1 to 5</o> and <v>helps describe</v> <o>the kind of damage and dangers of each category of hurricane</o>.",
-        "<s>Category One hurricanes</s> <v>have</v> <o>winds of 119–153 kilometers per hour (74–95 mph)</o>. <s>They</s> <v>cause</v> <o>little damage to buildings and minor damage to vegetation</o>.",
-        "<s>Category Two hurricanes</s> <v>have</v> <o>winds of 154–177 kilometers per hour (96–110 mph)</o>. <s>They</s> <v>tear away</v> <o>roofing material</o>, <v>damage</v> <o>doors and windows of buildings</o>, and <v>uproot</v> <o>plants</o>. Boats in unprotected areas often break away from docks.",
-        "<s>Category Three hurricanes</s> <v>have</v> <o>winds of 178–209 kilometers per hour (111–130 mph)</o>. <s>They</s> <v>cause</v> <o>structural damage to small buildings</o> and <v>destroy</v> <o>mobile homes</o>. Areas lower than 1.52 meters (5 ft.) above sea level may be flooded as far as 13 kilometers (8 mi.) or more inland.",
-        "<s>Category Four hurricanes</s> <v>have</v> <o>winds of 211–249 kilometers per hour (131–155 mph)</o>. <s>They</s> <v>cause</v> <o>building walls to collapse and major erosion of beaches</o>. Areas lower than 3 meters (10 ft.) above sea level may be flooded, requiring massive evacuation of residential areas as far as 9 kilometers (6 mi.) inland.",
-        "<s>Category Five hurricanes</s> <v>have</v> <o>winds of greater than 249 kilometers per hour (155 mph)</o>. <s>The strongest hurricanes</s> <v>cause</v> <o>extensive damage to houses and industrial buildings</o>. Massive evacuation of residential areas on low ground within 8–16 kilometers (5–10 mi.) of the shoreline may be required."
+        "A tropical storm has sustained winds of 62–119 kilometers per hour (39–74 mph). When a tropical storm has sustained winds greater than 119 kilometers per hour (74 mph) it is classified as a hurricane.",
+        "Meteorologists classify hurricanes according to their intensity using the Saffir-Simpson Hurricane Scale. The scale goes from 1 to 5 and helps describe the kind of damage and dangers of each category of hurricane.",
+        "Category One hurricanes have winds of 119–153 kilometers per hour (74–95 mph). They cause little damage to buildings and minor damage to vegetation.",
+        "Category Two hurricanes have winds of 154–177 kilometers per hour (96–110 mph). They tear away roofing material, damage doors and windows of buildings, and uproot plants. Boats in unprotected areas often break away from docks.",
+        "Category Three hurricanes have winds of 178–209 kilometers per hour (111–130 mph). They cause structural damage to small buildings and destroy mobile homes. Areas lower than 1.52 meters (5 ft.) above sea level may be flooded as far as 13 kilometers (8 mi.) or more inland.",
+        "Category Four hurricanes have winds of 211–249 kilometers per hour (131–155 mph). They cause building walls to collapse and major erosion of beaches. Areas lower than 3 meters (10 ft.) above sea level may be flooded, requiring massive evacuation of residential areas as far as 9 kilometers (6 mi.) inland.",
+        "Category Five hurricanes have winds of greater than 249 kilometers per hour (155 mph). The strongest hurricanes cause extensive damage to houses and industrial buildings. Massive evacuation of residential areas on low ground within 8–16 kilometers (5–10 mi.) of the shoreline may be required."
       ]
     },
     {
       "id": "study",
       "title": "How We Study Hurricanes",
       "paragraphs": [
-        "<s>We</s> <v>use</v> <o>satellites to locate and track tropical depressions, tropical storms, and hurricanes</o> while they are far out at sea. <s>Satellites orbiting high above Earth</s> <v>take</v> <o>frequent pictures of a hurricane</o>. <s>Scientists</s> <v>study</v> <o>the differences in the pictures</o> to measure changes in a storm's movement and intensity. High clouds within strong hurricanes show up on pictures from satellites as colder than the surrounding area.",
-        "<s>The most dramatic hurricane study tool</s> <v>is</v> <o>the \"Hurricane Hunter\"</o>. This is a specially designed aircraft that flies into the eye of a hurricane to make direct measurements of temperature, moisture, wind speed, and direction.",
-        "Doppler radar also <v>helps track</v> <o>storms</o>. <s>Doppler radar stations</s> <v>send out</v> <o>short bursts of energy waves</o>. <s>Rain and clouds</s> <v>reflect</v> <o>these waves back to the station</o>. <s>A computer</s> <v>analyzes</v> <o>the differences in the waves</o> to create a model of a storm. <s>Scientists</s> <v>use</v> <o>the model</o> to show the speed and direction of a storm."
+        "We use satellites to locate and track tropical depressions, tropical storms, and hurricanes while they are far out at sea. Satellites orbiting <g data-word=\"high\" data-type=\"adverb\" data-modifies=\"orbiting\" data-rule=\"tells WHERE satellites orbit\">high</g> above Earth take frequent pictures of a hurricane. Scientists study the differences in the pictures to measure changes in a storm's movement and intensity. High clouds within strong hurricanes show up on pictures from satellites as colder than the surrounding area.",
+        "The most dramatic hurricane study tool is the \"Hurricane Hunter\". This is a specially designed aircraft that flies into the eye of a hurricane to make direct measurements of temperature, moisture, wind speed, and direction.",
+        "Doppler radar also helps track storms. Doppler radar stations send out short bursts of energy waves. Rain and clouds reflect these waves back to the station. A computer analyzes the differences in the waves to create a model of a storm. Scientists use the model to show the speed and direction of a storm."
       ]
     },
     {
       "id": "predict",
       "title": "How We Predict Hurricanes",
       "paragraphs": [
-        "<s>Computers</s> <v>are used</v> <o>to predict hurricane movements</o>. <s>Thousands of measurements</s> <v>are typed</v> into <o>supercomputers</o> to predict where a storm will go. As computers improve, <s>we</s> <v>will be able to</v> more accurately <v>predict</v> <o>where hurricanes will hit land</o>. <s>This</s> <v>will save</v> <o>lives and reduce unnecessary evacuations</o>.",
-        "But <s>computers</s> <v>will never be</v> <o>100 percent accurate</o> because <s>weather systems</s> <v>are</v> <o>chaotic</o> and <v>are</v> often <o>difficult to predict</o>.",
-        "Some researchers believe <s>it</s> <v>is possible</v> <o>to stop hurricanes from forming or to redirect them</o>. One possible way to do this is by seeding clouds in broad areas where hurricanes are born. During seeding, <s>airplanes</s> <v>spray</v> <o>a fine mist of salt powder</o>, which <v>helps</v> <o>water condense out of the air</o>. This would create many small clouds that would use up the energy that might be tapped by a single large storm to become a hurricane.",
-        "<s>The problem</s> <v>is</v> that in order to be effective, <s>clouds</s> <v>would have to be seeded</v> over <o>areas the size of Texas</o>. No one yet has come up with a plan that would prevent a hurricane from forming."
+        "Computers are used to predict hurricane movements. Thousands of measurements are typed into supercomputers to predict where a storm will go. As computers improve, we will be able to more accurately predict where hurricanes will hit land. This will save lives and reduce unnecessary evacuations.",
+        "But computers will <g data-word=\"never\" data-type=\"adverb\" data-modifies=\"will be\" data-rule=\"tells HOW OFTEN - not ever\">never</g> be 100 percent accurate because weather systems are chaotic and are often difficult to predict.",
+        "Some researchers believe it is possible to stop hurricanes from forming or to redirect them. One possible way to do this is by seeding clouds in broad areas where hurricanes are born. During seeding, airplanes spray a fine mist of salt powder, which helps water condense out of the air. This would create many small clouds that would use up the energy that might be tapped by a single large storm to become a hurricane.",
+        "The problem is that in order to be effective, clouds would have to be seeded over areas the size of Texas. No one yet has come up with a plan that would prevent a hurricane from forming."
       ]
     },
     {
@@ -108,8 +109,8 @@
       "id": "conclusion",
       "title": "Conclusion",
       "paragraphs": [
-        "<s>Hurricanes</s> <v>are</v> <o>an awesome display of nature's power</o>. <s>Satellites</s> <v>can tell us</v> <o>much about these storms</o>, such as the direction a hurricane is moving and what areas need to be evacuated.",
-        "<s>We</s> <v>may be able to predict</v> <o>the path of hurricanes</o>, but <s>it</s> <v>is unlikely</v> that <s>we</s> <v>will ever be able to stop them</v>. <s>We</s> <v>can protect ourselves</v> by <o>planning where and how we build our homes, by keeping emergency supplies, and by being prepared to evacuate if necessary</o>."
+        "Hurricanes are an awesome display of nature's power. Satellites can tell us much about these storms, such as the direction a hurricane is moving and what areas need to be evacuated.",
+        "We may be able to predict the path of hurricanes, but it is unlikely that we will ever be able to stop them. We can protect ourselves by planning where and how we build our homes, by keeping emergency supplies, and by being prepared to evacuate if necessary."
       ]
     }
   ],
@@ -760,6 +761,118 @@
         "type": "evidence",
         "title": "Main Idea",
         "content": "Hurricanes are nature's awesome power. We can predict their path (but not perfectly) and we can't stop them — so we must PREPARE!"
+      }
+    ]
+  },
+  "grammar": {
+    "target": "adverbs",
+    "title": "Adverbs",
+    "explanation": "Adverbs describe verbs or adjectives. They tell HOW, WHEN, or HOW OFTEN something happens. Many adverbs end in -ly.",
+    "rules": [
+      "Most adverbs are formed by adding -ly to an adjective: rapid -> rapidly, sudden -> suddenly",
+      "Some adverbs don't end in -ly: soon, very, often, always, never",
+      "Adverbs answer the question: How? When? How often? To what degree?"
+    ],
+    "wordBuilding": [
+      {
+        "base": "rapid",
+        "answer": "rapidly"
+      },
+      {
+        "base": "slow",
+        "answer": "slowly"
+      },
+      {
+        "base": "careful",
+        "answer": "carefully"
+      },
+      {
+        "base": "sudden",
+        "answer": "suddenly"
+      },
+      {
+        "base": "strong",
+        "answer": "strongly"
+      },
+      {
+        "base": "final",
+        "answer": "finally"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "identify",
+        "sentence": "The upward-moving air rapidly cools, and rain begins to fall.",
+        "answers": [
+          "rapidly"
+        ],
+        "hint": "Which word tells HOW the air cools?"
+      },
+      {
+        "type": "identify",
+        "sentence": "Soon the eye will move, and then the sudden force of the other side of the storm will hit.",
+        "answers": [
+          "Soon"
+        ],
+        "hint": "Which word tells WHEN the eye will move?"
+      },
+      {
+        "type": "identify",
+        "sentence": "The wind slows down, and the storms eventually disperse.",
+        "answers": [
+          "eventually"
+        ],
+        "hint": "Which word tells WHEN the storms disperse?"
+      },
+      {
+        "type": "identify",
+        "sentence": "Thousands of measurements are typed into supercomputers to predict where a storm will go.",
+        "answers": [],
+        "hint": "Are there any adverbs in this sentence?"
+      },
+      {
+        "type": "multipleChoice",
+        "question": "Which word is an adverb?",
+        "sentence": "Satellites orbiting high above Earth take frequent pictures of a hurricane.",
+        "options": [
+          "Satellites",
+          "orbiting",
+          "high",
+          "frequent"
+        ],
+        "answer": 2,
+        "explanation": "'High' is an adverb here, telling WHERE the satellites orbit."
+      },
+      {
+        "type": "multipleChoice",
+        "question": "Which word is an adverb?",
+        "sentence": "Some people who were not evacuated sit in the darkness of their homes.",
+        "options": [
+          "Some",
+          "evacuated",
+          "not",
+          "darkness"
+        ],
+        "answer": 2,
+        "explanation": "'Not' is an adverb that negates the verb. It tells us that the people were NOT evacuated."
+      },
+      {
+        "type": "fillBlank",
+        "sentence": "The storm _____ (final/finally) moved inland.",
+        "answer": "finally",
+        "explanation": "'Finally' is the adverb form. It tells WHEN the storm moved inland."
+      },
+      {
+        "type": "fillBlank",
+        "sentence": "The wind _____ (sudden/suddenly) changed direction.",
+        "answer": "suddenly",
+        "explanation": "'Suddenly' is the adverb form of 'sudden'. It tells HOW the wind changed."
+      },
+      {
+        "type": "fillBlank",
+        "sentence": "Hurricanes _____ (rare/rarely) hit the U.S. West Coast.",
+        "answer": "rarely",
+        "explanation": "'Rarely' is the adverb meaning 'not often'. It tells HOW OFTEN hurricanes hit the West Coast."
       }
     ]
   }

@@ -11,87 +11,88 @@
     "evidence",
     "summarize",
     "vocabulary",
-    "typing"
+    "typing",
+    "grammar"
   ],
   "sections": [
     {
       "id": "intro",
       "title": "Introduction",
       "paragraphs": [
-        "In modern countries around the world, including Egypt, <s>people</s> often <v>are buried</v> <o>in coffins after they die</o>. Sometimes <s>the body</s> <v>is cremated</v>, and <s>the ashes</s> <v>are</v> either <v>kept</v> by <o>loved ones</o> or <v>are spread</v> over <o>an area that the person enjoyed</o>, such as the ocean. But <s>this</s> <v>is</v> not <o>the way it has always been</o>. <s>The ancient Egyptians</s> <v>turned</v> <o>their dead into mummies</o>.",
-        "<s>The ancient Egyptians</s> <v>are famous</v> for <o>making mummies</o>. <s>They</s> <v>mummified</v> <o>everyone from kings to pets</o> by drying the bodies, rubbing them with spices, and wrapping them in strips of cloth. However, <s>the Egyptians</s> <v>are</v> not <o>the only people that mummified their dead</o>. <s>There</s> <v>is</v> <o>evidence of mummification in many places around the world</o>."
+        "In modern countries around the world, including Egypt, people often are buried in coffins after they die. Sometimes the body is cremated, and the ashes are either kept by loved ones or are spread over an area that the person enjoyed, such as the ocean. But this is not the way it has always been. The <g data-word=\"ancient\" data-type=\"adjective\" data-modifies=\"Egyptians\" data-rule=\"tells WHICH Egyptians\">ancient</g> Egyptians turned their dead into mummies.",
+        "The <g data-word=\"ancient\" data-type=\"adjective\" data-modifies=\"Egyptians\" data-rule=\"tells WHICH Egyptians\">ancient</g> Egyptians are famous for making mummies. They mummified everyone from kings to pets by drying the bodies, rubbing them with spices, and wrapping them in strips of cloth. However, the Egyptians are not the only people that mummified their dead. There is evidence of mummification in many places around the world."
       ]
     },
     {
       "id": "whatAre",
       "title": "What Are Mummies?",
       "paragraphs": [
-        "<s>A mummy</s> <v>is</v> <o>a preserved corpse</o>. Normally, <s>a dead body</s> <v>decays</v> <o>very quickly</o>. <s>Bacteria in the air</s> <v>start decomposing</v> <o>body cells immediately after death</o>. If the body is left alone, <s>scavengers and pests, like vultures and flies</s>, <v>devour</v> <o>the corpse</o>. In a mummy, <s>the decay process</s> <v>is arrested</v>, and <s>the dead body</v> <v>is preserved</v> <o>for thousands of years</o>.",
-        "<s>The first mummifications</s> <v>occurred</v> naturally, in <o>areas that were too dry or cold for bacteria to grow</o>. <s>Bodies</s> <v>were preserved</v> <o>without human interference</o>. Later on, <s>people</s> <v>developed</v> <o>ways to preserve mummies artificially</o>.",
-        "<s>The first Egyptian mummies</s> <v>were buried</v> <o>in the hot desert sand</o>. <s>It</s> <v>was</v> <o>so dry</o> that <s>the bodies</s> <v>dried out</v> almost immediately, preserving them from decay. These dried mummies looked a lot like beef jerky. Their flesh became tough and hard.",
-        "Unfortunately, <s>unprotected bodies buried in the desert</s> often <v>were eaten</v> <o>by jackals</o>, which love the taste of \"human jerky.\" <s>Egyptians</s> <v>tried to protect</v> <o>their buried ancestors</o> by covering the burial site with rocks. <s>Wealthier Egyptians</s> <v>buried</v> <o>family members in painted coffins</o>. But the coffins, which kept out the jackals, also kept out the hot sand, and <s>the bodies inside</s> <v>decayed</v>."
+        "A mummy is a preserved corpse. Normally, a dead body decays very quickly. Bacteria in the air start decomposing body cells immediately after death. If the body is left alone, scavengers and pests, like vultures and flies, devour the corpse. In a mummy, the decay process is arrested, and the dead body is preserved for thousands of years.",
+        "The <g data-word=\"first\" data-type=\"adjective\" data-modifies=\"mummifications\" data-rule=\"tells WHICH mummifications\">first</g> mummifications occurred naturally, in areas that were too dry or cold for bacteria to grow. Bodies were preserved without human interference. Later on, people developed ways to preserve mummies artificially.",
+        "The first Egyptian mummies were buried in the <g data-word=\"hot\" data-type=\"adjective\" data-modifies=\"desert sand\" data-rule=\"tells WHAT KIND of sand\">hot</g> desert sand. It was so dry that the bodies dried out almost immediately, preserving them from decay. These dried mummies looked a lot like beef jerky. Their flesh became tough and hard.",
+        "Unfortunately, <g data-word=\"unprotected\" data-type=\"adjective\" data-modifies=\"bodies\" data-rule=\"tells WHICH bodies\">unprotected</g> bodies buried in the desert often were eaten by jackals, which love the taste of \"human jerky.\" Egyptians tried to protect their buried ancestors by covering the burial site with rocks. Wealthier Egyptians buried family members in painted coffins. But the coffins, which kept out the jackals, also kept out the hot sand, and the bodies inside decayed."
       ]
     },
     {
       "id": "mummification",
       "title": "Mummification",
       "paragraphs": [
-        "<s>Resourceful Egyptians</s> <v>developed</v> <o>ways to preserve the bodies before burial</o>. When someone died, <s>the body</s> <v>was given</v> <o>to a team of embalmers</o>. First, <s>the embalmers</s> <v>laid</v> <o>the body face up on a six-foot-wide embalming table</o>. <s>Their first job</s> <v>was</v> <o>to remove all the soft organs that encouraged the growth of bacteria</o>.",
-        "<s>They</s> carefully <v>pulled</v> <o>the brain out through the nose</o> with an embalming hook, making sure not to deform the person's face. <s>The brain</s> <v>was</v> not <o>very important to the ancient Egyptians</o>. <s>They</s> <v>believed</v> that <s>the heart</s> <v>was</v> <o>the most important organ</o> and that <s>it</s> <v>was</v> <o>the center of thought and feeling</o>.",
-        "<s>The chief embalmer</s> <v>cut</v> <o>an incision in the left side of the stomach</o>. From this hole, <s>the embalming team</s> <v>pulled out</v> <o>all the internal organs except the heart</o> and <v>placed</v> <o>them to the side</o>. <s>The stomach, liver, lungs, and intestines</s> <v>were preserved</v> individually in <o>special jars called canopic jars</o>. These organs accompanied the body during burial but were not as important as the heart. <s>The heart</s> <v>was preserved</v> <o>inside the body</o>.",
-        "<s>Embalmers</s> <v>washed</v> <o>the body, inside and out, with palm wine</o>. <s>The alcohol in the wine</s> <v>killed</v> <o>bacteria</o>. By this time, the body had probably begun to stink, a sign of decay. So <s>the embalmers</s> <v>filled</v> <o>the body with bags of sweet-smelling spices mixed with natron</o>, a special salt. Then <s>they</s> <v>covered up</v> <o>the body and internal organs with more natron</o> and <v>left</v> <o>them alone for 40 days</o>.",
-        "<s>The whole mummification process</s> <v>took</v> <o>seventy days</o>. Once the drying process had been completed, <s>the embalmers</s> <v>removed</v> <o>the salt</o>. <s>The mummy</s> <v>became</v> <o>very light</o>, since all the water—which made up over 65 percent of the body's weight—had been removed. <s>The embalmers</s> <v>filled</v> <o>the inside of the corpse with linen stuffing</o>, producing a body that appeared strong and healthy instead of shriveled.",
-        "Then <s>they</s> <v>rubbed</v> <o>the corpse with more spices, mixed with wax and oil</o>, to make it smell sweet. Next, <s>a sticky resin made of tree sap</s> <v>was poured</v> over <o>the body</o>. When the resin hardened, <s>it</s> <v>formed</v> <o>a thin, protective shell around the body</o>. This shell protected the mummy from bacteria and caused it to become darker in color.",
-        "<s>Embalmers</s> often <v>applied</v> <o>makeup to the mummy's face</o> to make it look more alive. They also placed jewelry on a rich person's corpse before wrapping it up. <s>The resin-soaked wrap</s> <v>consisted of</v> <o>linen bandages the length of a football field</o>. <s>The wrap</s> <v>helped to preserve</v> <o>the shape of the body</o>.",
-        "<s>The best linen</s> <v>was saved</v> for <o>the outermost layer of bandages</o>. Cheap linen was used on the inside, where it couldn't be seen. <s>Magical charms and talismans</s> meant to ensure the mummy's safety in the realm of the dead <v>were put</v> between <o>the layers of bandages</o>. These talismans were carved out of precious stones."
+        "Resourceful Egyptians developed ways to preserve the bodies before burial. When someone died, the body was given to a team of embalmers. First, the embalmers laid the body face up on a six-foot-wide embalming table. Their first job was to remove all the <g data-word=\"soft\" data-type=\"adjective\" data-modifies=\"organs\" data-rule=\"tells WHAT KIND of organs\">soft</g> organs that encouraged the growth of bacteria.",
+        "They carefully pulled the brain out through the nose with an embalming hook, making sure not to deform the person's face. The brain was not very important to the ancient Egyptians. They believed that the heart was the most important organ and that it was the center of thought and feeling.",
+        "The chief embalmer cut an incision in the left side of the stomach. From this hole, the embalming team pulled out all the internal organs except the heart and placed them to the side. The stomach, liver, lungs, and intestines were preserved individually in special jars called canopic jars. These organs accompanied the body during burial but were not as important as the heart. The heart was preserved inside the body.",
+        "Embalmers washed the body, inside and out, with palm wine. The alcohol in the wine killed bacteria. By this time, the body had probably begun to stink, a sign of decay. So the embalmers filled the body with bags of <g data-word=\"sweet-smelling\" data-type=\"adjective\" data-modifies=\"spices\" data-rule=\"tells WHAT KIND of spices\">sweet-smelling</g> spices mixed with natron, a special salt. Then they covered up the body and internal organs with more natron and left them alone for 40 days.",
+        "The whole mummification process took seventy days. Once the drying process had been completed, the embalmers removed the salt. The mummy became very light, since all the water—which made up over 65 percent of the body's weight—had been removed. The embalmers filled the inside of the corpse with linen stuffing, producing a body that appeared strong and healthy instead of shriveled.",
+        "Then they rubbed the corpse with more spices, mixed with wax and oil, to make it smell sweet. Next, a <g data-word=\"sticky\" data-type=\"adjective\" data-modifies=\"resin\" data-rule=\"tells WHAT KIND of resin\">sticky</g> resin made of tree sap was poured over the body. When the resin hardened, it formed a thin, protective shell around the body. This shell protected the mummy from bacteria and caused it to become darker in color.",
+        "Embalmers often applied makeup to the mummy's face to make it look more alive. They also placed jewelry on a rich person's corpse before wrapping it up. The resin-soaked wrap consisted of linen bandages the length of a football field. The wrap helped to preserve the shape of the body.",
+        "The best linen was saved for the outermost layer of bandages. Cheap linen was used on the inside, where it couldn't be seen. Magical charms and talismans meant to ensure the mummy's safety in the realm of the dead were put between the layers of bandages. These talismans were carved out of precious stones."
       ]
     },
     {
       "id": "afterlife",
       "title": "The Afterlife",
       "paragraphs": [
-        "<s>The ancient Egyptians</s> <v>believed</v> that <s>immortality</s> <v>depended on</v> <o>having a well-preserved body</o>. They believed that a dead person split up at the moment of death into several parts: the ba, the ka, and the physical body. <s>The ka</s> <v>was</v> <o>a person's ghostly identical twin</o>. <s>It</s> <v>lived</v> inside <o>the mummified heart</o> and could not move from the tomb.",
-        "<s>The ba</s>, which <v>represented</v> <o>the personality and spirit of a person</o>, <v>was</v> <o>a human-headed bird that could fly around freely by day</o>. <s>The ba and the ka</s> <v>joined</v> to form <o>the akh, a person's soul</o>.",
-        "According to ancient Egyptian belief, <s>a dead person's soul</s> <v>traveled</v> through <o>the dangerous realm of the dead</o> to a special palace of judgment, called Osiris's palace. Along the way, <s>the soul</s> <v>dodged</v> <o>monstrous snakes and crocodiles while crossing huge rivers of fire</o>.",
-        "<s>Osiris, the god of the dead</s>, <v>judged</v> <o>everyone by weighing their hearts on a scale</o>. If a person's heart was heavy with sin, <s>it</s> <v>was thrown</v> to <o>the hungry monster beneath the scales</o>. That person would die permanently. But if the heart was lighter than a feather, then <s>the dead person</s> <v>would live forever</v>—or be <o>immortal</o>—in the world of Osiris.",
-        "When the Egyptians first began to make mummies, <s>only very rich or important people</s> <v>were mummified</v>. <s>They</s> <v>believed</v> that <s>only pharaohs and nobles</s> <v>deserved</v> <o>an afterlife</o>. However, as the embalming process became easier and the Egyptians became richer, <s>more people</s> <v>were mummified</v>. <s>The Egyptians</s> eventually <v>believed</v> that <s>everyone</s> <v>deserved</v> <o>to have a chance at immortality</o>.",
-        "Since the Egyptians believed that the afterlife was exactly like life, <s>they</s> <v>buried</v> <o>mummies with their favorite objects and tools</o>. <s>Wealthy nobles</s> <v>were buried</v> <o>with gold and gems</o>. <s>Children</s> <v>were buried</v> <o>with their favorite toys</o>. <s>Everyone</s> <v>was buried</v> with <o>clay representations of food and drink, and with clay figurines called shabtis—servants who would work for them in the afterlife</o>."
+        "The ancient Egyptians believed that immortality depended on having a well-preserved body. They believed that a dead person split up at the moment of death into several parts: the ba, the ka, and the physical body. The ka was a person's ghostly identical twin. It lived inside the mummified heart and could not move from the tomb.",
+        "The ba, which represented the personality and spirit of a person, was a human-headed bird that could fly around freely by day. The ba and the ka joined to form the akh, a person's soul.",
+        "According to ancient Egyptian belief, a dead person's soul traveled through the <g data-word=\"dangerous\" data-type=\"adjective\" data-modifies=\"realm\" data-rule=\"tells WHAT KIND of realm\">dangerous</g> realm of the dead to a special palace of judgment, called Osiris's palace. Along the way, the soul dodged monstrous snakes and crocodiles while crossing huge rivers of fire.",
+        "Osiris, the god of the dead, judged everyone by weighing their hearts on a scale. If a person's heart was heavy with sin, it was thrown to the hungry monster beneath the scales. That person would die permanently. But if the heart was lighter than a feather, then the dead person would live forever—or be immortal—in the world of Osiris.",
+        "When the Egyptians first began to make mummies, only very rich or important people were mummified. They believed that only pharaohs and nobles deserved an afterlife. However, as the embalming process became easier and the Egyptians became richer, more people were mummified. The Egyptians eventually believed that everyone deserved to have a chance at immortality.",
+        "Since the Egyptians believed that the afterlife was exactly like life, they buried mummies with their favorite objects and tools. Wealthy nobles were buried with gold and gems. Children were buried with their favorite toys. Everyone was buried with clay representations of food and drink, and with clay figurines called shabtis—servants who would work for them in the afterlife."
       ]
     },
     {
       "id": "burial",
       "title": "The Burial",
       "paragraphs": [
-        "<s>Mummies</s> <v>were laid to rest</v> <o>in decorated coffins usually made of papier-mâché and beaten gold</o>. <s>Richer people</s> <v>were buried</v> in <o>a sarcophagus made of stone or a coffin of imported wood</o>. <s>Pharaohs</s> <v>were buried</v> in <o>up to four gold-covered coffins nested inside each other</o>.",
-        "<s>The coffins</s> <v>were painted</v> with <o>a representation of the person's face</o> so that <s>the ba</s> <v>could find</v> <o>the right tomb when it returned at night</o>. <s>Hieroglyphs</s>, painted or chiseled onto the coffin, <v>told</v> <o>the story of the person's life</o>. These inscriptions also held spells to keep the dead person safe in the underworld.",
-        "<s>Superstitions</s> <v>were common</v> <o>in Egypt</o>. <s>Most people</s> <v>believed</v> that <s>mummies</s> <v>would curse</v> <o>anyone who disturbed their tomb and stole from the dead</o>. But tempted by the treasures buried with the mummies, <s>thieves</s> <v>broke into</v> even <o>the best-guarded tombs</o>. They often tore the mummies apart, looking for the gold and gems under the bandages. They were willing to risk death and punishment for riches. <s>Most tombs</s> <v>were robbed</v> <o>within a few years of their mummies' burials</o>."
+        "Mummies were laid to rest in <g data-word=\"decorated\" data-type=\"adjective\" data-modifies=\"coffins\" data-rule=\"tells WHAT KIND of coffins\">decorated</g> coffins usually made of papier-mâché and beaten gold. Richer people were buried in a sarcophagus made of stone or a coffin of imported wood. Pharaohs were buried in up to four gold-covered coffins nested inside each other.",
+        "The coffins were painted with a representation of the person's face so that the ba could find the right tomb when it returned at night. Hieroglyphs, painted or chiseled onto the coffin, told the story of the person's life. These inscriptions also held spells to keep the dead person safe in the underworld.",
+        "Superstitions were common in Egypt. Most people believed that mummies would curse anyone who disturbed their tomb and stole from the dead. But tempted by the treasures buried with the mummies, thieves broke into even the best-guarded tombs. They often tore the mummies apart, looking for the gold and gems under the bandages. They were willing to risk death and punishment for riches. Most tombs were robbed within a few years of their mummies' burials."
       ]
     },
     {
       "id": "tutankhamun",
       "title": "The Tomb of Tutankhamun",
       "paragraphs": [
-        "<s>The Pharaoh Tutankhamun</s>, also called <o>the Boy King</o>, <v>died</v> when <s>he</s> <v>was</v> only <o>a teenager</o>. <s>We</s> <v>know</v> very little about <o>his life or his rule in Egypt</o>, but <s>he</s> <v>is</v> <o>the most famous mummy in the world</o>.",
-        "<s>Tutankhamun's tomb</s> <v>was opened</v> <o>in 1923</o>. Even though <s>it</s> <v>had been robbed</v> twice in ancient times, <s>King Tut's tomb</s> still <v>held</v> <o>great treasures</o>. <s>The thieves</s> <v>had entered</v> <o>the second room</o>, which was filled with Tut's gold chariots and statues. <s>They</s> <v>stole</v> <o>about a sixth of the tomb's gold</o> but were probably interrupted before they could finish. <s>King Tut's mummy</s> <v>had not been touched</v>.",
-        "<s>King Tut</s> <v>was buried</v> in <o>a series of three coffins, one inside the other</o>. <s>The first two coffins</s> <v>were made</v> <o>of wood covered in bands of gold</o>. But <s>the innermost coffin</s> <v>was made</v> <o>of solid gold and covered with gems</o>. <s>Tut's beautiful burial mask</s> <v>was</v> also <v>made</v> <o>of pure gold</o>. <s>Heavy jeweled bracelets</s> <v>encircled</v> <o>his wrists</o>, and <s>golden amulets and necklaces</s> <v>were draped</v> <o>around his neck</o>."
+        "The Pharaoh Tutankhamun, also called the Boy King, died when he was only a teenager. We know very little about his life or his rule in Egypt, but he is the most <g data-word=\"famous\" data-type=\"adjective\" data-modifies=\"mummy\" data-rule=\"tells WHAT KIND of mummy\">famous</g> mummy in the world.",
+        "Tutankhamun's tomb was opened in 1923. Even though it had been robbed twice in ancient times, King Tut's tomb still held <g data-word=\"great\" data-type=\"adjective\" data-modifies=\"treasures\" data-rule=\"tells WHAT KIND of treasures\">great</g> treasures. The thieves had entered the second room, which was filled with Tut's gold chariots and statues. They stole about a sixth of the tomb's gold but were probably interrupted before they could finish. King Tut's mummy had not been touched.",
+        "King Tut was buried in a series of three coffins, one inside the other. The first two coffins were made of wood covered in bands of gold. But the innermost coffin was made of <g data-word=\"solid\" data-type=\"adjective\" data-modifies=\"gold\" data-rule=\"tells WHAT KIND of gold\">solid</g> gold and covered with gems. Tut's beautiful burial mask was also made of pure gold. Heavy jeweled bracelets encircled his wrists, and golden amulets and necklaces were draped around his neck."
       ]
     },
     {
       "id": "animalMummies",
       "title": "Animal Mummies",
       "paragraphs": [
-        "<s>The ancient Egyptians</s> <v>mummified</v> <o>animals as well as people</o>. <s>Cats</s> <v>were</v> especially <o>sacred to the Egyptians</o>. <s>They</s> <v>represented</v> <o>Bast, the cat-headed goddess of happiness</o>. Cats were kept as pets, and when one died, <s>the whole family</s> <v>shaved</v> <o>their heads and eyebrows in mourning</o>. <s>Cat mummies</s> <v>were buried</v> <o>with their owners or at the temples of Bast</o>.",
-        "<s>Ancient Egyptians</s> also <v>mummified</v> <o>other animals sacred to the gods</o>, such as crocodiles, ibises, and falcons. These animals were sent to the afterlife as offerings to the gods."
+        "The ancient Egyptians mummified animals as well as people. Cats were especially <g data-word=\"sacred\" data-type=\"adjective\" data-modifies=\"cats\" data-rule=\"tells WHAT KIND - holy to Egyptians\">sacred</g> to the Egyptians. They represented Bast, the cat-headed goddess of happiness. Cats were kept as pets, and when one died, the whole family shaved their heads and eyebrows in mourning. Cat mummies were buried with their owners or at the temples of Bast.",
+        "Ancient Egyptians also mummified other animals sacred to the gods, such as crocodiles, ibises, and falcons. These animals were sent to the afterlife as offerings to the gods."
       ]
     },
     {
       "id": "conclusion",
       "title": "Conclusion",
       "paragraphs": [
-        "<s>Natural mummies</s> <v>have been found</v> <o>around the world</o>. They can be found in the cold, acidic water of a marsh in Denmark, in the frozen depths of an Alpine glacier, or in the hot sands of a desert.",
-        "<s>The dead</s> <v>have been preserved</v> as <o>mummies by many different cultures</o>, from Buddhist monks in Japan to tribesmen in Papua New Guinea. The Incas in Peru, half a world away from the ancient Egyptians, mummified their ancestors in much the same way as the Egyptians.",
-        "While artificial and natural mummification vary in some ways, <s>they</s> <v>are alike</v> in <o>one important way</o>. <s>All mummification</s> <v>results in</v> <o>the arrest of cell decay</o>, which preserves the body for hundreds, if not thousands, of years.",
-        "<s>We</s> <v>can learn</v> <o>much about ancient civilizations</o> by studying mummies and the contents of their tombs. <s>Scientists around the world</s> <v>study</v> <o>mummies</o> in order to know more about how ancient people lived and died."
+        "Natural mummies have been found around the world. They can be found in the cold, acidic water of a marsh in Denmark, in the frozen depths of an Alpine glacier, or in the hot sands of a desert.",
+        "The dead have been preserved as mummies by many different cultures, from Buddhist monks in Japan to tribesmen in Papua New Guinea. The Incas in Peru, half a world away from the ancient Egyptians, mummified their ancestors in much the same way as the Egyptians.",
+        "While artificial and natural mummification vary in some ways, they are alike in one important way. All mummification results in the arrest of cell decay, which preserves the body for hundreds, if not thousands, of years.",
+        "We can learn much about ancient civilizations by studying mummies and the contents of their tombs. Scientists around the world study mummies in order to know more about how ancient people lived and died."
       ]
     }
   ],
@@ -296,6 +297,108 @@
           "magical objects placed between bandages to protect the mummy",
           "golden masks placed over the face of the pharaoh",
           "scrolls containing spells from the Book of the Dead"
+        ],
+        "answer": 1
+      }
+    },
+    {
+      "word": "arrested",
+      "pos": "v.",
+      "definition": "stopped; brought to an end",
+      "section": "whatAre",
+      "sentence": "In a mummy, the decay process is arrested, and the dead body is preserved for thousands of years.",
+      "quiz": {
+        "prompt": "\"Arrested\" in this context means:",
+        "options": [
+          "arrested by the police",
+          "stopped or brought to an end",
+          "started again from the beginning",
+          "moved to a different location"
+        ],
+        "answer": 1
+      }
+    },
+    {
+      "word": "ba",
+      "pos": "n.",
+      "definition": "the human-headed bird made out of a person's personality after their death",
+      "section": "afterlife",
+      "sentence": "The ba, which represented the personality and spirit of a person, was a human-headed bird that could fly around freely by day.",
+      "quiz": {
+        "prompt": "The \"ba\" in Egyptian belief is:",
+        "options": [
+          "the ghostly twin that lives in the heart",
+          "a human-headed bird representing the personality",
+          "the soul formed when ba and ka join",
+          "the god who judges the dead"
+        ],
+        "answer": 1
+      }
+    },
+    {
+      "word": "ka",
+      "pos": "n.",
+      "definition": "a person's ghostly identical twin that lived inside the mummified heart",
+      "section": "afterlife",
+      "sentence": "The ka was a person's ghostly identical twin. It lived inside the mummified heart and could not move from the tomb.",
+      "quiz": {
+        "prompt": "The \"ka\" in Egyptian belief is:",
+        "options": [
+          "a human-headed bird that flies freely",
+          "the soul formed when ba and ka join",
+          "a ghostly identical twin living in the heart",
+          "the god of the underworld"
+        ],
+        "answer": 2
+      }
+    },
+    {
+      "word": "shabtis",
+      "pos": "n.",
+      "definition": "carved figurines that served as servants of the dead in the afterlife",
+      "section": "afterlife",
+      "sentence": "Everyone was buried with clay representations of food and drink, and with clay figurines called shabtis—servants who would work for them in the afterlife.",
+      "quiz": {
+        "prompt": "\"Shabtis\" were:",
+        "options": [
+          "special jars holding internal organs",
+          "clay figurines that served as servants in the afterlife",
+          "golden masks placed over the face",
+          "spells written on papyrus scrolls"
+        ],
+        "answer": 1
+      }
+    },
+    {
+      "word": "incision",
+      "pos": "n.",
+      "definition": "a deep cut made during a surgical or embalming procedure",
+      "section": "mummification",
+      "sentence": "The chief embalmer cut an incision in the left side of the stomach.",
+      "quiz": {
+        "prompt": "An \"incision\" is:",
+        "options": [
+          "a type of jar used for organs",
+          "a deep cut made during a procedure",
+          "a sweet-smelling spice",
+          "a decorative pattern on a coffin"
+        ],
+        "answer": 1
+      }
+    },
+    {
+      "word": "tempted",
+      "pos": "v.",
+      "definition": "strongly attracted or driven by desire for something forbidden",
+      "section": "burial",
+      "sentence": "But tempted by the treasures buried with the mummies, thieves broke into even the best-guarded tombs.",
+      "quiz": {
+        "prompt": "To be \"tempted\" means to:",
+        "options": [
+          "be forced to do something against your will",
+          "be strongly attracted by something you want",
+          "be afraid of something dangerous",
+          "be bored by something uninteresting"
         ],
         "answer": 1
       }
@@ -679,6 +782,132 @@
         "type": "evidence",
         "title": "Mummies Worldwide",
         "content": "Natural mummies found in Denmark (bogs), Alps (glaciers), deserts! Incas in Peru did it too. ALL mummification stops cell decay."
+      }
+    ]
+  },
+  "grammar": {
+    "target": "adjectives",
+    "title": "Adjectives",
+    "explanation": "Adjectives are describing words. They tell WHAT KIND, HOW MANY, or WHICH ONE about a noun.",
+    "rules": [
+      "Adjectives describe nouns: the mysterious death, the beautiful mask",
+      "They tell what kind: monstrous snakes, huge rivers, pure gold",
+      "They tell how many: four sons, seventy days, three coffins",
+      "They tell which one: the innermost coffin, the first mummifications"
+    ],
+    "wordBuilding": [
+      {
+        "base": "mystery",
+        "answer": "mysterious"
+      },
+      {
+        "base": "beauty",
+        "answer": "beautiful"
+      },
+      {
+        "base": "danger",
+        "answer": "dangerous"
+      },
+      {
+        "base": "power",
+        "answer": "powerful"
+      },
+      {
+        "base": "religion",
+        "answer": "religious"
+      },
+      {
+        "base": "magic",
+        "answer": "magical"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "identify",
+        "sentence": "Along the way, the soul dodged monstrous snakes and crocodiles while crossing huge rivers of fire.",
+        "answers": [
+          "monstrous",
+          "huge"
+        ],
+        "hint": "Which words describe the snakes and rivers?"
+      },
+      {
+        "type": "identify",
+        "sentence": "Tut's beautiful burial mask was also made of pure gold.",
+        "answers": [
+          "beautiful",
+          "pure"
+        ],
+        "hint": "Which words describe the mask and the gold?"
+      },
+      {
+        "type": "identify",
+        "sentence": "The ancient Egyptians are famous for making mummies.",
+        "answers": [
+          "ancient"
+        ],
+        "hint": "Which word describes the Egyptians?"
+      },
+      {
+        "type": "identify",
+        "sentence": "Wealthier Egyptians buried family members in painted coffins.",
+        "answers": [
+          "painted"
+        ],
+        "hint": "Which word describes the coffins?"
+      },
+      {
+        "type": "identify",
+        "sentence": "But the innermost coffin was made of solid gold and covered with gems.",
+        "answers": [
+          "innermost",
+          "solid"
+        ],
+        "hint": "Which words describe the coffin and the gold?"
+      },
+      {
+        "type": "multipleChoice",
+        "question": "Which word is an adjective?",
+        "sentence": "The dead have been preserved as mummies by many different cultures.",
+        "options": [
+          "preserved",
+          "mummies",
+          "different",
+          "cultures"
+        ],
+        "answer": 2,
+        "explanation": "'Different' is an adjective describing 'cultures' — it tells WHAT KIND of cultures."
+      },
+      {
+        "type": "multipleChoice",
+        "question": "Which word is an adjective?",
+        "sentence": "Magical charms and talismans were put between the layers of bandages.",
+        "options": [
+          "charms",
+          "Magical",
+          "layers",
+          "bandages"
+        ],
+        "answer": 1,
+        "explanation": "'Magical' is an adjective describing 'charms' — it tells WHAT KIND of charms."
+      },
+      {
+        "type": "fillBlank",
+        "sentence": "The _____ (danger/dangerous) journey took the soul through rivers of fire.",
+        "answer": "dangerous",
+        "explanation": "'Dangerous' is the adjective form. It describes the journey."
+      },
+      {
+        "type": "fillBlank",
+        "sentence": "The _____ (beauty/beautiful) mask covered the pharaoh's face.",
+        "answer": "beautiful",
+        "explanation": "'Beautiful' is the adjective form. It describes the mask."
+      },
+      {
+        "type": "fillBlank",
+        "sentence": "The _____ (power/powerful) god Osiris judged the dead.",
+        "answer": "powerful",
+        "explanation": "'Powerful' is the adjective form. It describes the god Osiris."
       }
     ]
   }
