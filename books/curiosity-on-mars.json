@@ -1,0 +1,631 @@
+{
+  "meta": {
+    "id": "curiosity-on-mars",
+    "title": "Curiosity on Mars",
+    "level": "W",
+    "author": "John Perritano",
+    "focusQuestion": "What is the Curiosity rover's mission on Mars, and what has it taught us?"
+  },
+  "activities": [
+    "read",
+    "evidence",
+    "summarize",
+    "vocabulary",
+    "typing"
+  ],
+  "sections": [
+    {
+      "id": "landing",
+      "title": "Landing on Mars",
+      "paragraphs": [
+        "Jet Propulsion Laboratory, Cupertino, California, September 20, 2012, 7:20 PM. It will be over in the time it takes to hard-boil an egg. That's the only thing scientists know for sure. Some hold their breath. Others bite their fingernails. All hope the strange-looking spacecraft lands safely on Mars.",
+        "The spacecraft's name is Curiosity. Its job is to look for evidence of past or current life on Mars. Curiosity is a mechanical rover larger than a golf cart. In fact, it's the largest robotic vehicle that NASA, the United States' space agency, has ever built.",
+        "Curiosity hurtles through space at 13,000 miles (20,921 km) per hour as it breaks through the planet's atmosphere. What happens next is a 7-minute plunge to the surface — and the longest 420 seconds in the lives of NASA scientists on the Mars rover team.",
+        "Although the Martian atmosphere is thin, it produces enough drag to slow Curiosity to 1,000 miles (1,609 km) per hour. Still, at this speed, the craft is moving far too fast to land.",
+        "But scientists have planned for this moment. A 100-pound parachute blossoms from the top of the craft. The chute slows Curiosity to 200 miles (321 km) per hour, the speed of a Formula 1 race car.",
+        "Seconds later, the parachute releases. With seconds to go and the surface of Mars fast approaching, the Sky Crane holding Curiosity beneath it fires its rocket engines. They slow the craft even more.",
+        "About 66 feet (20 m) above the planet's surface, the Sky Crane gently lowers Curiosity to the ground on cables. Scientists have never before tried to land a spacecraft using this method. Will it work? No one knows. The control room is silent.",
+        "Finally, the seven minutes are up. \"Touchdown confirmed!\" someone shouts. Cheers fill the room. People hug. A few cry. Curiosity has landed."
+      ]
+    },
+    {
+      "id": "searchingET",
+      "title": "Searching for E.T.",
+      "paragraphs": [
+        "Mars has fascinated people for centuries. The ancient Romans and Greeks named the planet for their gods of war. In 1877, an Italian astronomer wrongly thought he saw canals on the Martian surface. His mistake gave rise to the idea that someone was living there.",
+        "As time passed, people soon realized that Mars and Earth had a lot in common. Mars is just as old as Earth. As on Earth, the seasons on Mars change. The planet has volcanoes, mountains, and valleys. Yet, Earth has one thing that has yet to be found on Mars — life.",
+        "As far as we know, Earth is the only planet in our solar system that has ever been home to living things. Scientists hope that will all change by the time Curiosity's mission ends in two years. They hope the Red Planet has, or once supported, life.",
+        "Although NASA sent the spacecraft to Mars to search for aliens, the rover won't be looking for little green men. Instead, it will search for tiny extraterrestrial life-forms hiding beneath rocks or buried under the soil. Such creatures might be smaller than a one-celled animal or as tiny as a virus.",
+        "Where might these critters have come from? Long ago, water flowed on Mars. Water is vital for life. If Mars was wet, perhaps life flowered on its rust-red surface. If life did bloom on Mars, it might have left behind some proof.",
+        "Besides Earth, Mars is the most studied planet in our solar system. Humans have sent many space probes to Mars to look for life and study its geology.",
+        "The most famous missions involve robotic rovers. In 1996, the United States launched the Pathfinder probe. The probe landed on Mars on July 4, 1997. Two days later, a six-wheeled rover named Sojourner began roaming the Martian surface. Sojourner's findings showed scientists that Mars was more Earthlike than originally thought.",
+        "In 2004, two other rovers — Spirit and Opportunity — arrived. They landed on opposite sides of the planet. These robots were more complex than Sojourner. Their mission was supposed to last ninety days. Spirit went silent in 2010, but Opportunity is still on the job."
+      ]
+    },
+    {
+      "id": "mobileLab",
+      "title": "Mobile Science Lab",
+      "paragraphs": [
+        "If there is life on Mars, Curiosity has a good chance of finding it. It is the brainiest Mars rover ever — a science lab on wheels. On August 5, 2012, the rover wasted no time in getting to work after landing. Curiosity popped the protective dust covers off its cameras and turned on its weather station. It took its first images and beamed them back to Earth.",
+        "Curiosity is outfitted with many newly designed pieces of equipment, including 3-D cameras. Scientists can now view the Martian landscape as if they were walking on the planet themselves.",
+        "Curiosity also has a rock-blasting laser. Once the laser zaps a rock, special instruments examine the gases that spew into the air. The rover also has a drill that can grind bits of boulders into dust. Curiosity can look at the dust and determine the makeup of the minerals and chemicals. The rover can also scoop up and study bits of Martian dirt.",
+        "What exactly are Curiosity and the NASA scientists looking for? The rover's mission is to search for the building blocks of life. These include carbon, hydrogen, nitrogen, oxygen, and other elements. If Curiosity finds these elements, it means life may now exist, or in the past have existed, on the Red Planet."
+      ]
+    },
+    {
+      "id": "driving",
+      "title": "Driving Curiosity",
+      "paragraphs": [
+        "Some people drive buses for a living. Others drive taxicabs. Still others drive delivery vans. When Matt Heverly is on the job, he drives Curiosity.",
+        "Mars is about twice the size of Earth's moon. Yet, the rover is motoring only in one neighborhood, called Gale Crater. A meteor created the crater about three billion years ago. The hole is the size of Connecticut and Rhode Island combined. Inside the crater is a mountain taller than Mount Rainier, which towers over Seattle, Washington.",
+        "Scientists think they have the best opportunity to find evidence of life inside this crater. That's because scientists believe Gale Crater was once flooded with water. As a result, the crater is packed with clays and sulfates — types of minerals. These minerals are byproducts of water. Curiosity will study the soil to see if any microbes are hiding inside.",
+        "Driving Curiosity is a hard job; one bad turn could doom the mission. That's why Heverly meets with scientists to talk about where the rover should go before he gets behind the wheel or, in this case, the computer.",
+        "Once in the driver's seat, Heverly must put on special glasses to study the 3-D images that Curiosity sends back. He then uses a computer program that simulates the route. Heverly enters hundreds of computer commands that steer the craft. Curiosity crawled only thirty feet a day when it first landed."
+      ]
+    },
+    {
+      "id": "listening",
+      "title": "Listening In",
+      "paragraphs": [
+        "Talking to Curiosity is more complicated than picking up a smartphone and calling a friend. The rover can send messages directly to Earth. It can also relay signals by using three satellites orbiting Mars.",
+        "Scientists send and receive the signals using a system of giant antenna dishes. The system is called the Deep Space Network. The huge dishes are located near Madrid, Spain; Canberra, Australia; and the Mojave Desert in California.",
+        "Scientists will be listening — at least for the next two years — as Curiosity drives along the Martian landscape, hoping to see if anyone else is out there."
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "evidence",
+      "pos": "n.",
+      "definition": "something that supports a theory or claim",
+      "section": "landing",
+      "sentence": "Its job is to look for evidence of past or current life on Mars.",
+      "quiz": {
+        "prompt": "\"Evidence\" means:",
+        "options": [
+          "a type of robotic vehicle used in space",
+          "something that supports a theory or claim",
+          "a thin layer of gas around a planet",
+          "a scientist who studies Mars"
+        ],
+        "answer": 1
+      }
+    },
+    {
+      "word": "extraterrestrial",
+      "pos": "adj.",
+      "definition": "existing or coming from outside Earth or its atmosphere",
+      "section": "searchingET",
+      "sentence": "It will search for tiny extraterrestrial life-forms hiding beneath rocks or buried under the soil.",
+      "quiz": {
+        "prompt": "\"Extraterrestrial\" means:",
+        "options": [
+          "living deep underwater on Earth",
+          "found only in laboratories",
+          "existing or coming from outside Earth",
+          "extremely small and invisible"
+        ],
+        "answer": 2
+      }
+    },
+    {
+      "word": "Martian",
+      "pos": "adj.",
+      "definition": "of or relating to the planet Mars",
+      "section": "landing",
+      "sentence": "Although the Martian atmosphere is thin, it produces enough drag to slow Curiosity.",
+      "quiz": {
+        "prompt": "\"Martian\" refers to something:",
+        "options": [
+          "related to the Roman god of war",
+          "from a distant star system",
+          "found only on Earth",
+          "of or relating to the planet Mars"
+        ],
+        "answer": 3
+      }
+    },
+    {
+      "word": "microbes",
+      "pos": "n.",
+      "definition": "microscopic organisms",
+      "section": "driving",
+      "sentence": "Curiosity will study the soil to see if any microbes are hiding inside.",
+      "quiz": {
+        "prompt": "\"Microbes\" are:",
+        "options": [
+          "tiny pieces of Martian rock",
+          "robotic instruments on the rover",
+          "types of minerals found in soil",
+          "microscopic organisms"
+        ],
+        "answer": 3
+      }
+    },
+    {
+      "word": "mission",
+      "pos": "n.",
+      "definition": "a set purpose for doing something; a special task or assignment",
+      "section": "searchingET",
+      "sentence": "Their mission was supposed to last ninety days.",
+      "quiz": {
+        "prompt": "A \"mission\" is:",
+        "options": [
+          "a set purpose or special task",
+          "a type of spacecraft",
+          "a crater on Mars",
+          "a scientific instrument"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "word": "rover",
+      "pos": "n.",
+      "definition": "a vehicle used to explore the surface of an object in space",
+      "section": "landing",
+      "sentence": "Curiosity is a mechanical rover larger than a golf cart.",
+      "quiz": {
+        "prompt": "A \"rover\" is:",
+        "options": [
+          "a satellite that orbits a planet",
+          "a vehicle used to explore a planet's surface",
+          "a scientist who controls spacecraft",
+          "a crater on the surface of Mars"
+        ],
+        "answer": 1
+      }
+    },
+    {
+      "word": "elements",
+      "pos": "n.",
+      "definition": "substances made of one type of atom that cannot be broken down into simpler substances",
+      "section": "mobileLab",
+      "sentence": "These include carbon, hydrogen, nitrogen, oxygen, and other elements.",
+      "quiz": {
+        "prompt": "In science, \"elements\" are:",
+        "options": [
+          "substances made of one type of atom",
+          "mixtures of different chemicals",
+          "gases found only in the atmosphere",
+          "rocks found on other planets"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "word": "laser",
+      "pos": "n.",
+      "definition": "a device that projects intense, focused light of similar wavelengths",
+      "section": "mobileLab",
+      "sentence": "Curiosity also has a rock-blasting laser.",
+      "quiz": {
+        "prompt": "A \"laser\" is:",
+        "options": [
+          "a drill that grinds rocks into dust",
+          "a device that projects intense, focused light",
+          "a camera that takes 3-D images",
+          "a satellite that relays signals"
+        ],
+        "answer": 1
+      }
+    },
+    {
+      "word": "relay",
+      "pos": "v.",
+      "definition": "to pass along something, such as information or a signal",
+      "section": "listening",
+      "sentence": "It can also relay signals by using three satellites orbiting Mars.",
+      "quiz": {
+        "prompt": "To \"relay\" means:",
+        "options": [
+          "to block signals from reaching Earth",
+          "to receive but not send information",
+          "to store data for future use",
+          "to pass along something, such as a signal"
+        ],
+        "answer": 3
+      }
+    },
+    {
+      "word": "robotic",
+      "pos": "adj.",
+      "definition": "of or related to a device that is programmed to perform tasks for humans",
+      "section": "landing",
+      "sentence": "Curiosity is the largest robotic vehicle that NASA has ever built.",
+      "quiz": {
+        "prompt": "\"Robotic\" means:",
+        "options": [
+          "controlled by remote signals from Earth",
+          "of or related to a programmed device that performs tasks",
+          "made of metal and able to move on its own",
+          "designed to look like a human"
+        ],
+        "answer": 1
+      }
+    },
+    {
+      "word": "satellites",
+      "pos": "n.",
+      "definition": "a natural or human-made object that orbits Earth or another object in space",
+      "section": "listening",
+      "sentence": "It can also relay signals by using three satellites orbiting Mars.",
+      "quiz": {
+        "prompt": "\"Satellites\" are:",
+        "options": [
+          "objects that orbit a planet or other body in space",
+          "rockets that travel between planets",
+          "spacecraft that land on planetary surfaces",
+          "dishes that receive signals from Earth"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "word": "simulates",
+      "pos": "v.",
+      "definition": "models or imitates the appearance or condition of something",
+      "section": "driving",
+      "sentence": "He then uses a computer program that simulates the route.",
+      "quiz": {
+        "prompt": "To \"simulate\" means:",
+        "options": [
+          "to create a real version of something",
+          "to destroy something completely",
+          "to model or imitate something",
+          "to predict something with certainty"
+        ],
+        "answer": 2
+      }
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "level": 1,
+      "question": "What is Curiosity's main job on Mars?",
+      "section": "landing",
+      "pages": "4",
+      "evidence": "The spacecraft's name is Curiosity. Its job is to look for evidence of past or current life on Mars.",
+      "choices": [
+        "To test whether a Sky Crane can land safely on Mars",
+        "To look for evidence of past or current life on Mars",
+        "To study the weather and atmosphere of Mars",
+        "To build a base for future human astronauts"
+      ],
+      "correctChoice": 1,
+      "explanation": "The text directly states that Curiosity's job is to look for evidence of past or current life on Mars."
+    },
+    {
+      "id": "q2",
+      "level": 1,
+      "question": "How did Curiosity finally land on the surface of Mars?",
+      "section": "landing",
+      "pages": "5–6",
+      "evidence": "About 66 feet (20 m) above the planet's surface, the Sky Crane gently lowers Curiosity to the ground on cables.",
+      "choices": [
+        "It landed on wheels like a regular spacecraft",
+        "A parachute slowed it all the way to the ground",
+        "A Sky Crane lowered it on cables from above",
+        "Scientists guided it by remote control from Earth"
+      ],
+      "correctChoice": 2,
+      "explanation": "After the parachute and Sky Crane rockets slowed it, the Sky Crane lowered Curiosity on cables to the surface — a method never tried before by NASA."
+    },
+    {
+      "id": "q3",
+      "level": 1,
+      "question": "What caused people in New York City to panic on the night of October 30, 1938?",
+      "section": "searchingET",
+      "pages": "12",
+      "evidence": "They heard something shocking. \"A huge flaming object\" had smashed into a New Jersey farm. The Martians were invading! The broadcast was a radio play called \"The War of the Worlds.\"",
+      "choices": [
+        "An astronomer announced he saw canals on Mars",
+        "NASA reported that a spacecraft had crashed on Mars",
+        "They heard a radio play about Martians invading Earth",
+        "Newspapers reported that a meteor had landed in New York"
+      ],
+      "correctChoice": 2,
+      "explanation": "People heard Orson Welles's radio play \"The War of the Worlds\" and thought the Martian invasion was real. Many missed the disclaimer at the beginning."
+    },
+    {
+      "id": "q4",
+      "level": 1,
+      "question": "What does the word \"microbes\" mean?",
+      "section": "driving",
+      "pages": "13",
+      "evidence": "Curiosity will study the soil to see if any microbes are hiding inside. (Glossary: microbes — microscopic organisms)",
+      "choices": [
+        "Types of minerals found in Martian rocks",
+        "Tiny robots designed to explore small spaces",
+        "Pieces of ice that may contain ancient bacteria",
+        "Microscopic organisms"
+      ],
+      "correctChoice": 3,
+      "explanation": "The glossary defines microbes as microscopic organisms. These are the tiny life-forms Curiosity hopes to find in Martian soil."
+    },
+    {
+      "id": "q5",
+      "level": 2,
+      "question": "What do Sojourner, Spirit, Opportunity, and Curiosity have in common?",
+      "section": "searchingET",
+      "pages": "9–10",
+      "evidence": "The most famous missions involve robotic rovers. In 1996, the United States launched the Pathfinder probe... Sojourner began roaming... In 2004, two other rovers — Spirit and Opportunity — arrived. ... Curiosity is the brainiest Mars rover ever.",
+      "choices": [
+        "They are all robotic rovers that have studied the surface of Mars",
+        "They were all built to last exactly ninety days on Mars",
+        "They all found clear evidence of life on Mars",
+        "They are still actively working on Mars today"
+      ],
+      "correctChoice": 0,
+      "explanation": "All four are robotic rovers sent to study the Martian surface. Sojourner (1997), Spirit and Opportunity (2004), and Curiosity (2012) each contributed to our understanding of Mars."
+    },
+    {
+      "id": "q6",
+      "level": 2,
+      "question": "Why are scientists especially interested in Gale Crater?",
+      "section": "driving",
+      "pages": "13–14",
+      "evidence": "Scientists think they have the best opportunity to find evidence of life inside this crater. That's because scientists believe Gale Crater was once flooded with water. As a result, the crater is packed with clays and sulfates — types of minerals. These minerals are byproducts of water.",
+      "choices": [
+        "Because it contains the tallest mountain on Mars",
+        "Because Gale Crater was once flooded with water, and water is vital for life",
+        "Because it is the largest crater in the solar system",
+        "Because the soil there is easier for the rover to drive on"
+      ],
+      "correctChoice": 1,
+      "explanation": "Scientists believe Gale Crater was once flooded with water. The minerals found there (clays and sulfates) are byproducts of water — and water is vital for life."
+    },
+    {
+      "id": "q7",
+      "level": 2,
+      "question": "How is Earth different from Mars, according to the text?",
+      "section": "searchingET",
+      "pages": "7–8",
+      "evidence": "Mars is just as old as Earth. As on Earth, the seasons on Mars change. The planet has volcanoes, mountains, and valleys. Yet, Earth has one thing that has yet to be found on Mars — life.",
+      "choices": [
+        "Earth has volcanoes and mountains, but Mars does not",
+        "Earth is much younger than Mars",
+        "Life is known to exist on Earth but has not been found on Mars",
+        "Earth's seasons do not change like Mars's seasons do"
+      ],
+      "correctChoice": 2,
+      "explanation": "The text says Earth and Mars have a lot in common — same age, changing seasons, volcanoes, mountains, valleys. The one difference: Earth has life, and Mars has not been found to have life yet."
+    },
+    {
+      "id": "q8",
+      "level": 2,
+      "question": "Which of the following statements is an opinion rather than a fact?",
+      "section": "mobileLab",
+      "pages": "10–12",
+      "evidence": "Facts can be proven true or false. Opinions express beliefs or feelings. \"Curiosity is the brainiest Mars rover ever\" and \"Exploring Mars is the most exciting operation NASA has ever undertaken\" are opinions because they express judgment.",
+      "choices": [
+        "Curiosity landed on Mars on August 5, 2012",
+        "Curiosity has a rock-blasting laser that zaps rocks",
+        "The building blocks of life include carbon, hydrogen, and nitrogen",
+        "Exploring Mars is the most exciting operation NASA has ever undertaken"
+      ],
+      "correctChoice": 3,
+      "explanation": "\"The most exciting operation\" is a judgment or belief — it's an opinion. The other three are facts that can be verified."
+    },
+    {
+      "id": "q9",
+      "level": 2,
+      "question": "What is the author's main purpose in writing this book?",
+      "section": "landing",
+      "pages": "4–16",
+      "evidence": "The book presents factual information about Curiosity's mission, equipment, and findings on Mars. It uses scientific data, dates, and measurements throughout.",
+      "choices": [
+        "To entertain readers with an exciting story about space",
+        "To inform readers about the Curiosity rover's mission on Mars",
+        "To persuade readers that NASA should send more missions to Mars",
+        "To explain the step-by-step process of how rockets launch"
+      ],
+      "correctChoice": 1,
+      "explanation": "This is an informational nonfiction text. The author's main purpose is to inform readers about Curiosity — what it is, what it does, and what it has discovered on Mars."
+    },
+    {
+      "id": "q10",
+      "level": 2,
+      "question": "Why can't scientists just use a smartphone to talk to Curiosity?",
+      "section": "listening",
+      "pages": "15",
+      "evidence": "Talking to Curiosity is more complicated than picking up a smartphone and calling a friend. The rover can send messages directly to Earth. It can also relay signals by using three satellites orbiting Mars. Scientists send and receive the signals using a system of giant antenna dishes.",
+      "choices": [
+        "Because communicating with Mars requires satellites and giant antenna dishes across the globe",
+        "Because Mars is too far away for any signals to reach",
+        "Because Curiosity's equipment is too old to connect to phones",
+        "Because NASA has not yet developed the technology needed"
+      ],
+      "correctChoice": 0,
+      "explanation": "Communicating with Curiosity requires relaying signals through satellites orbiting Mars and receiving them with giant antenna dishes (the Deep Space Network) located around the world — much more complex than a phone call."
+    },
+    {
+      "id": "q11",
+      "level": 3,
+      "question": "Do you think Curiosity's mission is worth the billions of dollars it costs? Why or why not? Use evidence from the text to support your answer.",
+      "section": "mobileLab",
+      "pages": "10–14",
+      "evidence": "",
+      "choices": [],
+      "correctChoice": -1,
+      "explanation": "This is an opinion question. Support your answer with reasons and evidence from the text — for example, what Curiosity has found or might find, and whether that knowledge is valuable.",
+      "opinionPrompts": [
+        "What has Curiosity discovered or might discover on Mars?",
+        "How does this knowledge benefit people on Earth?",
+        "What evidence from the text supports your opinion?"
+      ]
+    }
+  ],
+  "summarizeActivities": [
+    {
+      "section": "landing",
+      "sectionTitle": "Landing on Mars",
+      "mainIdea": "NASA scientists used an innovative Sky Crane method to safely land the Curiosity rover on Mars in a dramatic seven-minute descent.",
+      "keyDetails": [
+        "Curiosity is the largest robotic vehicle NASA has ever built",
+        "The descent took only seven minutes — the time to hard-boil an egg",
+        "A parachute, Sky Crane rockets, and cables slowed and lowered the rover",
+        "Scientists had never tried this landing method before"
+      ],
+      "distractors": [
+        "Curiosity searches for the building blocks of life",
+        "Matt Heverly drives Curiosity using 3-D images"
+      ],
+      "transitionWords": [
+        "Although",
+        "Still",
+        "Seconds later",
+        "About 66 feet above",
+        "Finally"
+      ]
+    },
+    {
+      "section": "searchingET",
+      "sectionTitle": "Searching for E.T. and Previous Rovers",
+      "mainIdea": "Mars and Earth have a lot in common, but only Earth has known life. Scientists hope Curiosity will find evidence that Mars once had life, building on the work of previous rovers.",
+      "keyDetails": [
+        "Mars has volcanoes, mountains, valleys, and changing seasons like Earth",
+        "Curiosity searches for tiny extraterrestrial life-forms, not aliens",
+        "Water once flowed on Mars, and water is vital for life",
+        "Previous rovers — Sojourner, Spirit, and Opportunity — all studied Mars"
+      ],
+      "distractors": [
+        "The Sky Crane lowered Curiosity on cables",
+        "Gale Crater was once flooded with water"
+      ],
+      "transitionWords": [
+        "As time passed",
+        "Yet",
+        "As far as we know",
+        "Instead",
+        "If Mars was wet"
+      ]
+    },
+    {
+      "section": "mobileLab",
+      "sectionTitle": "Mobile Science Lab",
+      "mainIdea": "Curiosity is a mobile science laboratory equipped with advanced tools — including 3-D cameras, a laser, and a drill — to search for the building blocks of life on Mars.",
+      "keyDetails": [
+        "Curiosity is the brainiest Mars rover ever — a science lab on wheels",
+        "It has 3-D cameras so scientists can view the landscape as if walking on Mars",
+        "A rock-blasting laser and drill analyze the makeup of rocks and soil",
+        "The rover looks for elements like carbon, hydrogen, nitrogen, and oxygen"
+      ],
+      "distractors": [
+        "The Sky Crane landing method was tried for the first time",
+        "Deep Space Network dishes are located in three countries"
+      ],
+      "transitionWords": [
+        "If there is life",
+        "On August 5, 2012",
+        "Once the laser zaps",
+        "What exactly"
+      ]
+    },
+    {
+      "section": "driving",
+      "sectionTitle": "Driving Curiosity in Gale Crater",
+      "mainIdea": "Matt Heverly drives Curiosity only within Gale Crater because scientists believe the crater was once flooded with water and may hold evidence of past life.",
+      "keyDetails": [
+        "Gale Crater was created by a meteor about three billion years ago",
+        "The crater is packed with clays and sulfates — minerals that are byproducts of water",
+        "Heverly uses special 3-D glasses and a computer program to simulate the route",
+        "Curiosity crawled only thirty feet a day when it first landed"
+      ],
+      "distractors": [
+        "Curiosity beamed its first images back to Earth after landing",
+        "Signals are relayed through three satellites orbiting Mars"
+      ],
+      "transitionWords": [
+        "Yet",
+        "Scientists think",
+        "That's because",
+        "As a result",
+        "Once in the driver's seat"
+      ]
+    }
+  ],
+  "notes": {
+    "landing": [
+      {
+        "type": "vocab",
+        "title": "Evidence",
+        "content": "Evidence = proof that supports a claim or theory. Curiosity's whole mission is to look for EVIDENCE of life on Mars!"
+      },
+      {
+        "type": "evidence",
+        "title": "Cause & Effect",
+        "content": "Cause: Thin Martian atmosphere creates drag. Effect: Curiosity slows from 13,000 mph to 1,000 mph. But that's still too fast!"
+      },
+      {
+        "type": "evidence",
+        "title": "7 Minutes of Terror",
+        "content": "Entry → parachute → Sky Crane → touchdown. Each step had to work perfectly. Scientists couldn't control it — they just had to wait and watch!"
+      }
+    ],
+    "searchingET": [
+      {
+        "type": "vocab",
+        "title": "Extraterrestrial",
+        "content": "Extra = outside, terrestrial = Earth. Extraterrestrial = from OUTSIDE Earth! Scientists search for tiny life-forms, NOT little green men."
+      },
+      {
+        "type": "evidence",
+        "title": "Earth vs. Mars",
+        "content": "Same: age, seasons, volcanoes, mountains, valleys. Different: Earth has LIFE. Mars has NOT been found to have life — YET."
+      },
+      {
+        "type": "evidence",
+        "title": "Rover Timeline",
+        "content": "1997: Sojourner → 2004: Spirit & Opportunity → 2012: Curiosity. Each rover was bigger and more complex than the last!"
+      }
+    ],
+    "mobileLab": [
+      {
+        "type": "vocab",
+        "title": "Elements",
+        "content": "Elements = building blocks of matter. Carbon, hydrogen, nitrogen, oxygen — these are the elements needed for LIFE!"
+      },
+      {
+        "type": "vocab",
+        "title": "Laser",
+        "content": "Curiosity's laser ZAPS rocks → instruments examine the gases → determines what minerals and chemicals the rock contains."
+      },
+      {
+        "type": "evidence",
+        "title": "Main Idea & Details",
+        "content": "Main idea: Curiosity is a science lab on wheels. Details: 3-D cameras, rock-blasting laser, drill, soil scoop — all looking for building blocks of life!"
+      }
+    ],
+    "driving": [
+      {
+        "type": "vocab",
+        "title": "Microbes",
+        "content": "Micro = tiny, be = life. Microbes = microscopic organisms! Curiosity looks for these tiny life-forms in Gale Crater's soil."
+      },
+      {
+        "type": "evidence",
+        "title": "Why Gale Crater?",
+        "content": "Cause: Gale Crater was once flooded with water. Effect: It's packed with clays and sulfates (byproducts of water). So life might be hiding there!"
+      },
+      {
+        "type": "evidence",
+        "title": "Driving is Hard!",
+        "content": "Matt Heverly must: 1) Meet with scientists, 2) Wear special 3-D glasses, 3) Use a computer to simulate the route, 4) Enter hundreds of commands. One bad turn = doom!"
+      }
+    ],
+    "listening": [
+      {
+        "type": "vocab",
+        "title": "Relay & Satellites",
+        "content": "Relay = pass along. Satellites = objects orbiting Mars. Curiosity relays signals through 3 satellites → giant antenna dishes on Earth."
+      },
+      {
+        "type": "evidence",
+        "title": "Deep Space Network",
+        "content": "3 giant antenna dish locations: Madrid (Spain), Canberra (Australia), Mojave Desert (California). They're spread around the world so Mars is always in range!"
+      }
+    ]
+  }
+}
