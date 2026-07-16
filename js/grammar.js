@@ -506,3 +506,4 @@ const GrammarModule = (() => {
 
   return { render, getStarCount, highlightGrammarInText, setupGrammarTooltips };
 })();
+window.GrammarModule = GrammarModule;
