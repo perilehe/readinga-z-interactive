@@ -1905,3 +1905,73 @@ body {
     padding: 8px 14px;
   }
 }
+
+/* ===== New Grammar Exercise Types ===== */
+
+/* Linking Verb blank */
+.ex-lv-blank {
+  display: inline-block;
+  min-width: 60px;
+  padding: 2px 8px;
+  border-bottom: 2px solid #999;
+  font-weight: 600;
+  color: var(--primary);
+  text-align: center;
+}
+.ex-lv-blank.correct {
+  border-bottom-color: #4caf50;
+  color: #2e7d32;
+}
+.ex-lv-blank.incorrect {
+  border-bottom-color: #f44336;
+  color: #c62828;
+}
+
+/* Multiple Meaning sentence blocks */
+.ex-mm-sentence {
+  background: #f9f9ff;
+  border-left: 3px solid var(--primary);
+  padding: 12px 16px;
+  margin-bottom: 12px;
+  border-radius: 0 8px 8px 0;
+}
+.ex-mm-sentence .ex-options {
+  flex-wrap: wrap;
+}
+.ex-mm-sentence .ex-opt-btn {
+  font-size: 0.9em;
+}
+
+/* Compound sentence conjunction section */
+.ex-cs-conj {
+  margin-top: 15px;
+  padding: 12px;
+  background: #fff8e1;
+  border-radius: 8px;
+  border: 1px dashed #ffb74d;
+}
+.ex-cs-conj .ex-options {
+  flex-wrap: wrap;
+}
+
+/* Subject S/P buttons inline */
+.ex-lv-subject {
+  margin-top: 15px;
+  padding: 12px;
+  background: #e8f5e9;
+  border-radius: 8px;
+  border: 1px dashed #81c784;
+}
+.ex-lv-subject .ex-options {
+  gap: 8px;
+}
+
+/* Suffix exercise hint */
+.ex-hint {
+  background: #fff3e0;
+  padding: 8px 12px;
+  border-radius: 6px;
+  color: #e65100;
+  font-size: 0.9em;
+  margin: 8px 0;
+}

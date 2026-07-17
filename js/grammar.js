@@ -5,6 +5,23 @@
  */
 const GrammarModule = (() => {
 
+  function grammarEmoji(target) {
+    const map = {
+      'adverbs': '🔵',
+      'adjectives': '🟢',
+      'prepositions': '📍',
+      'prepositional-phrases': '📍',
+      'commas-in-a-series': '📝',
+      'compound-sentences': '🔗',
+      'linking-verbs': '🔗',
+      'multiple-meaning': '💡',
+      'root-words': '🌱',
+      'suffix': '🔧',
+      'synonyms-antonyms': '🔄'
+    };
+    return map[target] || '🎨';
+  }
+
   function render(container) {
     const grammar = bookData.grammar;
     if (!grammar) {
@@ -20,7 +37,7 @@ const GrammarModule = (() => {
     const header = document.createElement('div');
     header.className = 'grammar-header';
     header.innerHTML = `
-      <h2>${grammar.target === 'adverbs' ? '🔵' : grammar.target === 'adjectives' ? '🟢' : '🎨'} ${grammar.title}</h2>
+      <h2>${grammarEmoji(grammar.target)} ${grammar.title}</h2>
       <p class="grammar-explanation">${grammar.explanation}</p>
     `;
     wrap.appendChild(header);
@@ -148,6 +165,16 @@ const GrammarModule = (() => {
           card.innerHTML = renderFillExercise(ex, idx);
         } else if (ex.type === 'homophone') {
           card.innerHTML = renderHomophoneExercise(ex, idx);
+        } else if (ex.type === 'compoundSentence') {
+          card.innerHTML = renderCompoundSentenceExercise(ex, idx);
+        } else if (ex.type === 'multipleMeaning') {
+          card.innerHTML = renderMultipleMeaningExercise(ex, idx);
+        } else if (ex.type === 'rootWord') {
+          card.innerHTML = renderRootWordExercise(ex, idx);
+        } else if (ex.type === 'linkingVerb') {
+          card.innerHTML = renderLinkingVerbExercise(ex, idx);
+        } else if (ex.type === 'suffix') {
+          card.innerHTML = renderSuffixExercise(ex, idx);
         }
 
         exSection.appendChild(card);
@@ -216,6 +243,99 @@ const GrammarModule = (() => {
       <div class="ex-feedback" id="ex-fb-${idx}">
         ${ex.explanation ? `<div class="ex-explanation" style="display:none;">${ex.explanation}</div>` : ''}
       </div>
+    `;
+  }
+
+  // ===== NEW EXERCISE TYPE: Compound Sentence (C/NC + conjunction) =====
+  function renderCompoundSentenceExercise(ex, idx) {
+    const conjOptions = ['and', 'but', 'for', 'or', 'nor', 'so', 'yet'];
+    return `
+      <div class="ex-type-badge">🔗 Compound Sentence</div>
+      <p class="ex-sentence">"${ex.sentence}"</p>
+      <p class="ex-question">Is this a compound sentence?</p>
+      <div class="ex-options ex-cs-yn" id="ex-cs-yn-${idx}">
+        <button class="ex-opt-btn ex-cs-btn" data-answer="C" data-idx="${idx}">C — Compound</button>
+        <button class="ex-opt-btn ex-cs-btn" data-answer="NC" data-idx="${idx}">NC — Not Compound</button>
+      </div>
+      <div class="ex-cs-conj" id="ex-cs-conj-${idx}" style="display:none;">
+        <p class="ex-question">Circle the conjunction that joins the two parts:</p>
+        <div class="ex-options" id="ex-cs-opts-${idx}">
+          ${conjOptions.map(c => `<button class="ex-opt-btn ex-conj-btn" data-conj="${c}" data-idx="${idx}">${c}</button>`).join('')}
+        </div>
+      </div>
+      <div class="ex-feedback" id="ex-fb-${idx}">
+        ${ex.explanation ? `<div class="ex-explanation" style="display:none;">${ex.explanation}</div>` : ''}
+      </div>
+    `;
+  }
+
+  // ===== NEW EXERCISE TYPE: Multiple-Meaning Word =====
+  function renderMultipleMeaningExercise(ex, idx) {
+    let sentencesHtml = ex.sentences.map((s, si) => `
+      <div class="ex-mm-sentence" id="ex-mm-s-${idx}-${si}">
+        <p class="ex-sentence">"${s.sentence}"</p>
+        <p class="ex-question">What does "<strong>${ex.word}</strong>" mean in this sentence?</p>
+        <div class="ex-options">
+          ${s.options.map((opt, oi) => `<button class="ex-opt-btn ex-mm-btn" data-correct="${oi === s.correctIdx}" data-idx="${idx}" data-sidx="${si}">${opt}</button>`).join('')}
+        </div>
+        <div class="ex-feedback ex-mm-fb" id="ex-mm-fb-${idx}-${si}"></div>
+      </div>
+    `).join('');
+    return `
+      <div class="ex-type-badge">💡 Multiple-Meaning Word: "${ex.word}"</div>
+      <p class="ex-question">Each sentence uses "<strong>${ex.word}</strong>" with a different meaning. Pick the correct meaning for each.</p>
+      ${sentencesHtml}
+    `;
+  }
+
+  // ===== NEW EXERCISE TYPE: Root Word =====
+  function renderRootWordExercise(ex, idx) {
+    return `
+      <div class="ex-type-badge">🌱 Root Word</div>
+      <p class="ex-question">What is the root word of "<strong>${ex.word}</strong>"?</p>
+      <div class="ex-options" id="ex-opts-${idx}">
+        ${ex.options.map((opt, i) => `<button class="ex-opt-btn" data-correct="${opt === ex.root}" data-idx="${idx}">${opt}</button>`).join('')}
+      </div>
+      <div class="ex-feedback" id="ex-fb-${idx}">
+        ${ex.explanation ? `<div class="ex-explanation" style="display:none;">${ex.explanation}</div>` : ''}
+      </div>
+    `;
+  }
+
+  // ===== NEW EXERCISE TYPE: Linking Verb (choose verb + mark subject S/P) =====
+  function renderLinkingVerbExercise(ex, idx) {
+    const displaySentence = ex.sentence.replace(/\([^)]+\)/, '<span class="ex-lv-blank" id="ex-lv-blank-' + idx + '">______</span>');
+    return `
+      <div class="ex-type-badge">🔗 Linking Verb</div>
+      <p class="ex-sentence">${displaySentence}</p>
+      <p class="ex-question">Choose the correct linking verb:</p>
+      <div class="ex-options" id="ex-opts-${idx}">
+        ${ex.options.map((opt, i) => `<button class="ex-opt-btn ex-lv-btn" data-correct="${opt === ex.correctVerb}" data-verb="${opt}" data-idx="${idx}">${opt}</button>`).join('')}
+      </div>
+      <div class="ex-lv-subject" id="ex-lv-subj-${idx}" style="display:none;">
+        <p class="ex-question">Is the subject "<em>${ex.subject}</em>" singular (S) or plural (P)?</p>
+        <div class="ex-options">
+          <button class="ex-opt-btn ex-sp-btn" data-correct="${ex.number === 'singular'}" data-idx="${idx}">S — Singular</button>
+          <button class="ex-opt-btn ex-sp-btn" data-correct="${ex.number === 'plural'}" data-idx="${idx}">P — Plural</button>
+        </div>
+      </div>
+      <div class="ex-feedback" id="ex-fb-${idx}">
+        ${ex.explanation ? `<div class="ex-explanation" style="display:none;">${ex.explanation}</div>` : ''}
+      </div>
+    `;
+  }
+
+  // ===== NEW EXERCISE TYPE: Suffix (add suffix to root word) =====
+  function renderSuffixExercise(ex, idx) {
+    return `
+      <div class="ex-type-badge">🔧 Add the Suffix</div>
+      <p class="ex-question">Add the suffix <strong>${ex.suffix}</strong> to the root word "<strong>${ex.root}</strong>" to make a new word.</p>
+      ${ex.hint ? `<p class="ex-hint">💡 ${ex.hint}</p>` : ''}
+      <div class="ex-fill-row">
+        <input type="text" class="ex-fill-input" id="ex-input-${idx}" data-answer="${ex.answer}" data-idx="${idx}" placeholder="Type the new word..." autocomplete="off" />
+        <button class="btn btn-primary ex-check-btn" data-idx="${idx}">Check</button>
+      </div>
+      <div class="ex-feedback" id="ex-fb-${idx}"></div>
     `;
   }
 
@@ -388,6 +508,181 @@ const GrammarModule = (() => {
           const idx = this.dataset.idx;
           document.querySelector(`.ex-check-btn[data-idx="${idx}"]`)?.click();
         }
+      });
+    });
+
+    // ===== Compound Sentence: C/NC → then conjunction =====
+    document.querySelectorAll('.ex-cs-btn').forEach(btn => {
+      btn.addEventListener('click', function() {
+        const idx = this.dataset.idx;
+        const chosen = this.dataset.answer;
+        const exercise = grammar.exercises[parseInt(idx)];
+        const conjSection = document.getElementById(`ex-cs-conj-${idx}`);
+        const fb = document.getElementById(`ex-fb-${idx}`);
+
+        // Disable Y/N buttons
+        this.parentElement.querySelectorAll('.ex-cs-btn').forEach(b => b.disabled = true);
+
+        const correctYNDict = { true: 'C', false: 'NC' };
+        const correctYN = correctYNDict[exercise.isCompound];
+
+        if (chosen === correctYN) {
+          this.classList.add('correct');
+          if (exercise.isCompound) {
+            // Show conjunction selector
+            conjSection.style.display = 'block';
+          } else {
+            fb.innerHTML = `✓ Correct! This is NOT a compound sentence. ${exercise.explanation || ''}`;
+            fb.className = 'ex-feedback correct show';
+            earnGrammarStar(`ex-${idx}`);
+            const explEl = fb.querySelector('.ex-explanation');
+            if (explEl) explEl.style.display = 'block';
+          }
+        } else {
+          this.classList.add('incorrect');
+          this.parentElement.querySelectorAll('.ex-cs-btn').forEach(b => {
+            if (b.dataset.answer === correctYN) b.classList.add('correct');
+          });
+          fb.innerHTML = `✗ This is ${exercise.isCompound ? '' : 'NOT '}a compound sentence. ${exercise.explanation || ''}`;
+          fb.className = 'ex-feedback incorrect show';
+          const explEl = fb.querySelector('.ex-explanation');
+          if (explEl) explEl.style.display = 'block';
+        }
+      });
+    });
+
+    // Conjunction buttons for compound sentences
+    document.querySelectorAll('.ex-conj-btn').forEach(btn => {
+      btn.addEventListener('click', function() {
+        const idx = this.dataset.idx;
+        const chosen = this.dataset.conj;
+        const exercise = grammar.exercises[parseInt(idx)];
+        const fb = document.getElementById(`ex-fb-${idx}`);
+
+        this.parentElement.querySelectorAll('.ex-conj-btn').forEach(b => {
+          b.disabled = true;
+          if (b.dataset.conj === exercise.conjunction) b.classList.add('correct');
+        });
+
+        if (chosen === exercise.conjunction) {
+          this.classList.add('correct');
+          fb.innerHTML = `✓ Correct! The conjunction is "<strong>${exercise.conjunction}</strong>". ${exercise.explanation || ''}`;
+          fb.className = 'ex-feedback correct show';
+          earnGrammarStar(`ex-${idx}`);
+        } else {
+          this.classList.add('incorrect');
+          fb.innerHTML = `✗ The conjunction is "<strong>${exercise.conjunction}</strong>". ${exercise.explanation || ''}`;
+          fb.className = 'ex-feedback incorrect show';
+        }
+        const explEl = fb.querySelector('.ex-explanation');
+        if (explEl) explEl.style.display = 'block';
+      });
+    });
+
+    // ===== Multiple-Meaning buttons =====
+    document.querySelectorAll('.ex-mm-btn').forEach(btn => {
+      btn.addEventListener('click', function() {
+        const idx = this.dataset.idx;
+        const sidx = this.dataset.sidx;
+        const isCorrect = this.dataset.correct === 'true';
+        const fb = document.getElementById(`ex-mm-fb-${idx}-${sidx}`);
+        const sentenceDiv = document.getElementById(`ex-mm-s-${idx}-${sidx}`);
+        const exercise = grammar.exercises[parseInt(idx)];
+        const sentenceData = exercise.sentences[parseInt(sidx)];
+
+        // Disable all options in this sentence group
+        sentenceDiv.querySelectorAll('.ex-mm-btn').forEach(b => {
+          b.disabled = true;
+          if (b.dataset.correct === 'true') b.classList.add('correct');
+        });
+
+        if (isCorrect) {
+          this.classList.add('correct');
+          fb.innerHTML = `✓ Correct! "${exercise.word}" here means: <strong>${sentenceData.correctMeaning}</strong>`;
+          fb.className = 'ex-feedback correct show';
+          // Only award star after BOTH sentences are correct
+          const otherSidx = sidx === '0' ? '1' : '0';
+          const otherFb = document.getElementById(`ex-mm-fb-${idx}-${otherSidx}`);
+          if (otherFb && otherFb.classList.contains('correct')) {
+            earnGrammarStar(`ex-${idx}`);
+          }
+        } else {
+          this.classList.add('incorrect');
+          fb.innerHTML = `✗ The correct meaning is: <strong>${sentenceData.correctMeaning}</strong>`;
+          fb.className = 'ex-feedback incorrect show';
+        }
+      });
+    });
+
+    // ===== Root Word buttons =====
+    document.querySelectorAll('.ex-opt-btn').forEach(btn => {
+      // Skip if already bound (check for data-bound flag)
+      if (btn.dataset.bound) return;
+      // Check if this is inside a rootWord exercise
+      const card = btn.closest('.ex-card');
+      if (!card) return;
+      const badge = card.querySelector('.ex-type-badge');
+      if (!badge || !badge.textContent.includes('Root Word')) return;
+      // Already handled by MC binding above, but ensure it doesn't double-bind
+    });
+
+    // ===== Linking Verb: verb button → then S/P =====
+    document.querySelectorAll('.ex-lv-btn').forEach(btn => {
+      btn.addEventListener('click', function() {
+        const idx = this.dataset.idx;
+        const verb = this.dataset.verb;
+        const isCorrect = this.dataset.correct === 'true';
+        const exercise = grammar.exercises[parseInt(idx)];
+        const blank = document.getElementById(`ex-lv-blank-${idx}`);
+        const subjSection = document.getElementById(`ex-lv-subj-${idx}`);
+        const fb = document.getElementById(`ex-fb-${idx}`);
+
+        // Disable all verb buttons
+        this.parentElement.querySelectorAll('.ex-lv-btn').forEach(b => {
+          b.disabled = true;
+          if (b.dataset.verb === exercise.correctVerb) b.classList.add('correct');
+        });
+
+        if (isCorrect) {
+          this.classList.add('correct');
+          blank.textContent = verb;
+          blank.classList.add('correct');
+          // Show S/P selector
+          subjSection.style.display = 'block';
+        } else {
+          this.classList.add('incorrect');
+          blank.textContent = exercise.correctVerb;
+          blank.classList.add('incorrect');
+          fb.innerHTML = `✗ The correct verb is "<strong>${exercise.correctVerb}</strong>". ${exercise.explanation || ''}`;
+          fb.className = 'ex-feedback incorrect show';
+          const explEl = fb.querySelector('.ex-explanation');
+          if (explEl) explEl.style.display = 'block';
+        }
+      });
+    });
+
+    // S/P buttons for linking verb
+    document.querySelectorAll('.ex-sp-btn').forEach(btn => {
+      btn.addEventListener('click', function() {
+        const idx = this.dataset.idx;
+        const isCorrect = this.dataset.correct === 'true';
+        const exercise = grammar.exercises[parseInt(idx)];
+        const fb = document.getElementById(`ex-fb-${idx}`);
+
+        this.parentElement.querySelectorAll('.ex-sp-btn').forEach(b => b.disabled = true);
+
+        if (isCorrect) {
+          this.classList.add('correct');
+          fb.innerHTML = `✓ Correct! Subject "<em>${exercise.subject}</em>" is ${exercise.number}. ${exercise.explanation || ''}`;
+          fb.className = 'ex-feedback correct show';
+          earnGrammarStar(`ex-${idx}`);
+        } else {
+          this.classList.add('incorrect');
+          fb.innerHTML = `✗ Subject "<em>${exercise.subject}</em>" is ${exercise.number}. ${exercise.explanation || ''}`;
+          fb.className = 'ex-feedback incorrect show';
+        }
+        const explEl = fb.querySelector('.ex-explanation');
+        if (explEl) explEl.style.display = 'block';
       });
     });
   }
