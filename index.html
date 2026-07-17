@@ -87,6 +87,25 @@
       font-size: 0.8em;
       font-weight: 600;
     }
+    .book-num {
+      display: inline-block;
+      background: #667eea;
+      color: white;
+      padding: 2px 8px;
+      border-radius: 8px;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      font-size: 0.7em;
+      font-weight: 700;
+      margin-bottom: 6px;
+      letter-spacing: 0.5px;
+    }
+    .book-card-stars {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      font-size: 0.78em;
+      color: #999;
+      margin-top: 8px;
+    }
+    .book-card-stars .earned { color: #667eea; font-weight: 600; }
     .empty-state {
       text-align: center;
       padding: 60px 20px;
@@ -101,6 +120,27 @@
       right: 20px;
       display: flex;
       gap: 8px;
+    }
+
+    .catalog-link {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      padding: 8px 14px;
+      background: rgba(255,255,255,0.2);
+      border: 1px solid rgba(255,255,255,0.3);
+      border-radius: 20px;
+      color: white;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      font-size: 0.85em;
+      text-decoration: none;
+      transition: all 0.2s;
+      backdrop-filter: blur(5px);
+    }
+
+    .catalog-link:hover {
+      background: rgba(255,255,255,0.35);
+      transform: translateY(-1px);
     }
 
     .progress-btn {
@@ -146,6 +186,12 @@
   <div class="header">
     <h1>📚 Reading A-Z Interactive Bookshelf</h1>
     <p>Interactive reading activities for leveled books</p>
+    <div id="progress-controls">
+      <a href="catalog.html" class="catalog-link">
+        <span class="btn-icon">📋</span>
+        <span class="btn-label">Catalog</span>
+      </a>
+    </div>
   </div>
 
   <div class="bookshelf" id="bookshelf">
@@ -159,73 +205,97 @@
         id: 'a-new-skyline',
         title: 'A New Skyline',
         author: 'Susan Lennox',
-        level: 'W'
+        level: 'W',
+        num: 'W01',
+        date: '2025-01-01'
       },
       {
         id: 'ancient-greek-gods',
         title: 'Ancient Greek and Roman Gods',
         author: 'Cheryl Reifsnyder',
-        level: 'W'
+        level: 'W',
+        num: 'W02',
+        date: '2025-01-02'
       },
       {
         id: 'ancient-mesopotamia',
         title: 'Ancient Mesopotamia',
         author: 'Susan Lennox',
-        level: 'W'
+        level: 'W',
+        num: 'W03',
+        date: '2025-01-03'
       },
       {
         id: 'color-blindness',
         title: 'Color Blindness',
         author: 'Cheryl Reifsnyder',
-        level: 'W'
+        level: 'W',
+        num: 'W04',
+        date: '2025-01-04'
       },
       {
         id: 'climbing-mountains',
         title: 'Climbing Mountains: An Interview with Erik Weihenmayer',
         author: 'Kathie Lester',
-        level: 'W'
+        level: 'W',
+        num: 'W05',
+        date: '2025-01-05'
       },
       {
         id: 'atlantic-crossing',
         title: 'Atlantic Crossing',
         author: 'Troy Wolff',
-        level: 'W'
+        level: 'W',
+        num: 'W06',
+        date: '2025-01-06'
       },
       {
         id: 'hurricanes',
         title: 'Hurricanes',
         author: 'Shaun Taylor',
-        level: 'W'
+        level: 'W',
+        num: 'W07',
+        date: '2025-06-20'
       },
       {
         id: 'mummies',
         title: 'Mummies',
         author: 'Lisa Ing',
-        level: 'W'
+        level: 'W',
+        num: 'W08',
+        date: '2025-06-25'
       },
       {
         id: 'nobel-prize',
         title: 'The Nobel Prize',
         author: 'Evan Russell',
-        level: 'W'
+        level: 'W',
+        num: 'W09',
+        date: '2025-07-01'
       },
       {
         id: 'curiosity-on-mars',
         title: 'Curiosity on Mars',
         author: 'John Perritano',
-        level: 'W'
+        level: 'W',
+        num: 'W10',
+        date: '2025-07-15'
       },
       {
         id: 'desert-people',
         title: 'Desert People',
         author: 'David Meissner',
-        level: 'W'
+        level: 'W',
+        num: 'W11',
+        date: '2025-07-15'
       },
       {
         id: 'earthquakes-volcanoes-tsunamis',
         title: 'Earthquakes, Volcanoes, and Tsunamis',
         author: 'Elizabeth Austin',
-        level: 'W'
+        level: 'W',
+        num: 'W12',
+        date: '2025-07-15'
       }
     ];
 
@@ -238,16 +308,28 @@
         const card = document.createElement('a');
         card.className = 'book-card';
         card.href = `reader.html?book=${book.id}`;
+        const earned = getEarnedStars(book.id);
         card.innerHTML = `
           <div class="book-cover">${book.title}</div>
           <div class="book-info">
+            <span class="book-num">${book.num}</span>
             <h3>${book.title}</h3>
             <div class="author">by ${book.author}</div>
             <span class="level">Level ${book.level}</span>
+            <div class="book-card-stars">⭐ <span class="earned">${earned}</span> earned</div>
           </div>
         `;
         shelf.appendChild(card);
       });
+    }
+
+    function getEarnedStars(bookId) {
+      var saved = localStorage.getItem('stars_' + bookId);
+      if (!saved) return 0;
+      try {
+        var stars = JSON.parse(saved);
+        return Object.values(stars).filter(function(v) { return v; }).length;
+      } catch (e) { return 0; }
     }
   </script>
   <script src="js/progress-io.js?v=9"></script>

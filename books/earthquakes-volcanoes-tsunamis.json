@@ -7,9 +7,9 @@
     "focusQuestion": "What causes earthquakes, volcanoes, and tsunamis, and how do they affect the world?"
   },
   "activities": [
+    "kwls",
     "read",
     "evidence",
-    "kwls",
     "vocabulary",
     "typing",
     "grammar"
