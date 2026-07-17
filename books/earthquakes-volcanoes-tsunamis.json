@@ -11,7 +11,8 @@
     "evidence",
     "kwls",
     "vocabulary",
-    "typing"
+    "typing",
+    "grammar"
   ],
   "sections": [
     {
@@ -531,6 +532,156 @@
         "type": "evidence",
         "title": "Main Idea",
         "content": "Our quiet planet occasionally turns violent. But as scientists learn more → better predictions → save thousands of lives!"
+      }
+    ]
+  },
+  "grammar": {
+    "target": "commas-in-a-series",
+    "title": "Commas in a Series & Compound Words",
+    "explanation": "When you list three or more things, use commas to separate them. Without commas, the sentence is hard to read! Example: \"gas, ash, and rock\" — the commas show these are three separate things.",
+    "rules": [
+      "When listing 3+ items, put a comma between each item: A, B, and C",
+      "The comma before \"and\" (the Oxford comma) helps avoid confusion",
+      "Without commas: \"Hot poisonous gas ash and melted rock\" — this sounds like one giant thing!",
+      "With commas: \"Hot, poisonous gas, ash, and melted rock\" — now we see these are separate items",
+      "Compound words: two words joined to make a new word (land + slide = landslide)"
+    ],
+    "wordBuilding": [
+      {
+        "base": "gas ash and rock",
+        "answer": "gas, ash, and rock"
+      },
+      {
+        "base": "buildings crumble bridges collapse and cracks open",
+        "answer": "buildings crumble, bridges collapse, and cracks open"
+      },
+      {
+        "base": "soil rock and water",
+        "answer": "soil, rock, and water"
+      },
+      {
+        "base": "food water and home construction",
+        "answer": "food, water, and home construction"
+      },
+      {
+        "base": "homes bridges railroads and highways",
+        "answer": "homes, bridges, railroads, and highways"
+      },
+      {
+        "base": "earth + quake",
+        "answer": "earthquake"
+      },
+      {
+        "base": "land + slide",
+        "answer": "landslide"
+      },
+      {
+        "base": "mud + slide",
+        "answer": "mudslide"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "identify",
+        "sentence": "But sometimes the shaking is so strong that buildings crumble, bridges collapse, and large cracks open in the ground.",
+        "answers": [
+          "buildings crumble",
+          "bridges collapse",
+          "large cracks open in the ground"
+        ],
+        "hint": "Find the 3 things that happen during a strong earthquake. Where are the commas?"
+      },
+      {
+        "type": "identify",
+        "sentence": "Hot, poisonous gas, ash, and melted rock shoot into the sky.",
+        "answers": [
+          "Hot, poisonous gas",
+          "ash",
+          "melted rock"
+        ],
+        "hint": "What 3 things shoot into the sky during a volcanic eruption?"
+      },
+      {
+        "type": "multipleChoice",
+        "question": "Which sentence uses commas correctly in a series?",
+        "options": [
+          "The book covers earthquakes volcanoes and tsunamis.",
+          "The book covers earthquakes, volcanoes, and tsunamis.",
+          "The book covers, earthquakes volcanoes and, tsunamis.",
+          "The book covers earthquakes and volcanoes, and tsunamis."
+        ],
+        "answer": 1,
+        "explanation": "When listing 3+ items, put a comma between each: \"earthquakes, volcanoes, and tsunamis\"."
+      },
+      {
+        "type": "multipleChoice",
+        "question": "Where should commas be added? \"Scientists measured temperature moisture wind speed and direction.\"",
+        "options": [
+          "Scientists measured, temperature moisture, wind speed and direction.",
+          "Scientists measured temperature, moisture, wind speed, and direction.",
+          "Scientists, measured temperature moisture wind, speed and direction.",
+          "No commas needed."
+        ],
+        "answer": 1,
+        "explanation": "The list has 4 items: temperature, moisture, wind speed, and direction. Add commas between each."
+      },
+      {
+        "type": "fillBlank",
+        "sentence": "Add commas: \"They also destroyed homes bridges railroads and highways.\"",
+        "options": [
+          "They also destroyed homes, bridges, railroads, and highways.",
+          "They also destroyed homes bridges, railroads and highways.",
+          "They also, destroyed homes bridges railroads, and highways.",
+          "They also destroyed, homes, bridges railroads and highways."
+        ],
+        "answer": 0,
+        "explanation": "List of 4 things destroyed: homes, bridges, railroads, and highways — comma between each."
+      },
+      {
+        "type": "fillBlank",
+        "sentence": "Add commas: \"Beneath the soil rock and water on the surface of our planet, the Earth is constantly changing.\"",
+        "options": [
+          "Beneath the soil, rock, and water on the surface of our planet, the Earth is constantly changing.",
+          "Beneath the soil rock, and water on the surface, of our planet the Earth is constantly changing.",
+          "Beneath, the soil rock and water, on the surface of our planet, the Earth is constantly changing.",
+          "Beneath the soil rock and water, on the surface of our planet the Earth, is constantly changing."
+        ],
+        "answer": 0,
+        "explanation": "\"Soil, rock, and water\" is a list of 3 things — comma between each."
+      },
+      {
+        "type": "compoundWord",
+        "word": "earthquake",
+        "prompt": "What two words make up \"earthquake\"?",
+        "answer": "earth + quake",
+        "explanation": "Earth (ground) + quake (shake) = earthquake (ground shaking)!"
+      },
+      {
+        "type": "compoundWord",
+        "word": "landslide",
+        "prompt": "What two words make up \"landslide\"?",
+        "answer": "land + slide",
+        "explanation": "Land (ground/earth) + slide (slip down) = landslide (mass of rock sliding down a mountain)!"
+      },
+      {
+        "type": "compoundWord",
+        "word": "mudslide",
+        "prompt": "What two words make up \"mudslide\"?",
+        "answer": "mud + slide",
+        "explanation": "Mud (wet dirt) + slide (flow down) = mudslide (a dirt-filled flood flowing down a mountain)!"
+      },
+      {
+        "type": "compoundWord",
+        "word": "seismograph",
+        "prompt": "Is \"seismograph\" a compound word?",
+        "options": [
+          "Yes — it is made of two common English words",
+          "No — it comes from Greek words (seismo = earthquake, graph = write)",
+          "Yes — it is made of \"sea\" and \"graph\"",
+          "No — it is just one word with no parts"
+        ],
+        "answer": 1,
+        "explanation": "\"Seismograph\" comes from Greek: seismo (earthquake) + graph (to write/record). It is NOT a compound of two English words."
       }
     ]
   }

@@ -11,7 +11,8 @@
     "evidence",
     "summarize",
     "vocabulary",
-    "typing"
+    "typing",
+    "grammar"
   ],
   "sections": [
     {
@@ -636,6 +637,159 @@
         "type": "evidence",
         "title": "Main Idea",
         "content": "For these people, desert life isn't just about survival — it's their WAY OF LIFE. Thousands of years of knowledge from ancestors!"
+      }
+    ]
+  },
+  "grammar": {
+    "target": "prepositions",
+    "title": "Prepositions",
+    "explanation": "Prepositions show the relationship between things. They tell WHERE, WHEN, or HOW something happens. For example: \"in the desert\" tells WHERE, \"before dawn\" tells WHEN.",
+    "rules": [
+      "Common prepositions: in, on, at, over, under, across, between, near, from, to, into, through, around, before, after, during, with, without",
+      "Prepositions show WHERE: \"in the desert\", \"on camels\", \"across northern Africa\"",
+      "Prepositions show WHEN: \"before dawn\", \"for thousands of years\", \"in late summer\"",
+      "Prepositions show HOW: \"with spears and boomerangs\", \"on all fours\""
+    ],
+    "wordBuilding": [
+      {
+        "base": "in",
+        "answer": "in the desert"
+      },
+      {
+        "base": "over",
+        "answer": "over the mountains"
+      },
+      {
+        "base": "on",
+        "answer": "on camels"
+      },
+      {
+        "base": "across",
+        "answer": "across northern Africa"
+      },
+      {
+        "base": "near",
+        "answer": "near large mountain ranges"
+      },
+      {
+        "base": "into",
+        "answer": "into mountain canyons"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "identify",
+        "sentence": "Imagine that you are standing alone in the desert before dawn.",
+        "answers": [
+          "in the desert",
+          "before dawn"
+        ],
+        "hint": "WHERE are you standing? WHEN is it?"
+      },
+      {
+        "type": "identify",
+        "sentence": "The Sun begins to rise over the mountains, which slowly change from black to lavender.",
+        "answers": [
+          "over the mountains",
+          "from black to lavender"
+        ],
+        "hint": "WHERE does the Sun rise? What colors does it change BETWEEN?"
+      },
+      {
+        "type": "identify",
+        "sentence": "Traditional Bedouin people moved from place to place on camels in search of food, water, and grazing land.",
+        "answers": [
+          "from place to place",
+          "on camels",
+          "in search of food, water, and grazing land"
+        ],
+        "hint": "WHERE did they move? HOW did they travel? WHY did they move?"
+      },
+      {
+        "type": "identify",
+        "sentence": "Young girls often hiked high up into mountain canyons to fetch water.",
+        "answers": [
+          "into mountain canyons"
+        ],
+        "hint": "WHERE did the girls hike? Find the prepositional phrase."
+      },
+      {
+        "type": "multipleChoice",
+        "question": "Which word is the preposition in this sentence?",
+        "sentence": "The vast Sahara Desert stretches across northern Africa.",
+        "options": [
+          "vast",
+          "stretches",
+          "across",
+          "northern"
+        ],
+        "answer": 2,
+        "explanation": "\"Across\" is the preposition — it shows WHERE the Sahara stretches (across northern Africa)."
+      },
+      {
+        "type": "multipleChoice",
+        "question": "What does the preposition tell us in \"lived in villages\"?",
+        "sentence": "The O'odham lived in villages and slept in round houses.",
+        "options": [
+          "WHEN they lived",
+          "WHERE they lived",
+          "HOW they lived",
+          "WHY they lived there"
+        ],
+        "answer": 1,
+        "explanation": "\"In villages\" tells us WHERE the O'odham lived — it shows location."
+      },
+      {
+        "type": "fillBlank",
+        "sentence": "The Bedouin lived in low black tents made _____ goat hair or sheep's wool.",
+        "options": [
+          "from",
+          "out of",
+          "with",
+          "by"
+        ],
+        "answer": 1,
+        "explanation": "\"Made out of\" tells us what material the tents were made from — goat hair or sheep's wool."
+      },
+      {
+        "type": "fillBlank",
+        "sentence": "For thousands of years, people have adapted _____ deserts.",
+        "options": [
+          "on",
+          "over",
+          "to",
+          "at"
+        ],
+        "answer": 2,
+        "explanation": "We say \"adapted to\" — people adjusted TO the desert conditions."
+      },
+      {
+        "type": "numberWord",
+        "display": "49° Celsius (120°F)",
+        "prompt": "How do you read this temperature aloud?",
+        "answer": "forty-nine degrees Celsius, one hundred twenty degrees Fahrenheit",
+        "explanation": "Read the number first: \"forty-nine\", then the unit: \"degrees Celsius\"."
+      },
+      {
+        "type": "numberWord",
+        "display": "30.5 centimeters (12 in)",
+        "prompt": "How do you read this measurement aloud?",
+        "answer": "thirty point five centimeters, twelve inches",
+        "explanation": "Read 30.5 as \"thirty point five\" — not \"thirty and five\"!"
+      },
+      {
+        "type": "numberWord",
+        "display": "9 million square kilometers",
+        "prompt": "How do you read this area aloud?",
+        "answer": "nine million square kilometers",
+        "explanation": "Read the number: \"nine million\", then the unit: \"square kilometers\"."
+      },
+      {
+        "type": "numberWord",
+        "display": "25 millimeters (1 in)",
+        "prompt": "How do you read this measurement aloud?",
+        "answer": "twenty-five millimeters, one inch",
+        "explanation": "Read 25 as \"twenty-five\", then the unit: \"millimeters\"."
       }
     ]
   }

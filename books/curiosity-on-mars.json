@@ -11,7 +11,8 @@
     "evidence",
     "summarize",
     "vocabulary",
-    "typing"
+    "typing",
+    "grammar"
   ],
   "sections": [
     {
@@ -625,6 +626,184 @@
         "type": "evidence",
         "title": "Deep Space Network",
         "content": "3 giant antenna dish locations: Madrid (Spain), Canberra (Australia), Mojave Desert (California). They're spread around the world so Mars is always in range!"
+      }
+    ]
+  },
+  "grammar": {
+    "target": "prepositional-phrases",
+    "title": "Prepositional Phrases",
+    "explanation": "A preposition shows the relationship between things — WHERE, WHEN, or HOW something happens. A prepositional phrase starts with a preposition and ends with a noun. Example: \"above the planet's surface\" tells us WHERE the Sky Crane is.",
+    "rules": [
+      "Common prepositions: above, beneath, on, under, through, into, over, across, near, from, to, around, between, during, with",
+      "A prepositional phrase = preposition + noun/pronoun: \"on cables\", \"through space\", \"beneath rocks\"",
+      "Prepositional phrases tell WHERE (location), WHEN (time), or HOW (manner) something happens",
+      "The same preposition can have different meanings in different contexts: \"on Mars\" (WHERE) vs. \"on August 5\" (WHEN)"
+    ],
+    "wordBuilding": [
+      {
+        "base": "above",
+        "answer": "above the planet's surface"
+      },
+      {
+        "base": "beneath",
+        "answer": "beneath rocks or buried under the soil"
+      },
+      {
+        "base": "on",
+        "answer": "on cables"
+      },
+      {
+        "base": "through",
+        "answer": "through space"
+      },
+      {
+        "base": "under",
+        "answer": "under the soil"
+      },
+      {
+        "base": "into",
+        "answer": "into the atmosphere"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "identify",
+        "sentence": "About 66 feet above the planet's surface, the Sky Crane gently lowers Curiosity to the ground on cables.",
+        "answers": [
+          "above the planet's surface",
+          "to the ground",
+          "on cables"
+        ],
+        "hint": "Find the prepositional phrases that tell WHERE Curiosity is lowered. (There are 3!)"
+      },
+      {
+        "type": "identify",
+        "sentence": "It will search for tiny extraterrestrial life-forms hiding beneath rocks or buried under the soil.",
+        "answers": [
+          "beneath rocks",
+          "under the soil"
+        ],
+        "hint": "Where might life-forms be hiding? Find the phrases that tell WHERE."
+      },
+      {
+        "type": "identify",
+        "sentence": "Curiosity hurtles through space at 13,000 miles per hour as it breaks through the planet's atmosphere.",
+        "answers": [
+          "through space",
+          "through the planet's atmosphere",
+          "at 13,000 miles per hour"
+        ],
+        "hint": "WHERE is Curiosity hurtling? HOW FAST?"
+      },
+      {
+        "type": "identify",
+        "sentence": "Mars has fascinated people for centuries.",
+        "answers": [
+          "for centuries"
+        ],
+        "hint": "WHEN has Mars fascinated people? Find the phrase that tells HOW LONG."
+      },
+      {
+        "type": "multipleChoice",
+        "question": "Which is a prepositional phrase?",
+        "sentence": "Scientists have never before tried to land a spacecraft using this method.",
+        "options": [
+          "have never",
+          "to land a spacecraft",
+          "using this method",
+          "before tried"
+        ],
+        "answer": 1,
+        "explanation": "\"to land\" starts with the preposition \"to\" and \"a spacecraft\" is the noun — together they form a prepositional phrase."
+      },
+      {
+        "type": "multipleChoice",
+        "question": "What does the prepositional phrase \"in the control room\" tell us?",
+        "sentence": "The control room is silent.",
+        "options": [
+          "WHEN the scientists are working",
+          "WHERE the scientists are",
+          "HOW the scientists feel",
+          "WHY the room is silent"
+        ],
+        "answer": 1,
+        "explanation": "\"In the control room\" tells us WHERE — it describes the location of the scientists."
+      },
+      {
+        "type": "fillBlank",
+        "sentence": "The Sky Crane holding Curiosity _____ it fires its rocket engines.",
+        "options": [
+          "above",
+          "beneath",
+          "on",
+          "through"
+        ],
+        "answer": 1,
+        "explanation": "Curiosity is hanging BELOW the Sky Crane, so \"beneath\" is correct: \"the Sky Crane holding Curiosity beneath it\"."
+      },
+      {
+        "type": "fillBlank",
+        "sentence": "Curiosity is outfitted _____ many newly designed pieces of equipment.",
+        "options": [
+          "beneath",
+          "through",
+          "with",
+          "above"
+        ],
+        "answer": 2,
+        "explanation": "\"Outfitted with\" means \"equipped with\" — Curiosity has many new tools."
+      },
+      {
+        "type": "synonym",
+        "word": "hurtle",
+        "prompt": "Which word is closest in meaning to \"hurtle\"?",
+        "options": [
+          "float gently",
+          "rush at high speed",
+          "crash slowly",
+          "orbit quietly"
+        ],
+        "answer": 1,
+        "explanation": "\"Hurtle\" means to move at very high speed — Curiosity hurtles through space at 13,000 mph!"
+      },
+      {
+        "type": "synonym",
+        "word": "vital",
+        "prompt": "Which word is a SYNONYM of \"vital\"?",
+        "options": [
+          "optional",
+          "essential",
+          "dangerous",
+          "ancient"
+        ],
+        "answer": 1,
+        "explanation": "\"Vital\" means absolutely necessary or essential. Water is vital for life!"
+      },
+      {
+        "type": "antonym",
+        "word": "silent",
+        "prompt": "Which word is an ANTONYM (opposite) of \"silent\"?",
+        "options": [
+          "quiet",
+          "noisy",
+          "calm",
+          "still"
+        ],
+        "answer": 1,
+        "explanation": "\"Silent\" means no sound. The opposite is \"noisy\" — full of sound."
+      },
+      {
+        "type": "antonym",
+        "word": "peaceful",
+        "prompt": "Which word is an ANTONYM (opposite) of \"peaceful\"?",
+        "options": [
+          "calm",
+          "gentle",
+          "violent",
+          "quiet"
+        ],
+        "answer": 2,
+        "explanation": "\"Peaceful\" means calm and quiet. The opposite is \"violent\" — full of force and destruction."
       }
     ]
   }
