@@ -175,6 +175,8 @@ const GrammarModule = (() => {
           card.innerHTML = renderLinkingVerbExercise(ex, idx);
         } else if (ex.type === 'suffix') {
           card.innerHTML = renderSuffixExercise(ex, idx);
+        } else if (ex.type === 'parentheses') {
+          card.innerHTML = renderParenthesesExercise(ex, idx);
         }
 
         exSection.appendChild(card);
@@ -336,6 +338,21 @@ const GrammarModule = (() => {
         <button class="btn btn-primary ex-check-btn" data-idx="${idx}">Check</button>
       </div>
       <div class="ex-feedback" id="ex-fb-${idx}"></div>
+    `;
+  }
+
+  // ===== NEW EXERCISE TYPE: Parentheses =====
+  function renderParenthesesExercise(ex, idx) {
+    return `
+      <div class="ex-type-badge">（）Parentheses</div>
+      <p class="ex-sentence">${ex.sentence}</p>
+      <p class="ex-question">What are the parentheses used for in this sentence?</p>
+      <div class="ex-options" id="ex-opts-${idx}">
+        ${ex.options.map((opt, i) => `<button class="ex-opt-btn" data-correct="${i === ex.answer}" data-idx="${idx}">${opt}</button>`).join('')}
+      </div>
+      <div class="ex-feedback" id="ex-fb-${idx}">
+        ${ex.explanation ? `<div class="ex-explanation" style="display:none;">${ex.explanation}</div>` : ''}
+      </div>
     `;
   }
 
