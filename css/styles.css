@@ -1601,8 +1601,11 @@ body {
 
 .context-blank.correct-fill {
   background: var(--correct-bg);
-  border-color: var(--correct-text);
+  border: none;
+  border-bottom: 2.5px solid var(--correct-text);
   color: var(--correct-text);
+  font-weight: 700;
+  padding: 2px 8px;
 }
 
 .context-blank.wrong-fill {

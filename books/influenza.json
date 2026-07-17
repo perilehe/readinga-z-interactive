@@ -1,0 +1,786 @@
+{
+  "meta": {
+    "id": "influenza",
+    "title": "InFLUenza",
+    "level": "W",
+    "author": "Ned Jensen",
+    "focusQuestion": "What is the flu, and how can we prevent and treat it?"
+  },
+  "activities": [
+    "read",
+    "kwls",
+    "evidence",
+    "summarize",
+    "vocabulary",
+    "typing",
+    "grammar"
+  ],
+  "sections": [
+    {
+      "id": "introduction",
+      "title": "Introduction",
+      "paragraphs": [
+        "Have you ever shivered with chills or burned up with a fever? Have you ever had a sore throat, a stuffy nose, a pounding headache, and muscle aches? Have you ever felt really tired and sleepy, even though you've just woken up in the morning? If you feel symptoms such as these, flu germs may have invaded your body.",
+        "By learning about the flu—what it is, what causes it, what its symptoms are, and how to treat it—you can fight back against this illness and stay healthy."
+      ]
+    },
+    {
+      "id": "whatIs",
+      "title": "What Is the Flu?",
+      "paragraphs": [
+        "The flu is also called influenza (in-floo-EN-zah). It's caused by a virus that has the ability to quickly spread between people. A virus is a tiny microorganism—a microbe, or germ—that is invisible to the naked eye. Very simply, a virus is a little bit of genetic material surrounded by a hard protein shell that protects it. Viruses are submicroscopic—so small that scientists must use powerful microscopes to see them. Even when viewed through a microscope, a virus can only be seen after its image has been magnified to one thousand times its original size. In fact, viruses are so small that hundreds of thousands of them can live on the head of a pin.",
+        "Viruses are everywhere. Some won't bother you at all, but some can be dangerous to people and other animals. During flu season, which lasts from October to May in the northern hemisphere, viruses are particularly widespread. Like many other organisms, viruses need a particular type of home. Viruses survive by making their homes inside animals.",
+        "Viruses act like parasites in your cells. Although they can survive for long periods on their own, they must eventually find organisms to serve as hosts. Viruses use the cells of the hosts to reproduce. When a virus infects a human being, it uses its hard protein shell to make a hole in a cell, which it then invades. Once inside a cell, the virus rapidly makes copies of itself. One to four days after infection, the host may begin to feel sick.",
+        "Influenza is spread through the passing of viruses from one person to another. For this reason, it is always important to wash your hands and to cover your mouth when you cough or sneeze. If you are infected, it is important that you stay home, away from other people, so you don't spread your germs.",
+        "Different viruses cause the many different kinds of flu, but the symptoms are similar. Influenza is an infection of the respiratory tract that usually causes you to feel achy, feverish, congested, sick to your stomach, and worn down.",
+        "Influenza has three basic types: Influenza A, Influenza B, and Influenza C. Influenza A, which can cause serious illness in humans and other animals, is usually responsible for large outbreaks. Influenza B is milder, causes smaller outbreaks, and affects only humans (mostly children). Influenza C usually causes only mild illness in humans.",
+        "All types of influenza can be passed from an infected person to a healthy person through the air or on objects such as eating and drinking utensils. The flu virus is carried in saliva from an infected person's mouth and on droplets of mucus sneezed or coughed into the air."
+      ]
+    },
+    {
+      "id": "changingViruses",
+      "title": "Changing Viruses",
+      "paragraphs": [
+        "Viruses are capable of changing, or mutating, and flu viruses are among the most changeable of all viruses. Each type of virus that mutates from another virus is called a strain of that virus. Many influenza viruses start in wild animals, most often in birds. These viruses can easily mutate into strains that infect ducks and chickens on farms. Once a virus has infected birds on farms, it can further mutate into strains that infect animals such as pigs, and even humans.",
+        "The chain of animals infected varies from virus to virus. A single virus chain may include animals as different as dogs and whales. Since chickens, pigs, and humans come in close contact on farms, the spreading and mixing of viruses can have deadly consequences. Sometimes a virus takes a shortcut in the chain, such as the avian virus of 1997, which jumped directly from birds to humans.",
+        "Influenza can pose a serious threat to humans. Even if your body fights off the illness, the virus can mutate into a different strain. Then your body must start all over again, learning how to fight the new strain. Scientists always worry that the next new strain will be even more deadly than previous ones."
+      ]
+    },
+    {
+      "id": "preventing",
+      "title": "Preventing the Virus from Taking Over",
+      "paragraphs": [
+        "The human body has ways of fighting back against an invasion of flu viruses. The immune system protects against the invasion of harmful microbes by producing chemicals called antibodies, which travel in the blood and patrol the body in search of invaders. When they find an invasive microbe, antibodies attack and destroy any cells that contain the virus.",
+        "However, if the immune system of a human body invaded by a virus is already weak, viruses can gain a foothold and begin reproducing themselves faster than antibodies are able to destroy them. When this happens, the body comes down with flu symptoms that quickly get worse without medical care.",
+        "You can take some commonsense actions to prevent a flu virus from entering your body. Two of the best ways to stay healthy are by getting plenty of rest and eating well. Avoid contact with objects used by infected people for eating and drinking. To reduce your exposure to the influenza virus, wash your hands frequently and keep your fingers out of your mouth. Remember that an infected person can be contagious before showing any symptoms. The person may not know he or she has been infected and is about to get sick. Avoiding people who have flu symptoms, such as sneezing and coughing, will also help protect you from the virus.",
+        "However, even the most cautious people can become infected. Fortunately, medical scientists have found a way to keep the flu virus from taking over your body: vaccines. Vaccines are weakened or dead flu viruses that are injected into a person's body. These weakened viruses cause the body to produce antibodies that attack and destroy the weakened or dead germs. Once the body has produced antibodies to destroy the viruses in the vaccine, it is on alert and prepared to attack stronger viruses that may invade during flu season.",
+        "Each strain of a virus requires a different vaccine. Some flu vaccines contain several strains. When these strains are injected into the body, each one causes the body to produce a particular antibody to destroy it. In this way, the body is prepared to defend against many strains of viruses that doctors think might be present during flu season.",
+        "Vaccines for most viral strains have an eighty-percent prevention rate, which means that eighty percent of the time, you won't get sick from a strain you have been vaccinated against. That's pretty high, but it's not perfect, so you might still get the flu even if you've been vaccinated. But if you've had the vaccine, your symptoms will be milder—you won't ache so much, and you won't feel so hot. However, if you are infected with a strain different from those in your flu shot, you can still get very sick. Scientists must be good detectives to guess which strains to put into the flu shot each year.",
+        "Not everyone has the same risk of catching the flu, and some people get more seriously ill than others. People who are very young or very old, or who already have health conditions such as diabetes and heart disease, are at greater risk of catching the flu than others."
+      ]
+    },
+    {
+      "id": "treating",
+      "title": "Treating the Flu",
+      "paragraphs": [
+        "Preventing the flu is not always possible. However, once viruses infect your body, you can still do several things to fight back. Pharmacies offer many over-the-counter medicines that can help relieve the effects of the flu. These medicines can take away the achy feeling in your head and muscles. They can also help reduce a fever.",
+        "Drinking plenty of fluids, such as water or fruit juices, is also important when you have the flu. You should also get plenty of rest so your body can better fight the viruses that have invaded your cells."
+      ]
+    },
+    {
+      "id": "history",
+      "title": "History of the Flu",
+      "paragraphs": [
+        "Many outbreaks of influenza have occurred throughout history. Some of them have been mild and not very widespread. Other outbreaks have been severe, spreading throughout the world and killing millions of people. Once a flu virus develops and infects a few people, it can spread rapidly and become an epidemic. Flu epidemics have been recorded as far back as four hundred years ago, and each has killed thousands of people or more.",
+        "The history of any influenza outbreak begins with a single person. On March 11, 1918, a young man in the U.S. Army reported to a hospital with a fever, sore throat, and a headache. Shortly after, many other soldiers at his base developed the same symptoms. In one week, the Army hospital was treating more than five hundred sick soldiers. By the end of spring, forty-eight of those people had died. At first, no one knew why, not even the doctors and scientists. Doctors later learned that the illness was caused by a particular strain of the influenza virus.",
+        "In total, this strain of influenza, known as the Spanish flu, killed more than 600,000 Americans and 25 to 40 million people worldwide. When an outbreak reaches this size, it is known as a pandemic—a disease that spreads rapidly around the world.",
+        "But the pandemic of 1918 was not the only major influenza outbreak in history. The Asian flu, which appeared in 1957, caused about 70,000 deaths in the United States. It got its name because it first appeared in China before coming to the United States in June 1957. Another strain of flu, the Hong Kong flu, was first detected in Hong Kong, China. In 1968, this virus caused another pandemic, resulting in 34,000 deaths in just the United States—as many people as live in a small city. And in 2009, the H1N1 swine flu became the first pandemic in 41 years, infecting people in over 70 countries.",
+        "Other outbreaks have caused widespread concern without developing into pandemics. These include the Russian flu in 1977 and the avian flu in 1997 and 1999. Both of these strains of flu began in regions of China and spread to other countries. Doctors are always on the lookout for the next major outbreak. They believe that if they can detect outbreaks quickly enough, they can keep them from becoming worldwide pandemics."
+      ]
+    },
+    {
+      "id": "conclusion",
+      "title": "Conclusion",
+      "paragraphs": [
+        "Because flu viruses can change and develop into new strains, influenza may never be eradicated. When you have the flu, the most important thing to do is take care of yourself and prevent others from getting sick. Keep your germs to yourself by staying away from other people and covering your nose and mouth when you cough or sneeze. Drink water like a thirsty camel and sleep like a hibernating bear. Getting a flu vaccine each year can also help. Most importantly, remember to attack back! Good food and rest will help the healthy cells in your body win the battle."
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "germs",
+      "pos": "n.",
+      "definition": "microorganisms that often cause sickness or disease",
+      "section": "introduction",
+      "sentence": "If you feel symptoms such as these, flu germs may have invaded your body.",
+      "quiz": {
+        "prompt": "\"Germs\" are:",
+        "options": [
+          "tiny organisms that can make you sick",
+          "a type of medicine that fights infections",
+          "cells that protect your body from disease",
+          "vitamins that help you stay healthy"
+        ],
+        "answer": 0
+      },
+      "fillInOptions": [
+        "microbes",
+        "cells",
+        "nutrients"
+      ]
+    },
+    {
+      "word": "virus",
+      "pos": "n.",
+      "definition": "a tiny microorganism that infects the body and can cause disease",
+      "section": "whatIs",
+      "sentence": "The flu is caused by a virus that has the ability to quickly spread between people.",
+      "quiz": {
+        "prompt": "A \"virus\" is:",
+        "options": [
+          "a type of bacteria that helps digestion",
+          "a medicine used to treat infections",
+          "a cell that protects the immune system",
+          "a tiny microorganism that infects the body"
+        ],
+        "answer": 3
+      },
+      "fillInOptions": [
+        "pathogen",
+        "antibody",
+        "vaccine"
+      ]
+    },
+    {
+      "word": "hosts",
+      "pos": "n.",
+      "definition": "organisms in or on which another organism lives and reproduces",
+      "section": "whatIs",
+      "sentence": "Viruses must eventually find organisms to serve as hosts.",
+      "quiz": {
+        "prompt": "\"Hosts\" are organisms that:",
+        "options": [
+          "provide a home where a virus can live and reproduce",
+          "produce antibodies to destroy invading germs",
+          "kill viruses before they enter the body",
+          "carry medicines that cure viral infections"
+        ],
+        "answer": 0
+      },
+      "fillInOptions": [
+        "carriers",
+        "killers",
+        "cures"
+      ]
+    },
+    {
+      "word": "contagious",
+      "pos": "adj.",
+      "definition": "able to spread from one person to another",
+      "section": "whatIs",
+      "sentence": "Influenza is spread through the passing of viruses from one person to another, making it highly contagious.",
+      "quiz": {
+        "prompt": "\"Contagious\" means:",
+        "options": [
+          "able to spread from person to person",
+          "impossible to catch or treat",
+          "only dangerous to animals",
+          "easy to cure with vitamins"
+        ],
+        "answer": 0
+      },
+      "fillInOptions": [
+        "spreading",
+        "contained",
+        "harmless"
+      ]
+    },
+    {
+      "word": "congested",
+      "pos": "adj.",
+      "definition": "filled up or blocked, as with mucus in the nose and throat",
+      "section": "whatIs",
+      "sentence": "Influenza is an infection of the respiratory tract that usually causes you to feel achy, feverish, congested, sick to your stomach, and worn down.",
+      "quiz": {
+        "prompt": "When your nose is \"congested,\" it is:",
+        "options": [
+          "completely clear and easy to breathe through",
+          "filled up or blocked with mucus",
+          "bleeding from a nosebleed",
+          "growing stronger and healthier"
+        ],
+        "answer": 1
+      },
+      "fillInOptions": [
+        "blocked",
+        "clear",
+        "open"
+      ]
+    },
+    {
+      "word": "mutating",
+      "pos": "v.",
+      "definition": "changing into a different form or strain",
+      "section": "changingViruses",
+      "sentence": "Viruses are capable of changing, or mutating, and flu viruses are among the most changeable of all viruses.",
+      "quiz": {
+        "prompt": "\"Mutating\" means:",
+        "options": [
+          "dying off slowly",
+          "staying exactly the same",
+          "changing into a different form",
+          "moving from animal to animal"
+        ],
+        "answer": 2
+      },
+      "fillInOptions": [
+        "changing",
+        "stable",
+        "unchanging"
+      ]
+    },
+    {
+      "word": "antibodies",
+      "pos": "n.",
+      "definition": "chemicals produced by the body that attack invading germs",
+      "section": "preventing",
+      "sentence": "The immune system protects against the invasion of harmful microbes by producing chemicals called antibodies, which travel in the blood and patrol the body in search of invaders.",
+      "quiz": {
+        "prompt": "\"Antibodies\" are:",
+        "options": [
+          "chemicals your body makes to fight invading germs",
+          "a type of virus that causes the flu",
+          "medicines doctors inject to make you sick",
+          "cells that carry the flu through the air"
+        ],
+        "answer": 0
+      },
+      "fillInOptions": [
+        "defenders",
+        "attackers",
+        "invaders"
+      ]
+    },
+    {
+      "word": "invasive",
+      "pos": "adj.",
+      "definition": "moving into a new area or body with harmful effects",
+      "section": "preventing",
+      "sentence": "When they find an invasive microbe, antibodies attack and destroy any cells that contain the virus.",
+      "quiz": {
+        "prompt": "An \"invasive\" microbe is one that:",
+        "options": [
+          "stays in one place without moving",
+          "helps the body digest food",
+          "spreads into the body causing harm",
+          "protects cells from viruses"
+        ],
+        "answer": 2
+      },
+      "fillInOptions": [
+        "spreading",
+        "contained",
+        "limited"
+      ]
+    },
+    {
+      "word": "exposure",
+      "pos": "n.",
+      "definition": "unprotected contact with something harmful",
+      "section": "preventing",
+      "sentence": "To reduce your exposure to the influenza virus, wash your hands frequently and keep your fingers out of your mouth.",
+      "quiz": {
+        "prompt": "\"Exposure\" to a virus means:",
+        "options": [
+          "being completely protected from it",
+          "having unprotected contact with it",
+          "taking medicine to fight it",
+          "being immune to its effects"
+        ],
+        "answer": 1
+      },
+      "fillInOptions": [
+        "contact",
+        "protection",
+        "isolation"
+      ]
+    },
+    {
+      "word": "vaccines",
+      "pos": "n.",
+      "definition": "medicines made of weak or dead viral strains that teach the body to fight stronger viruses",
+      "section": "preventing",
+      "sentence": "Vaccines are weakened or dead flu viruses that are injected into a person's body.",
+      "quiz": {
+        "prompt": "\"Vaccines\" are:",
+        "options": [
+          "medicines made of weakened or dead viruses that train the body to fight disease",
+          "a type of germ that causes the flu",
+          "antibodies that circulate in the blood",
+          "vitamins that prevent all illness"
+        ],
+        "answer": 0
+      },
+      "fillInOptions": [
+        "preventive shots",
+        "antibiotics",
+        "vitamins"
+      ]
+    },
+    {
+      "word": "epidemic",
+      "pos": "n.",
+      "definition": "the rapid spread of a disease within a community",
+      "section": "history",
+      "sentence": "Once a flu virus develops and infects a few people, it can spread rapidly and become an epidemic.",
+      "quiz": {
+        "prompt": "An \"epidemic\" is:",
+        "options": [
+          "a disease that affects only one person",
+          "a medicine used to treat the flu",
+          "the rapid spread of a disease within a community",
+          "a type of antibody that fights germs"
+        ],
+        "answer": 2
+      },
+      "fillInOptions": [
+        "widespread outbreak",
+        "individual illness",
+        "chronic condition"
+      ]
+    },
+    {
+      "word": "pandemic",
+      "pos": "n.",
+      "definition": "the rapid, worldwide spread of a disease",
+      "section": "history",
+      "sentence": "When an outbreak reaches this size, it is known as a pandemic—a disease that spreads rapidly around the world.",
+      "quiz": {
+        "prompt": "A \"pandemic\" differs from an epidemic because a pandemic:",
+        "options": [
+          "affects only animals, not humans",
+          "spreads rapidly around the entire world",
+          "is caused by bacteria instead of viruses",
+          "can be cured with over-the-counter medicine"
+        ],
+        "answer": 1
+      },
+      "fillInOptions": [
+        "worldwide outbreak",
+        "local illness",
+        "minor cold"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "level": 1,
+      "question": "What is the main purpose of this book?",
+      "section": "introduction",
+      "pages": "4–22",
+      "evidence": "By learning about the flu—what it is, what causes it, what its symptoms are, and how to treat it—you can fight back against this illness and stay healthy.",
+      "choices": [
+        "to inform readers about the flu",
+        "to entertain readers with a flu story",
+        "to persuade readers to stay home",
+        "to explain how to grow viruses in a lab"
+      ],
+      "correctChoice": 0,
+      "explanation": "The book provides factual information about what the flu is, how it spreads, and how to prevent and treat it. Its purpose is to inform."
+    },
+    {
+      "id": "q2",
+      "level": 1,
+      "question": "What does a virus use the cells of your body to do?",
+      "section": "whatIs",
+      "pages": "5–6",
+      "evidence": "Viruses use the cells of the hosts to reproduce. When a virus infects a human being, it uses its hard protein shell to make a hole in a cell, which it then invades.",
+      "choices": [
+        "grow larger in size",
+        "move from place to place",
+        "reproduce itself",
+        "hibernate until flu season"
+      ],
+      "correctChoice": 2,
+      "explanation": "A virus invades cells and uses them to make copies of itself, or reproduce. The virus cannot reproduce on its own—it needs the host's cells."
+    },
+    {
+      "id": "q3",
+      "level": 2,
+      "question": "According to the book, what part of the body does influenza attack?",
+      "section": "whatIs",
+      "pages": "7",
+      "evidence": "Influenza is an infection of the respiratory tract that usually causes you to feel achy, feverish, congested, sick to your stomach, and worn down.",
+      "choices": [
+        "the muscles and bones",
+        "the skin and eyes",
+        "the liver and heart",
+        "the respiratory tract"
+      ],
+      "correctChoice": 3,
+      "explanation": "The flu is described as an infection of the respiratory tract—the passages in the nose, mouth, throat, and lungs through which air travels."
+    },
+    {
+      "id": "q4",
+      "level": 2,
+      "question": "Read this sentence from the book: \"Influenza is spread through the passing of viruses from one person to another.\" The word \"rapidly\" in the passage means:",
+      "section": "whatIs",
+      "pages": "6",
+      "evidence": "Once inside a cell, the virus rapidly makes copies of itself.",
+      "choices": [
+        "quickly",
+        "very slowly and carefully",
+        "without stopping at all",
+        "only at night"
+      ],
+      "correctChoice": 0,
+      "explanation": "\"Rapidly\" means quickly or at great speed. The virus quickly makes copies of itself inside the host's cells."
+    },
+    {
+      "id": "q5",
+      "level": 2,
+      "question": "How do vaccines help protect the body from the flu?",
+      "section": "preventing",
+      "pages": "13",
+      "evidence": "Vaccines are weakened or dead flu viruses that are injected into a person's body. These weakened viruses cause the body to produce antibodies that attack and destroy the weakened or dead germs.",
+      "choices": [
+        "They kill all the germs already inside the body.",
+        "They make the body produce antibodies to fight future infections.",
+        "They stop the virus from mutating into new strains.",
+        "They replace the body's weakened immune system."
+      ],
+      "correctChoice": 1,
+      "explanation": "Vaccines contain weakened or dead viruses that teach the body to produce antibodies. Once the body has these antibodies, it is prepared to fight stronger viruses during flu season."
+    },
+    {
+      "id": "q6",
+      "level": 2,
+      "question": "According to the book, which people are at greatest risk of catching the flu?",
+      "section": "preventing",
+      "pages": "15",
+      "evidence": "People who are very young or very old, or who already have health conditions such as diabetes and heart disease, are at greater risk of catching the flu than others.",
+      "choices": [
+        "teenagers who play outdoor sports",
+        "people who get a flu vaccine every year",
+        "very young, very old, or people with health conditions",
+        "scientists who study viruses in a lab"
+      ],
+      "correctChoice": 2,
+      "explanation": "The book identifies the very young, the very old, and people with existing health conditions like diabetes and heart disease as high-risk populations."
+    },
+    {
+      "id": "q7",
+      "level": 2,
+      "question": "According to the passage, how do flu viruses spread from animals to humans?",
+      "section": "changingViruses",
+      "pages": "9–10",
+      "evidence": "Many influenza viruses start in wild animals, most often in birds. These viruses can easily mutate into strains that infect ducks and chickens on farms. Once a virus has infected birds on farms, it can further mutate into strains that infect animals such as pigs, and even humans.",
+      "choices": [
+        "They jump directly from wild birds to humans every time.",
+        "They only spread through the air over long distances.",
+        "They pass through a chain of animals, such as birds to farm chickens to pigs to humans.",
+        "They are carried by mosquitoes from animals to people."
+      ],
+      "correctChoice": 2,
+      "explanation": "The book explains that flu viruses often move through a chain of animals—from wild birds to farm chickens to pigs and then to humans—because these animals come in close contact on farms."
+    },
+    {
+      "id": "q8",
+      "level": 1,
+      "question": "To treat the flu, you should:",
+      "section": "treating",
+      "pages": "17",
+      "evidence": "Pharmacies offer many over-the-counter medicines that can help relieve the effects of the flu. ... Drinking plenty of fluids, such as water or fruit juices, is also important when you have the flu. You should also get plenty of rest.",
+      "choices": [
+        "drink lots of fluids",
+        "get plenty of rest",
+        "all of the above",
+        "take over-the-counter medicine"
+      ],
+      "correctChoice": 2,
+      "explanation": "The book says you should take medicine, drink plenty of fluids, AND get plenty of rest—all of these help you fight the flu."
+    },
+    {
+      "id": "q9",
+      "level": 2,
+      "question": "What is a pandemic?",
+      "section": "history",
+      "pages": "19",
+      "evidence": "When an outbreak reaches this size, it is known as a pandemic—a disease that spreads rapidly around the world.",
+      "choices": [
+        "the worldwide spread of a disease",
+        "a faulty vaccine that causes illness",
+        "a mild cold that affects one community",
+        "a type of medicine used during flu season"
+      ],
+      "correctChoice": 0,
+      "explanation": "A pandemic is defined in the book as a disease that spreads rapidly around the entire world, such as the Spanish flu of 1918."
+    },
+    {
+      "id": "q10",
+      "level": 2,
+      "question": "Why might influenza never be completely eradicated?",
+      "section": "conclusion",
+      "pages": "22",
+      "evidence": "Because flu viruses can change and develop into new strains, influenza may never be eradicated.",
+      "choices": [
+        "Because flu viruses can change and develop into new strains.",
+        "Because vaccines stop working after one year for everyone.",
+        "Because too few people get vaccinated each year.",
+        "Because the flu only affects animals, not humans."
+      ],
+      "correctChoice": 0,
+      "explanation": "The conclusion states that because flu viruses constantly mutate into new strains, the body and scientists must always adapt—which is why influenza may never be completely wiped out."
+    },
+    {
+      "id": "q11",
+      "level": 3,
+      "question": "Why do scientists have to create a new flu vaccine every year? How does a vaccine help prevent a person from getting influenza?",
+      "section": "changingViruses",
+      "pages": "9–15",
+      "evidence": "",
+      "choices": [],
+      "correctChoice": -1,
+      "explanation": "Flu viruses constantly mutate into new strains, so each year's vaccine must include different strains to match what doctors expect will circulate. A vaccine helps by introducing weakened or dead viruses that train the body's immune system to recognize and fight specific strains of the influenza virus.",
+      "opinionPrompts": [
+        "Why do flu viruses require a new vaccine each year?",
+        "How does a vaccine train your body to fight the flu?",
+        "What evidence from the text supports your answer?"
+      ]
+    }
+  ],
+  "notes": {
+    "introduction": [
+      {
+        "type": "vocab",
+        "title": "Germs",
+        "content": "Germs are tiny living things (microorganisms) that can make you sick. You can't see them with your eyes—they're too small! The flu is caused by flu germs called viruses."
+      },
+      {
+        "type": "grammar",
+        "title": "Parentheses for Pronunciation",
+        "content": "Look at this: 'influenza (in-floo-EN-zah).' The parentheses tell you HOW to say the word. This is one important use of parentheses!"
+      },
+      {
+        "type": "evidence",
+        "title": "Author's Purpose",
+        "content": "The author says 'By learning about the flu...you can fight back.' This tells us the PURPOSE: to INFORM you! This is a nonfiction informational text."
+      }
+    ],
+    "whatIs": [
+      {
+        "type": "vocab",
+        "title": "Virus vs. Germ vs. Microbe",
+        "content": "These words are SYNONYMS in this book! A virus = a microorganism = a microbe = a germ. They all mean a tiny living thing that can cause sickness."
+      },
+      {
+        "type": "vocab",
+        "title": "Hosts",
+        "content": "A HOST is an organism that a virus lives inside. The virus uses the host's cells to REPRODUCE (make copies of itself). YOU are a host when you get the flu!"
+      },
+      {
+        "type": "evidence",
+        "title": "Three Types of Flu",
+        "content": "Influenza A = serious, affects humans AND animals, causes LARGE outbreaks. Influenza B = milder, only humans, smaller outbreaks. Influenza C = mildest, only mild illness."
+      },
+      {
+        "type": "grammar",
+        "title": "Parentheses Adding Information",
+        "content": "The book uses parentheses to add extra info: 'A virus is a tiny microorganism—a microbe, or germ—that is invisible.' Parentheses can ADD important details!"
+      }
+    ],
+    "changingViruses": [
+      {
+        "type": "vocab",
+        "title": "Mutating",
+        "content": "MUTATING = CHANGING into a new form. Flu viruses mutate into new STRAINS. That's why your body has to learn to fight each new strain all over again!"
+      },
+      {
+        "type": "evidence",
+        "title": "Virus Chain",
+        "content": "Flu viruses jump through a CHAIN of animals: wild duck → farm chicken → pig → human. On farms, these animals are close together, making it easy for viruses to mix and mutate!"
+      },
+      {
+        "type": "grammar",
+        "title": "Synonym: Mutating",
+        "content": "The book says 'changing, or mutating' — it uses a SYNONYM to help you understand! 'Mutating' and 'changing' mean similar things in this context."
+      }
+    ],
+    "preventing": [
+      {
+        "type": "vocab",
+        "title": "Antibodies",
+        "content": "Antibodies are like SOLDIERS in your blood! Your immune system makes them to find and DESTROY invasive germs. Vaccines train your body to make the RIGHT antibodies."
+      },
+      {
+        "type": "vocab",
+        "title": "Vaccines",
+        "content": "Vaccines contain WEAKENED or DEAD viruses. They train your body to make antibodies WITHOUT making you sick. Then if the REAL virus comes, your body is READY to fight it!"
+      },
+      {
+        "type": "vocab",
+        "title": "Exposure",
+        "content": "EXPOSURE = unprotected CONTACT with something harmful. Washing your hands REDUCES your exposure to the flu virus. The ANTONYM of exposure would be protection or isolation."
+      },
+      {
+        "type": "evidence",
+        "title": "Cause & Effect",
+        "content": "Cause: You get a vaccine. Effect: Your body produces antibodies. Effect: Your body is prepared to fight stronger viruses. This is a KEY cause-and-effect chain!"
+      },
+      {
+        "type": "grammar",
+        "title": "Antonym: Contagious",
+        "content": "CONTAGIOUS means able to spread from person to person. The ANTONYM (opposite) would be CONTAINED or ISOLATED. If a disease is contained, it can NOT spread!"
+      }
+    ],
+    "treating": [
+      {
+        "type": "evidence",
+        "title": "Three Treatments",
+        "content": "When you have the flu: 1) Take OVER-THE-COUNTER medicine for aches and fever, 2) Drink PLENTY of fluids (water, juice), 3) Get PLENTY of rest. All three help your body fight back!"
+      },
+      {
+        "type": "grammar",
+        "title": "Synonym: Relieve",
+        "content": "'Medicines can help RELIEVE the effects of the flu.' RELIEVE is a synonym for EASE or LESSON. The medicine EASES your aches and LESSONS your fever."
+      }
+    ],
+    "history": [
+      {
+        "type": "vocab",
+        "title": "Epidemic vs. Pandemic",
+        "content": "EPIDEMIC = disease spreading through a COMMUNITY. PANDEMIC = disease spreading through the WHOLE WORLD. A pandemic is MUCH bigger than an epidemic!"
+      },
+      {
+        "type": "evidence",
+        "title": "Major Flu Outbreaks",
+        "content": "Spanish Flu (1918) = PANDEMIC, killed 25-40 MILLION worldwide. Asian Flu (1957) = 70,000 US deaths. Hong Kong Flu (1968) = PANDEMIC, 34,000 US deaths. H1N1 Swine Flu (2009) = PANDEMIC, 70+ countries."
+      },
+      {
+        "type": "grammar",
+        "title": "Parentheses Explaining an Image",
+        "content": "The book may use parentheses to explain what you see in a photo or diagram. Look for examples like '(above)' or '(p. 19)' near images — these parentheses help you understand what you're looking at!"
+      }
+    ],
+    "conclusion": [
+      {
+        "type": "evidence",
+        "title": "Main Idea",
+        "content": "MAIN IDEA: Flu viruses keep CHANGING, so influenza may never be eradicated. But you can FIGHT BACK: stay home when sick, cover your mouth, drink water, rest, and get vaccinated!"
+      },
+      {
+        "type": "grammar",
+        "title": "Simile in the Conclusion",
+        "content": "'Drink water like a thirsty camel and sleep like a hibernating bear.' These are SIMILES — comparing you to animals using 'like.' They make the advice memorable and fun!"
+      }
+    ]
+  },
+  "grammar": {
+    "target": "parentheses",
+    "title": "Parentheses",
+    "explanation": "Parentheses ( ) are used to add extra information to a sentence. They can clarify pronunciation, add helpful details, or explain an image. The information inside parentheses is not part of the main sentence — it helps the reader understand better.",
+    "rules": [
+      "Parentheses can clarify HOW to pronounce a word: influenza (in-floo-EN-zah)",
+      "Parentheses can ADD information or details: a microorganism (a tiny living thing)",
+      "Parentheses can EXPLAIN an image or diagram: Wild birds (above) pass viruses to chickens",
+      "The sentence still makes sense if you remove the parentheses and everything inside them"
+    ],
+    "exercises": [
+      {
+        "type": "parentheses",
+        "sentence": "The flu is also called influenza (in-floo-EN-zah).",
+        "question": "What are the parentheses used for in this sentence?",
+        "options": [
+          "to clarify pronunciation",
+          "to add extra information",
+          "to explain an image"
+        ],
+        "answer": 0,
+        "explanation": "The parentheses (in-floo-EN-zah) show the reader HOW to say the word 'influenza.' This is pronunciation help."
+      },
+      {
+        "type": "parentheses",
+        "sentence": "Influenza B is milder, causes smaller outbreaks, and affects only humans (mostly children).",
+        "question": "What are the parentheses used for in this sentence?",
+        "options": [
+          "to clarify pronunciation",
+          "to add extra information",
+          "to explain an image"
+        ],
+        "answer": 1,
+        "explanation": "The parentheses (mostly children) ADD a helpful detail about which humans Influenza B affects. It's extra information."
+      },
+      {
+        "type": "parentheses",
+        "sentence": "Wild birds (above) often pass viruses to farm chickens.",
+        "question": "What are the parentheses used for in this sentence?",
+        "options": [
+          "to clarify pronunciation",
+          "to add extra information",
+          "to explain an image"
+        ],
+        "answer": 2,
+        "explanation": "The parentheses (above) tell you to look at the picture ABOVE the text. This helps explain an image."
+      },
+      {
+        "type": "synonym",
+        "sentence": "Flu viruses are among the most changeable of all viruses, always mutating into new strains.",
+        "question": "Which word is a SYNONYM for \"mutating\"?",
+        "options": [
+          "changing",
+          "destroying",
+          "reproducing",
+          "infecting"
+        ],
+        "answer": 0,
+        "explanation": "'Mutating' means changing into a different form. 'Changing' is a synonym — it means almost the same thing."
+      },
+      {
+        "type": "synonym",
+        "sentence": "When they find an invasive microbe, antibodies attack and destroy any cells that contain the virus.",
+        "question": "Which word is a SYNONYM for \"invasive\"?",
+        "options": [
+          "harmless",
+          "spreading",
+          "protective",
+          "helpful"
+        ],
+        "answer": 1,
+        "explanation": "'Invasive' means moving into a new area with harmful effects. 'Spreading' is a synonym — both describe something moving into places where it doesn't belong."
+      },
+      {
+        "type": "synonym",
+        "sentence": "The immune system produces antibodies to defend against germs.",
+        "question": "Which word is a SYNONYM for \"defend\"?",
+        "options": [
+          "attack",
+          "protect",
+          "ignore",
+          "spread"
+        ],
+        "answer": 1,
+        "explanation": "'Defend' means to guard against harm. 'Protect' is a synonym — both mean to keep safe from danger."
+      },
+      {
+        "type": "antonym",
+        "sentence": "Influenza is a contagious illness that spreads quickly through schools.",
+        "question": "Which word is an ANTONYM for \"contagious\"?",
+        "options": [
+          "spreading",
+          "contained",
+          "infectious",
+          "dangerous"
+        ],
+        "answer": 1,
+        "explanation": "'Contagious' means able to spread from person to person. 'Contained' is an antonym — it means kept under control and NOT spreading."
+      },
+      {
+        "type": "antonym",
+        "sentence": "After the infection, her nose was congested and it was hard to breathe.",
+        "question": "Which word is an ANTONYM for \"congested\"?",
+        "options": [
+          "blocked",
+          "stuffy",
+          "clear",
+          "filled"
+        ],
+        "answer": 2,
+        "explanation": "'Congested' means blocked or filled up. 'Clear' is an antonym — it means open and NOT blocked."
+      },
+      {
+        "type": "antonym",
+        "sentence": "The invasive virus spread quickly through the patient's body.",
+        "question": "Which word is an ANTONYM for \"invasive\"?",
+        "options": [
+          "spreading",
+          "harmful",
+          "contained",
+          "aggressive"
+        ],
+        "answer": 2,
+        "explanation": "'Invasive' means spreading into areas with harmful effects. 'Contained' is an antonym — it means limited and NOT spreading."
+      }
+    ]
+  }
+}

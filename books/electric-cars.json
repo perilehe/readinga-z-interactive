@@ -1,0 +1,984 @@
+{
+  "meta": {
+    "id": "electric-cars",
+    "title": "Electric Cars: History and Future",
+    "level": "W",
+    "author": "Steven Accardi",
+    "focusQuestion": "How have electric cars evolved over time, and what might their future hold?"
+  },
+  "activities": [
+    "read",
+    "evidence",
+    "summarize",
+    "compareContrast",
+    "vocabulary",
+    "typing",
+    "grammar"
+  ],
+  "sections": [
+    {
+      "id": "traffic",
+      "title": "Stuck in Traffic",
+      "paragraphs": [
+        "Cars inch <g data-word=\"slowly\" data-type=\"adverb\" data-modifies=\"inch\" data-rule=\"tells HOW cars inch\">slowly</g> along a crowded city street. Their drivers sit behind the wheel, surrounded by the rumble of engines and the haze of <g data-word=\"polluted\" data-type=\"adjective\" data-modifies=\"air\" data-rule=\"describes WHAT KIND of air\">polluted</g> air. Most of these cars run on gasoline, burning fuel that releases harmful gases into the atmosphere. As traffic jams grow longer and air quality worsens, many people are searching for a cleaner <g data-word=\"alternative\" data-type=\"noun\" data-modifies=\"\" data-rule=\"story-critical vocabulary word\">alternative</g>.",
+        "Electric cars may hold the answer to some of these problems. <g data-word=\"Although\" data-type=\"subordinating conjunction\" data-modifies=\"\" data-rule=\"introduces dependent clause: Although most people think...\">Although</g> most people think of electric cars as a modern invention, their history actually stretches back more than a century. The story of electric vehicles — from their early success to their <g data-word=\"dramatic\" data-type=\"adjective\" data-modifies=\"decline\" data-rule=\"describes WHAT KIND of decline\">dramatic</g> decline and eventual resurgence — reveals much about how technology, economics, and <g data-word=\"environmental\" data-type=\"adjective\" data-modifies=\"concerns\" data-rule=\"describes WHAT KIND of concerns\">environmental</g> concerns shape the vehicles we drive."
+      ]
+    },
+    {
+      "id": "whatIs",
+      "title": "What Is an Electric Car?",
+      "paragraphs": [
+        "An electric car is a vehicle that uses one or more electric motors for propulsion, drawing power from <g data-word=\"rechargeable\" data-type=\"adjective\" data-modifies=\"batteries\" data-rule=\"describes WHAT KIND of batteries\">rechargeable</g> batteries <g data-word=\"rather than\" data-type=\"subordinating conjunction\" data-modifies=\"\" data-rule=\"introduces contrast: rather than using gasoline\">rather than</g> burning gasoline. <g data-word=\"Instead\" data-type=\"adverb\" data-modifies=\"\" data-rule=\"tells HOW the car is powered - in place of gas\">Instead</g> of a gas tank, an electric car has a large battery pack that stores energy. <g data-word=\"Instead\" data-type=\"adverb\" data-modifies=\"\" data-rule=\"tells HOW the car moves\">Instead</g> of an engine, it has an electric motor that converts electrical energy into motion.",
+        "Electric cars do not have a tailpipe, <g data-word=\"so\" data-type=\"subordinating conjunction\" data-modifies=\"\" data-rule=\"connects independent clause to result clause\">so</g> they produce no <g data-word=\"exhaust\" data-type=\"noun\" data-modifies=\"\" data-rule=\"story-critical vocabulary word\">exhaust</g> <g data-word=\"emissions\" data-type=\"noun\" data-modifies=\"\" data-rule=\"story-critical vocabulary word\">emissions</g> while driving. This means they do not release pollutants into the air <g data-word=\"as\" data-type=\"subordinating conjunction\" data-modifies=\"\" data-rule=\"introduces dependent clause showing time\">as</g> they move along the road. <g data-word=\"However\" data-type=\"adverb\" data-modifies=\"\" data-rule=\"tells contrast with previous statement\">However</g>, the batteries <g data-word=\"eventually\" data-type=\"adverb\" data-modifies=\"run out\" data-rule=\"tells WHEN batteries run out\">eventually</g> run out of charge and must be plugged into an electrical outlet or charging station to <g data-word=\"efficiently\" data-type=\"adverb\" data-modifies=\"recharged\" data-rule=\"tells HOW they are recharged\">efficiently</g> recharge. The distance an electric car can travel before it needs recharging is called its range."
+      ]
+    },
+    {
+      "id": "early",
+      "title": "Early Electric Cars",
+      "paragraphs": [
+        "The first electric vehicles appeared in the 1800s, <g data-word=\"when\" data-type=\"subordinating conjunction\" data-modifies=\"\" data-rule=\"introduces dependent clause telling WHEN\">when</g> inventors in Europe and the United States began experimenting with battery-powered transportation. By the 1880s, several inventors had built <g data-word=\"primitive\" data-type=\"adjective\" data-modifies=\"versions\" data-rule=\"describes WHAT KIND of versions\">primitive</g> but <g data-word=\"functional\" data-type=\"adjective\" data-modifies=\"electric carriages\" data-rule=\"describes WHAT KIND of carriages\">functional</g> electric carriages. These early vehicles were <g data-word=\"remarkably\" data-type=\"adverb\" data-modifies=\"quiet\" data-rule=\"tells HOW quiet they were\">remarkably</g> quiet and smooth compared to the noisy, <g data-word=\"vibrating\" data-type=\"adjective\" data-modifies=\"gas-powered vehicles\" data-rule=\"describes WHAT KIND of vehicles\">vibrating</g> gas-powered vehicles of the same era.",
+        "In the late 1800s and early 1900s, electric cars became <g data-word=\"surprisingly\" data-type=\"adverb\" data-modifies=\"popular\" data-rule=\"tells HOW popular - to a surprising degree\">surprisingly</g> popular, <g data-word=\"especially\" data-type=\"adverb\" data-modifies=\"popular\" data-rule=\"tells TO WHAT DEGREE popular\">especially</g> among wealthy urban buyers who appreciated their quiet operation and <g data-word=\"flamboyant\" data-type=\"adjective\" data-modifies=\"designs\" data-rule=\"describes WHAT KIND of designs - showy and ornate\">flamboyant</g> designs. They did not require hand-cranking to start, <g data-word=\"which\" data-type=\"subordinating conjunction\" data-modifies=\"\" data-rule=\"introduces dependent clause giving extra information\">which</g> made them much easier to operate than gas-powered cars. <g data-word=\"Unfortunately\" data-type=\"adverb\" data-modifies=\"\" data-rule=\"tells contrast - introduces bad news\">Unfortunately</g>, these early electric cars had a significant weakness: their batteries could store only a limited amount of energy, <g data-word=\"restricting\" data-type=\"adjective\" data-modifies=\"range\" data-rule=\"describes WHAT KIND of range\">restricting</g> their range to short distances."
+      ]
+    },
+    {
+      "id": "bySteam",
+      "title": "By Steam, Electricity, or Gas",
+      "paragraphs": [
+        "In the early 1900s, three competing types of power vied for dominance in the automobile market: steam, electricity, and gasoline. <g data-word=\"Before\" data-type=\"subordinating conjunction\" data-modifies=\"\" data-rule=\"introduces dependent clause telling WHEN - before the gas engine became dominant\">Before</g> the gas engine became dominant, the outcome was far from certain.",
+        "Steam-powered vehicles had the <g data-word=\"longest\" data-type=\"adjective\" data-modifies=\"history\" data-rule=\"describes WHAT KIND of history - superlative form\">longest</g> history. They could travel the <g data-word=\"farthest\" data-type=\"adjective\" data-modifies=\"distance\" data-rule=\"describes WHAT KIND of distance - superlative form\">farthest</g> distance on a single refueling, <g data-word=\"but\" data-type=\"subordinating conjunction\" data-modifies=\"\" data-rule=\"connects two contrasting ideas\">but</g> they required <g data-word=\"considerably\" data-type=\"adverb\" data-modifies=\"long\" data-rule=\"tells HOW MUCH longer - to a considerable degree\">considerably</g> longer warm-up times and produced thick, <g data-word=\"pungent\" data-type=\"adjective\" data-modifies=\"smoke\" data-rule=\"describes WHAT KIND of smoke - sharp-smelling\">pungent</g> smoke that irritated bystanders.",
+        "Electric cars were quiet, clean-smelling, and simple to operate, <g data-word=\"but\" data-type=\"subordinating conjunction\" data-modifies=\"\" data-rule=\"connects two contrasting ideas\">but</g> their limited range made them impractical for long-distance travel. They could not travel between cities <g data-word=\"without\" data-type=\"subordinating conjunction\" data-modifies=\"\" data-rule=\"introduces condition: without stopping to recharge\">without</g> stopping <g data-word=\"frequently\" data-type=\"adverb\" data-modifies=\"to recharge\" data-rule=\"tells HOW OFTEN they must stop\">frequently</g> to recharge.",
+        "Gasoline-powered cars were noisy and smelly, and starting them required a difficult hand-cranking process. <g data-word=\"However\" data-type=\"adverb\" data-modifies=\"\" data-rule=\"tells contrast with the difficulties\">However</g>, gas cars had a <g data-word=\"decisive\" data-type=\"adjective\" data-modifies=\"advantage\" data-rule=\"describes WHAT KIND of advantage\">decisive</g> advantage: gasoline was <g data-word=\"readily\" data-type=\"adverb\" data-modifies=\"available\" data-rule=\"tells HOW available - easily and quickly\">readily</g> available at a growing network of gas stations, <g data-word=\"giving\" data-type=\"adjective\" data-modifies=\"drivers\" data-rule=\"describes WHAT KIND of freedom - gives freedom\">giving</g> their drivers the freedom to travel long distances. <g data-word=\"As\" data-type=\"subordinating conjunction\" data-modifies=\"\" data-rule=\"introduces dependent clause telling WHEN\">As</g> filling stations spread across the country and electric cars remained <g data-word=\"confined\" data-type=\"adjective\" data-modifies=\"to cities\" data-rule=\"describes WHERE electric cars were limited\">confined</g> to short-distance urban routes, consumers <g data-word=\"increasingly\" data-type=\"adverb\" data-modifies=\"favored\" data-rule=\"tells HOW MUCH consumers favored - more and more\">increasingly</g> favored gas-powered vehicles."
+      ]
+    },
+    {
+      "id": "decline",
+      "title": "The Decline of the Electric Car",
+      "paragraphs": [
+        "<g data-word=\"Around\" data-type=\"subordinating conjunction\" data-modifies=\"\" data-rule=\"introduces time phrase: Around 1912\">Around</g> 1912, an inventor created the electric starter motor, <g data-word=\"which\" data-type=\"subordinating conjunction\" data-modifies=\"\" data-rule=\"introduces dependent clause giving extra information about the motor\">which</g> eliminated the need for hand-cranking a gas engine. <g data-word=\"Suddenly\" data-type=\"adverb\" data-modifies=\"made\" data-rule=\"tells WHEN gas cars became accessible\">Suddenly</g>, gas cars became easy to start for <g data-word=\"everyone\" data-type=\"noun\" data-modifies=\"\" data-rule=\"all people, including those previously unable to crank\">everyone</g>, including many women and less physically strong drivers <g data-word=\"who\" data-type=\"subordinating conjunction\" data-modifies=\"\" data-rule=\"introduces dependent clause describing the drivers\">who</g> had previously found the hand-cranking process <g data-word=\"difficult\" data-type=\"adjective\" data-modifies=\"hand-cranking\" data-rule=\"describes WHAT KIND of process\">difficult</g> or dangerous.",
+        "This <g data-word=\"transformative\" data-type=\"adjective\" data-modifies=\"invention\" data-rule=\"describes WHAT KIND of invention - caused major change\">transformative</g> invention <g data-word=\"rapidly\" data-type=\"adverb\" data-modifies=\"reduced\" data-rule=\"tells HOW QUICKLY demand was reduced\">rapidly</g> reduced demand for electric vehicles. <g data-word=\"While\" data-type=\"subordinating conjunction\" data-modifies=\"\" data-rule=\"introduces dependent clause showing contrast: While gas cars improved...\">While</g> gas cars improved and became <g data-word=\"cheaper\" data-type=\"adjective\" data-modifies=\"gas cars\" data-rule=\"describes WHAT KIND of cars - comparative form\">cheaper</g> to produce, electric cars grew <g data-word=\"comparatively\" data-type=\"adverb\" data-modifies=\"expensive\" data-rule=\"tells HOW expensive - in comparison\">comparatively</g> expensive and fell out of favor.",
+        "By the mid-1900s, electric cars had <g data-word=\"virtually\" data-type=\"adverb\" data-modifies=\"disappeared\" data-rule=\"tells TO WHAT DEGREE they disappeared - almost completely\">virtually</g> disappeared from American roads. Gasoline was <g data-word=\"cheap\" data-type=\"adjective\" data-modifies=\"gasoline\" data-rule=\"describes WHAT KIND of gasoline - low cost\">cheap</g>, gas stations were everywhere, and most Americans had <g data-word=\"forgotten\" data-type=\"adjective\" data-modifies=\"electric cars\" data-rule=\"describes WHAT Americans had done\">forgotten</g> about the electric vehicles that had once shared the streets with their gas-powered rivals. The age of the gasoline-powered automobile had <g data-word=\"firmly\" data-type=\"adverb\" data-modifies=\"taken hold\" data-rule=\"tells HOW firmly - strongly and completely\">firmly</g> taken hold."
+      ]
+    },
+    {
+      "id": "resurgence",
+      "title": "The Resurgence",
+      "paragraphs": [
+        "Beginning in the 1960s, Americans began to recognize the environmental cost of their love affair with the automobile. Major cities were <g data-word=\"blanketed\" data-type=\"adjective\" data-modifies=\"cities\" data-rule=\"describes WHAT KIND of cities - covered in smog\">blanketed</g> in <g data-word=\"thick\" data-type=\"adjective\" data-modifies=\"smog\" data-rule=\"describes WHAT KIND of smog\">thick</g> smog produced largely by <g data-word=\"gas-guzzling\" data-type=\"hyphenated compound adjective\" data-modifies=\"vehicles\" data-rule=\"hyphenated compound: gas + guzzling describes vehicles that consume much gas\">gas-guzzling</g> vehicles. Car <g data-word=\"exhaust\" data-type=\"noun\" data-modifies=\"\" data-rule=\"story-critical vocabulary word\">exhaust</g> was now understood to be a major source of air pollution, and people began <g data-word=\"seriously\" data-type=\"adverb\" data-modifies=\"considering\" data-rule=\"tells HOW people considered - in a serious manner\">seriously</g> considering cleaner <g data-word=\"alternatives\" data-type=\"noun\" data-modifies=\"\" data-rule=\"story-critical vocabulary word - plural form\">alternatives</g>.",
+        "<g data-word=\"When\" data-type=\"subordinating conjunction\" data-modifies=\"\" data-rule=\"introduces dependent clause telling WHEN\">When</g> oil shortages in the 1970s caused gasoline supplies to <g data-word=\"dwindle\" data-type=\"verb\" data-modifies=\"supplies\" data-rule=\"tells WHAT happened to supplies - became scarce\">dwindle</g> and prices to soar, the government began funding research into <g data-word=\"efficient\" data-type=\"adjective\" data-modifies=\"alternatives\" data-rule=\"describes WHAT KIND of alternatives - using less energy\">efficient</g> alternatives to the gas-powered car. Several automakers produced small electric vehicles, <g data-word=\"but\" data-type=\"subordinating conjunction\" data-modifies=\"\" data-rule=\"connects two contrasting ideas\">but</g> most of these cars could travel only <g data-word=\"short\" data-type=\"adjective\" data-modifies=\"distances\" data-rule=\"describes WHAT KIND of distances\">short</g> distances before needing a recharge.",
+        "In the 1990s, a new kind of vehicle emerged: the hybrid. A hybrid car combined an electric motor with a gasoline engine, <g data-word=\"allowing\" data-type=\"adjective\" data-modifies=\"car\" data-rule=\"describes WHAT the car could do\">allowing</g> it to switch between power sources. <g data-word=\"While\" data-type=\"subordinating conjunction\" data-modifies=\"\" data-rule=\"introduces dependent clause telling WHEN/DURING WHAT TIME\">While</g> driving at low speeds, the car ran on electricity; <g data-word=\"when\" data-type=\"subordinating conjunction\" data-modifies=\"\" data-rule=\"introduces dependent clause telling WHEN\">when</g> more power was needed for <g data-word=\"high-speed\" data-type=\"hyphenated compound adjective\" data-modifies=\"travel\" data-rule=\"hyphenated compound: high + speed describes travel at great speed\">high-speed</g> travel, the gas engine <g data-word=\"automatically\" data-type=\"adverb\" data-modifies=\"kicked in\" data-rule=\"tells HOW the engine started - by itself\">automatically</g> kicked in. This <g data-word=\"gas-electric\" data-type=\"hyphenated compound adjective\" data-modifies=\"combination\" data-rule=\"hyphenated compound: gas + electric describes the dual-power combination\">gas-electric</g> combination gave hybrids a much greater range than <g data-word=\"purely\" data-type=\"adverb\" data-modifies=\"electric\" data-rule=\"tells HOW electric - completely and only\">purely</g> electric cars.",
+        "Toyota's Prius, introduced in 1997, became a <g data-word=\"breakthrough\" data-type=\"noun\" data-modifies=\"\" data-rule=\"enrichment vocabulary word - a sudden important discovery or advance\">breakthrough</g> success, proving that hybrid vehicles could be <g data-word=\"commercially\" data-type=\"adverb\" data-modifies=\"viable\" data-rule=\"tells HOW viable - in a business sense\">viable</g>. The Prius remains one of the <g data-word=\"best-known\" data-type=\"hyphenated compound adjective\" data-modifies=\"hybrids\" data-rule=\"hyphenated compound: best + known describes hybrids that are widely recognized\">best-known</g> hybrids today. The growing <g data-word=\"mobility\" data-type=\"noun\" data-modifies=\"\" data-rule=\"enrichment vocabulary word - ability to move freely\">mobility</g> that hybrids offered <g data-word=\"significantly\" data-type=\"adverb\" data-modifies=\"reduced\" data-rule=\"tells HOW MUCH they reduced - to a significant degree\">significantly</g> reduced emissions <g data-word=\"without\" data-type=\"subordinating conjunction\" data-modifies=\"\" data-rule=\"introduces condition: without giving up driving convenience\">without</g> requiring drivers to give up the convenience of long-distance travel."
+      ]
+    },
+    {
+      "id": "future",
+      "title": "The Future of Electric Cars",
+      "paragraphs": [
+        "More recently, companies such as Tesla have produced <g data-word=\"fully\" data-type=\"adverb\" data-modifies=\"electric\" data-rule=\"tells TO WHAT DEGREE electric - completely\">fully</g> electric cars with high-performance batteries. These vehicles use advanced <g data-word=\"lithium-ion\" data-type=\"hyphenated compound adjective\" data-modifies=\"batteries\" data-rule=\"hyphenated compound: lithium + ion describes the type of battery\">lithium-ion</g> batteries that can store <g data-word=\"enormous\" data-type=\"adjective\" data-modifies=\"amounts\" data-rule=\"describes HOW MUCH energy - very large\">enormous</g> amounts of energy, <g data-word=\"giving\" data-type=\"adjective\" data-modifies=\"cars\" data-rule=\"describes WHAT the cars can do\">giving</g> them ranges of over 200 miles on a single charge.",
+        "Tesla's electric cars can accelerate <g data-word=\"rapidly\" data-type=\"adverb\" data-modifies=\"accelerate\" data-rule=\"tells HOW they accelerate - very quickly\">rapidly</g>, operate <g data-word=\"silently\" data-type=\"adverb\" data-modifies=\"operate\" data-rule=\"tells HOW they operate - without noise\">silently</g>, and produce <g data-word=\"zero-emission\" data-type=\"hyphenated compound adjective\" data-modifies=\"exhaust\" data-rule=\"hyphenated compound: zero + emission describes exhaust that releases no pollutants\">exhaust</g>, making them among the most <g data-word=\"environmentally\" data-type=\"adverb\" data-modifies=\"friendly\" data-rule=\"tells HOW friendly - in relation to the environment\">environmentally</g> friendly vehicles on the road. <g data-word=\"However\" data-type=\"adverb\" data-modifies=\"\" data-rule=\"tells contrast with the positive qualities\">However</g>, they remain expensive, and recharging them takes <g data-word=\"considerably\" data-type=\"adverb\" data-modifies=\"longer\" data-rule=\"tells HOW MUCH longer - by a large amount\">considerably</g> longer than filling a gas tank.",
+        "Many countries have announced plans to <g data-word=\"phased out\" data-type=\"verb\" data-modifies=\"gas-powered vehicles\" data-rule=\"tells WHAT will happen to gas vehicles - gradually eliminated\">phase out</g> gas-powered vehicles <g data-word=\"entirely\" data-type=\"adverb\" data-modifies=\"phase out\" data-rule=\"tells TO WHAT DEGREE - completely\">entirely</g> over the coming decades. <g data-word=\"Whether\" data-type=\"subordinating conjunction\" data-modifies=\"\" data-rule=\"introduces dependent clause presenting a choice/condition\">Whether</g> electric cars can <g data-word=\"fully\" data-type=\"adverb\" data-modifies=\"replace\" data-rule=\"tells TO WHAT DEGREE they can replace - completely\">fully</g> replace gas-powered cars depends on <g data-word=\"several\" data-type=\"adjective\" data-modifies=\"factors\" data-rule=\"describes HOW MANY factors - more than two but not many\">several</g> factors. Batteries must become <g data-word=\"lighter\" data-type=\"adjective\" data-modifies=\"batteries\" data-rule=\"describes WHAT batteries must become - comparative form\">lighter</g>, charge <g data-word=\"faster\" data-type=\"adverb\" data-modifies=\"charge\" data-rule=\"tells HOW they must charge - comparative form\">faster</g>, and store <g data-word=\"more\" data-type=\"adjective\" data-modifies=\"energy\" data-rule=\"describes HOW MUCH energy - comparative form\">more</g> energy. Charging stations must become as <g data-word=\"widespread\" data-type=\"adjective\" data-modifies=\"charging stations\" data-rule=\"describes WHAT KIND of availability - found everywhere\">widespread</g> as gas stations. <g data-word=\"If\" data-type=\"subordinating conjunction\" data-modifies=\"\" data-rule=\"introduces dependent clause showing condition\">If</g> these challenges are met, the <g data-word=\"future\" data-type=\"noun\" data-modifies=\"\" data-rule=\"describes WHAT is ahead for electric vehicles\">future</g> of electric cars may be brighter than <g data-word=\"ever\" data-type=\"adverb\" data-modifies=\"brighter\" data-rule=\"tells HOW MUCH brighter - at any time\">ever</g> before.",
+        "A <g data-word=\"significant\" data-type=\"adjective\" data-modifies=\"chemical reaction\" data-rule=\"describes WHAT KIND of change in battery technology\">significant</g> <g data-word=\"chemical reaction\" data-type=\"noun\" data-modifies=\"\" data-rule=\"enrichment vocabulary - a process in which substances change into different substances\">chemical reaction</g> occurs inside every battery, <g data-word=\"allowing\" data-type=\"adjective\" data-modifies=\"battery\" data-rule=\"describes WHAT the battery can do\">allowing</g> it to store and release energy. Scientists are studying new <g data-word=\"types\" data-type=\"noun\" data-modifies=\"of atoms\" data-rule=\"enrichment vocabulary - the tiny particles that make up all matter\">atoms</g> and materials that could lead to <g data-word=\"revolutionary\" data-type=\"adjective\" data-modifies=\"batteries\" data-rule=\"describes WHAT KIND of batteries - completely new and different\">revolutionary</g> batteries that charge in minutes <g data-word=\"rather than\" data-type=\"subordinating conjunction\" data-modifies=\"\" data-rule=\"introduces contrast: rather than hours\">rather than</g> hours. <g data-word=\"Once\" data-type=\"subordinating conjunction\" data-modifies=\"\" data-rule=\"introduces dependent clause telling WHEN - as soon as/before this happens\">Once</g> such <g data-word=\"breakthroughs\" data-type=\"noun\" data-modifies=\"\" data-rule=\"enrichment vocabulary - important advances or discoveries\">breakthroughs</g> arrive, electric cars may become the <g data-word=\"standard\" data-type=\"noun\" data-modifies=\"\" data-rule=\"describes WHAT electric cars could become - the normal choice\">standard</g> vehicle on roads worldwide."
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "alternative",
+      "pos": "n.",
+      "definition": "a choice or option that is different from the usual or standard one",
+      "section": "traffic",
+      "sentence": "Many people are searching for a cleaner alternative.",
+      "quiz": {
+        "prompt": "An \"alternative\" is:",
+        "options": [
+          "a choice or option that is different from the usual one",
+          "a type of fuel that burns more efficiently",
+          "a traffic problem caused by too many cars",
+          "a government rule about vehicle emissions"
+        ],
+        "answer": 0
+      },
+      "fillInOptions": ["different", "opposite", "similar"]
+    },
+    {
+      "word": "efficient",
+      "pos": "adj.",
+      "definition": "achieving maximum productivity with minimum wasted energy or effort",
+      "section": "bySteam",
+      "sentence": "The government began funding research into efficient alternatives to the gas-powered car.",
+      "quiz": {
+        "prompt": "If something is \"efficient,\" it:",
+        "options": [
+          "uses a lot of energy to complete tasks",
+          "achieves results with minimum wasted energy",
+          "requires constant maintenance and repair",
+          "produces large amounts of exhaust gas"
+        ],
+        "answer": 1
+      },
+      "fillInOptions": ["productive", "wasteful", "careless"]
+    },
+    {
+      "word": "emissions",
+      "pos": "n.",
+      "definition": "gases or particles released into the air, especially from vehicles or factories",
+      "section": "whatIs",
+      "sentence": "Electric cars produce no exhaust emissions while driving.",
+      "quiz": {
+        "prompt": "\"Emissions\" are:",
+        "options": [
+          "the sound an engine makes while running",
+          "gases or particles released into the air",
+          "the batteries that power an electric motor",
+          "the fuel that a vehicle burns for energy"
+        ],
+        "answer": 1
+      },
+      "fillInOptions": ["gases", "liquids", "solids"]
+    },
+    {
+      "word": "environment",
+      "pos": "n.",
+      "definition": "the natural world, including air, water, and land, and the conditions affecting life in it",
+      "section": "decline",
+      "sentence": "Americans began to recognize the environmental cost of their love affair with the automobile.",
+      "quiz": {
+        "prompt": "The \"environment\" refers to:",
+        "options": [
+          "the natural world and conditions affecting life",
+          "a type of engine that runs on electricity",
+          "the process of refueling a gas-powered car",
+          "a law that limits how fast cars can travel"
+        ],
+        "answer": 0
+      },
+      "fillInOptions": ["surroundings", "climate", "atmosphere"]
+    },
+    {
+      "word": "exhaust",
+      "pos": "n.",
+      "definition": "waste gases released from a vehicle's engine through a tailpipe",
+      "section": "whatIs",
+      "sentence": "Instead of a gas tank, an electric car has a large battery pack.",
+      "quiz": {
+        "prompt": "\"Exhaust\" from a car is:",
+        "options": [
+          "the fuel stored inside the gas tank",
+          "waste gases released from the engine",
+          "the sound the horn makes while driving",
+          "the smoke from burning rubber on tires"
+        ],
+        "answer": 1
+      },
+      "fillInOptions": ["fumes", "smoke", "vapor"]
+    },
+    {
+      "word": "hybrid",
+      "pos": "n./adj.",
+      "definition": "a vehicle that combines two types of power, such as electricity and gasoline",
+      "section": "resurgence",
+      "sentence": "A hybrid car combined an electric motor with a gasoline engine.",
+      "quiz": {
+        "prompt": "A \"hybrid\" car is one that:",
+        "options": [
+          "runs on gasoline alone at very high speeds",
+          "combines two types of power such as electricity and gas",
+          "uses only solar energy captured from sunlight",
+          "is powered entirely by a rechargeable battery"
+        ],
+        "answer": 1
+      },
+      "fillInOptions": ["mixed", "combined", "pure"]
+    },
+    {
+      "word": "atoms",
+      "pos": "n.",
+      "definition": "the extremely small particles that make up all matter and substances",
+      "section": "future",
+      "sentence": "Scientists are studying new types of atoms and materials that could lead to revolutionary batteries.",
+      "quiz": {
+        "prompt": "\"Atoms\" are:",
+        "options": [
+          "large machines used to charge electric car batteries",
+          "extremely small particles that make up all matter",
+          "a type of fuel that burns more cleanly than gas",
+          "the wires that connect a car to a charging station"
+        ],
+        "answer": 1
+      },
+      "fillInOptions": ["molecules", "particles", "cells"]
+    },
+    {
+      "word": "breakthrough",
+      "pos": "n.",
+      "definition": "a sudden, important advance or discovery that changes how things are done",
+      "section": "resurgence",
+      "sentence": "Toyota's Prius became a breakthrough success, proving that hybrid vehicles could be commercially viable.",
+      "quiz": {
+        "prompt": "A \"breakthrough\" is:",
+        "options": [
+          "a sudden, important advance or discovery",
+          "a problem that cannot be solved by engineers",
+          "a decrease in the quality of a product over time",
+          "a type of battery that no longer holds a charge"
+        ],
+        "answer": 0
+      },
+      "fillInOptions": ["advance", "setback", "failure"]
+    },
+    {
+      "word": "chemical reaction",
+      "pos": "n.",
+      "definition": "a process in which substances interact to form different substances with new properties",
+      "section": "future",
+      "sentence": "A significant chemical reaction occurs inside every battery, allowing it to store and release energy.",
+      "quiz": {
+        "prompt": "A \"chemical reaction\" is:",
+        "options": [
+          "a process where substances change into different substances",
+          "a physical change in the shape of a solid object",
+          "a mixture of two liquids that stay separate",
+          "the way a car engine burns fuel to create motion"
+        ],
+        "answer": 0
+      },
+      "fillInOptions": ["physical change", "mixture", "solution"]
+    },
+    {
+      "word": "flamboyant",
+      "pos": "adj.",
+      "definition": "showy, bold, or striking in appearance; designed to attract attention",
+      "section": "early",
+      "sentence": "Wealthy urban buyers appreciated their quiet operation and flamboyant designs.",
+      "quiz": {
+        "prompt": "Something \"flamboyant\" is:",
+        "options": [
+          "plain and simple in its overall design",
+          "showy, bold, and striking in appearance",
+          "difficult to operate without practice",
+          "quiet and unnoticeable in every way"
+        ],
+        "answer": 1
+      },
+      "fillInOptions": ["showy", "plain", "modest"]
+    },
+    {
+      "word": "mobility",
+      "pos": "n.",
+      "definition": "the ability to move freely and easily from one place to another",
+      "section": "resurgence",
+      "sentence": "The growing mobility that hybrids offered significantly reduced emissions.",
+      "quiz": {
+        "prompt": "\"Mobility\" means:",
+        "options": [
+          "the ability to move freely and easily",
+          "the process of staying in one fixed location",
+          "a type of fuel that powers a vehicle's engine",
+          "the cost of operating a car each month"
+        ],
+        "answer": 0
+      },
+      "fillInOptions": ["movement", "stillness", "rest"]
+    },
+    {
+      "word": "pungent",
+      "pos": "adj.",
+      "definition": "having a sharply strong, often unpleasant smell or taste",
+      "section": "bySteam",
+      "sentence": "Steam vehicles produced thick, pungent smoke that irritated bystanders.",
+      "quiz": {
+        "prompt": "A \"pungent\" smell is one that is:",
+        "options": [
+          "sweet and pleasant like fresh flowers",
+          "sharply strong and often unpleasant",
+          "so faint that it cannot be detected",
+          "similar to the smell of clean ocean air"
+        ],
+        "answer": 1
+      },
+      "fillInOptions": ["sharp", "mild", "sweet"]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "level": 1,
+      "question": "According to the text, why are electric cars important for solving city traffic and pollution problems?",
+      "section": "traffic",
+      "pages": "4–5",
+      "evidence": "As traffic jams grow longer and air quality worsens, many people are searching for a cleaner alternative. Electric cars may hold the answer to some of these problems.",
+      "choices": [
+        "They produce no tailpipe emissions and help reduce air pollution",
+        "They are much cheaper to purchase than gas-powered cars",
+        "They can drive much faster through crowded city streets",
+        "They do not require any batteries or electrical charging"
+      ],
+      "correctChoice": 0,
+      "explanation": "The text states that gas cars burn fuel releasing harmful gases, and electric cars may be a cleaner alternative. Since they have no tailpipe, they produce no exhaust emissions."
+    },
+    {
+      "id": "q2",
+      "level": 1,
+      "question": "What was a key characteristic of the first electric cars built in the 1800s?",
+      "section": "early",
+      "pages": "8",
+      "evidence": "These early vehicles were remarkably quiet and smooth compared to the noisy, vibrating gas-powered vehicles of the same era. Unfortunately, these early electric cars had a significant weakness: their batteries could store only a limited amount of energy.",
+      "choices": [
+        "They were remarkably quiet but had limited battery range",
+        "They could travel long distances without recharging batteries",
+        "They were much cheaper than any gas-powered vehicle",
+        "They required hand-cranking just like gas cars did"
+      ],
+      "correctChoice": 0,
+      "explanation": "The text says early electric cars were 'remarkably quiet and smooth' but their batteries 'could store only a limited amount of energy, restricting their range to short distances.'"
+    },
+    {
+      "id": "q3",
+      "level": 2,
+      "question": "By 1920, what gave gasoline-powered cars the biggest advantage over electric cars?",
+      "section": "bySteam",
+      "pages": "9–11",
+      "evidence": "Gasoline was readily available at a growing network of gas stations, giving their drivers the freedom to travel long distances. As filling stations spread across the country, consumers increasingly favored gas-powered vehicles.",
+      "choices": [
+        "Gas cars were much quieter and smoother than electric ones",
+        "Electric cars could travel farther on a single charge",
+        "The government required people to buy only gas cars",
+        "Gas stations were spreading across the country for refueling"
+      ],
+      "correctChoice": 3,
+      "explanation": "The text explains that gasoline was 'readily available at a growing network of gas stations' — this infrastructure gave gas cars a decisive advantage over electric cars that could not travel between cities."
+    },
+    {
+      "id": "q4",
+      "level": 2,
+      "question": "How did the electric starter motor (around 1912) change the automobile industry?",
+      "section": "decline",
+      "pages": "12–13",
+      "evidence": "Around 1912, an inventor created the electric starter motor, which eliminated the need for hand-cranking a gas engine. Suddenly, gas cars became easy to start for everyone.",
+      "choices": [
+        "It made electric cars much faster than gasoline cars",
+        "It eliminated hand-cranking, making gas cars easy for everyone to start",
+        "It was the first device to use renewable solar energy",
+        "It made electric batteries last significantly longer"
+      ],
+      "correctChoice": 1,
+      "explanation": "The electric starter motor 'eliminated the need for hand-cranking a gas engine.' This made gas cars 'easy to start for everyone, including many women and less physically strong drivers.'"
+    },
+    {
+      "id": "q5",
+      "level": 2,
+      "question": "What was the main reason electric cars declined in use through the mid-1900s?",
+      "section": "decline",
+      "pages": "12–13",
+      "evidence": "While gas cars improved and became cheaper to produce, electric cars grew comparatively expensive and fell out of favor. By the mid-1900s, electric cars had virtually disappeared from American roads. Gasoline was cheap, gas stations were everywhere.",
+      "choices": [
+        "Electric cars produced too many exhaust emissions",
+        "Cheap gasoline and everywhere gas stations made gas cars more practical",
+        "The government passed laws banning the sale of electric cars",
+        "Electric cars could not go faster than 20 miles per hour"
+      ],
+      "correctChoice": 1,
+      "explanation": "The text states that 'gasoline was cheap, gas stations were everywhere,' and electric cars 'grew comparatively expensive and fell out of favor.' Gas cars were simply more practical for most Americans."
+    },
+    {
+      "id": "q6",
+      "level": 2,
+      "question": "According to the book, what was the primary reason people became interested in electric cars again in the 1960s?",
+      "section": "resurgence",
+      "pages": "14–17",
+      "evidence": "Beginning in the 1960s, Americans began to recognize the environmental cost of their love affair with the automobile. Major cities were blanketed in thick smog produced largely by gas-guzzling vehicles. Car exhaust was now understood to be a major source of air pollution.",
+      "choices": [
+        "Electric cars had finally become faster than gas-powered cars",
+        "The government offered large payments to anyone buying an electric car",
+        "Gas stations were closing down across the entire country",
+        "Gas car emissions caused severe air pollution and smog in cities"
+      ],
+      "correctChoice": 3,
+      "explanation": "The text says Americans 'began to recognize the environmental cost' — cities were 'blanketed in thick smog produced largely by gas-guzzling vehicles.' Car exhaust was 'a major source of air pollution.'"
+    },
+    {
+      "id": "q7",
+      "level": 2,
+      "question": "What two things does a hybrid vehicle combine to create its power?",
+      "section": "resurgence",
+      "pages": "14–17",
+      "evidence": "A hybrid car combined an electric motor with a gasoline engine, allowing it to switch between power sources. While driving at low speeds, the car ran on electricity; when more power was needed, the gas engine automatically kicked in.",
+      "choices": [
+        "Solar panels and a diesel engine for long trips",
+        "Steam power and a rechargeable battery pack",
+        "An electric motor and a gasoline engine",
+        "Two identical electric motors working together"
+      ],
+      "correctChoice": 2,
+      "explanation": "The text clearly states that 'a hybrid car combined an electric motor with a gasoline engine.' It could run on electricity at low speeds and switch to gas when more power was needed."
+    },
+    {
+      "id": "q8",
+      "level": 2,
+      "question": "What did Toyota achieve with its Prius hybrid, introduced in 1997?",
+      "section": "resurgence",
+      "pages": "14–17",
+      "evidence": "Toyota's Prius, introduced in 1997, became a breakthrough success, proving that hybrid vehicles could be commercially viable.",
+      "choices": [
+        "It was the first car to run entirely on steam power",
+        "It proved hybrids could succeed as a commercial product",
+        "It was the first vehicle to use a gasoline engine",
+        "It could travel over 500 miles on one battery charge"
+      ],
+      "correctChoice": 1,
+      "explanation": "The Prius 'became a breakthrough success, proving that hybrid vehicles could be commercially viable.' It showed that hybrids could work as a practical product people would buy."
+    },
+    {
+      "id": "q9",
+      "level": 2,
+      "question": "According to the book, what is the biggest challenge facing modern fully electric cars?",
+      "section": "future",
+      "pages": "18–22",
+      "evidence": "Whether electric cars can fully replace gas-powered cars depends on several factors. Batteries must become lighter, charge faster, and store more energy. Charging stations must become as widespread as gas stations.",
+      "choices": [
+        "Electric cars are too noisy for residential neighborhoods",
+        "They produce too many tailpipe emissions while driving",
+        "They cannot be manufactured in large enough quantities",
+        "Batteries cannot yet store enough energy for long range"
+      ],
+      "correctChoice": 3,
+      "explanation": "The text explains that 'batteries must become lighter, charge faster, and store more energy' and 'charging stations must become as widespread as gas stations.' Battery limitations and charging infrastructure remain the key challenges."
+    },
+    {
+      "id": "q10",
+      "level": 2,
+      "question": "What does the book suggest must happen for electric cars to become truly popular in the future?",
+      "section": "future",
+      "pages": "18–22",
+      "evidence": "Batteries must become lighter, charge faster, and store more energy. Charging stations must become as widespread as gas stations. If these challenges are met, the future of electric cars may be brighter than ever before.",
+      "choices": [
+        "Only governments need to ban gas cars from all roads",
+        "Drivers must stop caring about how far they can travel",
+        "Electric cars need to become louder so people hear them coming",
+        "Multiple improvements in batteries, charging, and cost are needed"
+      ],
+      "correctChoice": 3,
+      "explanation": "The text lists several challenges: batteries must improve, charging stations must become widespread, and costs must come down. It takes multiple improvements — not just one change — for electric cars to become the standard."
+    },
+    {
+      "id": "q11",
+      "level": 3,
+      "question": "The book describes how electric cars rose, fell, and rose again over more than a century. Based on the text, do you think electric cars will eventually replace gas-powered cars completely? Use evidence from the book to support your opinion.",
+      "section": "future",
+      "pages": "18–22",
+      "evidence": "",
+      "choices": [],
+      "correctChoice": -1,
+      "explanation": "The book shows that electric cars have faced challenges before and overcome them through innovation (hybrids, better batteries). Whether they fully replace gas cars depends on solving battery range, charging infrastructure, and cost challenges. Use evidence about past resurgences and future plans from the text.",
+      "opinionPrompts": [
+        "What evidence from the book shows electric cars have come back before after declining?",
+        "What challenges does the book say still need to be solved for electric cars to dominate?",
+        "Do the benefits (zero emissions, quiet operation) outweigh the challenges (range, cost)? Why or why not?"
+      ]
+    }
+  ],
+  "summarizeActivities": [
+    {
+      "section": "traffic",
+      "sectionTitle": "Stuck in Traffic",
+      "mainIdea": "Traffic jams and polluted air from gas-powered cars are pushing people to search for cleaner vehicle alternatives like electric cars.",
+      "keyDetails": [
+        "Cars inch slowly along crowded city streets surrounded by polluted air",
+        "Most cars burn gasoline, releasing harmful gases into the atmosphere",
+        "Electric cars may hold the answer to traffic and pollution problems",
+        "Although most people think of them as new, electric cars have a long history"
+      ],
+      "distractors": [
+        "Traffic jams are caused by too many electric cars on the road",
+        "Steven Accardi invented the first electric car in the 1800s"
+      ],
+      "transitionWords": ["As", "Although", "from their early success", "eventual resurgence"]
+    },
+    {
+      "section": "whatIs",
+      "sectionTitle": "What Is an Electric Car?",
+      "mainIdea": "Electric cars use rechargeable batteries and an electric motor instead of gasoline, producing zero tailpipe emissions but requiring recharging.",
+      "keyDetails": [
+        "An electric car draws power from rechargeable batteries rather than burning gasoline",
+        "An electric motor converts electrical energy into motion",
+        "Electric cars have no tailpipe, so they produce no exhaust emissions while driving",
+        "Batteries eventually run out and must be plugged in to recharge; the distance before recharging is the range"
+      ],
+      "distractors": [
+        "Electric cars burn a special type of clean gasoline",
+        "The tailpipe on an electric car releases water vapor"
+      ],
+      "transitionWords": ["Instead of", "rather than", "However", "while driving"]
+    },
+    {
+      "section": "early",
+      "sectionTitle": "Early Electric Cars",
+      "mainIdea": "The first electric vehicles appeared in the 1800s and became surprisingly popular for their quiet operation, but limited battery range was a significant weakness.",
+      "keyDetails": [
+        "The first electric vehicles appeared in the 1800s when inventors experimented with battery-powered transportation",
+        "By the 1880s, several inventors had built primitive but functional electric carriages",
+        "These early vehicles were remarkably quiet and smooth compared to noisy gas-powered vehicles",
+        "Unfortunately, their batteries could store only a limited amount of energy, restricting their range"
+      ],
+      "distractors": [
+        "Electric cars were first invented in the 1950s by Toyota",
+        "Early electric cars were loud and produced thick smoke"
+      ],
+      "transitionWords": ["when inventors", "By the 1880s", "compared to", "Unfortunately"]
+    },
+    {
+      "section": "bySteam",
+      "sectionTitle": "By Steam, Electricity, or Gas",
+      "mainIdea": "In the early 1900s, steam, electric, and gasoline cars competed for dominance, and gas cars eventually won because of the growing network of gas stations.",
+      "keyDetails": [
+        "Three types of power competed in the early automobile market: steam, electricity, and gasoline",
+        "Steam cars traveled the farthest but had long warm-up times and produced pungent smoke",
+        "Electric cars were quiet and simple but had limited range for long-distance travel",
+        "Gas cars were noisy and smelly but gasoline was readily available at a growing network of gas stations"
+      ],
+      "distractors": [
+        "Steam cars were the cleanest and quietest of all three types",
+        "Electric cars could travel between cities without recharging"
+      ],
+      "transitionWords": ["Before", "but", "While", "As filling stations spread", "However"]
+    },
+    {
+      "section": "decline",
+      "sectionTitle": "The Decline of the Electric Car",
+      "mainIdea": "The electric starter motor made gas cars easy to start for everyone, and by the mid-1900s electric cars had virtually disappeared from American roads.",
+      "keyDetails": [
+        "Around 1912, the electric starter motor eliminated the need for hand-cranking a gas engine",
+        "Suddenly gas cars became easy to start for everyone, including women and less physically strong drivers",
+        "While gas cars improved and became cheaper, electric cars grew comparatively expensive",
+        "By the mid-1900s, electric cars had virtually disappeared; gasoline was cheap and gas stations were everywhere"
+      ],
+      "distractors": [
+        "The government passed a law banning electric cars in 1912",
+        "Electric cars exploded and were too dangerous to drive"
+      ],
+      "transitionWords": ["Around 1912", "Suddenly", "While gas cars improved", "By the mid-1900s", "firmly taken hold"]
+    },
+    {
+      "section": "resurgence",
+      "sectionTitle": "The Resurgence",
+      "mainIdea": "Environmental concerns and oil shortages in the 1960s–1970s revived interest in electric cars, and the invention of the hybrid — especially Toyota's Prius — proved that cleaner vehicles could be commercially successful.",
+      "keyDetails": [
+        "In the 1960s, Americans recognized the environmental cost of gas-guzzling vehicles producing thick smog",
+        "Oil shortages in the 1970s caused gas prices to soar; government funded research into efficient alternatives",
+        "In the 1990s, the hybrid emerged — combining an electric motor with a gasoline engine",
+        "Toyota's Prius (1997) became a breakthrough success proving hybrids could be commercially viable"
+      ],
+      "distractors": [
+        "Toyota's Prius was the first car to run entirely on steam power",
+        "Oil shortages in the 1970s made gasoline free for all drivers"
+      ],
+      "transitionWords": ["Beginning in the 1960s", "When oil shortages", "In the 1990s", "While driving at low speeds", "introduced in 1997"]
+    },
+    {
+      "section": "future",
+      "sectionTitle": "The Future of Electric Cars",
+      "mainIdea": "Companies like Tesla have built high-performance electric cars with long range, but batteries must improve and charging stations must become widespread before electric cars can fully replace gas vehicles.",
+      "keyDetails": [
+        "Tesla has produced fully electric cars with advanced lithium-ion batteries giving ranges over 200 miles",
+        "These cars accelerate rapidly, operate silently, and produce zero emissions, but remain expensive",
+        "Many countries plan to phase out gas-powered vehicles over the coming decades",
+        "Batteries must become lighter, charge faster, and store more energy; charging stations must become as widespread as gas stations"
+      ],
+      "distractors": [
+        "Tesla's electric cars still produce thick exhaust emissions while driving",
+        "All countries have already banned gas-powered vehicles as of this year"
+      ],
+      "transitionWords": ["More recently", "However", "Whether", "If these challenges are met", "Once such breakthroughs arrive"]
+    }
+  ],
+  "compareContrast": {
+    "title": "Comparing Early Vehicle Types",
+    "explanation": "Compare how electric cars, gasoline cars, and steam cars were alike and different. Fill in each cell with information from the section \"By Steam, Electricity, or Gas.\"",
+    "objects": [
+      "Electric Cars",
+      "Gasoline Cars",
+      "Steam Cars"
+    ],
+    "criteria": [
+      {
+        "name": "Smell / Exhaust",
+        "answers": [
+          "Clean-smelling; no exhaust",
+          "Smelly; produced exhaust fumes",
+          "Produced thick, pungent smoke"
+        ]
+      },
+      {
+        "name": "Noise level",
+        "answers": [
+          "Quiet operation",
+          "Noisy engine",
+          "Moderately noisy"
+        ]
+      },
+      {
+        "name": "Gear shifting",
+        "answers": [
+          "Simple controls; no gear shifting",
+          "Required manual gear shifting",
+          "Required gear shifting"
+        ]
+      },
+      {
+        "name": "Start-up time",
+        "answers": [
+          "Started easily (no cranking)",
+          "Required difficult hand-cranking",
+          "Required long warm-up times"
+        ]
+      },
+      {
+        "name": "Range",
+        "answers": [
+          "Limited to short distances",
+          "Could travel long distances",
+          "Could travel the farthest distance"
+        ]
+      },
+      {
+        "name": "Fuel availability",
+        "answers": [
+          "Needed recharging; limited stations",
+          "Gasoline at growing station network",
+          "Coal and water widely available"
+        ]
+      },
+      {
+        "name": "Relative cost",
+        "answers": [
+          "Comparatively expensive",
+          "Became cheaper over time",
+          "Moderately priced"
+        ]
+      }
+    ]
+  },
+  "grammar": {
+    "target": "complex-sentences",
+    "title": "Complex Sentences: Independent and Dependent Clauses",
+    "explanation": "A complex sentence has one independent clause (a complete thought) and at least one dependent clause (an incomplete thought). Subordinating conjunctions — such as although, when, while, because, if, since, before, after, and which — introduce dependent clauses and connect them to the independent clause.",
+    "rules": [
+      "An independent clause can stand alone as a complete sentence: Electric cars produce no exhaust.",
+      "A dependent clause cannot stand alone; it needs the independent clause: Although they are quiet, ...",
+      "Subordinating conjunctions introduce dependent clauses: although, when, while, because, if, since, before, after, which, who, as, rather than, whether, once",
+      "If the dependent clause comes FIRST, use a comma after it: When driving at low speeds, the car ran on electricity.",
+      "If the independent clause comes FIRST, no comma is usually needed: The car ran on electricity when driving at low speeds."
+    ],
+    "wordBuilding": [
+      {
+        "base": "independent + clause",
+        "answer": "An independent clause can stand alone as a complete sentence"
+      },
+      {
+        "base": "dependent + clause",
+        "answer": "A dependent clause cannot stand alone; it needs an independent clause"
+      },
+      {
+        "base": "subordinating + conjunction",
+        "answer": "A word that introduces a dependent clause: although, when, while, because, if, since"
+      },
+      {
+        "base": "complex + sentence",
+        "answer": "A sentence with one independent clause and at least one dependent clause"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "identify",
+        "sentence": "Although most people think of electric cars as a modern invention, their history actually stretches back more than a century.",
+        "answers": ["Although"],
+        "hint": "Which word introduces the dependent clause? (It's a subordinating conjunction that shows contrast.)"
+      },
+      {
+        "type": "identify",
+        "sentence": "When driving at low speeds, the car ran on electricity; when more power was needed, the gas engine automatically kicked in.",
+        "answers": ["When", "when"],
+        "hint": "Find both subordinating conjunctions that introduce dependent clauses telling WHEN something happened."
+      },
+      {
+        "type": "identify",
+        "sentence": "Around 1912, an inventor created the electric starter motor, which eliminated the need for hand-cranking a gas engine.",
+        "answers": ["which"],
+        "hint": "Which word introduces the dependent clause that gives extra information about the motor?"
+      },
+      {
+        "type": "identify",
+        "sentence": "Whether electric cars can fully replace gas-powered cars depends on several factors.",
+        "answers": ["Whether"],
+        "hint": "Which subordinating conjunction introduces the dependent clause presenting a condition/choice?"
+      },
+      {
+        "type": "identify",
+        "sentence": "If these challenges are met, the future of electric cars may be brighter than ever before.",
+        "answers": ["If"],
+        "hint": "Which word introduces the dependent clause showing a condition?"
+      },
+      {
+        "type": "multipleChoice",
+        "question": "Which word is the subordinating conjunction in this sentence?",
+        "sentence": "While gas cars improved and became cheaper, electric cars grew comparatively expensive.",
+        "options": [
+          "gas",
+          "While",
+          "improved",
+          "comparatively"
+        ],
+        "answer": 1,
+        "explanation": "'While' is the subordinating conjunction introducing the dependent clause 'While gas cars improved and became cheaper.' The independent clause is 'electric cars grew comparatively expensive.'"
+      },
+      {
+        "type": "multipleChoice",
+        "question": "Which part of this sentence is the independent clause?",
+        "sentence": "Because their batteries could store only limited energy, early electric cars had restricted range.",
+        "options": [
+          "Because their batteries could store only limited energy",
+          "early electric cars had restricted range",
+          "could store only limited energy",
+          "Because their batteries"
+        ],
+        "answer": 1,
+        "explanation": "'Early electric cars had restricted range' is the independent clause — it can stand alone as a complete thought. 'Because their batteries could store only limited energy' is the dependent clause."
+      },
+      {
+        "type": "fillBlank",
+        "sentence": "_____ most people think of electric cars as new, their history goes back over a century.",
+        "answer": "Although",
+        "explanation": "'Although' is a subordinating conjunction that introduces a dependent clause showing contrast with the independent clause."
+      },
+      {
+        "type": "fillBlank",
+        "sentence": "Electric cars had virtually disappeared _____ gasoline was cheap and gas stations were everywhere.",
+        "answer": "because",
+        "explanation": "'Because' is a subordinating conjunction that introduces a dependent clause giving the REASON (cause) for the independent clause."
+      },
+      {
+        "type": "fillBlank",
+        "sentence": "_____ oil shortages in the 1970s caused gasoline prices to soar, the government funded research into alternatives.",
+        "answer": "When",
+        "explanation": "'When' is a subordinating conjunction that introduces a dependent clause telling WHEN the government funded research."
+      }
+    ]
+  },
+  "wordWork": {
+    "target": "hyphenated-compound-adjectives",
+    "title": "Hyphenated Compound Adjectives",
+    "explanation": "A hyphenated compound adjective is two or more words joined by a hyphen (–) to describe a noun. The hyphen shows that the words work together as a single describing word. Example: a gas-powered car (gas + powered = one adjective describing 'car').",
+    "rules": [
+      "When two words together describe a noun, they are often joined with a hyphen: gas-electric, zero-emission",
+      "Hyphenated compound adjectives usually come BEFORE the noun they describe: a short-distance trip",
+      "The hyphen prevents confusion and shows the words are a team: 'a fast-moving vehicle' (not 'a fast vehicle that is moving')",
+      "Some compound adjectives become permanent and keep the hyphen: best-known, gas-guzzling",
+      "Do NOT add a hyphen when an adverb ends in -ly: 'fully electric' (not 'fully-electric')"
+    ],
+    "wordBuilding": [
+      {
+        "base": "gas + powered",
+        "answer": "gas-powered"
+      },
+      {
+        "base": "short + distance",
+        "answer": "short-distance"
+      },
+      {
+        "base": "zero + emission",
+        "answer": "zero-emission"
+      },
+      {
+        "base": "high + speed",
+        "answer": "high-speed"
+      },
+      {
+        "base": "best + known",
+        "answer": "best-known"
+      },
+      {
+        "base": "long + distance",
+        "answer": "long-distance"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "identify",
+        "sentence": "Gas-guzzling vehicles produced thick smog in major cities.",
+        "answers": ["Gas-guzzling"],
+        "hint": "Find the hyphenated compound adjective describing the vehicles."
+      },
+      {
+        "type": "identify",
+        "sentence": "Tesla's electric cars produce zero-emission exhaust.",
+        "answers": ["zero-emission"],
+        "hint": "Which hyphenated word describes the type of exhaust?"
+      },
+      {
+        "type": "identify",
+        "sentence": "Toyota's Prius is one of the best-known hybrids in the world.",
+        "answers": ["best-known"],
+        "hint": "Which hyphenated compound adjective describes 'hybrids'?"
+      },
+      {
+        "type": "multipleChoice",
+        "question": "Which sentence uses the hyphenated compound adjective correctly?",
+        "sentence": "",
+        "options": [
+          "The fully-electric car can travel 200 miles.",
+          "The fully electric car can travel 200 miles.",
+          "The full electric-ly car can travel 200 miles.",
+          "The fully electric-car can travel 200 miles."
+        ],
+        "answer": 1,
+        "explanation": "'Fully' is an adverb ending in -ly, so it is NOT hyphenated with 'electric.' Rule: do not add a hyphen when an adverb ends in -ly."
+      },
+      {
+        "type": "fillBlank",
+        "sentence": "The _____ (high / speed) battery can power the car for long trips.",
+        "answer": "high-speed",
+        "explanation": "'High-speed' is a hyphenated compound adjective. Two words join with a hyphen to describe the battery."
+      },
+      {
+        "type": "fillBlank",
+        "sentence": "Early electric cars could only make _____ (short / distance) trips within a city.",
+        "answer": "short-distance",
+        "explanation": "'Short-distance' is a hyphenated compound adjective describing the type of trips."
+      },
+      {
+        "type": "buildCompound",
+        "instruction": "Combine the two words to make a hyphenated compound adjective:",
+        "words": ["gas", "electric"],
+        "answer": "gas-electric",
+        "explanation": "'Gas-electric' is a compound adjective describing something that uses both gas and electric power (like a hybrid)."
+      },
+      {
+        "type": "buildCompound",
+        "instruction": "Combine the two words to make a hyphenated compound adjective:",
+        "words": ["long", "distance"],
+        "answer": "long-distance",
+        "explanation": "'Long-distance' describes trips or travel covering a great distance."
+      }
+    ]
+  },
+  "notes": {
+    "traffic": [
+      {
+        "type": "vocab",
+        "title": "Alternative",
+        "content": "An ALTERNATIVE is a different choice or option. When people say 'cleaner alternative,' they mean a choice that causes less pollution. What's the alternative to gas cars? Electric cars!"
+      },
+      {
+        "type": "grammar",
+        "title": "Complex Sentence Alert!",
+        "content": "\"Although most people think of electric cars as a modern invention, their history actually stretches back more than a century.\" → Find the dependent clause (Although...) and independent clause (their history...). The subordinating conjunction is ALTHOUGH."
+      },
+      {
+        "type": "compareContrast",
+        "title": "Gas vs. Electric",
+        "content": "From the very first page, the book is setting up a COMPARE & CONTRAST between gas cars (polluted air, noisy engines) and electric cars (cleaner alternative). Keep track of how each type is described!"
+      }
+    ],
+    "whatIs": [
+      {
+        "type": "vocab",
+        "title": "Exhaust & Emissions",
+        "content": "EXHAUST = waste gases from a burning engine. EMISSIONS = gases/particles released into the air. Together: 'exhaust emissions' = the polluted gas coming out of a car's tailpipe. Electric cars have NO tailpipe = ZERO exhaust emissions!"
+      },
+      {
+        "type": "vocab",
+        "title": "Efficient",
+        "content": "EFFICIENT means getting the most results with the least waste. An efficient car uses energy without wasting it. Which is more efficient — an electric motor or a gas engine?"
+      },
+      {
+        "type": "summarize",
+        "title": "Main Idea + Key Details",
+        "content": "To SUMMARIZE this section: Electric cars use batteries + motor (not gas), produce no exhaust, but must be recharged. Key details: rechargeable batteries, electric motor, no tailpipe, zero emissions, limited range."
+      }
+    ],
+    "early": [
+      {
+        "type": "vocab",
+        "title": "Flamboyant",
+        "content": "FLAMBOYANT = showy, bold, designed to attract attention! Early electric cars had flamboyant designs because wealthy buyers wanted fancy, eye-catching vehicles."
+      },
+      {
+        "type": "grammar",
+        "title": "Subordinating Conjunction: 'which'",
+        "content": "\"They did not require hand-cranking to start, WHICH made them much easier to operate.\" → 'WHICH' introduces a dependent clause giving extra information about the whole previous idea. This is a complex sentence!"
+      },
+      {
+        "type": "evidence",
+        "title": "Cause & Effect",
+        "content": "CAUSE: Batteries could store only limited energy. EFFECT: Range was restricted to short distances. This explains WHY electric cars eventually lost to gas cars!"
+      }
+    ],
+    "bySteam": [
+      {
+        "type": "vocab",
+        "title": "Pungent",
+        "content": "PUNGENT = having a sharply strong, often unpleasant smell. Steam cars produced 'pungent smoke' — sharp, acrid smoke that irritated people nearby. Think: pungent = powerful smell!"
+      },
+      {
+        "type": "compareContrast",
+        "title": "Three Vehicle Types!",
+        "content": "This section compares THREE types of vehicles. Make a chart: STEAM (farthest range but long warm-up, pungent smoke), ELECTRIC (quiet, clean but short range), GAS (noisy, smelly, but gas was AVAILABLE). Which one won? Why?"
+      },
+      {
+        "type": "grammar",
+        "title": "'As' = Subordinating Conjunction",
+        "content": "\"As filling stations spread across the country, consumers increasingly favored gas-powered vehicles.\" → 'AS' introduces the dependent clause telling WHEN/WHY consumers switched. Complex sentence!"
+      }
+    ],
+    "decline": [
+      {
+        "type": "vocab",
+        "title": "Environment",
+        "content": "The ENVIRONMENT = the natural world around us: air, water, land. When the book talks about the 'environmental cost' of cars, it means the DAMAGE done to nature by pollution."
+      },
+      {
+        "type": "evidence",
+        "title": "The Turning Point: Starter Motor",
+        "content": "The ELECTRIC STARTER MOTOR (around 1912) was the turning point! Before: gas cars needed difficult hand-cranking. After: ANYONE could start a gas car. This one invention sealed the fate of early electric cars."
+      },
+      {
+        "type": "grammar",
+        "title": "'While' Shows Contrast",
+        "content": "\"WHILE gas cars improved and became cheaper, electric cars grew comparatively expensive.\" → 'WHILE' = subordinating conjunction showing contrast. Compare: gas cars got CHEAPER while electric cars got MORE EXPENSIVE."
+      }
+    ],
+    "resurgence": [
+      {
+        "type": "vocab",
+        "title": "Hybrid",
+        "content": "A HYBRID combines TWO things! A hybrid car = electric motor + gas engine. It switches between them: electricity at low speeds, gas at high speeds. Best of BOTH worlds!"
+      },
+      {
+        "type": "vocab",
+        "title": "Breakthrough & Mobility",
+        "content": "BREAKTHROUGH = a sudden, important advance. The Prius was a breakthrough — it proved hybrids could actually SELL! MOBILITY = ability to move freely. Hybrids gave people mobility WITHOUT the pollution."
+      },
+      {
+        "type": "summarize",
+        "title": "The Resurgence Story Arc",
+        "content": "SUMMARIZE in 4 steps: (1) 1960s: smog + pollution → concern. (2) 1970s: oil shortages → high gas prices → research funding. (3) 1990s: hybrids emerge (electric + gas). (4) 1997: Toyota Prius = breakthrough success!"
+      }
+    ],
+    "future": [
+      {
+        "type": "vocab",
+        "title": "Atoms & Chemical Reaction",
+        "content": "ATOMS are the tiny particles making up ALL matter. A CHEMICAL REACTION is when substances change into NEW substances. Inside every battery, chemical reactions between atoms store and release energy!"
+      },
+      {
+        "type": "grammar",
+        "title": "'If' Shows Condition",
+        "content": "\"IF these challenges are met, the future of electric cars may be brighter than ever before.\" → 'IF' introduces a CONDITION — the future depends on whether the challenges are solved. Complex sentence!"
+      },
+      {
+        "type": "evidence",
+        "title": "What Must Change?",
+        "content": "The book lists what must happen for electric cars to dominate: (1) lighter batteries, (2) faster charging, (3) more energy storage, (4) widespread charging stations. These are the CHALLENGES that remain!"
+      }
+    ]
+  }
+}

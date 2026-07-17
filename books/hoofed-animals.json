@@ -1,0 +1,873 @@
+{
+  "meta": {
+    "id": "hoofed-animals",
+    "title": "Hoofed Animals",
+    "level": "W",
+    "author": "Kira Freed",
+    "focusQuestion": "What are ungulates, and how are they grouped?",
+    "lpReadingStrategy": "Summarize",
+    "lpComprehensionSkill": "Main Idea and Details",
+    "lpGrammar": "Adjectives",
+    "lpWordWork": "Content vocabulary"
+  },
+  "activities": [
+    "read",
+    "evidence",
+    "summarize",
+    "vocabulary",
+    "typing",
+    "grammar"
+  ],
+  "sections": [
+    {
+      "id": "whatAre",
+      "title": "What Are Hoofed Animals?",
+      "paragraphs": [
+        "Hoofed animals are among the most graceful creatures on Earth. Large, powerful, and designed for speed, they are beautiful and fascinating. In addition to admiring them in the wild, humans have visited them in zoos, hunted them, and kept them as sources of milk, meat, wool, labor, transportation, and companionship.",
+        "Hoofed animals all belong to a group of mammals called ungulates (UN-gyu-luts). All modern ungulates are related to an extinct group of hoofed mammals that lived 65 million years ago. Ungulates have hooves made of a material called keratin covering their toes. Hooves are like giant toenails that serve as protection for their feet.",
+        "Most hoofed animals are herbivores (plant eaters), and many of them are food for carnivores (meat eaters). One of their primary challenges in life is to flee fast enough to avoid being killed by predators such as humans, lions, wolves, and hyenas. Because they need to run, hoofed animals have long, strong legs and feet.",
+        "Hoofed animals' skeletons are specially shaped to help them run quickly. A human foot has five separate bones connecting the toes to the ankle, but many hoofed animals instead have one long, solid bone connecting the toes (hoof) to the ankle. This solid bone, called a cannon bone, makes hoofed animals' legs longer to help them run farther and faster. The cannon bones also make hoofed animals' legs more solid and stable to better support their weight.",
+        "Scientists place hoofed animals into two different groups based on whether the animals walk on an odd or even number of toes. We'll look at these two groups separately, including some well-known members of each group."
+      ]
+    },
+    {
+      "id": "oddToed",
+      "title": "Odd-Toed Ungulates",
+      "paragraphs": [
+        "Odd-toed ungulates include rhinoceroses, horses, zebras, donkeys, and several other animals. Rhinos have three toes on each foot, while the horselike ungulates have just one toe (their hoof) on each foot.",
+        "These animals primarily inhabit warm environments around the world. They live in a variety of habitats, including forests, grasslands, and deserts. The food they eat—grasses and other plants—is difficult to digest, and their stomachs require the assistance of tiny bacteria to break it down.",
+        "Horses — The only truly wild horses alive today inhabit the dry grasslands of Eurasia. The \"wild\" horses living in North and South America and Australia actually are domesticated breeds that have escaped human control and grown wild. Horses can survive in environments with little food and water, but they must spend most of their time grazing to take in enough grass—and nutrients—to survive.",
+        "Before machinery became commonplace, horses pulled wagons and plowed fields. In modern times, horse lovers keep them for companionship, riding, and racing.",
+        "Zebras — All wild zebras live in Africa, and they primarily eat tall grasses. Aside from their famous stripes, zebras are similar to horses in appearance. The main enemies of zebras are lions, hyenas, and wild dogs, as well as humans who hunt them for their skins. There are three main kinds of zebras: plains, desert, and mountain zebras. Some species of zebras are severely endangered.",
+        "Rhinoceroses — The rhino, which is native to parts of Africa and Asia, is another ungulate that is seriously endangered. Few rhinos are still alive in the wild; most now live on protected land, including national parks and nature preserves. Rhinos live on plains and in forested and swampy areas, where they consume grasses, leaves, and other plants.",
+        "Rhinos are the second-largest land mammals after elephants. Rhinos are easy to recognize by the horns on their noses, their large heads, and their massive bodies covered with dark, leathery skin. Rhino horns are made of keratin, the same material as hooves. Some kinds of rhinos have one horn, while other kinds have two."
+      ]
+    },
+    {
+      "id": "evenToed",
+      "title": "Even-Toed Ungulates",
+      "paragraphs": [
+        "Even-toed ungulates are a large group of animals that includes deer, cattle, sheep, goats, antelope, camels, hippos, and giraffes. Some even-toed ungulates, such as camels, have only two toes on each foot, while others, such as hippos, have four toes on each foot.",
+        "Even-toed ungulates, one of the most numerous groups of mammals on Earth, are native to every continent except Australia and Antarctica. They are what scientists call \"successful\" animals, meaning they have reproduced, spread out, and adapted to a wide variety of environments.",
+        "Pigs and hogs, called swine, are intelligent omnivores (eating both plants and animals) with round, stocky bodies, long heads with a flexible snout, and tusks that point up. They have four toes on each foot, with the middle two being the largest. Swine originally lived in the wild in Europe, Asia, and northern Africa.",
+        "They are now raised throughout the world as a food animal and are hunted in the wild.",
+        "Giraffes are inhabitants of African grasslands that have permanent short, bony horns covered by furry skin that is never shed. Giraffes are famous for their unusually long necks, their pattern of spots, and their long blue-gray tongues. Male giraffes compete with each other for dominance by wrestling with their necks and hammering each other with their heads.",
+        "Hippos are large, heavy African animals that spend most of their time in water. They don't really swim, but instead walk on the bottoms of lakes and rivers. They have slightly webbed feet with four toes and huge teeth that point up. Their herbivorous diet consists of grasses, leaves, fallen fruit, and other plants, most of which grow underwater.",
+        "Camels are large herbivorous animals that have long, curved necks, one or two humps on their backs, and two toes on each foot. One-humped camels live in deserts in the Middle East, India, and North Africa, while two-humped camels live in deserts and windy grasslands in central Asia. Both kinds of camels are well suited to habitats where food and water are scarce. Camels store fat in their humps, which helps them to survive when they must endure long periods of time without food. Few camels still exist in the wild; most are kept as pack animals, and one-humped camels are also used for riding.",
+        "Pronghorn antelopes are herbivores that inhabit the grasslands of North America. Males and females both have permanent one-spiked, or pronged, horns made of bone and covered by a layer of fused hairs, which is shed each year. Pronghorns are extremely fast, and healthy adults can easily outrun predators. The most serious threat to pronghorn survival occurs in the first two months of life, when coyotes kill fawns in large numbers.",
+        "Deer, including elk, moose, and caribou, are herbivores. Some are grazers (eating mostly grass), but most are browsers (eating leaves, shoots, twigs, and other plant parts). Deer are found in many habitats around the world, including grasslands, forests, rainforests, and tundra. Many deer migrate with the changing seasons to locate food.",
+        "Most male deer grow antlers, which are made of bone and covered in furry skin called velvet while they are growing. Antlers grow before the mating season, fall off after it, and grow again the following year. Caribou are the only kind of deer in which the females have antlers.",
+        "Cattle, sheep, goats, and antelopes vary widely in shape and coloring; however, they all share the feature of growing permanent horns made of bone and covered with a layer of keratin. All the males of this group and some females have horns; each horn is always a single spike. The horns can be simple, curved, or spiral in shape, and antelopes often have horns that are elaborately shaped. Many domesticated animals in this group are kept for milk, meat, and wool."
+      ]
+    },
+    {
+      "id": "conclusion",
+      "title": "Conclusion",
+      "paragraphs": [
+        "Ungulates are diverse creatures, each with a unique body and lifestyle that make it perfectly suited to the habitat in which it lives. Many ungulates, such as swine, sheep, and cattle, are raised in great numbers for food, milk, and hides. But many wild ungulates, such as the rhino, are endangered and survive only in captivity. Others are at risk of suffering the same fate because of environmental destruction, hunting, and other threats to their well-being. Habitat preservation and respect for life will allow these amazing animals to continue to survive into the future."
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "cannon bone",
+      "pos": "n.",
+      "definition": "the long, single foot bone found in hoofed animals that connects the toes to the ankle",
+      "section": "whatAre",
+      "sentence": "This solid bone, called a cannon bone, makes hoofed animals' legs longer to help them run farther and faster.",
+      "quiz": {
+        "prompt": "A \"cannon bone\" is:",
+        "options": [
+          "the long, single bone connecting the hoof to the ankle",
+          "the joint that connects the hoof to the lower leg",
+          "a type of hoof covering made of a strong material",
+          "a small bone found only in the toes of some animals"
+        ],
+        "answer": 0
+      },
+      "fillInOptions": [
+        "foot bone",
+        "leg bone",
+        "back bone"
+      ]
+    },
+    {
+      "word": "carnivores",
+      "pos": "n.",
+      "definition": "animals that only eat meat",
+      "section": "whatAre",
+      "sentence": "Most hoofed animals are herbivores (plant eaters), and many of them are food for carnivores (meat eaters).",
+      "quiz": {
+        "prompt": "\"Carnivores\" are:",
+        "options": [
+          "animals that eat both plants and meat",
+          "animals that only eat meat",
+          "animals that eat only plants and grasses",
+          "animals that feed on fruits and nuts"
+        ],
+        "answer": 1
+      },
+      "fillInOptions": [
+        "meat-eaters",
+        "plant-eaters",
+        "omnivores"
+      ]
+    },
+    {
+      "word": "fused",
+      "pos": "adj.",
+      "definition": "joined together",
+      "section": "evenToed",
+      "sentence": "Males and females both have permanent one-spiked, or pronged, horns made of bone and covered by a layer of fused hairs, which is shed each year.",
+      "quiz": {
+        "prompt": "When something is \"fused,\" it is:",
+        "options": [
+          "separated into many small parts",
+          "broken and unable to grow back",
+          "joined together into one unit",
+          "covered with a thick layer of skin"
+        ],
+        "answer": 2
+      },
+      "fillInOptions": [
+        "joined",
+        "separated",
+        "broken"
+      ]
+    },
+    {
+      "word": "herbivores",
+      "pos": "n.",
+      "definition": "animals that only eat plants",
+      "section": "whatAre",
+      "sentence": "Most hoofed animals are herbivores (plant eaters), and many of them are food for carnivores (meat eaters).",
+      "quiz": {
+        "prompt": "\"Herbivores\" are:",
+        "options": [
+          "animals that only eat meat and fish",
+          "animals that eat both plants and animals",
+          "animals that hunt other animals for food",
+          "animals that only eat plants"
+        ],
+        "answer": 3
+      },
+      "fillInOptions": [
+        "plant-eaters",
+        "meat-eaters",
+        "omnivores"
+      ]
+    },
+    {
+      "word": "omnivores",
+      "pos": "n.",
+      "definition": "animals that eat both plants and other animals",
+      "section": "evenToed",
+      "sentence": "Pigs and hogs, called swine, are intelligent omnivores (eating both plants and animals) with round, stocky bodies.",
+      "quiz": {
+        "prompt": "\"Omnivores\" are:",
+        "options": [
+          "animals that eat both plants and other animals",
+          "animals that only eat grasses and leaves",
+          "animals that eat only meat from hunting",
+          "animals that feed on underwater plants"
+        ],
+        "answer": 0
+      },
+      "fillInOptions": [
+        "both-eaters",
+        "plant-eaters",
+        "meat-eaters"
+      ]
+    },
+    {
+      "word": "ungulates",
+      "pos": "n.",
+      "definition": "animals with hooves",
+      "section": "whatAre",
+      "sentence": "Hoofed animals all belong to a group of mammals called ungulates.",
+      "quiz": {
+        "prompt": "\"Ungulates\" are:",
+        "options": [
+          "animals that live only in warm environments",
+          "animals with hooves",
+          "animals that have permanent horns",
+          "animals that migrate with the seasons"
+        ],
+        "answer": 1
+      },
+      "fillInOptions": [
+        "hoofed animals",
+        "scaled animals",
+        "feathered animals"
+      ]
+    },
+    {
+      "word": "browsers",
+      "pos": "n.",
+      "definition": "animals that eat leaves, shoots, twigs, and other plant parts",
+      "section": "evenToed",
+      "sentence": "Some are grazers (eating mostly grass), but most are browsers (eating leaves, shoots, twigs, and other plant parts).",
+      "quiz": {
+        "prompt": "\"Browsers\" are:",
+        "options": [
+          "animals that eat leaves, shoots, twigs, and other plant parts",
+          "animals that feed mostly on grass near ground level",
+          "animals that hunt small prey in forests",
+          "animals that eat only fruits and berries"
+        ],
+        "answer": 0
+      },
+      "fillInOptions": [
+        "leaf-eaters",
+        "grass-eaters",
+        "meat-eaters"
+      ]
+    },
+    {
+      "word": "domesticated",
+      "pos": "adj.",
+      "definition": "of or relating to animals that are raised for human use",
+      "section": "oddToed",
+      "sentence": "The \"wild\" horses living in North and South America and Australia actually are domesticated breeds that have escaped human control and grown wild.",
+      "quiz": {
+        "prompt": "\"Domesticated\" means:",
+        "options": [
+          "living freely in the wild with no human contact",
+          "of or relating to animals raised for human use",
+          "having hooves made of strong keratin",
+          "feeding only on grasses and other plants"
+        ],
+        "answer": 1
+      },
+      "fillInOptions": [
+        "tamed",
+        "wild",
+        "feral"
+      ]
+    },
+    {
+      "word": "grazers",
+      "pos": "n.",
+      "definition": "animals that feed on grass or other plants that grow near ground level",
+      "section": "evenToed",
+      "sentence": "Some are grazers (eating mostly grass), but most are browsers (eating leaves, shoots, twigs, and other plant parts).",
+      "quiz": {
+        "prompt": "\"Grazers\" are:",
+        "options": [
+          "animals that feed on grass or other plants near ground level",
+          "animals that eat leaves and shoots from tall trees",
+          "animals that hunt prey in open grasslands",
+          "animals that store fat for long periods of time"
+        ],
+        "answer": 0
+      },
+      "fillInOptions": [
+        "grass-eaters",
+        "leaf-eaters",
+        "meat-eaters"
+      ]
+    },
+    {
+      "word": "keratin",
+      "pos": "n.",
+      "definition": "a strong material produced by the bodies of some animals that makes up hair, hooves, claws, feathers, and fingernails",
+      "section": "whatAre",
+      "sentence": "Ungulates have hooves made of a material called keratin covering their toes.",
+      "quiz": {
+        "prompt": "\"Keratin\" is:",
+        "options": [
+          "a type of bacteria that helps digest food",
+          "a strong material that makes up hair, hooves, and claws",
+          "a special bone found in the legs of hoofed animals",
+          "a type of plant that grows in warm environments"
+        ],
+        "answer": 1
+      },
+      "fillInOptions": [
+        "protein",
+        "mineral",
+        "vitamin"
+      ]
+    },
+    {
+      "word": "successful",
+      "pos": "adj.",
+      "definition": "having the desired result; ending in success; well adapted to the environment",
+      "section": "evenToed",
+      "sentence": "They are what scientists call \"successful\" animals, meaning they have reproduced, spread out, and adapted to a wide variety of environments.",
+      "quiz": {
+        "prompt": "When scientists call even-toed ungulates \"successful,\" they mean the animals:",
+        "options": [
+          "have reproduced, spread out, and adapted to many environments",
+          "have failed to find enough food in new habitats",
+          "are struggling to survive in changing climates",
+          "are decreasing in number over time"
+        ],
+        "answer": 0
+      },
+      "fillInOptions": [
+        "thriving",
+        "failing",
+        "struggling"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "level": 1,
+      "question": "To what part of the human body does the author compare hooves?",
+      "section": "whatAre",
+      "pages": "4",
+      "evidence": "Hooves are like giant toenails that serve as protection for their feet.",
+      "choices": [
+        "toenails",
+        "fingerprints",
+        "muscles",
+        "kneecaps"
+      ],
+      "correctChoice": 0,
+      "explanation": "The author writes that hooves are 'like giant toenails' — both are made of keratin and serve as protective coverings."
+    },
+    {
+      "id": "q2",
+      "level": 1,
+      "question": "What is the main purpose of hooves?",
+      "section": "whatAre",
+      "pages": "4",
+      "evidence": "Hooves are like giant toenails that serve as protection for their feet.",
+      "choices": [
+        "speed",
+        "comfort",
+        "beauty",
+        "protection"
+      ],
+      "correctChoice": 3,
+      "explanation": "The text states that hooves 'serve as protection for their feet.' They are like giant toenails that shield the toes."
+    },
+    {
+      "id": "q3",
+      "level": 1,
+      "question": "Most predators are:",
+      "section": "whatAre",
+      "pages": "5",
+      "evidence": "Most hoofed animals are herbivores (plant eaters), and many of them are food for carnivores (meat eaters).",
+      "choices": [
+        "ungulates",
+        "browsers",
+        "carnivores",
+        "grazers"
+      ],
+      "correctChoice": 2,
+      "explanation": "Predators such as lions, wolves, and hyenas are carnivores — animals that eat meat. The book says hoofed animals are food for carnivores."
+    },
+    {
+      "id": "q4",
+      "level": 1,
+      "question": "How are horses and rhinoceroses alike?",
+      "section": "oddToed",
+      "pages": "6",
+      "evidence": "Rhinos have three toes on each foot, while the horselike ungulates have just one toe (their hoof) on each foot.",
+      "choices": [
+        "They have a single toe on each foot.",
+        "They have an odd number of toes on each foot.",
+        "They have four toes on each foot.",
+        "They have webbed feet for swimming."
+      ],
+      "correctChoice": 1,
+      "explanation": "Both horses (one toe) and rhinos (three toes) belong to the odd-toed ungulate group. Three and one are both odd numbers."
+    },
+    {
+      "id": "q5",
+      "level": 2,
+      "question": "What was the author's main purpose for writing Hoofed Animals?",
+      "section": "whatAre",
+      "pages": "4–15",
+      "evidence": "The book provides factual information about ungulates — their bodies, habitats, diets, and grouping into odd-toed and even-toed groups.",
+      "choices": [
+        "to persuade readers to help protect endangered ungulates",
+        "to entertain readers with exciting stories about wild animals",
+        "to compare how fast different ungulates can run",
+        "to inform readers about different kinds of ungulates"
+      ],
+      "correctChoice": 3,
+      "explanation": "The book is primarily informative. It teaches readers about what ungulates are, how they are grouped, and facts about specific animals. While it mentions endangered species, persuasion is not the main purpose."
+    },
+    {
+      "id": "q6",
+      "level": 2,
+      "question": "Read this sentence: 'Pronghorn antelopes are herbivores that inhabit the grasslands of North America.' What is an herbivore?",
+      "section": "whatAre",
+      "pages": "5",
+      "evidence": "Most hoofed animals are herbivores (plant eaters).",
+      "choices": [
+        "an animal that eats meat",
+        "an animal that eats both plants and meat",
+        "an animal that eats plants",
+        "an animal that hunts at night"
+      ],
+      "correctChoice": 2,
+      "explanation": "The book defines herbivores as 'plant eaters.' The word 'herb' refers to plants, and '-vore' refers to eating."
+    },
+    {
+      "id": "q7",
+      "level": 2,
+      "question": "Which sentence tells the author's point of view about hoofed animals?",
+      "section": "whatAre",
+      "pages": "4",
+      "evidence": "Hoofed animals are among the most graceful creatures on Earth. Large, powerful, and designed for speed, they are beautiful and fascinating.",
+      "choices": [
+        "A human foot has five separate bones connecting the toes to the ankle.",
+        "Hoofed animals are among the most graceful creatures on Earth.",
+        "All wild zebras live in Africa, and they primarily eat tall grasses.",
+        "Rhinos are the second-largest land mammals after elephants."
+      ],
+      "correctChoice": 1,
+      "explanation": "Calling hoofed animals 'graceful,' 'beautiful,' and 'fascinating' shows the author's feelings and opinions — this is point of view. The other choices are just facts."
+    },
+    {
+      "id": "q8",
+      "level": 2,
+      "question": "Read this sentence: 'The \"wild\" horses living in North and South America and Australia actually are domesticated breeds that have escaped human control.' What does 'domesticated' mean?",
+      "section": "oddToed",
+      "pages": "7",
+      "evidence": "Glossary: domesticated — of or relating to animals that are raised for human use.",
+      "choices": [
+        "living freely in the wild with no human contact",
+        "having hooves made of strong keratin",
+        "feeding only on grasses and other plants",
+        "of or relating to animals raised for human use"
+      ],
+      "correctChoice": 3,
+      "explanation": "'Domesticated' means animals that are raised for human use. The book notes that so-called 'wild' horses in the Americas are actually domesticated breeds that escaped — meaning their ancestors were raised by humans."
+    },
+    {
+      "id": "q9",
+      "level": 2,
+      "question": "In what way are the hooves of an antelope and the horn of a rhinoceros alike?",
+      "section": "oddToed",
+      "pages": "9, 14",
+      "evidence": "Rhino horns are made of keratin, the same material as hooves. / Cattle, sheep, goats, and antelopes all share the feature of growing permanent horns made of bone and covered with a layer of keratin.",
+      "choices": [
+        "They are made of the same material.",
+        "They are the same shape and size.",
+        "They serve the exact same purpose.",
+        "They grow at the same rate."
+      ],
+      "correctChoice": 0,
+      "explanation": "Both antelope horns and rhino horns contain keratin — the same strong material that makes up hooves. They differ in shape, size, and purpose."
+    },
+    {
+      "id": "q10",
+      "level": 1,
+      "question": "Where do most rhinoceroses live today?",
+      "section": "oddToed",
+      "pages": "9",
+      "evidence": "Few rhinos are still alive in the wild; most now live on protected land, including national parks and nature preserves.",
+      "choices": [
+        "in the open wild",
+        "on farms and ranches",
+        "on protected land",
+        "in zoos worldwide"
+      ],
+      "correctChoice": 2,
+      "explanation": "The book states that most rhinos now live 'on protected land, including national parks and nature preserves' because they are seriously endangered."
+    },
+    {
+      "id": "q11",
+      "level": 3,
+      "question": "Why do scientists refer to even-toed ungulates as \"successful\" animals? Use evidence from the text to support your answer.",
+      "section": "evenToed",
+      "pages": "10",
+      "evidence": "",
+      "choices": [],
+      "correctChoice": -1,
+      "explanation": "Scientists call even-toed ungulates 'successful' because they have reproduced in large numbers, spread to every continent except Australia and Antarctica, and adapted to many different environments. They are one of the most numerous groups of mammals on Earth.",
+      "opinionPrompts": [
+        "What does the word 'successful' mean in science?",
+        "What evidence from the text shows that even-toed ungulates have adapted well?",
+        "How does the author's use of the word 'successful' help you understand these animals?"
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "title": "What Makes an Animal an Ungulate?",
+      "context": "The author explains what hoofed animals are and what features they share.",
+      "choices": {
+        "claim": [
+          "Ungulates are a type of bird found only in Africa",
+          "Ungulates are mammals with hooves made of keratin",
+          "Ungulates are reptiles that lived 65 million years ago",
+          "Ungulates are fish that swim in warm oceans"
+        ],
+        "evidence": [
+          "The text says they have 'long, strong legs and feet' for running",
+          "The text says 'Hoofed animals all belong to a group of mammals called ungulates' with 'hooves made of a material called keratin'",
+          "The text says they 'inhabit warm environments around the world'",
+          "The text says they 'eat grasses and other plants'"
+        ],
+        "reasoning": [
+          "The author lists physical traits to help readers identify ungulates",
+          "The author compares ungulates to non-ungulates to show differences",
+          "The author uses humor to make the topic more interesting",
+          "The author tells a story about one specific ungulate"
+        ]
+      },
+      "answers": {
+        "claim": 1,
+        "evidence": 1,
+        "reasoning": 0
+      }
+    },
+    {
+      "title": "How Hoofed Animals Are Built for Speed",
+      "context": "The author describes the skeletal adaptations that help hoofed animals run fast to escape predators.",
+      "choices": {
+        "claim": [
+          "Hoofed animals have short legs that help them hide",
+          "Hoofed animals have five separate bones in each foot",
+          "Hoofed animals have a cannon bone that makes legs longer and more stable",
+          "Hoofed animals have webbed feet for running through water"
+        ],
+        "evidence": [
+          "The text says they 'spend most of their time grazing'",
+          "The text says 'A human foot has five separate bones... but many hoofed animals instead have one long, solid bone... called a cannon bone'",
+          "The text says they 'consume grasses, leaves, and other plants'",
+          "The text says they 'have permanent short, bony horns'"
+        ],
+        "reasoning": [
+          "The author uses comparison with human anatomy to explain how the cannon bone helps ungulates run",
+          "The author tells a personal story about watching horses run",
+          "The author lists all the predators that chase hoofed animals",
+          "The author explains how ungulates digest their food"
+        ]
+      },
+      "answers": {
+        "claim": 2,
+        "evidence": 1,
+        "reasoning": 0
+      }
+    },
+    {
+      "title": "Odd-Toed vs. Even-Toed Ungulates",
+      "context": "The book divides ungulates into two groups based on the number of toes.",
+      "choices": {
+        "claim": [
+          "All ungulates have the same number of toes on each foot",
+          "Odd-toed ungulates include rhinos, horses, and zebras, while even-toed ungulates include deer, cattle, and camels",
+          "Only even-toed ungulates live in Africa",
+          "Odd-toed ungulates eat meat, while even-toed ungulates eat plants"
+        ],
+        "evidence": [
+          "The text says rhinos have three toes and horselike ungulates have one toe, while even-toed ungulates include deer and camels",
+          "The text says all ungulates eat grasses and plants",
+          "The text says all ungulates live in forests",
+          "The text says only odd-toed ungulates have hooves"
+        ],
+        "reasoning": [
+          "The author uses a problem-solution structure to explain why ungulates need hooves",
+          "The author compares and contrasts two groups to help readers understand their differences",
+          "The author tells a chronological story about how ungulates evolved",
+          "The author persuades readers to protect endangered species"
+        ]
+      },
+      "answers": {
+        "claim": 1,
+        "evidence": 0,
+        "reasoning": 1
+      }
+    },
+    {
+      "title": "Why Many Wild Ungulates Are Endangered",
+      "context": "The conclusion discusses threats to wild ungulates and the importance of habitat preservation.",
+      "choices": {
+        "claim": [
+          "All ungulates are thriving and none are at risk",
+          "Only domesticated ungulates face danger from humans",
+          "Many wild ungulates are endangered due to environmental destruction and hunting",
+          "Ungulates are endangered because they cannot adapt to any environment"
+        ],
+        "evidence": [
+          "The text says 'Habitat preservation and respect for life will allow these amazing animals to continue to survive'",
+          "The text says 'many wild ungulates, such as the rhino, are endangered and survive only in captivity'",
+          "The text says ungulates are 'raised in great numbers for food, milk, and hides'",
+          "The text says even-toed ungulates are 'successful' animals"
+        ],
+        "reasoning": [
+          "The author uses humor to make the topic enjoyable for young readers",
+          "The author tells a fictional story about one endangered rhino",
+          "The author compares domesticated and wild ungulates to show only wild ones need help",
+          "The author presents a problem (endangered species) and suggests a solution (habitat preservation)"
+        ]
+      },
+      "answers": {
+        "claim": 2,
+        "evidence": 1,
+        "reasoning": 3
+      }
+    }
+  ],
+  "summarize": [
+    {
+      "section": "whatAre",
+      "title": "What Are Hoofed Animals?",
+      "keyPoints": [
+        "Hoofed animals (ungulates) are mammals with hooves made of keratin",
+        "Most are herbivores that need to run fast to escape carnivores",
+        "They have a cannon bone that makes legs longer and more stable",
+        "Scientists group them into odd-toed and even-toed ungulates"
+      ],
+      "prompt": "Using the key points above, write a paragraph summarizing what hoofed animals are and how they are grouped. Include the main idea and at least two supporting details."
+    },
+    {
+      "section": "oddToed",
+      "title": "Odd-Toed Ungulates",
+      "keyPoints": [
+        "Odd-toed ungulates include rhinos (3 toes), horses, zebras, and donkeys (1 toe)",
+        "They inhabit warm environments: forests, grasslands, and deserts",
+        "Wild horses are now rare; most 'wild' horses are escaped domesticated breeds",
+        "Rhinos are seriously endangered and mostly live on protected land"
+      ],
+      "prompt": "Using the key points above, write a summary of the odd-toed ungulates section. Mention the animals included, their habitats, and the conservation challenges they face."
+    },
+    {
+      "section": "evenToed",
+      "title": "Even-Toed Ungulates",
+      "keyPoints": [
+        "Even-toed ungulates include deer, cattle, sheep, goats, antelope, camels, hippos, and giraffes",
+        "They are found on every continent except Australia and Antarctica",
+        "Scientists call them 'successful' because they have adapted to many environments",
+        "Different even-toed ungulates have unique features: swine are omnivores, giraffes have long necks, camels store fat in humps"
+      ],
+      "prompt": "Using the key points above, write a summary of the even-toed ungulates section. Explain why they are called 'successful' and describe the variety of animals in this group."
+    },
+    {
+      "section": "conclusion",
+      "title": "Conclusion",
+      "keyPoints": [
+        "Ungulates are diverse and each is suited to its habitat",
+        "Many domesticated ungulates are raised for food, milk, and hides",
+        "Wild ungulates like rhinos are endangered",
+        "Habitat preservation is needed to protect these animals"
+      ],
+      "prompt": "Using the key points above, write a summary of the conclusion. What is the author's main message about ungulates and their future?"
+    }
+  ],
+  "notes": {
+    "whatAre": [
+      {
+        "type": "vocab",
+        "title": "Ungulates & Keratin",
+        "content": "UNGULATES = animals with hooves. KERATIN = the strong protein that makes up hooves, hair, claws, and fingernails. Remember: your fingernails are made of the same stuff as a horse's hoof!"
+      },
+      {
+        "type": "vocab",
+        "title": "Herbivores vs. Carnivores",
+        "content": "HERBIVORES eat PLANTS (herb = plant). CARNIVORES eat MEAT (carni = flesh). Most hoofed animals are herbivores — but they are food FOR carnivores like lions and wolves!"
+      },
+      {
+        "type": "grammar",
+        "title": "Adjective: Graceful",
+        "content": "\"Hoofed animals are among the most graceful creatures on Earth.\" GRACEFUL is an adjective — it describes the noun 'creatures.' What other adjectives can you find?"
+      },
+      {
+        "type": "evidence",
+        "title": "Cannon Bone vs. Human Foot",
+        "content": "The author COMPARES a human foot (5 separate bones) to a hoofed animal's foot (1 cannon bone). This comparison helps us understand WHY ungulates can run so fast!"
+      }
+    ],
+    "oddToed": [
+      {
+        "type": "vocab",
+        "title": "Domesticated",
+        "content": "DOMESTICATED = raised for human use. The 'wild' horses in America are actually DOMESTICATED breeds that escaped! Their ancestors were tamed by humans long ago."
+      },
+      {
+        "type": "vocab",
+        "title": "Odd Toes: 1 or 3",
+        "content": "Horses and zebras have ONE toe (the hoof!). Rhinos have THREE toes. Both 1 and 3 are ODD numbers — that's why they're called ODD-toed ungulates!"
+      },
+      {
+        "type": "grammar",
+        "title": "Adjective: Endangered",
+        "content": "\"The rhino is another ungulate that is seriously endangered.\" ENDANGERED is an adjective describing the rhino. It means 'at risk of dying out.' What adjective describes the zebras?"
+      },
+      {
+        "type": "evidence",
+        "title": "Compare: Rhino Horns & Hooves",
+        "content": "The text says: 'Rhino horns are made of keratin, the SAME MATERIAL as hooves.' So horns and hooves are both made of keratin — that's how they are alike!"
+      }
+    ],
+    "evenToed": [
+      {
+        "type": "vocab",
+        "title": "Successful",
+        "content": "Scientists call even-toed ungulates SUCCESSFUL — not because they win prizes, but because they've REPRODUCED a lot, SPREAD to almost every continent, and ADAPTED to many environments!"
+      },
+      {
+        "type": "vocab",
+        "title": "Grazers vs. Browsers",
+        "content": "GRAZERS eat GRASS near the ground. BROWSERS eat LEAVES, shoots, and twigs from higher up. Both are herbivores, but they eat different parts of plants!"
+      },
+      {
+        "type": "vocab",
+        "title": "Omnivores: Swine",
+        "content": "Most hoofed animals are herbivores, but SWINE (pigs and hogs) are OMNIVORES — they eat BOTH plants AND animals! They're the exception in the hoofed animal world."
+      },
+      {
+        "type": "vocab",
+        "title": "Fused",
+        "content": "Pronghorn horns have a layer of FUSED hairs — FUSED means JOINED TOGETHER. The hairs are joined into one solid layer that gets shed each year!"
+      },
+      {
+        "type": "grammar",
+        "title": "Adjective: Numerous",
+        "content": "\"Even-toed ungulates, one of the most numerous groups of mammals...\" NUMEROUS is an adjective meaning 'existing in great numbers.' It describes the noun 'groups.'"
+      },
+      {
+        "type": "evidence",
+        "title": "Main Idea: Even-Toed Success",
+        "content": "Main Idea: Even-toed ungulates are 'successful.' Details: They live on every continent except Australia and Antarctica, and they've adapted to many environments."
+      }
+    ],
+    "conclusion": [
+      {
+        "type": "evidence",
+        "title": "Problem & Solution",
+        "content": "PROBLEM: Wild ungulates like rhinos are endangered due to hunting and environmental destruction. SOLUTION: Habitat preservation and respect for life will help them survive!"
+      },
+      {
+        "type": "vocab",
+        "title": "Diverse",
+        "content": "UNGULATES ARE DIVERSE — meaning they come in many different forms. A tiny deer and a massive hippo are both ungulates, but they look and live very differently!"
+      },
+      {
+        "type": "grammar",
+        "title": "Adjective: Unique",
+        "content": "\"Each with a unique body and lifestyle.\" UNIQUE is an adjective meaning 'one of a kind.' It describes the noun 'body.' Each ungulate is special!"
+      }
+    ]
+  },
+  "grammar": {
+    "target": "adjectives",
+    "title": "Adjectives",
+    "explanation": "Adjectives describe nouns (people, places, or things). They tell WHAT KIND, HOW MANY, or WHICH ONE. Adjectives help us picture things more clearly.",
+    "rules": [
+      "Adjectives describe nouns: 'graceful creatures,' 'strong legs,' 'massive bodies'",
+      "Adjectives can come before a noun ('large heads') or after a linking verb ('they are beautiful')",
+      "Many adjectives have comparative (-er) and superlative (-est) forms: fast, faster, fastest",
+      "Some longer adjectives use 'more' and 'most': beautiful, more beautiful, most beautiful"
+    ],
+    "wordBuilding": [
+      {
+        "base": "grace",
+        "answer": "graceful"
+      },
+      {
+        "base": "power",
+        "answer": "powerful"
+      },
+      {
+        "base": "fame",
+        "answer": "famous"
+      },
+      {
+        "base": "danger",
+        "answer": "dangerous"
+      },
+      {
+        "base": "intelligence",
+        "answer": "intelligent"
+      },
+      {
+        "base": "success",
+        "answer": "successful"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "identify",
+        "sentence": "Hoofed animals are among the most graceful creatures on Earth.",
+        "answers": [
+          "graceful"
+        ],
+        "hint": "Which word describes the noun 'creatures'?"
+      },
+      {
+        "type": "identify",
+        "sentence": "Large, powerful, and designed for speed, they are beautiful and fascinating.",
+        "answers": [
+          "Large",
+          "powerful",
+          "beautiful",
+          "fascinating"
+        ],
+        "hint": "Find all the words that describe what the animals are like."
+      },
+      {
+        "type": "identify",
+        "sentence": "Rhinos are easy to recognize by the horns on their noses, their large heads, and their massive bodies covered with dark, leathery skin.",
+        "answers": [
+          "large",
+          "massive",
+          "dark",
+          "leathery"
+        ],
+        "hint": "Which words describe the heads, bodies, and skin?"
+      },
+      {
+        "type": "identify",
+        "sentence": "Even-toed ungulates are one of the most numerous groups of mammals on Earth.",
+        "answers": [
+          "numerous"
+        ],
+        "hint": "Which word describes the noun 'groups'?"
+      },
+      {
+        "type": "multipleChoice",
+        "question": "Which word is an adjective?",
+        "sentence": "Pronghorns are extremely fast, and healthy adults can easily outrun predators.",
+        "options": [
+          "Pronghorns",
+          "extremely",
+          "fast",
+          "outrun"
+        ],
+        "answer": 2,
+        "explanation": "'Fast' is an adjective describing the noun 'adults.' It tells WHAT KIND the adults are. ('Extremely' is an adverb describing 'fast.')"
+      },
+      {
+        "type": "multipleChoice",
+        "question": "Which word is an adjective?",
+        "sentence": "Pigs and hogs, called swine, are intelligent omnivores with round, stocky bodies.",
+        "options": [
+          "swine",
+          "omnivores",
+          "intelligent",
+          "called"
+        ],
+        "answer": 2,
+        "explanation": "'Intelligent' is an adjective describing 'swine.' It tells WHAT KIND of animals they are."
+      },
+      {
+        "type": "fillBlank",
+        "sentence": "Even-toed ungulates are one of the most _____ (number/numerous) groups of mammals on Earth.",
+        "answer": "numerous",
+        "explanation": "'Numerous' is the adjective form meaning 'existing in great numbers.' It describes the noun 'groups.'"
+      },
+      {
+        "type": "fillBlank",
+        "sentence": "Rhinos have _____ (mass/massive) bodies covered with dark, leathery skin.",
+        "answer": "massive",
+        "explanation": "'Massive' is the adjective form of 'mass.' It describes the noun 'bodies,' meaning very large."
+      },
+      {
+        "type": "fillBlank",
+        "sentence": "Ungulates are _____ (diverse/diversify) creatures, each with a unique body and lifestyle.",
+        "answer": "diverse",
+        "explanation": "'Diverse' is the adjective meaning 'varied' or 'different.' It describes the noun 'creatures.'"
+      }
+    ]
+  }
+}

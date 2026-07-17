@@ -1,0 +1,956 @@
+{
+  "meta": {
+    "id": "high-tech-treasure-hunt",
+    "title": "High-Tech Treasure Hunt",
+    "level": "W",
+    "author": "Katherine Follett",
+    "genre": "fiction",
+    "focusQuestion": "How does a GPS-coordinate treasure hunt bring two brothers closer together?"
+  },
+  "activities": [
+    "read",
+    "sequence",
+    "evidence",
+    "problemSolution",
+    "vocabulary",
+    "typing",
+    "grammar"
+  ],
+  "sequenceEvents": [
+    {
+      "order": 1,
+      "summary": "Sol returns from South Korea; Hee Jung stays with Trey's family for one more week.",
+      "detail": "Sol had been an exchange student in South Korea for six months. During that time, Trey's family hosted Hee Jung, a student from Seoul."
+    },
+    {
+      "order": 2,
+      "summary": "Hee Jung and Trey become best friends through playing all kinds of games together.",
+      "detail": "Everything changed when Hee Jung saw Trey playing Drill. From then on they played massive online games, board games, and smartphone puzzles."
+    },
+    {
+      "order": 3,
+      "summary": "Hee Jung returns to Seoul and emails Trey the first GPS-coordinate clue.",
+      "detail": "Before she left, Hee Jung promised Trey a puzzle with a hidden prize. The next day, Trey found an email with coordinates: 38.907233, -77.010531."
+    },
+    {
+      "order": 4,
+      "summary": "Trey and Sol find the second clue at Sol's high school, which points to Gettysburg.",
+      "detail": "The GPS coordinates led to Sol's high school basement, where a purple flyer on a bulletin board held another set of coordinates pointing to Gettysburg Battlefield."
+    },
+    {
+      "order": 5,
+      "summary": "The Gettysburg clue leads them to search the L'Enfant Plaza Metro station, but the clue has been thrown away.",
+      "detail": "Hee Jung's photo from Gettysburg showed a clue: 'Go where blue and green meet!' Sol realized this meant the Metro blue and green lines at L'Enfant Plaza, but a custodian had already cleaned it up."
+    },
+    {
+      "order": 6,
+      "summary": "Using the Seoul subway map, Sol reads the Korean station names and finds City Hall; they discover the final prize at a game store.",
+      "detail": "Sol could read Korean and found where blue and green lines cross at 'City Hall.' Trey accidentally typed 'city hall' into his D.C. map instead of searching Seoul, and they found a purple envelope at D.C.'s Old City Hall leading to a game store where the prize was a Go board."
+    }
+  ],
+  "problemSolution": [
+    {
+      "title": "The Gettysburg Mystery",
+      "context": "Trey and Sol discover the second set of GPS coordinates at Sol's high school, but the numbers point to Gettysburg Battlefield — nearly two hours away.",
+      "choices": {
+        "problem": [
+          "Sol refused to drive to Gettysburg",
+          "The GPS coordinates seemed to lead to a place nearly two hours away",
+          "Hee Jung forgot to email Trey a clue",
+          "The class computer was broken and Trey could not check his email"
+        ],
+        "cause": [
+          "Hee Jung wanted to make the treasure hunt as hard as possible",
+          "Sol typed the wrong numbers into the map",
+          "Hee Jung based the clue on a family trip to Gettysburg where she took photos with a hidden message",
+          "The GPS system was not working correctly"
+        ],
+        "effect": [
+          "Trey realized Gettysburg was not the real destination and searched Hee Jung's photos instead",
+          "Sol drove Trey to Gettysburg immediately",
+          "Trey gave up on the treasure hunt",
+          "Hee Jung flew back from Seoul to help"
+        ],
+        "solution": [
+          "They asked Mom and Dad to drive them to Gettysburg",
+          "Trey emailed Hee Jung and asked her to send an easier clue",
+          "They searched the Internet for pictures of Gettysburg",
+          "Trey looked through Hee Jung's photo-sharing website and found a hidden message in a selfie"
+        ]
+      },
+      "answers": {
+        "problem": 1,
+        "cause": 2,
+        "effect": 0,
+        "solution": 3
+      }
+    },
+    {
+      "title": "The Missing Clue at L'Enfant Plaza",
+      "context": "Sol figures out that 'blue and green meet' means the Metro blue and green lines crossing at L'Enfant Plaza. Trey and Sol search the enormous station on Saturday.",
+      "choices": {
+        "problem": [
+          "The Metro station was closed for the weekend",
+          "They could not find the blue line or the green line",
+          "A Metro employee refused to let them search",
+          "The clue had probably been thrown away by the nightly cleaning crew"
+        ],
+        "cause": [
+          "Hee Jung made a mistake and left the clue in the wrong station",
+          "The custodians clean the whole station every night",
+          "Another treasure hunter found the clue first",
+          "The clue was never at L'Enfant Plaza"
+        ],
+        "effect": [
+          "Trey was sad about the lost prize and sad that Hee Jung's effort went to nothing",
+          "Sol was angry at Hee Jung for making a tricky puzzle",
+          "They decided to search every Metro station in Washington, D.C.",
+          "Trey blamed Sol for misreading the clue"
+        ],
+        "solution": [
+          "They asked the Metro workers to check the lost-and-found",
+          "Trey emailed Hee Jung to complain",
+          "They waited until the next morning before the custodians arrived",
+          "Trey emailed Hee Jung, who replied that the clue was never really at L'Enfant — they were on the right TRACK"
+        ]
+      },
+      "answers": {
+        "problem": 3,
+        "cause": 1,
+        "effect": 0,
+        "solution": 3
+      }
+    },
+    {
+      "title": "The Korean Subway Map",
+      "context": "Hee Jung's hint 'SEOUL' in all caps leads Trey and Sol to search a map of the Seoul subway system. The map is covered in Korean characters that Trey cannot read.",
+      "choices": {
+        "problem": [
+          "The Seoul subway map was too old and outdated",
+          "There were no blue or green lines on the Seoul subway",
+          "Trey could not read the Korean characters on the map",
+          "Sol refused to help Trey with the treasure hunt"
+        ],
+        "cause": [
+          "Hee Jung wanted to make the puzzle impossible",
+          "Trey had never studied Korean",
+          "The map was written only in English",
+          "Sol had never been to Seoul"
+        ],
+        "effect": [
+          "Trey decided to skip this clue entirely",
+          "Sol guessed randomly and picked the wrong station",
+          "Hee Jung sent Trey the answer in an email",
+          "Sol realized that Hee Jung knew he could read the Korean station names"
+        ],
+        "solution": [
+          "Trey used a translation app on his smartphone",
+          "They asked a Korean friend to help them",
+          "Sol read the Korean names and found where the blue and green lines cross at 'City Hall'",
+          "They searched the Internet for an English version of the map"
+        ]
+      },
+      "answers": {
+        "problem": 2,
+        "cause": 1,
+        "effect": 3,
+        "solution": 2
+      }
+    },
+    {
+      "title": "Which City Hall?",
+      "context": "Sol and Trey know the answer involves 'City Hall' in Seoul, but Trey decides to search the Internet for photos. He accidentally types 'city hall' into his Washington, D.C. map instead.",
+      "choices": {
+        "problem": [
+          "Trey's Internet connection was too slow to load photos",
+          "Sol could not remember what Seoul's city hall looked like",
+          "Trey did not know where to search in Seoul",
+          "Trey accidentally searched for 'city hall' on his map of Washington, D.C. instead of Seoul"
+        ],
+        "cause": [
+          "Trey was tired and confused after searching for so long",
+          "The computer auto-corrected his search",
+          "Trey was not paying careful attention to which map he had open",
+          "Sol changed the search without telling Trey"
+        ],
+        "effect": [
+          "They gave up on the treasure hunt",
+          "The map pointed right to D.C.'s Old City Hall, and the brothers realized the clue was local all along",
+          "Hee Jung called to tell them they were searching in the wrong place",
+          "They found a completely different treasure hunt"
+        ],
+        "solution": [
+          "They flew to Seoul to search for the real city hall",
+          "They emailed Hee Jung to ask which city hall she meant",
+          "They searched for 'Seoul city hall' more carefully on the Internet",
+          "They grabbed their bikes and raced to D.C.'s Old City Hall"
+        ]
+      },
+      "answers": {
+        "problem": 3,
+        "cause": 2,
+        "effect": 1,
+        "solution": 3
+      }
+    }
+  ],
+  "sections": [
+    {
+      "id": "allKindsOfGames",
+      "title": "All Kinds of Games",
+      "paragraphs": [
+        "When my brother, Sol, came home from South Korea, I think he was a little confused. He’d been an exchange student there for six months. During that time, my family hosted Hee Jung, a student from Seoul (SOLE), the capital of South Korea. She stayed with us for another week, but she spent almost all that time with me.",
+        "“I thought Hee Jung would be excited to speak Korean with me,” Sol said, “and I thought you would be excited to play basketball with me, but you two are best friends.”",
+        "It wasn’t that way when Hee Jung arrived. What sixteen-year-old wants to hang out with a fifth grader? But everything changed when she saw me playing Drill, a computer game where you mine minerals.",
+        "“You play?” she asked eagerly, showing me her online profile. “I’ve been playing since I was your age!”",
+        "From then on, Hee Jung and I played all kinds of games, from massive online games to classic board games to cheesy smartphone puzzles. I’d never met anyone else who liked games as much as I did. I was happy Sol was back, of course, but I was also sad because that meant Hee Jung had to leave. Sol wasn’t interested in games that weren’t sports.",
+        "On her last day, Hee Jung pulled me aside while Dad loaded her suitcases into the car.",
+        "“Trey, I made a game for you,” she said.",
+        "“Like a computer game?”",
+        "“More like a puzzle. I hid a special prize, and I’ll give you clues to find it. I’ll email you the first clue when I get back to Seoul,” she said, giving me a hug. “So we won’t be too sad!”"
+      ]
+    },
+    {
+      "id": "firstClue",
+      "title": "The First Clue",
+      "paragraphs": [
+        "Before school got out the next day, I checked my email on the class computer and found a message from Hee Jung. “Safe in Seoul! Your first clue is 38.907233, -77.010531.”",
+        "I knew those numbers. They were coordinates for GPS. When I typed them into an online map, they pointed to Sol’s high school, where Hee Jung also went while she stayed with us.",
+        "I got there just as Sol came out of the building. “Trey, what are you doing here, man?” he asked, smiling.",
+        "“Hee Jung made a treasure hunt for me, and the first clue is somewhere in your school,” I said.",
+        "His smile sagged. “Oh. Well, what’s the clue?”",
+        "“I don’t know, but I’ll bet it’s in the basement, where we played Samurai and Shogun.”",
+        "Sol followed me down the stairs and into the little room at the back of the basement where Hee Jung had invited me to game nights hosted by a math teacher. A couple of kids were there now, deep in focus over boxes of collectible cards. I tiptoed past them.",
+        "“I’ve never been down here,” Sol whispered.",
+        "I spotted a bulletin board covered with flyers. One was bright purple—Hee Jung’s favorite color—and said “PUZZLE CLUE FOR YOU,” with another set of coordinates.",
+        "“This must be it!” I shouted, startling the card players.",
+        "“What are those numbers?” Sol asked.",
+        "“GPS coordinates, just like the first clue. That’s how I knew to look in your school.”",
+        "“Sounds like a weird game, but okay,” Sol said, typing the numbers into the map on his smartphone. “Wait, are you sure these are right?” he asked. “These would take us to Gettysburg Battlefield—nearly two hours away.”"
+      ]
+    },
+    {
+      "id": "prettyTricky",
+      "title": "Pretty Tricky",
+      "paragraphs": [
+        "On our way home, I begged Sol to take me to Gettysburg.",
+        "“Are you kidding? I can’t borrow the car and drive two hours to help you with some weird treasure hunt.”",
+        "I kicked stones as we walked.",
+        "“Anyway, isn’t it unfair for Hee Jung to make you go all the way to Gettysburg?”",
+        "I turned that over in my head. The clue at school was from something Hee Jung and I had done together.",
+        "“Mom and Dad took us there,” I said, thinking aloud. “Pennsylvania was really pretty, and Hee Jung snapped tons of pictures . . . ” Just then, a lightbulb went on in my head, and I sprinted toward home.",
+        "“Hey, wait up!” Sol called.",
+        "Mom helped me find Hee Jung’s photo-sharing website. Hee Jung took pictures of everything, from bagels and lox to foggy bus windows. I scrolled until I spotted the green expanse of Gettysburg. There, in a selfie, Hee Jung held a scrap of purple paper with the message, “Go where blue and green meet!”",
+        "Just then, Sol came in and peered over our shoulders. “Whoa, that’s pretty tricky,” he said, sounding impressed. “How long ago did you guys go to Gettysburg?”",
+        "“Months ago,” Mom said. That’s when I realized just how long Hee Jung had been planning this treasure hunt.",
+        "“Do you think blue and green mean water and land?” I asked.",
+        "“It could also be the Metro,” Sol offered. “The only place where the blue line and the green line cross is at L’Enfant Plaza.”",
+        "“Hey, you’re pretty good at this,” I said."
+      ]
+    },
+    {
+      "id": "tooEasy",
+      "title": "Too Easy",
+      "paragraphs": [
+        "That Saturday, Sol and I searched every platform and bench of the enormous L’Enfant station, until a Metro employee noticed us.",
+        "“Did you lose something?” he asked.",
+        "“We’re on a treasure hunt. My friend left a clue here for me,” I explained.",
+        "“I’m sorry, but the custodians clean this whole place every night. It probably got thrown away.”",
+        "Sol put a hand on my shoulder, leading me to the next train home.",
+        "I was sad about my prize, but I was even sadder that Hee Jung had gone through so much work for nothing. When we got home, I emailed her. “If you left it at L’Enfant, it got thrown away. :(”",
+        "Hee Jung sent back a smiley. “That would be too easy, but you are on the right TRACK! I miss you, but it’s nice to be back in SEOUL.”",
+        "“So it’s not at L’Enfant?” I wondered out loud.",
+        "Sol looked up from the couch. “It wasn’t?”",
+        "“Track seems to mean trains, but which trains, if not the Metro?” I asked. “And why is Seoul all in caps?”",
+        "“Well, there’s a huge subway in Seoul. I got lost there about fifteen times,” Sol said.",
+        "“Was there a blue line and a green line?” I asked.",
+        "“More than one.” Sol walked over, sat down beside me, and began searching for a map of the Seoul subway.",
+        "The map he found reminded me of a plate of rainbow-colored spaghetti. Sol started reading the names of the stations, which were all in Korean characters.",
+        "“How can she expect me to find something I can’t read?” I said.",
+        "“Because she knew I could read it.” Sol pointed to the center of the map. A blue line and a green line intersected under a name in English: “City Hall.”",
+        "Remembering the Gettysburg clue, I flipped through Hee Jung’s photos. “What did Seoul’s city hall look like?” I asked.",
+        "Sol chuckled. “Like an upside-down waterfall from the future.”",
+        "“What?” I laughed. I decided to search the Internet for photos of Seoul’s city hall, but when I hit “enter,” I realized I’d accidentally typed “city hall” into my map of Washington, D.C. I didn’t even know Washington had a city hall, but the map pointed right to it.",
+        "Sol and I looked at each other, and without a word we both ran for our bikes."
+      ]
+    },
+    {
+      "id": "sayGo",
+      "title": "Say Go",
+      "paragraphs": [
+        "“I’ll feel bad if I’m wrong again,” Sol called as we biked toward D.C.’s Old City Hall.",
+        "“Being wrong is part of the game!” I called back.",
+        "Sol shook his head. “See, I still don’t get that.”",
+        "City Hall was a pretty block of buildings with wide lawns. Somehow, I knew this was the place, but after searching the square, we saw nothing.",
+        "“Oh, man, these puzzles are too frustrating,” Sol moaned. Just then I spotted a purple envelope tied to a tree branch behind him. It felt as though Hee Jung had just been there.",
+        "Inside the envelope was a business card from my favorite game store and a note that said, “Just say go!”",
+        "“Go, go, go!” I shouted, jumping on my bike.",
+        "I burst into the store and ran to the counter, where Rick, the owner, grinned as though he’d been expecting me.",
+        "“I’m supposed to say ‘go,’” I said.",
+        "Rick reached under the counter and retrieved a box wrapped in purple paper. “She wouldn’t tell me what it was,” he said, watching eagerly as I unwrapped it.",
+        "Inside was a wooden board, plain except for a carved grid like graph paper. There was also a bag of black and white pieces shaped like mints.",
+        "“What is that?” Sol asked.",
+        "“That’s Go,” Rick explained, “one of the oldest games in the world. It’s kind of like checkers, because the rules are simple, but kind of like chess, because it takes a lifetime to master.”",
+        "There was also a card with a website address and the message, “We can play online! <3, Hee Jung.”",
+        "I followed Sol out of the store, lost in thought about the wide-open possibilities of the new game.",
+        "“It was pretty cool doing this treasure hunt with you,” he said.",
+        "“I wouldn’t have found the treasure without your help,” I said.",
+        "“It’s too bad Hee Jung got you that nice board, but you guys can only play online.” Sol gave me a hesitant smile. “Maybe you could teach me that game, too?”",
+        "I touched the crisp lines on the board and felt the small, smooth pieces. “Bro,” I said, “you’re on!”"
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "exchange student",
+      "pos": "n.",
+      "definition": "a student from one country who travels to another country to attend school as part of a program",
+      "section": "allKindsOfGames",
+      "sentence": "He’d been an exchange student there for six months.",
+      "quiz": {
+        "prompt": "An \"exchange student\" is:",
+        "options": [
+          "a student who teaches classes at a foreign school",
+          "a student from one country who attends school in another country as part of a program",
+          "a student who travels for vacation during the school year",
+          "a student who studies only online from home"
+        ],
+        "answer": 1
+      },
+      "fillInOptions": [
+        "visitor",
+        "tourist",
+        "teacher"
+      ]
+    },
+    {
+      "word": "GPS",
+      "pos": "n.",
+      "definition": "Global Positioning System; a system or device that uses radio signals from satellites to pinpoint locations",
+      "section": "firstClue",
+      "sentence": "They were coordinates for GPS.",
+      "quiz": {
+        "prompt": "GPS is a system that:",
+        "options": [
+          "uses radio signals from satellites to pinpoint locations",
+          "sends text messages between phones",
+          "stores photographs on the Internet",
+          "translates words from one language to another"
+        ],
+        "answer": 0
+      },
+      "fillInOptions": [
+        "navigation",
+        "television",
+        "telephone"
+      ]
+    },
+    {
+      "word": "hosted",
+      "pos": "v.",
+      "definition": "welcomed a guest into a home or other place",
+      "section": "allKindsOfGames",
+      "sentence": "During that time, my family hosted Hee Jung, a student from Seoul.",
+      "quiz": {
+        "prompt": "If you \"hosted\" someone, you:",
+        "options": [
+          "loaned him or her money for a trip",
+          "let him or her use your computer",
+          "picked him or her up from the airport",
+          "welcomed him or her into your home"
+        ],
+        "answer": 3
+      },
+      "fillInOptions": [
+        "welcomed",
+        "rejected",
+        "ignored"
+      ]
+    },
+    {
+      "word": "online",
+      "pos": "adj.",
+      "definition": "connected to the Internet or to another computer",
+      "section": "allKindsOfGames",
+      "sentence": "“You play?” she asked eagerly, showing me her online profile.",
+      "quiz": {
+        "prompt": "Something is \"online\" when it is:",
+        "options": [
+          "focused on a single task",
+          "activated by pressing a button",
+          "visible on a screen",
+          "connected to another computer or to the Internet"
+        ],
+        "answer": 3
+      },
+      "fillInOptions": [
+        "connected",
+        "disconnected",
+        "offline"
+      ]
+    },
+    {
+      "word": "treasure hunt",
+      "pos": "n.",
+      "definition": "a game in which players follow a series of clues that lead to a hidden prize",
+      "section": "firstClue",
+      "sentence": "Hee Jung made a treasure hunt for me, and the first clue is somewhere in your school.",
+      "quiz": {
+        "prompt": "A \"treasure hunt\" is:",
+        "options": [
+          "a game in which players follow clues to find a hidden prize",
+          "a chore where you clean up old treasures in a basement",
+          "a lesson about valuable objects from the past",
+          "a competition to see who can find the most gold"
+        ],
+        "answer": 0
+      },
+      "fillInOptions": [
+        "game",
+        "chore",
+        "lesson"
+      ]
+    },
+    {
+      "word": "website",
+      "pos": "n.",
+      "definition": "one or more linked webpages on the Internet that provide information about a person, topic, or organization",
+      "section": "prettyTricky",
+      "sentence": "Mom helped me find Hee Jung’s photo-sharing website.",
+      "quiz": {
+        "prompt": "A \"website\" is:",
+        "options": [
+          "a physical location where computers are stored",
+          "a newscast that airs on television every evening",
+          "one or more linked webpages on the Internet providing information",
+          "a printed page in a newspaper with advertisements"
+        ],
+        "answer": 2
+      },
+      "fillInOptions": [
+        "webpage",
+        "newspaper",
+        "television"
+      ]
+    },
+    {
+      "word": "coordinates",
+      "pos": "n.",
+      "definition": "a set of numbers that locate a point in space",
+      "section": "firstClue",
+      "sentence": "They were coordinates for GPS.",
+      "quiz": {
+        "prompt": "\"Coordinates\" are:",
+        "options": [
+          "directions written in a letter or email",
+          "a set of numbers that pinpoint a specific location in space",
+          "distances measured between two cities",
+          "passwords used to log into a computer"
+        ],
+        "answer": 1
+      },
+      "fillInOptions": [
+        "locations",
+        "directions",
+        "distances"
+      ]
+    },
+    {
+      "word": "Internet",
+      "pos": "n.",
+      "definition": "a global, public computer network",
+      "section": "tooEasy",
+      "sentence": "I decided to search the Internet for photos of Seoul’s city hall.",
+      "quiz": {
+        "prompt": "The \"Internet\" is:",
+        "options": [
+          "a global, public computer network",
+          "a television channel that shows educational programs",
+          "a radio station that plays music from around the world",
+          "a satellite that orbits Earth and sends signals"
+        ],
+        "answer": 0
+      },
+      "fillInOptions": [
+        "network",
+        "television",
+        "radio"
+      ]
+    },
+    {
+      "word": "master",
+      "pos": "v.",
+      "definition": "to become skilled or very knowledgeable about something",
+      "section": "sayGo",
+      "sentence": "It’s kind of like chess, because it takes a lifetime to master.",
+      "quiz": {
+        "prompt": "To \"master\" something means to:",
+        "options": [
+          "become an expert or highly skilled at it",
+          "be a beginner who is just starting to learn",
+          "be a student who needs help from a teacher",
+          "teach it to someone who has never tried it"
+        ],
+        "answer": 0
+      },
+      "fillInOptions": [
+        "expert",
+        "beginner",
+        "student"
+      ]
+    },
+    {
+      "word": "Metro",
+      "pos": "n.",
+      "definition": "the name of the public rail system in some cities, such as Washington, D.C., Paris, and Montreal",
+      "section": "tooEasy",
+      "sentence": "“It could also be the Metro,” Sol offered. “The only place where the blue line and the green line cross is at L’Enfant Plaza.”",
+      "quiz": {
+        "prompt": "A \"Metro\" is:",
+        "options": [
+          "a type of bus that runs on electricity",
+          "a public rail or subway system in a city",
+          "a taxi service that charges by the mile",
+          "a bicycle rental program"
+        ],
+        "answer": 1
+      },
+      "fillInOptions": [
+        "subway",
+        "bus",
+        "taxi"
+      ]
+    },
+    {
+      "word": "profile",
+      "pos": "n.",
+      "definition": "a short description or set of data that provides information about something or someone",
+      "section": "allKindsOfGames",
+      "sentence": "“You play?” she asked eagerly, showing me her online profile.",
+      "quiz": {
+        "prompt": "A \"profile\" is:",
+        "options": [
+          "a secret password used to log into a game",
+          "a short description or set of data providing information about someone",
+          "a private message sent between friends",
+          "a list of rules for playing an online game"
+        ],
+        "answer": 1
+      },
+      "fillInOptions": [
+        "account",
+        "password",
+        "message"
+      ]
+    },
+    {
+      "word": "smartphone",
+      "pos": "n.",
+      "definition": "a mobile phone with computer features and Internet access",
+      "section": "allKindsOfGames",
+      "sentence": "From then on, Hee Jung and I played all kinds of games, from massive online games to classic board games to cheesy smartphone puzzles.",
+      "quiz": {
+        "prompt": "A \"smartphone\" is:",
+        "options": [
+          "a desktop computer that sits on a desk",
+          "a mobile phone with computer features and Internet access",
+          "a tablet used only for reading books",
+          "a television that can stream videos"
+        ],
+        "answer": 1
+      },
+      "fillInOptions": [
+        "phone",
+        "computer",
+        "tablet"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "level": 1,
+      "question": "How does Sol feel when he returns from South Korea?",
+      "section": "allKindsOfGames",
+      "pages": "4",
+      "evidence": "When my brother, Sol, came home from South Korea, I think he was a little confused.",
+      "choices": [
+        "excited",
+        "confused",
+        "bored",
+        "homesick"
+      ],
+      "correctChoice": 1,
+      "explanation": "The text says, 'I think he was a little confused.' Sol expected Hee Jung to want to speak Korean with him and Trey to want to play basketball, but instead they became best friends through games."
+    },
+    {
+      "id": "q2",
+      "level": 1,
+      "question": "Sol was ___ student in South Korea for six months.",
+      "section": "allKindsOfGames",
+      "pages": "4",
+      "evidence": "He’d been an exchange student there for six months.",
+      "choices": [
+        "a hardworking",
+        "an advanced",
+        "an exchange",
+        "a struggling"
+      ],
+      "correctChoice": 2,
+      "explanation": "The text says Sol had been 'an exchange student' in South Korea for six months. An exchange student travels from one country to attend school in another."
+    },
+    {
+      "id": "q3",
+      "level": 1,
+      "question": "What causes Trey and Hee Jung to become friends?",
+      "section": "allKindsOfGames",
+      "pages": "4–5",
+      "evidence": "But everything changed when she saw me playing Drill, a computer game where you mine minerals. “You play?” she asked eagerly... From then on, Hee Jung and I played all kinds of games.",
+      "choices": [
+        "Hee Jung thinks of Trey as her little brother and takes care of him.",
+        "Trey wants to learn Korean, and Hee Jung wants to teach him.",
+        "Trey and Hee Jung both have an interest in games.",
+        "Trey and Hee Jung enjoy the same books."
+      ],
+      "correctChoice": 2,
+      "explanation": "Hee Jung saw Trey playing the computer game Drill and got excited. From then on, they played all kinds of games together — online games, board games, and smartphone puzzles. Their shared love of games brought them together."
+    },
+    {
+      "id": "q4",
+      "level": 2,
+      "question": "Which of the following events happens first?",
+      "section": "firstClue",
+      "pages": "6",
+      "evidence": "Before school got out the next day, I checked my email on the class computer and found a message from Hee Jung. “Safe in Seoul! Your first clue is 38.907233, -77.010531.”",
+      "choices": [
+        "Hee Jung e-mails GPS coordinates to Trey.",
+        "Trey finds a clue on the bulletin board.",
+        "Sol helps Trey with the treasure hunt.",
+        "Trey thinks he might have to go to Gettysburg for a clue."
+      ],
+      "correctChoice": 0,
+      "explanation": "The sequence of events is: (1) Hee Jung emails GPS coordinates → (2) Trey goes to Sol's school and finds the bulletin-board clue → (3) Sol helps by typing the second coordinates into his smartphone → (4) the second clue points to Gettysburg. The email is the first event."
+    },
+    {
+      "id": "q5",
+      "level": 2,
+      "question": "Which detail best supports the title High-Tech Treasure Hunt?",
+      "section": "prettyTricky",
+      "pages": "8–9",
+      "evidence": "Mom helped me find Hee Jung’s photo-sharing website. Hee Jung took pictures of everything, from bagels and lox to foggy bus windows. I scrolled until I spotted the green expanse of Gettysburg. There, in a selfie, Hee Jung held a scrap of purple paper with the message, “Go where blue and green meet!”",
+      "choices": [
+        "That Saturday, Sol and I searched every platform and bench of the enormous L’Enfant station.",
+        "The map he found reminded me of rainbow-colored spaghetti.",
+        "Sol and I looked at each other, and without a word we both ran for our bikes.",
+        "Mom helped me find Hee Jung’s photo-sharing website."
+      ],
+      "correctChoice": 3,
+      "explanation": "The title is 'High-Tech Treasure Hunt.' The photo-sharing website shows the 'high-tech' part of the hunt — Trey uses the Internet and digital photos to find hidden clues. The other details are about searching places, not technology."
+    },
+    {
+      "id": "q6",
+      "level": 1,
+      "question": "If you hosted someone, you ___.",
+      "section": "allKindsOfGames",
+      "pages": "4",
+      "evidence": "During that time, my family hosted Hee Jung, a student from Seoul, the capital of South Korea. She stayed with us for another week.",
+      "choices": [
+        "welcomed him or her into your home",
+        "loaned him or her money",
+        "let him or her use your computer",
+        "picked him or her up from the airport"
+      ],
+      "correctChoice": 0,
+      "explanation": "To 'host' someone means to welcome them into your home. Trey’s family hosted Hee Jung — she stayed with them and lived in their house for a week."
+    },
+    {
+      "id": "q7",
+      "level": 1,
+      "question": "Which statement is true about Hee Jung?",
+      "section": "allKindsOfGames",
+      "pages": "4–15",
+      "evidence": "Hee Jung created an elaborate treasure hunt with clues tied to shared memories, planned it for months before leaving, and left a Go board as the final prize so Trey could play a new game.",
+      "choices": [
+        "Hee Jung is thoughtful.",
+        "Hee Jung does not want to be friends with Sol.",
+        "Hee Jung does not enjoy video games.",
+        "Hee Jung was not happy living in the United States."
+      ],
+      "correctChoice": 0,
+      "explanation": "Hee Jung is thoughtful — she spent months planning a treasure hunt with clues connected to shared memories, chose a prize (a Go board) that would remind Trey of her, and included a card so they could play online together."
+    },
+    {
+      "id": "q8",
+      "level": 2,
+      "question": "Something is ___ when it is connected to another computer or to the Internet.",
+      "section": "allKindsOfGames",
+      "pages": "5",
+      "evidence": "“You play?” she asked eagerly, showing me her online profile.",
+      "choices": [
+        "focused",
+        "activated",
+        "visible",
+        "online"
+      ],
+      "correctChoice": 3,
+      "explanation": "The vocabulary word 'online' means connected to the Internet or to another computer. Hee Jung showed Trey her online profile on a game site."
+    },
+    {
+      "id": "q9",
+      "level": 2,
+      "question": "Which event happened after Trey finds the clue at City Hall?",
+      "section": "sayGo",
+      "pages": "13–14",
+      "evidence": "Inside the envelope was a business card from my favorite game store and a note that said, “Just say go!” “Go, go, go!” I shouted, jumping on my bike. I burst into the store...",
+      "choices": [
+        "Trey’s next clue led him to the school.",
+        "Trey’s next clue led him to a game store.",
+        "Trey was done with the treasure hunt.",
+        "Trey asked Sol to help him."
+      ],
+      "correctChoice": 1,
+      "explanation": "After finding the purple envelope at D.C.’s Old City Hall, Trey discovered a business card from his favorite game store and a note saying 'Just say go!' He raced to the store, where Rick handed him the wrapped Go board."
+    },
+    {
+      "id": "q10",
+      "level": 1,
+      "question": "What happens last in the book?",
+      "section": "sayGo",
+      "pages": "15",
+      "evidence": "“It’s too bad Hee Jung got you that nice board, but you guys can only play online.” Sol gave me a hesitant smile. “Maybe you could teach me that game, too?” I touched the crisp lines on the board and felt the small, smooth pieces. “Bro,” I said, “you’re on!”",
+      "choices": [
+        "Trey emails Hee Jung that he finished the treasure hunt.",
+        "Sol asks Trey to teach him to play a game.",
+        "Trey looks at the train station for a clue.",
+        "Sol returns home from South Korea."
+      ],
+      "correctChoice": 1,
+      "explanation": "The very last event in the book is Sol asking Trey to teach him to play Go. Sol says, 'Maybe you could teach me that game, too?' and Trey answers, 'Bro, you’re on!' This happens after every other event listed."
+    },
+    {
+      "id": "q11",
+      "level": 3,
+      "question": "How does Hee Jung’s treasure hunt bring the brothers Trey and Sol closer together? Use evidence from the text to support your answer.",
+      "section": "sayGo",
+      "pages": "4–15",
+      "evidence": "",
+      "choices": [],
+      "correctChoice": -1,
+      "explanation": "The treasure hunt brought the brothers together because they had to cooperate to solve each clue. Sol helped Trey read Korean on the subway map, drove him to locations, and brainstormed ideas. At the end, Sol asks Trey to teach him Go — a game they can share. The treasure hunt gave them a chance to work as a team and discover they both enjoy games.",
+      "opinionPrompts": [
+        "How did Sol help Trey during the treasure hunt?",
+        "Why is it significant that Sol asks to learn Go at the end?",
+        "What evidence from the text shows the brothers grew closer?"
+      ]
+    }
+  ],
+  "grammar": {
+    "target": "quotationMarks",
+    "title": "Quotation Marks",
+    "explanation": "Quotation marks (“ ”) are used to enclose direct speech — the exact words someone says. They help readers know who is talking and what was said.",
+    "rules": [
+      "Use quotation marks at the beginning and end of direct speech: “I’m supposed to say ‘go,’” I said.",
+      "Commas and periods go INSIDE the closing quotation marks: “This must be it!” I shouted.",
+      "Question marks and exclamation points go inside the quotes if they are part of the spoken words: “What are those numbers?” Sol asked.",
+      "When the speaker tag (he said, she asked) comes after the quote, use a comma inside the closing quotation marks: “Bro,” I said, “you’re on!”",
+      "Start a new paragraph each time the speaker changes."
+    ],
+    "wordBuilding": [],
+    "exercises": [
+      {
+        "type": "identify",
+        "sentence": "“This must be it!” I shouted, startling the card players.",
+        "answers": [
+          "“This must be it!”"
+        ],
+        "hint": "Which part of this sentence is enclosed in quotation marks because someone said it out loud?"
+      },
+      {
+        "type": "identify",
+        "sentence": "“Trey, what are you doing here, man?” he asked, smiling.",
+        "answers": [
+          "“Trey, what are you doing here, man?”"
+        ],
+        "hint": "Find the direct speech — the exact words Sol said to Trey."
+      },
+      {
+        "type": "identify",
+        "sentence": "“I’m supposed to say ‘go,’” I said.",
+        "answers": [
+          "“I’m supposed to say ‘go,’”"
+        ],
+        "hint": "Notice the single quotes inside the double quotes — they mark a word within the spoken sentence."
+      },
+      {
+        "type": "identify",
+        "sentence": "“Go, go, go!” I shouted, jumping on my bike.",
+        "answers": [
+          "“Go, go, go!”"
+        ],
+        "hint": "Which words did Trey shout out loud?"
+      },
+      {
+        "type": "multipleChoice",
+        "question": "Which sentence uses quotation marks correctly?",
+        "sentence": "",
+        "options": [
+          "“Hey, wait up”, Sol called.",
+          "“Hey, wait up,” Sol called.",
+          "“Hey, wait up” Sol called.",
+          "Hey, wait up, “Sol called.”"
+        ],
+        "answer": 1,
+        "explanation": "The comma belongs INSIDE the closing quotation marks: “Hey, wait up,” Sol called. The speaker tag 'Sol called' comes after the quote."
+      },
+      {
+        "type": "multipleChoice",
+        "question": "Which sentence uses quotation marks correctly?",
+        "sentence": "",
+        "options": [
+          "“Are you kidding? I can’t borrow the car.”",
+          "“Are you kidding? I can’t borrow the car.”",
+          "“Are you kidding?” I can’t borrow the car.",
+          "Are you kidding? “I can’t borrow the car.”"
+        ],
+        "answer": 0,
+        "explanation": "The entire spoken sentence — including the question and the statement — should be inside one pair of quotation marks."
+      },
+      {
+        "type": "fillBlank",
+        "sentence": "_____,” I called back. (Being wrong is part of the game)",
+        "answer": "“Being wrong is part of the game",
+        "explanation": "Direct speech starts with an opening quotation mark. The comma goes inside the closing quotation mark before the speaker tag 'I called back.'"
+      },
+      {
+        "type": "fillBlank",
+        "sentence": "“That’s Go,_____ one of the oldest games in the world.",
+        "answer": "”",
+        "explanation": "Wait — this is a tricky one! Actually the sentence continues: “That’s Go,” Rick explained, “one of the oldest games in the world.” Rick’s speech is split into two parts by the speaker tag."
+      },
+      {
+        "type": "correctTheError",
+        "sentence": "“I don’t know”, but I’ll bet it’s in the basement.",
+        "answer": "“I don’t know,” but I’ll bet it’s in the basement.",
+        "explanation": "The comma should go INSIDE the closing quotation mark, not outside. Correct: “I don’t know,”"
+      },
+      {
+        "type": "correctTheError",
+        "sentence": "Sol asked “What are those numbers?”",
+        "answer": "Sol asked, “What are those numbers?”",
+        "explanation": "A comma is needed before the opening quotation mark when introducing direct speech with a speaker tag: Sol asked, “..."
+      }
+    ]
+  },
+  "notes": {
+    "allKindsOfGames": [
+      {
+        "type": "vocab",
+        "title": "Exchange Student",
+        "content": "An EXCHANGE STUDENT travels from one country to attend school in another. Sol went to South Korea; Hee Jung came to stay with Trey’s family. Both were exchange students!"
+      },
+      {
+        "type": "vocab",
+        "title": "Hosted",
+        "content": "To HOST someone means to welcome them into your home. Trey’s family HOSTED Hee Jung — she lived with them while she went to school in the U.S."
+      },
+      {
+        "type": "vocab",
+        "title": "Online / Profile / Smartphone",
+        "content": "Hee Jung showed Trey her ONLINE PROFILE — that’s her account info on a game site. They played games on her SMARTPHONE too. All these words connect to technology!"
+      },
+      {
+        "type": "sequence",
+        "title": "How Trey & Hee Jung Became Friends",
+        "content": "1) Sol goes to South Korea as exchange student → 2) Trey’s family hosts Hee Jung → 3) Hee Jung sees Trey playing Drill → 4) They play ALL kinds of games together → 5) They become best friends!"
+      },
+      {
+        "type": "grammar",
+        "title": "Quotation Marks in Dialogue",
+        "content": "This book is full of dialogue! Every time someone speaks, the words go inside QUOTATION MARKS: “You play?” she asked. Notice the question mark goes INSIDE the quotes!"
+      }
+    ],
+    "firstClue": [
+      {
+        "type": "vocab",
+        "title": "GPS & Coordinates",
+        "content": "GPS = Global Positioning System. COORDINATES are a set of numbers that pinpoint a location. Hee Jung sent Trey coordinates like 38.907233, -77.010531 — and they pointed to Sol’s school!"
+      },
+      {
+        "type": "vocab",
+        "title": "Treasure Hunt",
+        "content": "A TREASURE HUNT is a game where you follow clues to find a hidden prize. Hee Jung made a treasure hunt for Trey with GPS-coordinate clues!"
+      },
+      {
+        "type": "evidence",
+        "title": "Sequence of Clues",
+        "content": "Clue 1: GPS coordinates → Sol’s high school. Clue 2: More coordinates on purple flyer → Gettysburg Battlefield. Each clue builds on the last!"
+      },
+      {
+        "type": "grammar",
+        "title": "Quotation Marks with Speaker Tags",
+        "content": "“Trey, what are you doing here, man?” he asked, smiling. ← Notice: question mark INSIDE quotes, then comma after 'asked' before the next part."
+      }
+    ],
+    "prettyTricky": [
+      {
+        "type": "vocab",
+        "title": "Website",
+        "content": "A WEBSITE is linked webpages on the Internet. Trey used Hee Jung’s photo-sharing WEBSITE to find the Gettysburg selfie with the hidden clue!"
+      },
+      {
+        "type": "evidence",
+        "title": "Cause & Effect",
+        "content": "Cause: The Gettysburg clue was about something Hee Jung and Trey did TOGETHER. Effect: Trey realizes Gettysburg isn’t the real destination — the clue is about the PHOTO from the trip!"
+      },
+      {
+        "type": "sequence",
+        "title": "Solving 'Blue and Green Meet'",
+        "content": "1) Find Gettysburg photo → 2) See purple paper: 'Go where blue and green meet!' → 3) Trey thinks water + land → 4) Sol suggests Metro blue line + green line → 5) L’Enfant Plaza!"
+      }
+    ],
+    "tooEasy": [
+      {
+        "type": "vocab",
+        "title": "Metro",
+        "content": "The METRO is a public subway/rail system. Washington D.C. has one with colored lines (blue, green). Seoul has one too — and it’s HUGE!"
+      },
+      {
+        "type": "vocab",
+        "title": "Internet",
+        "content": "The INTERNET is the global computer network. Trey searched the Internet for photos of Seoul’s city hall but accidentally typed into his D.C. map instead!"
+      },
+      {
+        "type": "evidence",
+        "title": "TRACK & SEOUL — Wordplay!",
+        "content": "Hee Jung wrote TRACK in caps → she means TRAIN tracks (subway), not the Metro! And SEOUL in caps → look at Seoul’s subway, not D.C.’s! Clever wordplay!"
+      },
+      {
+        "type": "problemSolution",
+        "title": "Can’t Read Korean",
+        "content": "Problem: Trey can’t read Korean on the subway map. Solution: Sol CAN read Korean! He finds where blue + green lines cross at 'City Hall.' That’s why Hee Jung knew Sol would need to help!"
+      }
+    ],
+    "sayGo": [
+      {
+        "type": "vocab",
+        "title": "Master",
+        "content": "To MASTER something means to become an expert at it. Rick says Go 'takes a lifetime to master' — meaning it’s simple to learn but VERY hard to become great at!"
+      },
+      {
+        "type": "sequence",
+        "title": "The Final Clues",
+        "content": "1) Seoul map: blue + green lines cross at 'City Hall' → 2) Trey accidentally searches D.C. map → 3) Map points to D.C.’s Old City Hall → 4) Purple envelope on tree branch → 5) Business card from game store → 6) 'Just say go!' → 7) Prize = Go board!"
+      },
+      {
+        "type": "evidence",
+        "title": "Brothers Grow Closer",
+        "content": "At the end, Sol says 'Maybe you could teach me that game, too?' — The treasure hunt showed Sol that games can be fun, and now he wants to share this with Trey! They’re bonding."
+      },
+      {
+        "type": "grammar",
+        "title": "Nested Quotation Marks",
+        "content": "“I’m supposed to say ‘go,’” I said. ← When quoting a word WITHIN spoken dialogue, use SINGLE quotes (‘ ’) inside the DOUBLE quotes (“ ”)."
+      }
+    ]
+  }
+}
