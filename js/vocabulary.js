@@ -245,24 +245,46 @@ const VocabularyModule = (() => {
 
   function renderContext(panel, words) {
     panel.innerHTML = '';
+
+    // Create persistent container (don't destroy on each question)
+    const container = document.createElement('div');
+    panel.appendChild(container);
+
     const sentences = words.map(v => ({ word: v.word, sentence: v.sentence.replace(new RegExp('\\b' + v.word + '\\b', 'i'), '______') }));
     shuffleArray(sentences);
     let idx = 0;
+    let nextBtn = null;
+
+    // Create Next button once, hide initially
+    nextBtn = document.createElement('button');
+    nextBtn.className = 'btn btn-primary';
+    nextBtn.style.cssText = 'display:none;margin:15px auto 0;padding:10px 30px;font-size:1em;';
+    nextBtn.textContent = 'Next →';
+    nextBtn.onclick = function() {
+      idx++;
+      show();
+    };
 
     function show() {
-      panel.innerHTML = '';
+      // Hide Next button while loading
+      nextBtn.style.display = 'none';
+
       if (idx >= sentences.length) {
-        panel.innerHTML = '<div style="text-align:center;padding:20px;background:var(--correct-bg);border-radius:8px;font-family:var(--font-ui);color:var(--correct-text);font-weight:600;">🎉 All complete!</div>';
+        container.innerHTML = '<div style="text-align:center;padding:20px;background:var(--correct-bg);border-radius:8px;font-family:var(--font-ui);color:var(--correct-text);font-weight:600;">🎉 All complete!</div>';
+        nextBtn.remove();
         return;
       }
       const item = sentences[idx];
       const vocab = words.find(v => v.word === item.word);
-      panel.innerHTML = `
+
+      // Only update content, don't destroy the container
+      container.innerHTML = `
         <div style="font-family:var(--font-ui);font-size:0.85em;color:#999;margin-bottom:15px;">Question ${idx+1} of ${sentences.length}</div>
         <div class="context-sentence">${item.sentence.replace('______', '<span class="context-blank" id="ctxBlank">______</span>')}</div>
         <div class="word-bank" id="ctxBank"></div>
         <div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:6px;font-family:var(--font-ui);font-size:0.85em;color:#666;">💡 <strong>Hint:</strong> ${vocab.definition}</div>
       `;
+
       // Use fillInOptions (related words) if available, otherwise fall back to random vocab words
       let bankWords;
       if (vocab.fillInOptions && vocab.fillInOptions.length >= 3) {
@@ -271,14 +293,15 @@ const VocabularyModule = (() => {
         bankWords = [item.word, ...words.filter(w => w.word !== item.word).sort(() => Math.random() - 0.5).slice(0, 3).map(w => w.word)];
       }
       shuffleArray(bankWords);
-      const bank = panel.querySelector('#ctxBank');
+      const bank = container.querySelector('#ctxBank');
       bankWords.forEach(w => {
         const el = document.createElement('span');
         el.className = 'word-bank-item';
         el.textContent = w;
         el.onclick = function() {
           if (el.classList.contains('used')) return;
-          const blank = panel.querySelector('#ctxBlank');
+          const blank = container.querySelector('#ctxBlank');
+          if (!blank) return;
           blank.textContent = w;
           blank.classList.add('filled');
           if (w === item.word) {
@@ -286,18 +309,11 @@ const VocabularyModule = (() => {
             el.classList.add('used');
             StarSystem.earn('vocab-ctx-' + item.word);
             if (typeof updateAllTabStars === 'function') updateAllTabStars();
-            // Show "Next" button instead of auto-advance
-            let nextBtn = panel.querySelector('#ctxNextBtn');
-            if (!nextBtn) {
-              nextBtn = document.createElement('button');
-              nextBtn.id = 'ctxNextBtn';
-              nextBtn.className = 'btn btn-primary';
-              nextBtn.style.cssText = 'display:block;margin:15px auto 0;padding:10px 30px;font-size:1em;';
-              nextBtn.textContent = 'Next →';
-              panel.appendChild(nextBtn);
-            }
+            // Show Next button (reuse the persistent one)
+            // Remove from old parent if attached elsewhere
+            if (nextBtn.parentNode) nextBtn.parentNode.removeChild(nextBtn);
+            container.appendChild(nextBtn);
             nextBtn.style.display = 'block';
-            nextBtn.onclick = function() { idx++; show(); };
           } else {
             blank.classList.add('wrong-fill');
             setTimeout(() => {
