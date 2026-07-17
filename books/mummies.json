@@ -112,7 +112,12 @@
           "the realm of life after death that the Egyptians believed in"
         ],
         "answer": 3
-      }
+      },
+      "fillInOptions": [
+        "lifetime",
+        "death",
+        "birth"
+      ]
     },
     {
       "word": "embalmers",
@@ -129,7 +134,12 @@
           "artists who painted hieroglyphs on coffin walls"
         ],
         "answer": 2
-      }
+      },
+      "fillInOptions": [
+        "builders",
+        "priests",
+        "warriors"
+      ]
     },
     {
       "word": "hieroglyphs",
@@ -146,7 +156,12 @@
           "symbols or pictures used as a form of writing in ancient Egypt"
         ],
         "answer": 3
-      }
+      },
+      "fillInOptions": [
+        "letters",
+        "symbols",
+        "pictures"
+      ]
     },
     {
       "word": "immortality",
@@ -163,7 +178,12 @@
           "traveling through the dangerous realm of the dead"
         ],
         "answer": 0
-      }
+      },
+      "fillInOptions": [
+        "death",
+        "eternity",
+        "mortality"
+      ]
     },
     {
       "word": "mummified",
@@ -180,7 +200,12 @@
           "is placed in a coffin with favorite objects and toys"
         ],
         "answer": 2
-      }
+      },
+      "fillInOptions": [
+        "preserved",
+        "decayed",
+        "burned"
+      ]
     },
     {
       "word": "sacred",
@@ -197,7 +222,12 @@
           "valuable enough to be buried with a pharaoh"
         ],
         "answer": 1
-      }
+      },
+      "fillInOptions": [
+        "holy",
+        "ordinary",
+        "common"
+      ]
     },
     {
       "word": "akh",
@@ -214,7 +244,12 @@
           "the god of the dead who judged everyone's heart"
         ],
         "answer": 0
-      }
+      },
+      "fillInOptions": [
+        "ba",
+        "ka",
+        "soul"
+      ]
     },
     {
       "word": "amulets",
@@ -231,7 +266,12 @@
           "charms worn on the body for protection"
         ],
         "answer": 3
-      }
+      },
+      "fillInOptions": [
+        "charms",
+        "weapons",
+        "tools"
+      ]
     },
     {
       "word": "canopic jars",
@@ -248,7 +288,12 @@
           "carry food and drink for the afterlife"
         ],
         "answer": 0
-      }
+      },
+      "fillInOptions": [
+        "coffins",
+        "pyramids",
+        "tombs"
+      ]
     },
     {
       "word": "natron",
@@ -265,7 +310,12 @@
           "a type of linen used for the outermost bandage"
         ],
         "answer": 1
-      }
+      },
+      "fillInOptions": [
+        "salt",
+        "sand",
+        "clay"
+      ]
     },
     {
       "word": "resin",
@@ -282,7 +332,12 @@
           "a special salt that removed water from the body"
         ],
         "answer": 2
-      }
+      },
+      "fillInOptions": [
+        "glue",
+        "oil",
+        "wax"
+      ]
     },
     {
       "word": "talismans",
@@ -299,7 +354,12 @@
           "scrolls containing spells from the Book of the Dead"
         ],
         "answer": 1
-      }
+      },
+      "fillInOptions": [
+        "spells",
+        "curses",
+        "rituals"
+      ]
     },
     {
       "word": "arrested",
@@ -316,7 +376,12 @@
           "moved to a different location"
         ],
         "answer": 1
-      }
+      },
+      "fillInOptions": [
+        "stopped",
+        "continued",
+        "accelerated"
+      ]
     },
     {
       "word": "ba",
@@ -333,7 +398,12 @@
           "the god who judges the dead"
         ],
         "answer": 1
-      }
+      },
+      "fillInOptions": [
+        "akh",
+        "ka",
+        "soul"
+      ]
     },
     {
       "word": "ka",
@@ -350,7 +420,12 @@
           "the god of the underworld"
         ],
         "answer": 2
-      }
+      },
+      "fillInOptions": [
+        "akh",
+        "ba",
+        "spirit"
+      ]
     },
     {
       "word": "shabtis",
@@ -367,7 +442,12 @@
           "spells written on papyrus scrolls"
         ],
         "answer": 1
-      }
+      },
+      "fillInOptions": [
+        "servants",
+        "gods",
+        "priests"
+      ]
     },
     {
       "word": "incision",
@@ -384,7 +464,12 @@
           "a decorative pattern on a coffin"
         ],
         "answer": 1
-      }
+      },
+      "fillInOptions": [
+        "cut",
+        "stitch",
+        "bandage"
+      ]
     },
     {
       "word": "tempted",
@@ -401,7 +486,12 @@
           "be bored by something uninteresting"
         ],
         "answer": 1
-      }
+      },
+      "fillInOptions": [
+        "attracted",
+        "repelled",
+        "indifferent"
+      ]
     }
   ],
   "questions": [

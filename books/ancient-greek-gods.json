@@ -135,7 +135,12 @@
           "a golden crown worn by kings and queens during important ceremonies"
         ],
         "answer": 1
-      }
+      },
+      "fillInOptions": [
+        "wagon",
+        "carriage",
+        "sled"
+      ]
     },
     {
       "word": "disguised",
@@ -152,7 +157,12 @@
           "turned into solid gold by a magical power or supernatural force"
         ],
         "answer": 1
-      }
+      },
+      "fillInOptions": [
+        "hidden",
+        "revealed",
+        "exposed"
+      ]
     },
     {
       "word": "immortal",
@@ -169,7 +179,12 @@
           "invisible to humans and able to move around without being seen"
         ],
         "answer": 1
-      }
+      },
+      "fillInOptions": [
+        "mortal",
+        "divine",
+        "ancient"
+      ]
     },
     {
       "word": "mischievous",
@@ -186,7 +201,12 @@
           "beautiful and charming in a way that attracted everyone's attention"
         ],
         "answer": 1
-      }
+      },
+      "fillInOptions": [
+        "playful",
+        "serious",
+        "gentle"
+      ]
     },
     {
       "word": "mythology",
@@ -203,7 +223,12 @@
           "battle weapons forged by the god Hephaestus in his fiery forge"
         ],
         "answer": 1
-      }
+      },
+      "fillInOptions": [
+        "legends",
+        "history",
+        "science"
+      ]
     },
     {
       "word": "nymphs",
@@ -220,7 +245,12 @@
           "ancient temples built on the highest peaks of mountains"
         ],
         "answer": 1
-      }
+      },
+      "fillInOptions": [
+        "goddesses",
+        "queens",
+        "witches"
+      ]
     },
     {
       "word": "realm",
@@ -237,7 +267,12 @@
           "a royal crown worn on the head as a symbol of authority"
         ],
         "answer": 1
-      }
+      },
+      "fillInOptions": [
+        "kingdom",
+        "village",
+        "forest"
+      ]
     },
     {
       "word": "scepter",
@@ -254,7 +289,12 @@
           "a golden throne where the king or queen sits during ceremonies"
         ],
         "answer": 0
-      }
+      },
+      "fillInOptions": [
+        "crown",
+        "sword",
+        "shield"
+      ]
     },
     {
       "word": "temples",
@@ -271,7 +311,12 @@
           "high mountain peaks where the gods were believed to reside"
         ],
         "answer": 1
-      }
+      },
+      "fillInOptions": [
+        "shrines",
+        "palaces",
+        "fortresses"
+      ]
     },
     {
       "word": "Titans",
@@ -288,7 +333,12 @@
           "sea goddesses who lived in the ocean and helped sailors navigate"
         ],
         "answer": 1
-      }
+      },
+      "fillInOptions": [
+        "giants",
+        "dwarfs",
+        "mortals"
+      ]
     },
     {
       "word": "trident",
@@ -305,7 +355,12 @@
           "a magical belt woven with precious gems that makes the wearer irresistible"
         ],
         "answer": 1
-      }
+      },
+      "fillInOptions": [
+        "spear",
+        "arrow",
+        "axe"
+      ]
     },
     {
       "word": "underworld",
@@ -322,7 +377,12 @@
           "the deep ocean ruled by Poseidon where storms and earthquakes began"
         ],
         "answer": 1
-      }
+      },
+      "fillInOptions": [
+        "heaven",
+        "earth",
+        "sky"
+      ]
     }
   ],
   "questions": [

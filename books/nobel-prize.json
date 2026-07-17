@@ -99,7 +99,12 @@
           "types of research papers written by prizewinners"
         ],
         "answer": 0
-      }
+      },
+      "fillInOptions": [
+        "groups",
+        "crowds",
+        "audiences"
+      ]
     },
     {
       "word": "controversy",
@@ -116,7 +121,12 @@
           "a disagreement or argument over an idea or issue"
         ],
         "answer": 3
-      }
+      },
+      "fillInOptions": [
+        "debate",
+        "agreement",
+        "certainty"
+      ]
     },
     {
       "word": "diploma",
@@ -133,7 +143,12 @@
           "a speech given at the award ceremony"
         ],
         "answer": 0
-      }
+      },
+      "fillInOptions": [
+        "certificate",
+        "degree",
+        "medal"
+      ]
     },
     {
       "word": "economics",
@@ -150,7 +165,12 @@
           "the study of ancient civilizations and their achievements"
         ],
         "answer": 1
-      }
+      },
+      "fillInOptions": [
+        "politics",
+        "literature",
+        "physics"
+      ]
     },
     {
       "word": "engineer",
@@ -167,7 +187,12 @@
           "a person who judges candidates for major awards"
         ],
         "answer": 1
-      }
+      },
+      "fillInOptions": [
+        "designer",
+        "builder",
+        "architect"
+      ]
     },
     {
       "word": "foundation",
@@ -184,7 +209,12 @@
           "the base of a building where the prize banquet takes place"
         ],
         "answer": 2
-      }
+      },
+      "fillInOptions": [
+        "base",
+        "destruction",
+        "ruin"
+      ]
     },
     {
       "word": "injustice",
@@ -201,7 +231,12 @@
           "a disagreement between two countries over territory"
         ],
         "answer": 0
-      }
+      },
+      "fillInOptions": [
+        "fairness",
+        "equality",
+        "peace"
+      ]
     },
     {
       "word": "nominate",
@@ -218,7 +253,12 @@
           "name them as a candidate for an award or position"
         ],
         "answer": 3
-      }
+      },
+      "fillInOptions": [
+        "select",
+        "reject",
+        "ignore"
+      ]
     },
     {
       "word": "physics",
@@ -235,7 +275,12 @@
           "the study of ancient languages and civilizations"
         ],
         "answer": 0
-      }
+      },
+      "fillInOptions": [
+        "chemistry",
+        "biology",
+        "math"
+      ]
     },
     {
       "word": "physiology",
@@ -252,7 +297,12 @@
           "the study of political systems and governments"
         ],
         "answer": 2
-      }
+      },
+      "fillInOptions": [
+        "anatomy",
+        "psychology",
+        "sociology"
+      ]
     },
     {
       "word": "radioactivity",
@@ -269,7 +319,12 @@
           "the process of making goods and services for sale"
         ],
         "answer": 1
-      }
+      },
+      "fillInOptions": [
+        "stability",
+        "magnetism",
+        "gravity"
+      ]
     },
     {
       "word": "scholars",
@@ -286,7 +341,12 @@
           "businesspeople who invest money in new discoveries"
         ],
         "answer": 1
-      }
+      },
+      "fillInOptions": [
+        "students",
+        "workers",
+        "soldiers"
+      ]
     },
     {
       "word": "create",
@@ -303,7 +363,12 @@
           "study something carefully"
         ],
         "answer": 1
-      }
+      },
+      "fillInOptions": [
+        "make",
+        "destroy",
+        "ignore"
+      ]
     },
     {
       "word": "important",
@@ -320,7 +385,12 @@
           "newly discovered"
         ],
         "answer": 0
-      }
+      },
+      "fillInOptions": [
+        "significant",
+        "trivial",
+        "unimportant"
+      ]
     },
     {
       "word": "individual",
@@ -337,7 +407,12 @@
           "a scientific experiment"
         ],
         "answer": 1
-      }
+      },
+      "fillInOptions": [
+        "person",
+        "group",
+        "crowd"
+      ]
     },
     {
       "word": "influence",
@@ -354,7 +429,12 @@
           "a celebration or party"
         ],
         "answer": 0
-      }
+      },
+      "fillInOptions": [
+        "impact",
+        "ignore",
+        "neglect"
+      ]
     },
     {
       "word": "receive",
@@ -371,7 +451,12 @@
           "create something new"
         ],
         "answer": 1
-      }
+      },
+      "fillInOptions": [
+        "accept",
+        "reject",
+        "refuse"
+      ]
     },
     {
       "word": "study",
@@ -388,7 +473,12 @@
           "travel to a new country"
         ],
         "answer": 1
-      }
+      },
+      "fillInOptions": [
+        "research",
+        "ignore",
+        "avoid"
+      ]
     }
   ],
   "questions": [

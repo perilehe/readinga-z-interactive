@@ -263,7 +263,13 @@ const VocabularyModule = (() => {
         <div class="word-bank" id="ctxBank"></div>
         <div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:6px;font-family:var(--font-ui);font-size:0.85em;color:#666;">💡 <strong>Hint:</strong> ${vocab.definition}</div>
       `;
-      const bankWords = [item.word, ...words.filter(w => w.word !== item.word).sort(() => Math.random() - 0.5).slice(0, 3).map(w => w.word)];
+      // Use fillInOptions (related words) if available, otherwise fall back to random vocab words
+      let bankWords;
+      if (vocab.fillInOptions && vocab.fillInOptions.length >= 3) {
+        bankWords = [item.word, ...vocab.fillInOptions.slice(0, 3)];
+      } else {
+        bankWords = [item.word, ...words.filter(w => w.word !== item.word).sort(() => Math.random() - 0.5).slice(0, 3).map(w => w.word)];
+      }
       shuffleArray(bankWords);
       const bank = panel.querySelector('#ctxBank');
       bankWords.forEach(w => {

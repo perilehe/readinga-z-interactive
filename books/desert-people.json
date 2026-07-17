@@ -105,7 +105,12 @@
           "travel from place to place"
         ],
         "answer": 2
-      }
+      },
+      "fillInOptions": [
+        "adjust",
+        "resist",
+        "ignore"
+      ]
     },
     {
       "word": "ancestors",
@@ -122,7 +127,12 @@
           "teachers at a school"
         ],
         "answer": 0
-      }
+      },
+      "fillInOptions": [
+        "descendants",
+        "neighbors",
+        "strangers"
+      ]
     },
     {
       "word": "arid",
@@ -139,7 +149,12 @@
           "full of mountains"
         ],
         "answer": 1
-      }
+      },
+      "fillInOptions": [
+        "dry",
+        "wet",
+        "humid"
+      ]
     },
     {
       "word": "climate",
@@ -156,7 +171,12 @@
           "the kinds of animals that live in a region"
         ],
         "answer": 2
-      }
+      },
+      "fillInOptions": [
+        "weather",
+        "terrain",
+        "geography"
+      ]
     },
     {
       "word": "nomadic",
@@ -173,7 +193,12 @@
           "traveling from place to place without a permanent home"
         ],
         "answer": 3
-      }
+      },
+      "fillInOptions": [
+        "settled",
+        "permanent",
+        "stationary"
+      ]
     },
     {
       "word": "resources",
@@ -190,7 +215,12 @@
           "tools used for farming and hunting"
         ],
         "answer": 0
-      }
+      },
+      "fillInOptions": [
+        "supplies",
+        "wastes",
+        "problems"
+      ]
     },
     {
       "word": "vast",
@@ -207,7 +237,12 @@
           "very old and ancient"
         ],
         "answer": 2
-      }
+      },
+      "fillInOptions": [
+        "huge",
+        "tiny",
+        "narrow"
+      ]
     },
     {
       "word": "vegetation",
@@ -224,7 +259,12 @@
           "water sources like springs"
         ],
         "answer": 1
-      }
+      },
+      "fillInOptions": [
+        "plants",
+        "animals",
+        "minerals"
+      ]
     },
     {
       "word": "bountiful",
@@ -241,7 +281,12 @@
           "cold and windy"
         ],
         "answer": 1
-      }
+      },
+      "fillInOptions": [
+        "plentiful",
+        "scarce",
+        "empty"
+      ]
     },
     {
       "word": "oases",
@@ -258,7 +303,12 @@
           "tents made from goat hair"
         ],
         "answer": 1
-      }
+      },
+      "fillInOptions": [
+        "deserts",
+        "mountains",
+        "valleys"
+      ]
     },
     {
       "word": "millennia",
@@ -275,7 +325,12 @@
           "many different cultures"
         ],
         "answer": 2
-      }
+      },
+      "fillInOptions": [
+        "centuries",
+        "decades",
+        "years"
+      ]
     },
     {
       "word": "monsoons",
@@ -292,7 +347,12 @@
           "underground springs in the mountains"
         ],
         "answer": 1
-      }
+      },
+      "fillInOptions": [
+        "droughts",
+        "storms",
+        "winds"
+      ]
     }
   ],
   "questions": [

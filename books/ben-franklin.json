@@ -131,7 +131,12 @@
           "a person who buys and sells goods"
         ],
         "answer": 2
-      }
+      },
+      "fillInOptions": [
+        "master",
+        "boss",
+        "customer"
+      ]
     },
     {
       "word": "colonies",
@@ -148,7 +153,12 @@
           "printing shops in different cities"
         ],
         "answer": 1
-      }
+      },
+      "fillInOptions": [
+        "countries",
+        "states",
+        "counties"
+      ]
     },
     {
       "word": "delegate",
@@ -165,7 +175,12 @@
           "a person who makes candles and soap"
         ],
         "answer": 1
-      }
+      },
+      "fillInOptions": [
+        "leader",
+        "follower",
+        "observer"
+      ]
     },
     {
       "word": "essay",
@@ -182,7 +197,12 @@
           "a piece of writing that expresses an idea or opinion"
         ],
         "answer": 3
-      }
+      },
+      "fillInOptions": [
+        "poem",
+        "novel",
+        "letter"
+      ]
     },
     {
       "word": "passions",
@@ -199,7 +219,12 @@
           "an idea that is unknown to most people"
         ],
         "answer": 1
-      }
+      },
+      "fillInOptions": [
+        "interests",
+        "chores",
+        "duties"
+      ]
     },
     {
       "word": "publications",
@@ -216,7 +241,12 @@
           "schools that teach people how to write"
         ],
         "answer": 0
-      }
+      },
+      "fillInOptions": [
+        "books",
+        "speeches",
+        "meetings"
+      ]
     },
     {
       "word": "contributed",
@@ -233,7 +263,12 @@
           "travel to a new place for work"
         ],
         "answer": 1
-      }
+      },
+      "fillInOptions": [
+        "gave",
+        "took",
+        "stole"
+      ]
     },
     {
       "word": "debate",
@@ -250,7 +285,12 @@
           "read books to learn new things"
         ],
         "answer": 2
-      }
+      },
+      "fillInOptions": [
+        "discussion",
+        "silence",
+        "agreement"
+      ]
     },
     {
       "word": "electricity",
@@ -267,7 +307,12 @@
           "a fuel used to heat homes"
         ],
         "answer": 0
-      }
+      },
+      "fillInOptions": [
+        "power",
+        "darkness",
+        "cold"
+      ]
     },
     {
       "word": "foundation",
@@ -284,7 +329,12 @@
           "a document that declares independence"
         ],
         "answer": 1
-      }
+      },
+      "fillInOptions": [
+        "base",
+        "destruction",
+        "ruin"
+      ]
     },
     {
       "word": "freedom",
@@ -301,7 +351,12 @@
           "the power to govern other people"
         ],
         "answer": 1
-      }
+      },
+      "fillInOptions": [
+        "liberty",
+        "slavery",
+        "captivity"
+      ]
     },
     {
       "word": "meager",
@@ -318,7 +373,12 @@
           "expensive but worth the cost"
         ],
         "answer": 2
-      }
+      },
+      "fillInOptions": [
+        "scanty",
+        "abundant",
+        "generous"
+      ]
     }
   ],
   "questions": [

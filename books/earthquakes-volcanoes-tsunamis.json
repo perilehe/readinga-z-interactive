@@ -94,7 +94,12 @@
           "cracks in Earth's surface along tectonic plates"
         ],
         "answer": 2
-      }
+      },
+      "fillInOptions": [
+        "volcanoes",
+        "hurricanes",
+        "tornadoes"
+      ]
     },
     {
       "word": "faults",
@@ -111,7 +116,12 @@
           "instruments that measure earthquake strength"
         ],
         "answer": 0
-      }
+      },
+      "fillInOptions": [
+        "cracks",
+        "ridges",
+        "peaks"
+      ]
     },
     {
       "word": "magma",
@@ -128,7 +138,12 @@
           "melted, liquid rock beneath Earth's crust"
         ],
         "answer": 3
-      }
+      },
+      "fillInOptions": [
+        "lava",
+        "water",
+        "gas"
+      ]
     },
     {
       "word": "tectonic plates",
@@ -145,7 +160,12 @@
           "layers of ice found near the Earth's poles"
         ],
         "answer": 0
-      }
+      },
+      "fillInOptions": [
+        "continents",
+        "oceans",
+        "islands"
+      ]
     },
     {
       "word": "tsunamis",
@@ -162,7 +182,12 @@
           "moving masses of rock that flow down mountain slopes"
         ],
         "answer": 2
-      }
+      },
+      "fillInOptions": [
+        "earthquakes",
+        "blizzards",
+        "droughts"
+      ]
     },
     {
       "word": "volcanoes",
@@ -179,7 +204,12 @@
           "instruments that detect underground vibrations"
         ],
         "answer": 1
-      }
+      },
+      "fillInOptions": [
+        "mountains",
+        "valleys",
+        "plains"
+      ]
     },
     {
       "word": "landslides",
@@ -196,7 +226,12 @@
           "cracks in Earth's crust where plates meet"
         ],
         "answer": 2
-      }
+      },
+      "fillInOptions": [
+        "avalanches",
+        "floods",
+        "fires"
+      ]
     },
     {
       "word": "mudslide",
@@ -213,7 +248,12 @@
           "a crack in the Earth's surface"
         ],
         "answer": 1
-      }
+      },
+      "fillInOptions": [
+        "landslide",
+        "rainstorm",
+        "earthquake"
+      ]
     },
     {
       "word": "Richter scale",
@@ -230,7 +270,12 @@
           "the strength of earthquakes"
         ],
         "answer": 3
-      }
+      },
+      "fillInOptions": [
+        "temperature scale",
+        "speed scale",
+        "weight scale"
+      ]
     },
     {
       "word": "seismograph",
@@ -247,7 +292,12 @@
           "a satellite that tracks plate movement"
         ],
         "answer": 0
-      }
+      },
+      "fillInOptions": [
+        "barometer",
+        "thermometer",
+        "speedometer"
+      ]
     }
   ],
   "questions": [

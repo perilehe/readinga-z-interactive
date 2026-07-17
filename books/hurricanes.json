@@ -130,7 +130,12 @@
           "move people out of danger to a safer area"
         ],
         "answer": 3
-      }
+      },
+      "fillInOptions": [
+        "leave",
+        "shelter",
+        "protect"
+      ]
     },
     {
       "word": "eye",
@@ -147,7 +152,12 @@
           "the area where the storm surge reaches the coast"
         ],
         "answer": 1
-      }
+      },
+      "fillInOptions": [
+        "center",
+        "edge",
+        "storm"
+      ]
     },
     {
       "word": "eyewall",
@@ -164,7 +174,12 @@
           "the flat top of the hurricane visible from satellites"
         ],
         "answer": 0
-      }
+      },
+      "fillInOptions": [
+        "rainband",
+        "outskirts",
+        "front"
+      ]
     },
     {
       "word": "intensity",
@@ -181,7 +196,12 @@
           "the size of the area a hurricane covers"
         ],
         "answer": 2
-      }
+      },
+      "fillInOptions": [
+        "strength",
+        "size",
+        "speed"
+      ]
     },
     {
       "word": "tropical depression",
@@ -198,7 +218,12 @@
           "a type of rainfall pattern that occurs only in tropical regions"
         ],
         "answer": 0
-      }
+      },
+      "fillInOptions": [
+        "tornado",
+        "hurricane",
+        "blizzard"
+      ]
     },
     {
       "word": "tropical storm",
@@ -215,7 +240,12 @@
           "between 39 and 74 miles per hour"
         ],
         "answer": 3
-      }
+      },
+      "fillInOptions": [
+        "snowstorm",
+        "hurricane",
+        "earthquake"
+      ]
     },
     {
       "word": "air pressure",
@@ -232,7 +262,12 @@
           "the temperature difference between warm and cold air masses"
         ],
         "answer": 1
-      }
+      },
+      "fillInOptions": [
+        "air temperature",
+        "air speed",
+        "air volume"
+      ]
     },
     {
       "word": "chaotic",
@@ -249,7 +284,12 @@
           "slow-moving and difficult to track on radar"
         ],
         "answer": 2
-      }
+      },
+      "fillInOptions": [
+        "unpredictable",
+        "organized",
+        "calm"
+      ]
     },
     {
       "word": "condenses",
@@ -266,7 +306,12 @@
           "disappears completely into the dry air above"
         ],
         "answer": 2
-      }
+      },
+      "fillInOptions": [
+        "evaporates",
+        "freezes",
+        "expands"
+      ]
     },
     {
       "word": "disperse",
@@ -283,7 +328,12 @@
           "suddenly changes direction and doubles back"
         ],
         "answer": 2
-      }
+      },
+      "fillInOptions": [
+        "gather",
+        "strengthen",
+        "form"
+      ]
     },
     {
       "word": "storm surge",
@@ -300,7 +350,12 @@
           "the strong winds that blow in the direction opposite to the storm"
         ],
         "answer": 0
-      }
+      },
+      "fillInOptions": [
+        "flood",
+        "rainfall",
+        "drought"
+      ]
     },
     {
       "word": "sustained",
@@ -317,7 +372,12 @@
           "only blow at night when temperatures drop"
         ],
         "answer": 1
-      }
+      },
+      "fillInOptions": [
+        "brief",
+        "constant",
+        "intermittent"
+      ]
     }
   ],
   "questions": [

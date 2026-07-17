@@ -6,9 +6,14 @@
     "author": "Susan Lennox",
     "focusQuestion": "How has New York City's skyline changed?"
   },
-
-  "activities": ["read", "sequence", "evidence", "summarize", "vocabulary", "typing"],
-
+  "activities": [
+    "read",
+    "sequence",
+    "evidence",
+    "summarize",
+    "vocabulary",
+    "typing"
+  ],
   "sections": [
     {
       "id": "intro",
@@ -66,7 +71,6 @@
       ]
     }
   ],
-
   "vocabulary": [
     {
       "word": "architects",
@@ -76,9 +80,19 @@
       "sentence": "Soon skyscrapers were going up one after another as builders and architects competed to make the world's tallest building.",
       "quiz": {
         "prompt": "\"Architects\" are people who:",
-        "options": ["design buildings and create detailed plans for construction", "drive trucks and deliver heavy loads across long distances", "cook food and prepare meals in large restaurant kitchens", "teach students and grade papers in a school classroom"],
+        "options": [
+          "design buildings and create detailed plans for construction",
+          "drive trucks and deliver heavy loads across long distances",
+          "cook food and prepare meals in large restaurant kitchens",
+          "teach students and grade papers in a school classroom"
+        ],
         "answer": 0
-      }
+      },
+      "fillInOptions": [
+        "designers",
+        "builders",
+        "engineers"
+      ]
     },
     {
       "word": "behemoth",
@@ -88,9 +102,19 @@
       "sentence": "Just blocks away, a steel-framed behemoth was rising.",
       "quiz": {
         "prompt": "\"Behemoth\" means something that is:",
-        "options": ["very small and weak compared to most other things", "extremely large and powerful in size or strength", "old and broken beyond any useful purpose now", "fast and colorful in a way that attracts attention"],
+        "options": [
+          "very small and weak compared to most other things",
+          "extremely large and powerful in size or strength",
+          "old and broken beyond any useful purpose now",
+          "fast and colorful in a way that attracts attention"
+        ],
         "answer": 1
-      }
+      },
+      "fillInOptions": [
+        "giant",
+        "dwarf",
+        "miniature"
+      ]
     },
     {
       "word": "complex",
@@ -100,9 +124,19 @@
       "sentence": "He proposed twin towers as part of the multibuilding complex of offices and storefronts.",
       "quiz": {
         "prompt": "A \"complex\" is:",
-        "options": ["a single house built for one family to live in", "a group of buildings used together for a common purpose", "a type of bridge that connects two distant places together", "an underground tunnel used for transportation between cities"],
+        "options": [
+          "a single house built for one family to live in",
+          "a group of buildings used together for a common purpose",
+          "a type of bridge that connects two distant places together",
+          "an underground tunnel used for transportation between cities"
+        ],
         "answer": 1
-      }
+      },
+      "fillInOptions": [
+        "complicated",
+        "simple",
+        "easy"
+      ]
     },
     {
       "word": "dwarfed",
@@ -112,9 +146,19 @@
       "sentence": "Because they were built away from the city's other tall skyscrapers, they dwarfed the surrounding buildings.",
       "quiz": {
         "prompt": "\"Dwarfed\" means:",
-        "options": ["destroyed completely by a powerful force or disaster", "made something seem very small by comparison with something larger", "painted in bright colors to attract attention from far away", "surrounded by water on all sides like an island in the sea"],
+        "options": [
+          "destroyed completely by a powerful force or disaster",
+          "made something seem very small by comparison with something larger",
+          "painted in bright colors to attract attention from far away",
+          "surrounded by water on all sides like an island in the sea"
+        ],
         "answer": 1
-      }
+      },
+      "fillInOptions": [
+        "overshadowed",
+        "magnified",
+        "enlarged"
+      ]
     },
     {
       "word": "iconic",
@@ -124,9 +168,19 @@
       "sentence": "Iconic structures such as these, along with surrounding buildings, create an outline against the sky, called a skyline.",
       "quiz": {
         "prompt": "\"Iconic\" is closest in meaning to:",
-        "options": ["famous and widely recognized as an important symbol of something", "old and historical with connections to events from the distant past", "tall and impressive in a way that catches everyone's attention", "beautiful and colorful with many decorative features on display"],
+        "options": [
+          "famous and widely recognized as an important symbol of something",
+          "old and historical with connections to events from the distant past",
+          "tall and impressive in a way that catches everyone's attention",
+          "beautiful and colorful with many decorative features on display"
+        ],
         "answer": 0
-      }
+      },
+      "fillInOptions": [
+        "symbolic",
+        "ordinary",
+        "unknown"
+      ]
     },
     {
       "word": "innovations",
@@ -136,9 +190,19 @@
       "sentence": "The 110-story towers would include some structural innovations.",
       "quiz": {
         "prompt": "\"Innovations\" are:",
-        "options": ["old traditions that have been followed for many generations", "new ideas or creative ways of doing something differently", "expensive materials used in the construction of large buildings", "government laws that regulate how businesses must operate"],
+        "options": [
+          "old traditions that have been followed for many generations",
+          "new ideas or creative ways of doing something differently",
+          "expensive materials used in the construction of large buildings",
+          "government laws that regulate how businesses must operate"
+        ],
         "answer": 1
-      }
+      },
+      "fillInOptions": [
+        "inventions",
+        "traditions",
+        "customs"
+      ]
     },
     {
       "word": "landmark",
@@ -148,9 +212,19 @@
       "sentence": "New Yorkers mourned the loss of their neighbors and their landmark.",
       "quiz": {
         "prompt": "A \"landmark\" is:",
-        "options": ["a new building that is still being planned for the future", "an important historical building or place that is widely recognized", "a small house built for a family with limited space and resources", "a park bench where people can sit and rest during the day"],
+        "options": [
+          "a new building that is still being planned for the future",
+          "an important historical building or place that is widely recognized",
+          "a small house built for a family with limited space and resources",
+          "a park bench where people can sit and rest during the day"
+        ],
         "answer": 1
-      }
+      },
+      "fillInOptions": [
+        "milestone",
+        "obstacle",
+        "boundary"
+      ]
     },
     {
       "word": "panoramic",
@@ -160,9 +234,19 @@
       "sentence": "An outside observation deck on the 86th floor and an inside deck on the 102nd floor provided panoramic views of the city.",
       "quiz": {
         "prompt": "\"Panoramic\" means:",
-        "options": ["narrow and limited in what can be seen from that vantage point", "close-up and detailed, showing only a small area very clearly", "providing a complete and wide view in all directions at once", "dark and shadowy, making it difficult to see any clear details"],
+        "options": [
+          "narrow and limited in what can be seen from that vantage point",
+          "close-up and detailed, showing only a small area very clearly",
+          "providing a complete and wide view in all directions at once",
+          "dark and shadowy, making it difficult to see any clear details"
+        ],
         "answer": 2
-      }
+      },
+      "fillInOptions": [
+        "wide-angle",
+        "narrow",
+        "limited"
+      ]
     },
     {
       "word": "perimeter",
@@ -172,9 +256,19 @@
       "sentence": "The outside perimeter of the building had columns that were spaced close together.",
       "quiz": {
         "prompt": "\"Perimeter\" means:",
-        "options": ["the exact center point of something, like the middle of a room", "the inside floor area of a building where people walk and stand", "the outside edge or boundary that marks the limit of an area", "the very top surface of something, such as the roof of a building"],
+        "options": [
+          "the exact center point of something, like the middle of a room",
+          "the inside floor area of a building where people walk and stand",
+          "the outside edge or boundary that marks the limit of an area",
+          "the very top surface of something, such as the roof of a building"
+        ],
         "answer": 2
-      }
+      },
+      "fillInOptions": [
+        "boundary",
+        "center",
+        "core"
+      ]
     },
     {
       "word": "prominent",
@@ -184,9 +278,19 @@
       "sentence": "They dwarfed the surrounding buildings and were the most prominent structures on Manhattan Island.",
       "quiz": {
         "prompt": "\"Prominent\" means:",
-        "options": ["hidden from view and difficult for anyone to find or notice", "very small in size and easy to overlook when walking past", "easily seen and standing out as important among other things", "old and forgotten after many years of being ignored by everyone"],
+        "options": [
+          "hidden from view and difficult for anyone to find or notice",
+          "very small in size and easy to overlook when walking past",
+          "easily seen and standing out as important among other things",
+          "old and forgotten after many years of being ignored by everyone"
+        ],
         "answer": 2
-      }
+      },
+      "fillInOptions": [
+        "noticeable",
+        "hidden",
+        "obscure"
+      ]
     },
     {
       "word": "skeleton",
@@ -196,9 +300,19 @@
       "sentence": "Gigantic steel beams were connected to form the building's skeleton.",
       "quiz": {
         "prompt": "In building, a \"skeleton\" is:",
-        "options": ["the outer walls that enclose a building and keep weather out", "a framework of steel beams that supports the entire structure", "the roof that covers the top of a building and keeps rain out", "the foundation buried underground that anchors a building in place"],
+        "options": [
+          "the outer walls that enclose a building and keep weather out",
+          "a framework of steel beams that supports the entire structure",
+          "the roof that covers the top of a building and keeps rain out",
+          "the foundation buried underground that anchors a building in place"
+        ],
         "answer": 1
-      }
+      },
+      "fillInOptions": [
+        "framework",
+        "facade",
+        "exterior"
+      ]
     },
     {
       "word": "vertically",
@@ -208,12 +322,21 @@
       "sentence": "This system was a new, efficient way to transport people vertically, and it reduced the number of elevator shafts needed.",
       "quiz": {
         "prompt": "\"Vertically\" means:",
-        "options": ["moving from side to side in a horizontal direction across a surface", "moving in a circle around a fixed central point over and over", "moving in a straight direction going up and down along a line", "moving diagonally at an angle that is neither straight nor flat"],
+        "options": [
+          "moving from side to side in a horizontal direction across a surface",
+          "moving in a circle around a fixed central point over and over",
+          "moving in a straight direction going up and down along a line",
+          "moving diagonally at an angle that is neither straight nor flat"
+        ],
         "answer": 2
-      }
+      },
+      "fillInOptions": [
+        "upright",
+        "horizontally",
+        "diagonally"
+      ]
     }
   ],
-
   "sequenceEvents": [
     {
       "event": "The Park Row Building was constructed, standing 391 feet tall with 29 stories.",
@@ -264,7 +387,6 @@
       "order": 8
     }
   ],
-
   "questions": [
     {
       "id": "q1",
@@ -379,7 +501,6 @@
       ]
     }
   ],
-
   "summarizeActivities": [
     {
       "section": "growing",
@@ -395,7 +516,13 @@
         "The Civil War ended in 1865",
         "Paris has the Eiffel Tower"
       ],
-      "transitionWords": ["During", "Gradually", "However", "As a result", "By the turn of"]
+      "transitionWords": [
+        "During",
+        "Gradually",
+        "However",
+        "As a result",
+        "By the turn of"
+      ]
     },
     {
       "section": "empire",
@@ -411,7 +538,12 @@
         "The Chrysler Building had 110 stories",
         "The Empire State Building was built in the 1970s"
       ],
-      "transitionWords": ["By the late 1920s", "In 1928", "Amazingly", "For nearly forty years"]
+      "transitionWords": [
+        "By the late 1920s",
+        "In 1928",
+        "Amazingly",
+        "For nearly forty years"
+      ]
     },
     {
       "section": "twins",
@@ -427,7 +559,13 @@
         "The towers were built in the 1920s",
         "The towers had wooden frames"
       ],
-      "transitionWords": ["In the 1960s", "One innovation", "Another innovation", "Construction began", "Then disaster struck"]
+      "transitionWords": [
+        "In the 1960s",
+        "One innovation",
+        "Another innovation",
+        "Construction began",
+        "Then disaster struck"
+      ]
     },
     {
       "section": "newtower",
@@ -443,10 +581,14 @@
         "The new tower is shorter than the original Twin Towers",
         "No memorial was built at the site"
       ],
-      "transitionWords": ["The tragedy devastated", "Finally", "Nearby", "By the year 2020"]
+      "transitionWords": [
+        "The tragedy devastated",
+        "Finally",
+        "Nearby",
+        "By the year 2020"
+      ]
     }
   ],
-
   "notes": {
     "intro": [
       {

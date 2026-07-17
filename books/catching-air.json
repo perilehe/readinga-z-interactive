@@ -82,7 +82,12 @@
           "a rising column of warm air"
         ],
         "answer": 1
-      }
+      },
+      "fillInOptions": [
+        "hydrodynamics",
+        "thermodynamics",
+        "geodynamics"
+      ]
     },
     {
       "word": "air pressure",
@@ -99,7 +104,12 @@
           "the force of air in the atmosphere"
         ],
         "answer": 3
-      }
+      },
+      "fillInOptions": [
+        "air temperature",
+        "air speed",
+        "air volume"
+      ]
     },
     {
       "word": "altitude",
@@ -116,7 +126,12 @@
           "forward aerodynamic force"
         ],
         "answer": 0
-      }
+      },
+      "fillInOptions": [
+        "depth",
+        "width",
+        "distance"
+      ]
     },
     {
       "word": "free-falling",
@@ -133,7 +148,12 @@
           "floating on water with a parasail"
         ],
         "answer": 1
-      }
+      },
+      "fillInOptions": [
+        "rising",
+        "floating",
+        "gliding"
+      ]
     },
     {
       "word": "stalls",
@@ -150,7 +170,12 @@
           "catches a thermal updraft"
         ],
         "answer": 2
-      }
+      },
+      "fillInOptions": [
+        "accelerates",
+        "climbs",
+        "turns"
+      ]
     },
     {
       "word": "thrust",
@@ -167,7 +192,12 @@
           "the force of gravity"
         ],
         "answer": 2
-      }
+      },
+      "fillInOptions": [
+        "lift",
+        "drag",
+        "weight"
+      ]
     },
     {
       "word": "canopy",
@@ -184,7 +214,12 @@
           "a rising column of warm air"
         ],
         "answer": 1
-      }
+      },
+      "fillInOptions": [
+        "harness",
+        "helmet",
+        "jumpsuit"
+      ]
     },
     {
       "word": "drogue",
@@ -201,7 +236,12 @@
           "a rising column of warm air"
         ],
         "answer": 1
-      }
+      },
+      "fillInOptions": [
+        "canopy",
+        "harness",
+        "altimeter"
+      ]
     },
     {
       "word": "lift",
@@ -218,7 +258,12 @@
           "the weight of air in the atmosphere"
         ],
         "answer": 2
-      }
+      },
+      "fillInOptions": [
+        "drag",
+        "thrust",
+        "gravity"
+      ]
     },
     {
       "word": "resistance",
@@ -235,7 +280,12 @@
           "force that slows motion"
         ],
         "answer": 3
-      }
+      },
+      "fillInOptions": [
+        "assistance",
+        "speed",
+        "power"
+      ]
     },
     {
       "word": "thermal",
@@ -252,7 +302,12 @@
           "the force of air in the atmosphere"
         ],
         "answer": 0
-      }
+      },
+      "fillInOptions": [
+        "cold front",
+        "wind gust",
+        "rain cloud"
+      ]
     },
     {
       "word": "winch",
@@ -269,7 +324,12 @@
           "a small device that opens a reserve chute"
         ],
         "answer": 1
-      }
+      },
+      "fillInOptions": [
+        "crank",
+        "lever",
+        "pulley"
+      ]
     }
   ],
   "questions": [

@@ -87,7 +87,12 @@
           "the way a tribe developed its housing"
         ],
         "answer": 1
-      }
+      },
+      "fillInOptions": [
+        "cultures",
+        "wars",
+        "storms"
+      ]
     },
     {
       "word": "flourishing",
@@ -104,7 +109,12 @@
           "just getting started"
         ],
         "answer": 2
-      }
+      },
+      "fillInOptions": [
+        "thriving",
+        "declining",
+        "failing"
+      ]
     },
     {
       "word": "intact",
@@ -121,7 +131,12 @@
           "newly built and modern"
         ],
         "answer": 2
-      }
+      },
+      "fillInOptions": [
+        "whole",
+        "broken",
+        "ruined"
+      ]
     },
     {
       "word": "native",
@@ -138,7 +153,12 @@
           "building new homes in a new place"
         ],
         "answer": 1
-      }
+      },
+      "fillInOptions": [
+        "local",
+        "foreign",
+        "imported"
+      ]
     },
     {
       "word": "perspective",
@@ -155,7 +175,12 @@
           "the distance between two places"
         ],
         "answer": 0
-      }
+      },
+      "fillInOptions": [
+        "viewpoint",
+        "background",
+        "distance"
+      ]
     },
     {
       "word": "ruins",
@@ -172,7 +197,12 @@
           "ancient books written on paper"
         ],
         "answer": 1
-      }
+      },
+      "fillInOptions": [
+        "remains",
+        "buildings",
+        "treasures"
+      ]
     },
     {
       "word": "archaeologists",
@@ -189,7 +219,12 @@
           "messengers who run between towns"
         ],
         "answer": 0
-      }
+      },
+      "fillInOptions": [
+        "scientists",
+        "artists",
+        "farmers"
+      ]
     },
     {
       "word": "kivas",
@@ -206,7 +241,12 @@
           "stone rings in ball courts"
         ],
         "answer": 1
-      }
+      },
+      "fillInOptions": [
+        "temples",
+        "houses",
+        "markets"
+      ]
     },
     {
       "word": "petroglyphs",
@@ -223,7 +263,12 @@
           "stone pyramids with steps"
         ],
         "answer": 1
-      }
+      },
+      "fillInOptions": [
+        "carvings",
+        "paintings",
+        "sculptures"
+      ]
     },
     {
       "word": "quinoa",
@@ -240,7 +285,12 @@
           "a kind of stone road"
         ],
         "answer": 1
-      }
+      },
+      "fillInOptions": [
+        "corn",
+        "wheat",
+        "rice"
+      ]
     },
     {
       "word": "terraces",
@@ -257,7 +307,12 @@
           "stone roads that connect towns"
         ],
         "answer": 2
-      }
+      },
+      "fillInOptions": [
+        "steps",
+        "walls",
+        "bridges"
+      ]
     },
     {
       "word": "suspension bridges",
@@ -274,7 +329,12 @@
           "bridges made of wooden planks"
         ],
         "answer": 1
-      }
+      },
+      "fillInOptions": [
+        "stone roads",
+        "canals",
+        "tunnels"
+      ]
     }
   ],
   "questions": [
