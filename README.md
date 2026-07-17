@@ -17,6 +17,8 @@ Each book configures its own activities via JSON — the same template engine su
 - 🔤 **Pronoun Agreement** — Replace nouns with correct pronouns
 - 📐 **Grammar** — Interactive grammar exercises based on each book's Lesson Plan
 - 🔥 **Problem & Solution** — Identify problems, causes, effects, and solutions
+- 👤 **Character Analysis** — Sort facts into Personality / Accomplishments / Influence (biography)
+- ⚖️ **Compare & Contrast** — Fill comparison table (N objects × M criteria)
 - ⭐ **Star System** — Gamified progress tracking with localStorage
 
 ## Book Activity Examples
@@ -35,6 +37,9 @@ Each book configures its own activities via JSON — the same template engine su
 | Curiosity on Mars | Read, Evidence, Summarize, Vocab, Grammar, Typing |
 | Desert People | Read, Evidence, Summarize, Vocab, Grammar, Typing |
 | Earthquakes, Volcanoes, and Tsunamis | Read, Evidence, KWLS, Vocab, Grammar, Typing |
+| Ben Franklin | Read, KWLS, Evidence, Character Analysis, Vocab, Typing, Grammar |
+| Catching Air | Read, Evidence, Compare & Contrast, Vocab, Typing, Grammar |
+| Discovery in the Americas? | Read, Evidence, Author's Purpose, Vocab, Typing, Grammar |
 
 ## How to Add a New Book
 
@@ -96,6 +101,8 @@ Create a new file in `books/` named `your-book-id.json`. Use this schema:
 - `pronoun` — needs `pronounAgreement` array
 - `grammar` — needs `grammar` object (**required for every book — based on LP**)
 - `problemSolution` — needs `problemSolution` array
+- `characterAnalysis` — needs `characterAnalysis` object (biography-specific)
+- `compareContrast` — needs `compareContrast` object
 
   "vocabulary": [
     {
