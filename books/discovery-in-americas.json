@@ -1,0 +1,694 @@
+{
+  "meta": {
+    "id": "discovery-in-americas",
+    "title": "Discovery in the Americas?",
+    "level": "W",
+    "author": "David Meissner",
+    "focusQuestion": "Did Columbus really discover the Americas, or were people already living there?"
+  },
+  "activities": [
+    "read",
+    "evidence",
+    "authorPurpose",
+    "vocabulary",
+    "typing",
+    "grammar"
+  ],
+  "sections": [
+    {
+      "id": "columbus",
+      "title": "Christopher Columbus",
+      "paragraphs": [
+        "In 1492, Columbus sailed the ocean blue. This is a famous rhyme about a famous voyage. On August 3, 1492, Christopher Columbus set sail from Europe with a group of three ships. He was looking for a shortcut to a group of islands in Southeast Asia called the Indies. That's why he tried to sail west across the Atlantic Ocean.",
+        "Columbus didn't realize that large continents would block his way. He and his crew spotted land on October 12. They thought it was the Indies. But instead, it was a place that Europeans had never seen before. These continents became known as the Americas.",
+        "Every year in October, the United States celebrates the feats of Christopher Columbus. Many people say that Columbus discovered the Americas. But other people disagree. They say that he wasn't the first to discover this land.",
+        "So did Columbus really \"discover\" the Americas? Discovery is when something is found or seen for the first time. But was Columbus really the first person to walk on the American continents? Had anyone come before him?",
+        "Columbus was not the first person to set foot in the Americas. People had been living there for thousands of years. These people had already made pottery, built pyramids, and studied astronomy. Many different civilizations were already there."
+      ]
+    },
+    {
+      "id": "maya",
+      "title": "The Maya",
+      "paragraphs": [
+        "Thousands of years ago, the Maya built giant stone pyramids in southern Mexico and the Central American rainforest. Some pyramids were as tall as ten-story buildings, with steps going all the way up. Priests walked up the steep steps with offerings for the gods. At the top were temples for religious ceremonies.",
+        "The Maya knew a lot about architecture, astronomy, art, math, and writing. They studied the stars and made calendars. They carved big sculptures and painted bright murals. Their math system used dots and bars instead of numerals. Their writing used pictures and symbols instead of words and letters.",
+        "The Maya were farmers who grew crops such as corn, beans, and chili peppers. They liked to eat flat corn cakes, which are now called tortillas. The Maya raised turkeys and hunted animals, such as deer. They traded jaguar skins, jade, and brightly colored bird feathers.",
+        "Most Mayan cities had large ball courts. These courts had walls with stone rings high above the ground. They used these courts to play a sacred game in which players hit a rubber ball through the ring. But they weren't allowed to use their hands. They had to hit the ball with their hips, shoulders, and thighs.",
+        "For hundreds of years Chichen Itza was the most powerful Mayan city. It had a huge open plaza and a giant pyramid. Today, many of its pyramids still exist. Tourists walk up these old pyramids and study the detailed stone carvings."
+      ]
+    },
+    {
+      "id": "anasazi",
+      "title": "The Anasazi",
+      "paragraphs": [
+        "The story of the Anasazi is amazing and mysterious. The Anasazi were also known as the \"cliff dwellers\" or the \"ancient ones.\" They lived in the Southwestern region of today's United States. These people lived as hunters and then as farmers, growing corn, beans, squash, and cotton. They built sandstone houses in the sides of cliffs.",
+        "But about 700 years ago, the Anasazi simply vanished from their homes. Today we know about the Anasazi because they left many clues behind. It seems as if they left one day, meaning to come back. But they never did. Their sandstone houses were still intact. Clothes hung from hooks, and pottery lay on the ground.",
+        "Archaeologists later found sandals, baskets, blankets, and garden tools. There were many pieces of beautiful pottery, such as jars and bowls with black and red designs. The Anasazi also left petroglyphs of people and animals carved into rock walls.",
+        "Why did these people leave their homes so suddenly? To this day, it is still a mystery. Some people believe that a long drought made it too hard to grow food there. Others believe that the Anasazi were suddenly invaded.",
+        "Perhaps the most amazing Anasazi ruins are at Mesa Verde National Park in Colorado. The most famous ruin is called Cliff Palace. It sits under a big rocky ledge. There are stairs, courtyards, and rooms packed together. Circular rooms called kivas remain where the Anasazi held ceremonies."
+      ]
+    },
+    {
+      "id": "inca",
+      "title": "The Inca",
+      "paragraphs": [
+        "The Inca lived along the western edge of South America. They built a large and rich empire. The Inca empire covered thousands of miles of jungles, mountains, and beaches.",
+        "The Inca were good builders and engineers. They built a network of stone roads that connected towns. They even built long suspension bridges over rivers and canyons. Before the age of telephones and cars, they kept in close contact. Messengers ran between towns to relay messages from far away.",
+        "The Inca were also master farmers. They cut terraces into steep mountainsides. This gave them flat places to grow food. They also dug irrigation canals that brought water to their crops. They grew corn, cotton, potatoes, and quinoa. Llamas helped the Inca carry things up the mountains.",
+        "Today, relatives of the Inca still live high in the green Andes. On steep, sloping lands they grow foods like quinoa. Some still speak the ancient language, Quechua, and live like their Inca ancestors.",
+        "Machu Picchu is one of the most impressive ruins in the Americas. It is an ancient Inca city built out of stone. It is perched high on a green mountaintop in Peru. Machu Picchu is so isolated that the outside world didn't know about it until 1911. The \"Inca Trail\" is a famous stone path that still leads to Machu Picchu."
+      ]
+    },
+    {
+      "id": "pointOfView",
+      "title": "Point of View",
+      "paragraphs": [
+        "Now you have learned about different people from the Americas. You know about the Maya, the Anasazi, and the Inca. So let's go back to our original question. Did Columbus really discover the Americas?",
+        "On the timeline, Columbus arrived in 1492. More than fifty years before that, the Inca empire was already flourishing. In 1200, the Anasazi lived at Cliff Palace. And long before all of that, the Maya were building giant pyramids.",
+        "It is clear that many people lived in the Americas before 1492. Columbus himself even wrote about the local people he met. When Columbus first arrived, he thought he had landed in the Indies. That's why he mistakenly called the local people \"Indians.\"",
+        "The answer to this question probably depends on perspective. Perspective is the point of view from which you see something. From the perspective of the Europeans, Columbus had found new land. So for them, it was a discovery.",
+        "But from the perspective of the Native Americans, Columbus hadn't discovered their land. These people had already been eating, sleeping, and farming there for many years. Maybe we could better say that Columbus explored the Americas. That's probably more accurate than saying he discovered them."
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "civilizations",
+      "pos": "n.",
+      "definition": "the culture and way of life of particular places",
+      "section": "columbus",
+      "sentence": "Many different civilizations were already there.",
+      "quiz": {
+        "prompt": "\"Civilizations\" are:",
+        "options": [
+          "a group of native people",
+          "the culture and way of life of particular places",
+          "a type of government for a group of people",
+          "the way a tribe developed its housing"
+        ],
+        "answer": 1
+      }
+    },
+    {
+      "word": "flourishing",
+      "pos": "v.",
+      "definition": "doing very well; at its peak",
+      "section": "pointOfView",
+      "sentence": "More than fifty years before that, the Inca empire was already flourishing.",
+      "quiz": {
+        "prompt": "\"Flourishing\" means:",
+        "options": [
+          "falling apart",
+          "fighting wars",
+          "doing very well; at its peak",
+          "just getting started"
+        ],
+        "answer": 2
+      }
+    },
+    {
+      "word": "intact",
+      "pos": "adj.",
+      "definition": "put together; not broken or changed",
+      "section": "anasazi",
+      "sentence": "Their sandstone houses were still intact.",
+      "quiz": {
+        "prompt": "\"Intact\" means:",
+        "options": [
+          "broken into many pieces",
+          "covered by soil and plants",
+          "put together; not broken or changed",
+          "newly built and modern"
+        ],
+        "answer": 2
+      }
+    },
+    {
+      "word": "native",
+      "pos": "adj.",
+      "definition": "belonging to a country or location by birth",
+      "section": "pointOfView",
+      "sentence": "This is because they are native to the Americas.",
+      "quiz": {
+        "prompt": "\"Native\" means:",
+        "options": [
+          "traveling from a faraway land",
+          "belonging to a country or location by birth",
+          "visiting a place for a short time",
+          "building new homes in a new place"
+        ],
+        "answer": 1
+      }
+    },
+    {
+      "word": "perspective",
+      "pos": "n.",
+      "definition": "a point of view or way of looking at something",
+      "section": "pointOfView",
+      "sentence": "The answer to this question probably depends on perspective.",
+      "quiz": {
+        "prompt": "\"Perspective\" means:",
+        "options": [
+          "a point of view or way of looking at something",
+          "the study of ancient buildings",
+          "a type of calendar used by farmers",
+          "the distance between two places"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "word": "ruins",
+      "pos": "n.",
+      "definition": "the remains of an old building",
+      "section": "columbus",
+      "sentence": "These ruins are proof of the people who lived in the Americas before Columbus.",
+      "quiz": {
+        "prompt": "\"Ruins\" are:",
+        "options": [
+          "brand new buildings made of stone",
+          "the remains of an old building",
+          "tools used for farming",
+          "ancient books written on paper"
+        ],
+        "answer": 1
+      }
+    },
+    {
+      "word": "archaeologists",
+      "pos": "n.",
+      "definition": "people who study things from long ago by looking at the items left behind",
+      "section": "anasazi",
+      "sentence": "Archaeologists later found sandals, baskets, blankets, and garden tools.",
+      "quiz": {
+        "prompt": "\"Archaeologists\" are:",
+        "options": [
+          "people who study things from long ago by looking at items left behind",
+          "people who build modern cities",
+          "farmers who grow crops on terraces",
+          "messengers who run between towns"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "word": "kivas",
+      "pos": "n.",
+      "definition": "underground rooms used by the Anasazi for ceremonies",
+      "section": "anasazi",
+      "sentence": "Circular rooms called kivas remain where the Anasazi held ceremonies.",
+      "quiz": {
+        "prompt": "\"Kivas\" are:",
+        "options": [
+          "sandstone houses built into cliffs",
+          "underground rooms used for ceremonies",
+          "pottery jars with painted designs",
+          "stone rings in ball courts"
+        ],
+        "answer": 1
+      }
+    },
+    {
+      "word": "petroglyphs",
+      "pos": "n.",
+      "definition": "old rock carvings",
+      "section": "anasazi",
+      "sentence": "The Anasazi also left petroglyphs of people and animals carved into rock walls.",
+      "quiz": {
+        "prompt": "\"Petroglyphs\" are:",
+        "options": [
+          "ancient books written on paper",
+          "old rock carvings",
+          "pottery bowls with painted designs",
+          "stone pyramids with steps"
+        ],
+        "answer": 1
+      }
+    },
+    {
+      "word": "quinoa",
+      "pos": "n.",
+      "definition": "a starchy, nutritious plant found in the Andean mountains",
+      "section": "inca",
+      "sentence": "They grew corn, cotton, potatoes, and quinoa.",
+      "quiz": {
+        "prompt": "\"Quinoa\" is:",
+        "options": [
+          "a type of suspension bridge",
+          "a starchy, nutritious plant found in the Andean mountains",
+          "an underground room for ceremonies",
+          "a kind of stone road"
+        ],
+        "answer": 1
+      }
+    },
+    {
+      "word": "terraces",
+      "pos": "n.",
+      "definition": "hillsides carved into large stairstep shapes to make flat ground for farming",
+      "section": "inca",
+      "sentence": "They cut terraces into steep mountainsides. This gave them flat places to grow food.",
+      "quiz": {
+        "prompt": "\"Terraces\" are:",
+        "options": [
+          "long suspension bridges over rivers",
+          "underground rooms used for ceremonies",
+          "hillsides carved into stairstep shapes for farming",
+          "stone roads that connect towns"
+        ],
+        "answer": 2
+      }
+    },
+    {
+      "word": "suspension bridges",
+      "pos": "n.",
+      "definition": "bridges held up by cables or ropes",
+      "section": "inca",
+      "sentence": "They even built long suspension bridges over rivers and canyons.",
+      "quiz": {
+        "prompt": "\"Suspension bridges\" are:",
+        "options": [
+          "bridges built from sandstone blocks",
+          "bridges held up by cables or ropes",
+          "bridges carved into the sides of cliffs",
+          "bridges made of wooden planks"
+        ],
+        "answer": 1
+      }
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "level": 1,
+      "question": "What was one crop that the Maya, Anasazi, and Inca all grew?",
+      "section": "maya",
+      "pages": "8, 11, 15",
+      "evidence": "Maya: grew corn, beans, and chili peppers. Anasazi: growing corn, beans, squash, and cotton. Inca: grew corn, cotton, potatoes, and quinoa.",
+      "choices": [
+        "Potatoes",
+        "Bananas",
+        "Cotton",
+        "Corn"
+      ],
+      "correctChoice": 3,
+      "explanation": "All three civilizations grew CORN. The Maya, Anasazi, and Inca all depended on corn as a key crop."
+    },
+    {
+      "id": "q2",
+      "level": 1,
+      "question": "What is a civilization?",
+      "section": "columbus",
+      "pages": "7",
+      "evidence": "Glossary: civilizations — the culture and way of life of particular places.",
+      "choices": [
+        "A group of native people.",
+        "The culture and way of life of a group.",
+        "A type of government for a group of people.",
+        "The way a tribe developed its housing."
+      ],
+      "correctChoice": 1,
+      "explanation": "A civilization is the culture and way of life of a particular place — including their food, buildings, art, and beliefs."
+    },
+    {
+      "id": "q3",
+      "level": 1,
+      "question": "Why did the Anasazi leave their cliff homes?",
+      "section": "anasazi",
+      "pages": "12",
+      "evidence": "Why did these people leave their homes so suddenly? To this day, it is still a mystery. Some people believe that a long drought made it too hard to grow food there. Others believe that the Anasazi were suddenly invaded.",
+      "choices": [
+        "It is not known for certain.",
+        "They were invaded by another tribe.",
+        "They decided they wanted new land.",
+        "There was a long drought, so they were starving."
+      ],
+      "correctChoice": 0,
+      "explanation": "Nobody knows FOR CERTAIN why the Anasazi left. Some believe drought, others believe invasion — but to this day, it remains a mystery."
+    },
+    {
+      "id": "q4",
+      "level": 1,
+      "question": "Where did Columbus land when he first came to the Americas?",
+      "section": "columbus",
+      "pages": "4-5",
+      "evidence": "On Columbus's first trip across the Atlantic, he visited the Caribbean Islands.",
+      "choices": [
+        "Brazil",
+        "Mexico",
+        "Canada",
+        "Caribbean"
+      ],
+      "correctChoice": 3,
+      "explanation": "Columbus first landed in the CARIBBEAN Islands — not in Brazil, Mexico, or Canada."
+    },
+    {
+      "id": "q5",
+      "level": 2,
+      "question": "What were the Maya, Anasazi, and Inca people all known for?",
+      "section": "columbus",
+      "pages": "7",
+      "evidence": "These people had already made pottery, built pyramids, and studied astronomy. Many different civilizations were already there.",
+      "choices": [
+        "Their highly developed roads.",
+        "Their well-designed pyramids.",
+        "The cities they established.",
+        "All of the above."
+      ],
+      "correctChoice": 2,
+      "explanation": "All three groups established cities — the Maya in the rainforest, the Anasazi in cliff dwellings, and the Inca high in the mountains."
+    },
+    {
+      "id": "q6",
+      "level": 2,
+      "question": "Mayan writing used pictures and ___.",
+      "section": "maya",
+      "pages": "8",
+      "evidence": "Their writing used pictures and symbols instead of words and letters.",
+      "choices": [
+        "Dots",
+        "Words",
+        "Letters",
+        "Symbols"
+      ],
+      "correctChoice": 3,
+      "explanation": "Mayan writing used pictures and SYMBOLS — not words, letters, or dots. (Dots were used in their MATH system, not writing.)"
+    },
+    {
+      "id": "q7",
+      "level": 2,
+      "question": "Read this sentence: 'The Incan empire was flourishing when Columbus arrived.' What does 'flourishing' mean?",
+      "section": "pointOfView",
+      "pages": "17",
+      "evidence": "Glossary: flourishing — doing very well; at its peak.",
+      "choices": [
+        "Falling apart.",
+        "Fighting wars.",
+        "Doing very well; at its peak.",
+        "Just getting started."
+      ],
+      "correctChoice": 2,
+      "explanation": "Flourishing means doing very well, at its peak. The Inca empire was strong and successful when Columbus arrived — not just starting or falling apart."
+    },
+    {
+      "id": "q8",
+      "level": 2,
+      "question": "What did the Incas and Mayans both do that proves they were master farmers?",
+      "section": "maya",
+      "pages": "9, 15",
+      "evidence": "Maya: grew crops such as corn, beans, and chili peppers. Inca: grew corn, cotton, potatoes, and quinoa.",
+      "choices": [
+        "They cut terraces into the mountains.",
+        "They grew many crops, including corn.",
+        "They raised birds such as turkeys.",
+        "They created irrigation canals."
+      ],
+      "correctChoice": 1,
+      "explanation": "Both grew many crops including CORN. Terraces were only the Inca. Turkeys were only the Maya. Irrigation canals were only the Inca."
+    },
+    {
+      "id": "q9",
+      "level": 2,
+      "question": "Which group could be said to be skilled builders, engineers, and architects?",
+      "section": "maya",
+      "pages": "8-16",
+      "evidence": "Maya: giant stone pyramids, architecture. Anasazi: sandstone houses in cliff sides. Inca: stone roads, suspension bridges, terraces.",
+      "choices": [
+        "Mayans",
+        "Inca",
+        "Anasazi",
+        "All of the above"
+      ],
+      "correctChoice": 3,
+      "explanation": "ALL THREE were skilled builders! Maya built pyramids and temples, Anasazi built cliff dwellings, Inca built roads and suspension bridges."
+    },
+    {
+      "id": "q10",
+      "level": 2,
+      "question": "Which of the following was NOT produced by the Inca?",
+      "section": "inca",
+      "pages": "14-15",
+      "evidence": "The Inca built: stone roads, suspension bridges, terraces for farming. Houses built into cliff sides were built by the ANASAZI, not the Inca.",
+      "choices": [
+        "Suspension bridges",
+        "Terraces for farming",
+        "A network of stone roads",
+        "Houses built into the sides of cliffs"
+      ],
+      "correctChoice": 3,
+      "explanation": "Houses built into cliff sides were the ANASAZI, not the Inca! The Inca built stone roads, suspension bridges, and terraces."
+    },
+    {
+      "id": "q11",
+      "level": 3,
+      "question": "What is your opinion about whether Columbus actually discovered America? Use evidence from the book to support your answer.",
+      "section": "pointOfView",
+      "pages": "17-19",
+      "evidence": "",
+      "choices": [],
+      "correctChoice": -1,
+      "explanation": "Think about the author's argument: Columbus explored, but didn't discover, the Americas because civilizations were already there. Do you agree or disagree?",
+      "opinionPrompts": [
+        "What does 'discovery' mean? When is something 'found for the first time'?",
+        "What evidence shows that people lived in the Americas before Columbus?",
+        "From whose perspective was Columbus a 'discoverer'? From whose perspective was he not?"
+      ]
+    }
+  ],
+  "authorPurpose": {
+    "purposes": [
+      "Inform",
+      "Persuade",
+      "Entertain"
+    ],
+    "prompt": "The author wrote this book to inform readers about ancient American civilizations AND to persuade them that Columbus 'explored' rather than 'discovered' the Americas. Does the author seem to entertain readers at any point?",
+    "evidencePrompts": {
+      "Inform": "The author provides factual information about the Maya, Anasazi, and Inca — their cities, crops, architecture, and timelines.",
+      "Persuade": "The author argues that Columbus did not DISCOVER the Americas but rather EXPLORED them, since civilizations were already flourishing.",
+      "Entertain": "The author does NOT seem primarily focused on entertaining. While some descriptions (like the ball game or Anasazi mystery) are interesting, the main purpose is to inform and persuade."
+    },
+    "answerKey": {
+      "Inform": "The book provides extensive factual information: the Maya built pyramids and studied astronomy; the Anasazi built cliff dwellings and left behind pottery and petroglyphs; the Inca built roads, suspension bridges, and terraces. The timeline on page 17 presents facts about when each civilization flourished.",
+      "Persuade": "The author's opinion is clear: Columbus did not DISCOVER the Americas — he EXPLORED them. The author supports this by showing that civilizations (Maya, Anasazi, Inca) were already flourishing thousands of years before Columbus arrived in 1492. The author says 'Maybe we could better say that Columbus explored the Americas. That's probably more accurate than saying he discovered them.'",
+      "Entertain": "The author does NOT seem primarily focused on entertaining. While descriptions of the Mayan ball game or the Anasazi mystery are interesting, these serve to inform rather than entertain."
+    }
+  },
+  "grammar": {
+    "target": "linking-verbs",
+    "title": "Linking Verbs & Suffix -ion",
+    "explanation": "A linking verb does NOT show action. It links the subject to a word that describes the subject or gives it another name. Common linking verbs: am, is, are, was, were.",
+    "rules": [
+      "Linking verbs don't show action — they CONNECT the subject to more information",
+      "Common linking verbs: am, is, are, was, were",
+      "A singular subject needs a singular verb: The Maya WAS a civilization.",
+      "A plural subject needs a plural verb: The Maya WERE master farmers.",
+      "The suffix -ion means 'the act or process of': irrigate → irrigation"
+    ],
+    "wordBuilding": [
+      {
+        "base": "The Maya (MAH-yuh) / farmers",
+        "answer": "The Maya were farmers who grew crops such as corn."
+      },
+      {
+        "base": "Chichen Itza / city",
+        "answer": "Chichen Itza was the most powerful Mayan city."
+      },
+      {
+        "base": "The Anasazi / known as 'cliff dwellers'",
+        "answer": "The Anasazi were also known as the 'cliff dwellers.'"
+      },
+      {
+        "base": "Their sandstone houses / still intact",
+        "answer": "Their sandstone houses were still intact."
+      },
+      {
+        "base": "The Inca / good builders",
+        "answer": "The Inca were good builders and engineers."
+      },
+      {
+        "base": "The Inca empire / flourishing",
+        "answer": "The Inca empire was flourishing when Columbus arrived."
+      }
+    ],
+    "exercises": [
+      {
+        "type": "linkingVerb",
+        "sentence": "The Maya (is, are, was, were) farmers who grew crops such as corn, beans, and chili peppers.",
+        "subject": "Maya",
+        "number": "plural",
+        "correctVerb": "were",
+        "options": [
+          "is",
+          "are",
+          "was",
+          "were"
+        ],
+        "explanation": "'Maya' is a plural subject (referring to the Maya people), so it needs the plural linking verb 'were.'"
+      },
+      {
+        "type": "linkingVerb",
+        "sentence": "Chichen Itza (is, are, was, were) the most powerful Mayan city.",
+        "subject": "Chichen Itza",
+        "number": "singular",
+        "correctVerb": "was",
+        "options": [
+          "is",
+          "are",
+          "was",
+          "were"
+        ],
+        "explanation": "'Chichen Itza' is a singular subject (one city), so it needs the singular linking verb 'was.'"
+      },
+      {
+        "type": "linkingVerb",
+        "sentence": "The Anasazi (is, are, was, were) also known as the 'cliff dwellers.'",
+        "subject": "Anasazi",
+        "number": "plural",
+        "correctVerb": "were",
+        "options": [
+          "is",
+          "are",
+          "was",
+          "were"
+        ],
+        "explanation": "'Anasazi' is a plural subject (referring to a group of people), so it needs the plural linking verb 'were.'"
+      },
+      {
+        "type": "linkingVerb",
+        "sentence": "Their sandstone houses (is, are, was, were) still intact.",
+        "subject": "houses",
+        "number": "plural",
+        "correctVerb": "were",
+        "options": [
+          "is",
+          "are",
+          "was",
+          "were"
+        ],
+        "explanation": "'Houses' is a plural subject, so it needs the plural linking verb 'were.'"
+      },
+      {
+        "type": "linkingVerb",
+        "sentence": "The Inca empire (is, are, was, were) flourishing when Columbus arrived.",
+        "subject": "empire",
+        "number": "singular",
+        "correctVerb": "was",
+        "options": [
+          "is",
+          "are",
+          "was",
+          "were"
+        ],
+        "explanation": "'Empire' is a singular subject, so it needs the singular linking verb 'was.'"
+      },
+      {
+        "type": "linkingVerb",
+        "sentence": "Machu Picchu (is, are, was, were) one of the most impressive ruins in the Americas.",
+        "subject": "Machu Picchu",
+        "number": "singular",
+        "correctVerb": "is",
+        "options": [
+          "is",
+          "are",
+          "was",
+          "were"
+        ],
+        "explanation": "'Machu Picchu' is a singular subject, and since it still exists today, we use the present tense 'is.'"
+      },
+      {
+        "type": "suffix",
+        "root": "irrigate",
+        "suffix": "-ion",
+        "answer": "irrigation",
+        "hint": "Drop the silent -e before adding -ion",
+        "explanation": "irrigate → irrigation (the process of bringing water to crops)"
+      },
+      {
+        "type": "suffix",
+        "root": "create",
+        "suffix": "-ion",
+        "answer": "creation",
+        "hint": "Drop the silent -e before adding -ion",
+        "explanation": "create → creation (the act of making something new)"
+      },
+      {
+        "type": "suffix",
+        "root": "express",
+        "suffix": "-ion",
+        "answer": "expression",
+        "hint": "Just add -ion to the end",
+        "explanation": "express → expression (the act of showing feelings or ideas)"
+      },
+      {
+        "type": "suffix",
+        "root": "attract",
+        "suffix": "-ion",
+        "answer": "attraction",
+        "hint": "Just add -ion to the end",
+        "explanation": "attract → attraction (the act of drawing attention or interest)"
+      }
+    ]
+  },
+  "notes": {
+    "columbus": [
+      {
+        "type": "vocab",
+        "title": "Civilizations",
+        "content": "Civilizations = the culture and way of life of a place. The Maya, Anasazi, and Inca were all different CIVILIZATIONS — each with their own cities, farming, and beliefs!"
+      },
+      {
+        "type": "evidence",
+        "title": "Did Columbus 'Discover' America?",
+        "content": "Discovery = found for the FIRST time. But civilizations were ALREADY there for THOUSANDS of years. So Columbus didn't DISCOVER — he EXPLORED."
+      }
+    ],
+    "maya": [
+      {
+        "type": "vocab",
+        "title": "Architecture & Murals",
+        "content": "Architecture = building design. The Maya built pyramids as tall as 10-story buildings! Murals = wall paintings. The Maya painted bright murals on their buildings."
+      },
+      {
+        "type": "evidence",
+        "title": "Mayan Achievements",
+        "content": "1) Giant stone pyramids, 2) Studied stars + made calendars, 3) Math with dots and bars, 4) Writing with pictures + symbols, 5) Sacred ball game!"
+      }
+    ],
+    "anasazi": [
+      {
+        "type": "vocab",
+        "title": "Intact & Kivas",
+        "content": "Intact = not broken or changed. The Anasazi houses were still INTACT when archaeologists found them! Kivas = underground rooms for ceremonies."
+      },
+      {
+        "type": "evidence",
+        "title": "The Anasazi Mystery",
+        "content": "About 700 years ago, the Anasazi VANISHED. Their houses were intact, clothes hung from hooks, pottery on the ground. WHY did they leave? Nobody knows for sure!"
+      }
+    ],
+    "inca": [
+      {
+        "type": "vocab",
+        "title": "Terraces & Quinoa",
+        "content": "Terraces = stairstep shapes carved into mountains for farming. Quinoa = a nutritious plant grown in the Andes. The Inca were MASTER farmers!"
+      },
+      {
+        "type": "evidence",
+        "title": "Inca Engineering",
+        "content": "1) Network of stone roads connecting towns, 2) Suspension bridges over rivers, 3) Messengers running between towns, 4) Terraces for farming on steep mountains"
+      }
+    ],
+    "pointOfView": [
+      {
+        "type": "vocab",
+        "title": "Perspective",
+        "content": "Perspective = point of view. From EUROPEAN perspective: Columbus discovered new land. From NATIVE AMERICAN perspective: We were already here!"
+      },
+      {
+        "type": "evidence",
+        "title": "Author's Purpose",
+        "content": "The author INFORMS about Maya/Anasazi/Inca AND PERSUADES us that Columbus EXPLORED (not discovered) the Americas. The evidence: civilizations were already flourishing for thousands of years!"
+      }
+    ]
+  }
+}

@@ -1,0 +1,798 @@
+{
+  "meta": {
+    "id": "ben-franklin",
+    "title": "Ben Franklin",
+    "level": "W",
+    "author": "Jane Sellman",
+    "focusQuestion": "How did Ben Franklin's personality, accomplishments, and influence change the world?"
+  },
+  "activities": [
+    "read",
+    "kwls",
+    "evidence",
+    "characterAnalysis",
+    "vocabulary",
+    "typing",
+    "grammar"
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "title": "Introduction",
+      "paragraphs": [
+        "Do you have a public library near you? Thank Benjamin Franklin. Do you have lights to read by? Thank Benjamin Franklin.",
+        "Does your mail come right to your door? Do you get to play outside later in the summer because it stays lighter longer? Thank Benjamin Franklin.",
+        "Do you live in a free and independent country? Thank Benjamin Franklin.",
+        "How did one man do so much?"
+      ]
+    },
+    {
+      "id": "earlyLife",
+      "title": "Early Life",
+      "paragraphs": [
+        "\"...All the little money that came into my hands was ever laid out in books.\"",
+        "Born on January 17, 1706, to Josiah and Abiah Franklin in Boston, Massachusetts, Benjamin Franklin was the youngest son of 17 children. His father worked hard making candles and soap. His mother managed the large household.",
+        "When he was eight years old, Ben started school. He liked learning and did well in all his subjects except arithmetic. However, Josiah and Abiah could not pay for years of school for their children. Only the wealthy could afford that. So ten-year-old Ben went to work for his father.",
+        "He cut wicks and filled the molds for candles. He cleaned up the shop, ran errands, and spent hours near vats of boiling tallow. Tallow is a fat that comes from sheep and cows. Ben thought it smelled awful.",
+        "Ben dreamed of being a sailor. He loved the water and swam in the local pond with his friends every chance he had. Once he took a kite to the pond, and as he held onto the kite string, the air pulled the kite. He relaxed and let the kite pull him across the pond.",
+        "Ben's parents did not want him to be a sailor because of the dangers he would face on long ocean voyages. So Josiah took Ben to visit bricklayers, carpenters, and blacksmiths. He hoped that Ben would find a job he liked.",
+        "Though he wasn't in school, Ben read as much as possible. He read all of his father's books and used his meager spending money to buy more books.",
+        "Josiah noticed that Ben loved books. James, one of Ben's brothers, had recently set up a printing business. At last, Josiah knew the perfect job for Ben."
+      ]
+    },
+    {
+      "id": "apprentice",
+      "title": "A Young Apprentice",
+      "paragraphs": [
+        "\"Hope of gain lessens pain.\"",
+        "Josiah arranged for Ben to be an apprentice to James. Ben, now twelve, would work for James and learn printing. He would do this until he turned twenty-one. For eight years, he would receive no pay, just food and a bed. In his last year, he would get a small salary.",
+        "Ben became good at setting the type (the letters) for books and newspapers. He soon became friends with other apprentices. Some worked for booksellers, and they lent him books. He read for hours at night so he could return a book the next day.",
+        "Ben ate alone and studied. He used any extra money to — you guessed it — buy books. He even tackled arithmetic again and became good at it.",
+        "Ben started writing too. He would read an essay, put it aside, and later re-write it from memory. He even wrote a few poems. But his father said that poets made no money, so Ben should stick to writing essays.",
+        "Ben even contributed to a newspaper James published called the New England Courant; though James did not know it for a while. James and his friends, using pen names, wrote the newspaper's articles. They even wrote the letters to the editor.",
+        "Ben decided to write a letter, but he did not tell James. Ben pretended to be a middle-aged woman named Silence Dogood. He slipped his first letter to the editor as Silence Dogood under the door of the print shop. James printed it. People liked it. Ben wrote more letters. Soon James found out his little brother wrote the letters and became annoyed.",
+        "Ben and James had not been getting along. Josiah often had to settle arguments between them. Finally, at age seventeen, Ben left Boston to find work elsewhere."
+      ]
+    },
+    {
+      "id": "printer",
+      "title": "Printer and Businessman",
+      "paragraphs": [
+        "\"He that can have patience, can have what he will.\"",
+        "Ben found work in another print shop in Philadelphia, Pennsylvania. He worked hard so that he could follow his dream of one day opening his own shop.",
+        "During this time period, Great Britain controlled the American colonies, including Pennsylvania where Ben lived. In 1724, Ben left for London to buy printing equipment for his own business with money promised by a new friend, Governor William Keith.",
+        "Ben found London to be an exciting place. He stayed for two years, gaining more printing experience. He also had fun and made friends. He hung out in coffee shops to discuss and debate ideas.",
+        "The money that Ben's friend promised never came, so Ben could not start his business. A kind merchant helped him get home to Philadelphia, where he returned to the printing trade.",
+        "Ben was only 22 when, in 1728, he finally opened a print shop in Philadelphia. He published a newspaper, the Pennsylvania Gazette, and used it to inform people and to speak his mind. He soon became the official printer for Pennsylvania."
+      ]
+    },
+    {
+      "id": "family",
+      "title": "Family Man, Community Activist",
+      "paragraphs": [
+        "\"Be civil to all; sociable to many; familiar with few; friend to one; enemy to none.\"",
+        "Ben married Deborah Read in 1730. She helped him run the print shop — where they also sold stationery as well as his father's soap and candles. Ben had a baby son, William, from a past romance. He and Deborah raised him. They had two more children, Sarah and Francis, but Francis died of smallpox when he was four.",
+        "Soon Ben started one of his most popular publications, Poor Richard's Almanack. An almanac contains information on the tides, the times for sunset and sunrise, and the weather. This bestseller included many of Ben's well-known sayings such as, \"Early to bed and early to rise, makes a man healthy, wealthy, and wise.\"",
+        "Busy as he was, Ben also had other interests. He remembered when he spent spare pennies to buy books, so he and his friends organized the first lending library. Ben also started the first volunteer fire company in the colonies. He even founded a school that eventually became the University of Pennsylvania.",
+        "He and his friend, Dr. Thomas Bond, founded a hospital together. People noticed that Ben got things done. The government put him in charge of mail delivery. He improved it."
+      ]
+    },
+    {
+      "id": "inventor",
+      "title": "Inventor and Scientist",
+      "paragraphs": [
+        "\"In success be moderate.\"",
+        "For twenty years, Ben built up his printing business. He had print shops in other cities, too. He and Deborah saved much of the money he made, which allowed Ben to retire early and devote time to his many passions.",
+        "Ben liked to invent things that improved everyday life. He had already designed a stove that gave more heat than the ones most people were using. He also invented swim fins, bifocals, and an extension arm to reach books on high shelves. He improved streetlights and suggested Daylight Saving Time as a way to save money on lighting.",
+        "Ben founded the American Philosophical Society, a club where scientists could gather for study and discussion. Ben wished to study weather and electricity. He believed that storms traveled from one place to another. Like other scientists, he thought that lightning was electricity. He wanted to prove this.",
+        "One afternoon, Ben and his son, William, went outside to a meadow because they had seen a storm coming. Ben had made a kite out of silk and wood. He attached a stiff wire to the top of his kite; then tied a silk ribbon to the kite string. He tied a key to the ribbon.",
+        "As the storm increased, Ben and William saw loose threads on the string standing up. Carefully, Ben put a knuckle near the key. Ouch! He got a tiny shock and saw a spark. Now Ben was convinced that lightning was electricity.",
+        "Lightning often caused fires, and Ben wanted to invent a way to protect buildings and people. His invention was called a lightning rod, and it is still used today. He did not apply for a patent. This allowed anyone to use his inventions without his permission."
+      ]
+    },
+    {
+      "id": "foundingFather",
+      "title": "Founding Father",
+      "paragraphs": [
+        "\"Those who would give up essential liberty, to purchase a little temporary safety, deserve neither liberty nor safety.\"",
+        "Ben was generous with his time, as well as his inventions. He spent many years trying to help the colonies and later played an important role when the colonies sought their freedom from Great Britain.",
+        "As early as 1754, Ben talked about uniting the colonies. He even went overseas many times to work out problems between the colonies and Great Britain's government. He tried to educate the British about the colonies.",
+        "Ben had always been a loyal citizen of Great Britain. Just the same, he believed the colonies should be independent from Great Britain. In 1775, Ben became a delegate to the Continental Congress, a group of colonists who worked for independence. The delegates argued constantly. Ben became a peacemaker and negotiator.",
+        "Ben also joined the committee formed to write the Declaration of Independence, the document proclaiming the colonies' independence. Thomas Jefferson did most of the writing, but Ben made a few suggestions.",
+        "Ben was now in his seventies. However, the colonists wanted him to go to France to get help in their fight for independence. Luckily, the French loved Ben. They thought he was friendly, funny, and down-to-earth. During the American Revolution, France helped the colonies in their fight for independence.",
+        "After the revolution, Ben helped establish peace between the new United States of America and Great Britain. He also was elected president of Pennsylvania three times.",
+        "In 1787, he became part of the Constitutional Convention and helped to create the U.S. Constitution, the foundation of today's U.S. government."
+      ]
+    },
+    {
+      "id": "conclusion",
+      "title": "Conclusion",
+      "paragraphs": [
+        "\"All would live long, but none would be old.\"",
+        "During his last years, Ben became bedridden. However, he still read and wrote. Deborah, his wife, had died many years before. His daughter, Sally, and her family moved in to take care of him.",
+        "He enjoyed the company of his family, especially his grandchildren. Every afternoon, his granddaughter, Deborah, would bring her spelling lesson. They would go over the words together. When she did well, he would give her a spoonful of jelly.",
+        "Three months after his 84th birthday, one of America's greatest writers, leaders, inventors, and patriots, Benjamin Franklin, died."
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "apprentice",
+      "pos": "n.",
+      "definition": "someone who learns the work of a trade from a skilled professional",
+      "section": "apprentice",
+      "sentence": "Josiah arranged for Ben to be an apprentice to James.",
+      "quiz": {
+        "prompt": "\"Apprentice\" means:",
+        "options": [
+          "a person who publishes newspapers",
+          "someone who writes essays and poems",
+          "someone who learns a trade by working for little pay",
+          "a person who buys and sells goods"
+        ],
+        "answer": 2
+      }
+    },
+    {
+      "word": "colonies",
+      "pos": "n.",
+      "definition": "towns, cities, territories, or groups of people controlled by another country",
+      "section": "printer",
+      "sentence": "During this time period, Great Britain controlled the American colonies.",
+      "quiz": {
+        "prompt": "\"Colonies\" are:",
+        "options": [
+          "groups of scientists who study together",
+          "towns and territories controlled by another country",
+          "independent countries with their own government",
+          "printing shops in different cities"
+        ],
+        "answer": 1
+      }
+    },
+    {
+      "word": "delegate",
+      "pos": "n.",
+      "definition": "a person who represents other people",
+      "section": "foundingFather",
+      "sentence": "In 1775, Ben became a delegate to the Continental Congress.",
+      "quiz": {
+        "prompt": "A \"delegate\" is:",
+        "options": [
+          "a person who invents new things",
+          "a person who represents other people",
+          "a person who writes newspapers",
+          "a person who makes candles and soap"
+        ],
+        "answer": 1
+      }
+    },
+    {
+      "word": "essay",
+      "pos": "n.",
+      "definition": "a short piece of writing that gives the writer's ideas, feelings, and opinions",
+      "section": "apprentice",
+      "sentence": "Ben's father said that poets made no money, so Ben should stick to writing essays.",
+      "quiz": {
+        "prompt": "An \"essay\" is:",
+        "options": [
+          "a book with directions for building something",
+          "a lesson that someone learns from experience",
+          "a disagreement between two people",
+          "a piece of writing that expresses an idea or opinion"
+        ],
+        "answer": 3
+      }
+    },
+    {
+      "word": "passions",
+      "pos": "n.",
+      "definition": "objects or activities that create intense feelings or interest",
+      "section": "inventor",
+      "sentence": "He and Deborah saved much of the money he made, which allowed Ben to retire early and devote time to his many passions.",
+      "quiz": {
+        "prompt": "\"Passions\" are:",
+        "options": [
+          "topics someone knows a lot about",
+          "something someone feels intensely interested in",
+          "items a person has found that are ancient",
+          "an idea that is unknown to most people"
+        ],
+        "answer": 1
+      }
+    },
+    {
+      "word": "publications",
+      "pos": "n.",
+      "definition": "sources, especially printed materials, by which information is communicated to the public",
+      "section": "family",
+      "sentence": "Soon Ben started one of his most popular publications, Poor Richard's Almanack.",
+      "quiz": {
+        "prompt": "\"Publications\" are:",
+        "options": [
+          "sources of printed materials that communicate information to the public",
+          "buildings where people gather to discuss ideas",
+          "tools used for printing books and newspapers",
+          "schools that teach people how to write"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "word": "contributed",
+      "pos": "v.",
+      "definition": "did something for or gave something to a person or cause",
+      "section": "apprentice",
+      "sentence": "Ben even contributed to a newspaper James published called the New England Courant.",
+      "quiz": {
+        "prompt": "To \"contribute\" means to:",
+        "options": [
+          "argue about something with another person",
+          "do something for or give something to a cause",
+          "learn a new skill from a professional",
+          "travel to a new place for work"
+        ],
+        "answer": 1
+      }
+    },
+    {
+      "word": "debate",
+      "pos": "v.",
+      "definition": "to discuss an important subject at length and in detail",
+      "section": "printer",
+      "sentence": "He hung out in coffee shops to discuss and debate ideas.",
+      "quiz": {
+        "prompt": "To \"debate\" means to:",
+        "options": [
+          "agree with another person's opinion",
+          "write about an idea in a newspaper",
+          "discuss an important subject in detail",
+          "read books to learn new things"
+        ],
+        "answer": 2
+      }
+    },
+    {
+      "word": "electricity",
+      "pos": "n.",
+      "definition": "energy created by moving charged particles; especially as a source of power",
+      "section": "inventor",
+      "sentence": "Like other scientists, he thought that lightning was electricity.",
+      "quiz": {
+        "prompt": "\"Electricity\" is:",
+        "options": [
+          "energy created by moving charged particles",
+          "a type of weather caused by storms",
+          "a metal rod attached to buildings",
+          "a fuel used to heat homes"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "word": "foundation",
+      "pos": "n.",
+      "definition": "the beginning point and support from which something develops",
+      "section": "foundingFather",
+      "sentence": "He helped to create the U.S. Constitution, the foundation of today's U.S. government.",
+      "quiz": {
+        "prompt": "\"Foundation\" means:",
+        "options": [
+          "the end result of a long process",
+          "the beginning point and support from which something develops",
+          "a group of people who govern a country",
+          "a document that declares independence"
+        ],
+        "answer": 1
+      }
+    },
+    {
+      "word": "freedom",
+      "pos": "n.",
+      "definition": "the state of being free, or having the right and power to act and think as one wishes",
+      "section": "foundingFather",
+      "sentence": "He spent many years trying to help the colonies and later played an important role when the colonies sought their freedom from Great Britain.",
+      "quiz": {
+        "prompt": "\"Freedom\" means:",
+        "options": [
+          "the state of being controlled by another country",
+          "the right and power to act and think as one wishes",
+          "the act of writing laws for citizens",
+          "the power to govern other people"
+        ],
+        "answer": 1
+      }
+    },
+    {
+      "word": "meager",
+      "pos": "adj.",
+      "definition": "low; too little to be worth much",
+      "section": "earlyLife",
+      "sentence": "He used his meager spending money to buy more books.",
+      "quiz": {
+        "prompt": "\"Meager\" means:",
+        "options": [
+          "large and impressive",
+          "new and exciting",
+          "low; too little to be worth much",
+          "expensive but worth the cost"
+        ],
+        "answer": 2
+      }
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "level": 1,
+      "question": "Why did Ben Franklin quit school at the age of ten?",
+      "section": "earlyLife",
+      "pages": "5",
+      "evidence": "Josiah and Abiah could not pay for years of school for their children. Only the wealthy could afford that. So ten-year-old Ben went to work for his father.",
+      "choices": [
+        "He didn't like to study.",
+        "There were no schools near his home.",
+        "His family couldn't afford to pay for school.",
+        "He wanted to work in his brother's printing business."
+      ],
+      "correctChoice": 2,
+      "explanation": "Ben's family could not afford to pay for school — only the wealthy could. So he had to go to work for his father at age 10."
+    },
+    {
+      "id": "q2",
+      "level": 1,
+      "question": "What is an apprentice?",
+      "section": "apprentice",
+      "pages": "7",
+      "evidence": "Ben, now twelve, would work for James and learn printing. He would do this until he turned twenty-one. For eight years, he would receive no pay, just food and a bed.",
+      "choices": [
+        "someone who writes essays",
+        "a publication that explains someone's opinion",
+        "a person who works for little pay to learn a trade",
+        "an invention Ben Franklin designed to print books"
+      ],
+      "correctChoice": 2,
+      "explanation": "An apprentice is someone who works for little or no pay in order to learn a trade — Ben was an apprentice printer for 8 years."
+    },
+    {
+      "id": "q3",
+      "level": 1,
+      "question": "Why didn't Ben start his own printing business when he first returned from London?",
+      "section": "printer",
+      "pages": "11",
+      "evidence": "The money that Ben's friend promised never came, so Ben could not start his business.",
+      "choices": [
+        "Ben's friend never sent the money to help him get started.",
+        "There was no printing equipment available in America.",
+        "He didn't know how to start a business.",
+        "His father refused to help him."
+      ],
+      "correctChoice": 0,
+      "explanation": "Governor William Keith had promised to send money for Ben's business, but the money never came."
+    },
+    {
+      "id": "q4",
+      "level": 1,
+      "question": "What is a passion?",
+      "section": "inventor",
+      "pages": "14",
+      "evidence": "Glossary: passions — objects or activities that create intense feelings or interest.",
+      "choices": [
+        "a topic someone knows a lot about",
+        "an idea that is unknown to most people",
+        "an item a person has found that is ancient",
+        "something someone feels intensely interested in"
+      ],
+      "correctChoice": 3,
+      "explanation": "A passion is something you feel very strongly interested in — Ben had many passions, including science, inventing, and writing."
+    },
+    {
+      "id": "q5",
+      "level": 2,
+      "question": "How did Ben trick his older brother, James?",
+      "section": "apprentice",
+      "pages": "8–9",
+      "evidence": "Ben pretended to be a middle-aged woman named Silence Dogood. He slipped his first letter to the editor as Silence Dogood under the door of the print shop.",
+      "choices": [
+        "He learned how to print books from another printer.",
+        "He snuck away from his job without James knowing.",
+        "He wrote letters to the editor under a fake name.",
+        "He convinced their father to let him quit the apprenticeship."
+      ],
+      "correctChoice": 2,
+      "explanation": "Ben wrote letters to the editor pretending to be a middle-aged woman named Silence Dogood. James printed them without knowing they were written by his own brother."
+    },
+    {
+      "id": "q6",
+      "level": 2,
+      "question": "Why did Ben and his son fly a kite during a thunderstorm?",
+      "section": "inventor",
+      "pages": "15–16",
+      "evidence": "Like other scientists, he thought that lightning was electricity. He wanted to prove this. ... Carefully, Ben put a knuckle near the key. Ouch! He got a tiny shock and saw a spark.",
+      "choices": [
+        "To see whether the kite could fly very high in the wind.",
+        "To prove that lightning was electricity.",
+        "To prove that storms traveled from one place to another.",
+        "To send a signal to a friend in another city."
+      ],
+      "correctChoice": 1,
+      "explanation": "Ben believed lightning was electricity and wanted to prove it. He flew a kite with a key attached during a storm — and got a spark, proving his theory."
+    },
+    {
+      "id": "q7",
+      "level": 2,
+      "question": "How is this book an example of a biography?",
+      "section": "intro",
+      "pages": "4–22",
+      "evidence": "The book chronicles Ben Franklin's life from birth to death, including his personality, accomplishments, and influence on the world.",
+      "choices": [
+        "It is about an inventor who designed a lightning rod.",
+        "It tells the story of a real person's life from birth to death.",
+        "It describes how to become famous through hard work.",
+        "It is about the history of the American colonies."
+      ],
+      "correctChoice": 1,
+      "explanation": "A biography tells the story of a real person's life. This book covers Ben Franklin's entire life — from childhood in Boston to his death at age 84."
+    },
+    {
+      "id": "q8",
+      "level": 2,
+      "question": "Why was Ben an important member of the Continental Congress?",
+      "section": "foundingFather",
+      "pages": "18–19",
+      "evidence": "The delegates argued constantly. Ben became a peacemaker and negotiator.",
+      "choices": [
+        "He had enough money to support the other members.",
+        "He was able to print the documents they created.",
+        "He knew how to write laws that helped the citizens.",
+        "He was able to help members come to agreements."
+      ],
+      "correctChoice": 3,
+      "explanation": "The delegates in the Continental Congress argued constantly. Ben's role was as a peacemaker and negotiator — he helped them reach agreements."
+    },
+    {
+      "id": "q9",
+      "level": 2,
+      "question": "Which would be another good title for this book?",
+      "section": "intro",
+      "pages": "4–22",
+      "evidence": "The book covers Ben's many roles: inventor, scientist, writer, printer, community activist, diplomat, founding father, and more.",
+      "choices": [
+        "An Inventor, Statesman, and More",
+        "A Man of Many Accomplishments",
+        "A Self-Made Man",
+        "All of the above"
+      ],
+      "correctChoice": 3,
+      "explanation": "All three titles would work! Ben was an inventor (lightning rod, stove, bifocals), a statesman (Declaration of Independence, U.S. Constitution), and a self-made man (from apprentice to founding father)."
+    },
+    {
+      "id": "q10",
+      "level": 2,
+      "question": "What is an essay?",
+      "section": "apprentice",
+      "pages": "8",
+      "evidence": "Glossary: essay — a short piece of writing that gives the writer's ideas, feelings, and opinions on a particular subject.",
+      "choices": [
+        "a book written with directions for how to build something",
+        "a piece of writing that expresses an idea or opinion",
+        "a disagreement between two people",
+        "a lesson that someone learns from experience"
+      ],
+      "correctChoice": 1,
+      "explanation": "An essay is a short piece of writing that expresses the writer's ideas, feelings, and opinions. Ben's father told him to stick to writing essays instead of poems."
+    },
+    {
+      "id": "q11",
+      "level": 3,
+      "question": "What do you think was Ben Franklin's most important accomplishment? Use evidence from the text to support your answer.",
+      "section": "foundingFather",
+      "pages": "17–21",
+      "evidence": "",
+      "choices": [],
+      "correctChoice": -1,
+      "explanation": "Think about all of Ben's accomplishments — from inventions to community service to helping create the U.S. government. Which one had the biggest impact?",
+      "opinionPrompts": [
+        "What are some of Ben Franklin's major accomplishments?",
+        "Which accomplishment had the greatest impact on people's lives?",
+        "What evidence from the text supports your answer?"
+      ]
+    }
+  ],
+  "characterAnalysis": {
+    "character": "Ben Franklin",
+    "quote": "\"Energy and persistence conquer all things.\" —Ben Franklin",
+    "quotePrompt": "How does this quote reflect Franklin's personality? How did his personality lead to his accomplishments? How did his accomplishments influence the world?",
+    "categories": {
+      "Personality": {
+        "color": "#4caf50",
+        "icon": "🧠",
+        "prompt": "What qualities made Ben Franklin unique?",
+        "items": [
+          "Hard-working from a very young age",
+          "Loved to read and learn constantly",
+          "Dreamer with big ideas",
+          "Believed in fairness and social justice",
+          "Curious about science and nature"
+        ]
+      },
+      "Accomplishments": {
+        "color": "#2196f3",
+        "icon": "🏆",
+        "prompt": "What did Ben Franklin achieve?",
+        "items": [
+          "Owned his own print shop by age 22",
+          "Organized the first lending library",
+          "Invented the lightning rod and bifocals",
+          "Started the first volunteer fire company",
+          "Founded a school (later University of Pennsylvania)",
+          "Wrote essays, poems, and Poor Richard's Almanack"
+        ]
+      },
+      "Influence": {
+        "color": "#9c27b0",
+        "icon": "🌍",
+        "prompt": "How did Ben Franklin affect the world?",
+        "items": [
+          "Official printer for Pennsylvania",
+          "Helped draft the Declaration of Independence",
+          "Got France to help the colonies win independence",
+          "Helped create the U.S. Constitution",
+          "Elected president of Pennsylvania three times",
+          "Supported the abolition of slavery"
+        ]
+      }
+    }
+  },
+  "kwls": {
+    "prompts": {
+      "K": "What do you already know about Benjamin Franklin?",
+      "W": "What do you want to learn about Benjamin Franklin?",
+      "L": "What did you learn from reading this book?",
+      "S": "What do you still want to know about Benjamin Franklin?"
+    },
+    "sampleAnswers": {
+      "L": [
+        "Ben Franklin was the youngest son of 17 children and had to quit school at age 10.",
+        "He was an apprentice to his brother James for 8 years, learning the printing trade.",
+        "He wrote letters to his brother's newspaper under a fake name — Silence Dogood.",
+        "He proved that lightning was electricity by flying a kite in a thunderstorm.",
+        "He helped write the Declaration of Independence and the U.S. Constitution.",
+        "He invented many useful things: lightning rod, bifocals, swim fins, and the Franklin stove."
+      ]
+    }
+  },
+  "grammar": {
+    "target": "compound-sentences",
+    "title": "Compound Sentences",
+    "explanation": "A compound sentence joins two simple sentences together using a comma and a conjunction (and, but, for, or, nor, so, yet). It makes writing more fluent and interesting.",
+    "rules": [
+      "A compound sentence = two simple sentences joined by a comma + conjunction",
+      "Common conjunctions: and, but, for, or, nor, so, yet (remember: FANBOYS)",
+      "Example: \"His father said that poets made no money, so Ben should stick to writing essays.\"",
+      "Each part of a compound sentence could stand alone as a complete sentence"
+    ],
+    "wordBuilding": [
+      {
+        "base": "Sentence 1: His father said poets made no money",
+        "answer": "His father said that poets made no money, so Ben should stick to writing essays."
+      },
+      {
+        "base": "Sentence 1: The money promised never came",
+        "answer": "The money that Ben's friend promised never came, so Ben could not start his business."
+      },
+      {
+        "base": "Sentence 1: They had two more children",
+        "answer": "They had two more children, but Francis died of smallpox when he was four."
+      },
+      {
+        "base": "Sentence 1: He remembered when he spent pennies to buy books",
+        "answer": "He remembered when he spent spare pennies to buy books, so he and his friends organized the first lending library."
+      },
+      {
+        "base": "Sentence 1: He and Deborah saved money",
+        "answer": "He and Deborah saved money, which allowed Ben to retire early."
+      },
+      {
+        "base": "Sentence 1: Like other scientists, he thought lightning was electricity",
+        "answer": "Like other scientists, he thought that lightning was electricity, and he wanted to prove this."
+      }
+    ],
+    "exercises": [
+      {
+        "type": "compoundSentence",
+        "sentence": "His father said that poets made no money, so Ben should stick to writing essays.",
+        "isCompound": true,
+        "conjunction": "so",
+        "explanation": "Two simple sentences joined by ', so': (1) His father said that poets made no money; (2) Ben should stick to writing essays."
+      },
+      {
+        "type": "compoundSentence",
+        "sentence": "They had two more children, but Francis died of smallpox when he was four.",
+        "isCompound": true,
+        "conjunction": "but",
+        "explanation": "Two simple sentences joined by ', but': (1) They had two more children; (2) Francis died of smallpox."
+      },
+      {
+        "type": "compoundSentence",
+        "sentence": "Ben became good at setting the type for books and newspapers.",
+        "isCompound": false,
+        "explanation": "This is NOT a compound sentence. It's one simple sentence with 'and' connecting two nouns (books and newspapers), not two complete sentences."
+      },
+      {
+        "type": "compoundSentence",
+        "sentence": "Ben and James had not been getting along.",
+        "isCompound": false,
+        "explanation": "This is NOT a compound sentence. 'Ben and James' is just a compound subject (two people), not two sentences joined by a conjunction."
+      },
+      {
+        "type": "compoundSentence",
+        "sentence": "Thomas Jefferson did most of the writing, but Ben made a few suggestions.",
+        "isCompound": true,
+        "conjunction": "but",
+        "explanation": "Two simple sentences joined by ', but': (1) Thomas Jefferson did most of the writing; (2) Ben made a few suggestions."
+      },
+      {
+        "type": "multipleMeaning",
+        "word": "face",
+        "sentences": [
+          {
+            "sentence": "Ben's parents did not want him to be a sailor because of the dangers he would face on long ocean voyages.",
+            "correctIdx": 1,
+            "options": [
+              "the front part of a person's head",
+              "to confront or deal with",
+              "the surface of a clock or building",
+              "to turn toward a direction"
+            ]
+          },
+          {
+            "sentence": "He relaxed and let the kite pull him across the pond, with the wind pushing against his face.",
+            "correctIdx": 0,
+            "options": [
+              "the front part of a person's head",
+              "to confront or deal with",
+              "the surface of a clock or building",
+              "to turn toward a direction"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "multipleMeaning",
+        "word": "land",
+        "sentences": [
+          {
+            "sentence": "After 34 days at sea, the sailors were surprised to see land close by.",
+            "correctIdx": 1,
+            "options": [
+              "to arrive on the ground after flying or falling",
+              "solid ground; the surface of the Earth",
+              "to own property or a farm",
+              "to bring someone to shore"
+            ]
+          },
+          {
+            "sentence": "The helicopter will land on the roof of the building.",
+            "correctIdx": 0,
+            "options": [
+              "to arrive on the ground after flying or falling",
+              "solid ground; the surface of the Earth",
+              "to own property or a farm",
+              "to bring someone to shore"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "multipleMeaning",
+        "word": "fair",
+        "sentences": [
+          {
+            "sentence": "While Ben was an apprentice, he felt he was unfairly treated. This made him strive to be fair to others.",
+            "correctIdx": 1,
+            "options": [
+              "a large public event with rides and games",
+              "treating people equally and justly",
+              "beautiful and sunny weather",
+              "light in color"
+            ]
+          },
+          {
+            "sentence": "The county fair had rides, games, and fried food.",
+            "correctIdx": 0,
+            "options": [
+              "a large public event with rides and games",
+              "treating people equally and justly",
+              "beautiful and sunny weather",
+              "light in color"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "notes": {
+    "intro": [
+      {
+        "type": "evidence",
+        "title": "What Do You Owe to Ben Franklin?",
+        "content": "The introduction asks: Do you have a library? Lights? Mail delivery? Freedom? ALL of these connect to Ben Franklin! Keep reading to find out HOW."
+      }
+    ],
+    "earlyLife": [
+      {
+        "type": "vocab",
+        "title": "Meager",
+        "content": "Meager = too little to be worth much. Ben had MEAGER spending money — very little — but he still used it to buy BOOKS!"
+      },
+      {
+        "type": "evidence",
+        "title": "Cause & Effect",
+        "content": "Cause: Family couldn't afford school. Effect: Ben went to work at age 10. Later: Cause: Josiah noticed Ben loved books. Effect: He made Ben James's apprentice."
+      }
+    ],
+    "apprentice": [
+      {
+        "type": "vocab",
+        "title": "Apprentice",
+        "content": "An apprentice works for LITTLE PAY to learn a trade. Ben worked 8 YEARS with NO PAY, just food and a bed! But he learned printing."
+      },
+      {
+        "type": "grammar",
+        "title": "Compound Sentence",
+        "content": "\"His father said that poets made no money, so Ben should stick to writing essays.\" — Two sentences joined by ', so'!"
+      }
+    ],
+    "printer": [
+      {
+        "type": "evidence",
+        "title": "Cause & Effect",
+        "content": "Cause: Friend promised money but never sent it. Effect: Ben couldn't start his business. BUT: A kind merchant helped him get home — and he returned to printing!"
+      }
+    ],
+    "family": [
+      {
+        "type": "vocab",
+        "title": "Publications",
+        "content": "Publications = printed materials for the public. Ben published: newspapers (Pennsylvania Gazette), Poor Richard's Almanack, and more!"
+      },
+      {
+        "type": "evidence",
+        "title": "Ben's Community Impact",
+        "content": "1) First lending library, 2) First volunteer fire company, 3) Founded a school (now UPenn), 4) Founded a hospital, 5) Improved mail delivery!"
+      }
+    ],
+    "inventor": [
+      {
+        "type": "vocab",
+        "title": "Electricity & Passions",
+        "content": "Electricity = energy from moving charged particles. Lightning IS electricity! Ben's many PASSIONS (intense interests) included science, inventing, and writing."
+      },
+      {
+        "type": "evidence",
+        "title": "The Kite Experiment",
+        "content": "Ben flew a kite with a key during a storm → got a SPARK → proved lightning = electricity → invented the LIGHTNING ROD to protect buildings!"
+      }
+    ],
+    "foundingFather": [
+      {
+        "type": "vocab",
+        "title": "Delegate & Foundation",
+        "content": "Delegate = person who represents others. Ben was a delegate to the Continental Congress. Foundation = the base something is built on — the U.S. Constitution is the foundation of U.S. government!"
+      },
+      {
+        "type": "evidence",
+        "title": "From Printer to Founding Father",
+        "content": "Ben's influence grew: printer → community leader → diplomat in France → helped write Declaration of Independence → helped create U.S. Constitution!"
+      }
+    ],
+    "conclusion": [
+      {
+        "type": "evidence",
+        "title": "Ben's Legacy",
+        "content": "Ben died at 84 — one of America's greatest writers, leaders, inventors, and patriots. He PROVED that one person CAN make a huge difference!"
+      }
+    ]
+  }
+}

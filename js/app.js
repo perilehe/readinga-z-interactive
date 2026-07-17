@@ -18,7 +18,9 @@ const MODULE_REGISTRY = {
   kwls:           { icon: '📊', label: 'KWLS',         moduleName: 'KwlsModule' },
   pronoun:        { icon: '🔤', label: 'Pronouns',     moduleName: 'PronounModule' },
   problemSolution:{ icon: '🔍', label: 'Problem',      moduleName: 'ProblemSolutionModule' },
-  grammar:        { icon: '📐', label: 'Grammar',      moduleName: 'GrammarModule' }
+  grammar:        { icon: '📐', label: 'Grammar',      moduleName: 'GrammarModule' },
+  characterAnalysis: { icon: '👤', label: 'Character',  moduleName: 'CharacterAnalysisModule' },
+  compareContrast:   { icon: '⚖️', label: 'Compare',    moduleName: 'CompareContrastModule' }
 };
 
 // Lazy lookup — modules are loaded after app.js
@@ -112,6 +114,19 @@ function calculateTotalStars(activities) {
           total += (bookData.grammar.wordBuilding || []).length;
           total += (bookData.grammar.homophones || []).length;
           total += (bookData.grammar.exercises || []).length;
+        }
+        break;
+      case 'characterAnalysis':
+        if (bookData.characterAnalysis) {
+          // One star per category for filling the chart + one for the quote reflection
+          const cats = Object.keys(bookData.characterAnalysis.categories || {});
+          total += cats.length + 1;
+        }
+        break;
+      case 'compareContrast':
+        if (bookData.compareContrast) {
+          // One star per comparison item
+          total += (bookData.compareContrast.items || []).length;
         }
         break;
     }

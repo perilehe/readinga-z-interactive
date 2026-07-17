@@ -1,0 +1,711 @@
+{
+  "meta": {
+    "id": "catching-air",
+    "title": "Catching Air",
+    "level": "W",
+    "author": "Jeffrey B. Fuerst",
+    "focusQuestion": "How are hang gliding, skydiving, and parasailing alike and different?"
+  },
+  "activities": [
+    "read",
+    "evidence",
+    "compareContrast",
+    "vocabulary",
+    "typing",
+    "grammar"
+  ],
+  "sections": [
+    {
+      "id": "airAndFlight",
+      "title": "Air and Flight",
+      "paragraphs": [
+        "Look, up in the sky! Is it a huge bird? Is it Superman? No, it's a regular person flying high, or \"catching air,\" while hang gliding, skydiving, or parasailing. Maybe you'd like to try one of these wind-powered sports and soar and swoop through the wide-open skies. All you need is a sense of adventure, the right equipment, and an understanding of how wind works.",
+        "Wind-sport enthusiasts pay attention to their natural surroundings. They know areas of land heat up faster than areas of water. They need moving air, so they like tall slopes and cliffs. As warm air rises from land, a cooler wind from the sea rushes in to replace it. When this wind strikes the face of a cliff, it is deflected upward. This strong updraft of air creates lift — and a great ride!",
+        "Often, wind-sporters look to birds for flying advice. Hawks or seagulls circling lazily overhead are riding a rising column of air called a thermal. Smart wind-sporters will also try to catch thermals for rides.",
+        "First, let's look at air. You can't exactly see air, which is a collection of gases, and you can't really feel it unless it is moving. But air has weight and temperature, and takes up space (volume). Air moves around. When air heats up, it becomes lighter and rises. Air becomes wind when cooler, heavier air rushes in to replace the warmer, lighter air that is rising.",
+        "The special shape of the wing produces lift as the glider moves through the air. The curved top surface of a wing is a longer distance than the straight underside of a wing. Air moving over the longer, curved top has to move faster than the air moving under the wing. As the air moving over the top of the wing speeds up, the air molecules spread out — which decreases the air pressure. The greater air pressure underneath the wing creates lift and causes the wing to rise."
+      ]
+    },
+    {
+      "id": "hangGliding",
+      "title": "Hang Gliding",
+      "paragraphs": [
+        "The hot summer sun sits high in the mid-afternoon sky. A gentle breeze blows in from the sea. A woman with a triangular-shaped, winged contraption on her shoulders runs down a slope and leaps from the cliffs rising about 915 meters (3,000 ft) above the shore. Yikes! What is she doing? The wing fills with air and billows out, and up she goes!",
+        "She is hang gliding! And she may sail in the sky for hours if conditions are good — and if she understands a few principles of aerodynamics (air-oh-die-NAM-iks), or, the study of how objects move through the air.",
+        "The pilot has stretched out flat and is hanging from a cocoon-like harness attached to the wing. To climb up or dive down, she pushes or pulls back on a long metal control bar. To turn left or right, she leans. The edge of the wing tips down, and the glider banks and turns gracefully through the air.",
+        "To take off, the pilot runs down a steep slope to gain speed, create airflow over the wing, and create lift for the glider. He's off! Hanging from the harness, the pilot steers along the winds. He catches and rides one updraft, then another. But this isn't a place to relax and daydream. The pilot has to pay attention as he turns, circles, climbs, and dives.",
+        "When the pilot pulls the control bar back, the glider gains speed but loses altitude, or height. When he pushes the control bar forward, the wing edge tips up and the glider rises, but it loses speed. The natural downward force of Earth's gravity will pull the hang glider down if it stalls, or stops moving forward. To stay up in the air and keep riding along the wind, the pilot keeps the glider moving forward.",
+        "Equipment: Harness, helmet, goggles, parachute, glider, and flotation gear if near water. Clothing: Wear a heavy jacket, jeans, and gloves. It can get very cold at higher altitudes.",
+        "Skills: The ability to carry an 18-plus kilogram (40 lb) weight on your shoulders while jogging. But balance and endurance are more important than strength or speed.",
+        "Requirements: Age 16 or older and able to pass a three- to six-month training course. Cost: $5,000 to $6,500 to train and to purchase your hang-gliding equipment."
+      ]
+    },
+    {
+      "id": "skydiving",
+      "title": "Skydiving",
+      "paragraphs": [
+        "A small plane buzzes overhead. At an altitude of 3,048 meters (10,000 ft), the passenger door opens. A person crouching in the doorframe leaps out, arms and legs spread wide. Within 10 seconds, the skydiver is free-falling at 193 kph (120 mph). That's twice as fast as a car zooming by on a highway.",
+        "You watch, astonished, as the skydiver sharply drops... and drops... and DROPS for the next 45 seconds. Release the parachute! Release the chute! you think.",
+        "Finally, at about 762 meters (2,500 ft) above the ground, he pulls the ripcord. Out comes the small drogue chute that pulls out the canopy, or larger chute. It fills with air, and the skydiver is jerked upward. He continues to fall, but now at a leisurely 16 to 20 kph (10-20 mph). For the next 3 minutes, he enjoys the view and the ride before landing on his feet in a clearing.",
+        "Gravity pulls the free-falling skydiver down toward Earth at speeds of 193 kph (120 mph) or more. When the parachute opens, it fills with air and slows the skydiver's speed. Air trapped in the canopy (the \"umbrella\" part) presses up against the chute, providing resistance that slows the fall. The skydiver glides to Earth.",
+        "Skilled skydivers can free-fall in formations. To decrease their free fall speed, they hold their arms and legs outstretched in the \"spread-eagle\" position and join hands. Multiple bodies provide more wind resistance, so the divers can float for a longer time.",
+        "Equipment: Jumpsuit, helmet, goggles, main parachute, reserve parachute, harness with attached backpack that holds both. An automatic activation device opens the reserve chute if something goes wrong.",
+        "Skills: Have enough strength to carry about 16 kilograms (35 lbs) of equipment and control the toggle switches that steer the chute.",
+        "Requirements: Age 16 or older and in good shape. Pass eight training levels, including many jumps with instructors. A student must make 20 solo jumps and pass a written test. Cost: $3,000 to $6,000 for training and equipment."
+      ]
+    },
+    {
+      "id": "parasailing",
+      "title": "Parasailing",
+      "paragraphs": [
+        "A 10-year-old girl standing on shore straps a harness over her life jacket. She adjusts her helmet and gives the driver of the speedboat the \"thumbs-up\" signal. The motor roars, the boat scoots forward, and the towrope connecting the girl to the boat tightens. She takes a few steps and begins to glide on the water. Is she water-skiing without skis?",
+        "No, she is parasailing! As the boat zooms into the bay, the colorful parachute dragging behind her fills with air. The girl rises like a human kite, 61 meters (200 ft) into the sky.",
+        "The boat moving forward provides thrust, the power to take off. The air rushing into the parachute provides lift. As long as the towrope stays tight, the flyer sits back and enjoys the ride — and the admiration of all those watching from the ground.",
+        "When towing a parasailor, the speedboat cruises between 24 and 48 kph (15-30 mph). It needs to go fast enough to create lift but not so fast that a wave will make it lose control.",
+        "Unlike hang gliding and skydiving, parasailing has no minimum age requirement. There is no special training for the parasailor, though the boat driver needs to have experience. Parasailing is usually done on oceans, lakes, and bays. Rides from parasailing companies typically last around 10 minutes and can cost $50 or more."
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "aerodynamics",
+      "pos": "n.",
+      "definition": "the study of how objects move through the air",
+      "section": "hangGliding",
+      "sentence": "She may sail in the sky for hours if she understands a few principles of aerodynamics.",
+      "quiz": {
+        "prompt": "\"Aerodynamics\" is:",
+        "options": [
+          "the force of air in the atmosphere",
+          "the study of how objects move through the air",
+          "the height above a surface",
+          "a rising column of warm air"
+        ],
+        "answer": 1
+      }
+    },
+    {
+      "word": "air pressure",
+      "pos": "n.",
+      "definition": "the force of the gases that make up air combined with gravity",
+      "section": "airAndFlight",
+      "sentence": "The greater air pressure underneath the wing creates lift and causes the wing to rise.",
+      "quiz": {
+        "prompt": "\"Air pressure\" is:",
+        "options": [
+          "falling quickly through the air",
+          "a rising column of air",
+          "the height above a surface",
+          "the force of air in the atmosphere"
+        ],
+        "answer": 3
+      }
+    },
+    {
+      "word": "altitude",
+      "pos": "n.",
+      "definition": "height above a surface",
+      "section": "skydiving",
+      "sentence": "At an altitude of 3,048 meters (10,000 ft), the passenger door opens.",
+      "quiz": {
+        "prompt": "\"Altitude\" means:",
+        "options": [
+          "height above a surface",
+          "the force of air in the atmosphere",
+          "upward aerodynamic force",
+          "forward aerodynamic force"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "word": "free-falling",
+      "pos": "v.",
+      "definition": "falling rapidly through the air",
+      "section": "skydiving",
+      "sentence": "Within 10 seconds, the skydiver is free-falling at 193 kph (120 mph).",
+      "quiz": {
+        "prompt": "\"Free-falling\" means:",
+        "options": [
+          "rising slowly in a thermal",
+          "falling rapidly through the air",
+          "gliding gracefully with a parachute",
+          "floating on water with a parasail"
+        ],
+        "answer": 1
+      }
+    },
+    {
+      "word": "stalls",
+      "pos": "v.",
+      "definition": "stops moving forward",
+      "section": "hangGliding",
+      "sentence": "The natural downward force of Earth's gravity will pull the hang glider down if it stalls.",
+      "quiz": {
+        "prompt": "When a glider \"stalls,\" it:",
+        "options": [
+          "gains speed and rises higher",
+          "turns gracefully to the left",
+          "stops moving forward",
+          "catches a thermal updraft"
+        ],
+        "answer": 2
+      }
+    },
+    {
+      "word": "thrust",
+      "pos": "n.",
+      "definition": "forward aerodynamic force",
+      "section": "parasailing",
+      "sentence": "The boat moving forward provides thrust, the power to take off.",
+      "quiz": {
+        "prompt": "\"Thrust\" is:",
+        "options": [
+          "upward aerodynamic force",
+          "force that slows motion",
+          "forward aerodynamic force",
+          "the force of gravity"
+        ],
+        "answer": 2
+      }
+    },
+    {
+      "word": "canopy",
+      "pos": "n.",
+      "definition": "a large parachute that slows fall to the ground",
+      "section": "skydiving",
+      "sentence": "Out comes the small drogue chute that pulls out the canopy, or larger chute.",
+      "quiz": {
+        "prompt": "A \"canopy\" is:",
+        "options": [
+          "a small parachute that pulls out the main chute",
+          "a large parachute that slows fall to the ground",
+          "a harness attached to a backpack",
+          "a rising column of warm air"
+        ],
+        "answer": 1
+      }
+    },
+    {
+      "word": "drogue",
+      "pos": "n.",
+      "definition": "a small parachute that pulls out the canopy",
+      "section": "skydiving",
+      "sentence": "Out comes the small drogue chute that pulls out the canopy, or larger chute.",
+      "quiz": {
+        "prompt": "A \"drogue\" is:",
+        "options": [
+          "a large parachute that slows fall",
+          "a small parachute that pulls out the canopy",
+          "a crank with a handle used to lift objects",
+          "a rising column of warm air"
+        ],
+        "answer": 1
+      }
+    },
+    {
+      "word": "lift",
+      "pos": "n.",
+      "definition": "upward aerodynamic force",
+      "section": "airAndFlight",
+      "sentence": "The greater air pressure underneath the wing creates lift and causes the wing to rise.",
+      "quiz": {
+        "prompt": "\"Lift\" is:",
+        "options": [
+          "forward aerodynamic force",
+          "force that slows motion",
+          "upward aerodynamic force",
+          "the weight of air in the atmosphere"
+        ],
+        "answer": 2
+      }
+    },
+    {
+      "word": "resistance",
+      "pos": "n.",
+      "definition": "force that slows motion",
+      "section": "skydiving",
+      "sentence": "Multiple bodies provide more wind resistance, so the divers can float for a longer time.",
+      "quiz": {
+        "prompt": "\"Resistance\" is:",
+        "options": [
+          "upward aerodynamic force",
+          "forward aerodynamic force",
+          "force that speeds up motion",
+          "force that slows motion"
+        ],
+        "answer": 3
+      }
+    },
+    {
+      "word": "thermal",
+      "pos": "n.",
+      "definition": "a rising column of air",
+      "section": "airAndFlight",
+      "sentence": "Hawks or seagulls circling lazily overhead are riding a rising column of air called a thermal.",
+      "quiz": {
+        "prompt": "A \"thermal\" is:",
+        "options": [
+          "a rising column of warm air",
+          "a cold wind from the sea",
+          "the height above a surface",
+          "the force of air in the atmosphere"
+        ],
+        "answer": 0
+      }
+    },
+    {
+      "word": "winch",
+      "pos": "n.",
+      "definition": "a crank with a handle used to lift a person or object",
+      "section": "parasailing",
+      "sentence": "Flyers take off from the shore from a barge in the water or from a boat equipped with a winch.",
+      "quiz": {
+        "prompt": "A \"winch\" is:",
+        "options": [
+          "a large parachute used for parasailing",
+          "a crank with a handle used to lift a person or object",
+          "a harness that connects a parasailor to a boat",
+          "a small device that opens a reserve chute"
+        ],
+        "answer": 1
+      }
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "level": 1,
+      "question": "Watching which of the following is most helpful to a person who enjoys wind sports?",
+      "section": "airAndFlight",
+      "pages": "6",
+      "evidence": "Often, wind-sporters look to birds for flying advice. Hawks or seagulls circling lazily overhead are riding a rising column of air called a thermal.",
+      "choices": [
+        "An airplane in flight.",
+        "A parasailor on the water.",
+        "A bird in flight.",
+        "Moving clouds in the sky."
+      ],
+      "correctChoice": 2,
+      "explanation": "Wind-sporters watch BIRDS for flying advice. Birds know how to ride thermals (rising columns of air) to stay aloft."
+    },
+    {
+      "id": "q2",
+      "level": 1,
+      "question": "What helps a hang glider stay in the air?",
+      "section": "airAndFlight",
+      "pages": "8",
+      "evidence": "The special shape of the wing produces lift as the glider moves through the air. The curved top surface of a wing is a longer distance than the straight underside.",
+      "choices": [
+        "Gravity pulling the glider downward.",
+        "The pilot flapping the wings like a bird.",
+        "Cold air pushing the glider upward.",
+        "A streamlined wing design that creates lift."
+      ],
+      "correctChoice": 3,
+      "explanation": "The wing's special curved shape creates lift — air moves faster over the top, decreasing air pressure above the wing, and the higher pressure below pushes the wing up."
+    },
+    {
+      "id": "q3",
+      "level": 1,
+      "question": "Which of the following means 'height above a surface'?",
+      "section": "skydiving",
+      "pages": "13",
+      "evidence": "At an altitude of 3,048 meters (10,000 ft), the passenger door opens.",
+      "choices": [
+        "Resistance",
+        "Altitude",
+        "Lift",
+        "Thrust"
+      ],
+      "correctChoice": 1,
+      "explanation": "Altitude = height above a surface. The skydiver jumped at an altitude of 10,000 ft."
+    },
+    {
+      "id": "q4",
+      "level": 1,
+      "question": "How are the requirements for skydiving and hang gliding alike?",
+      "section": "hangGliding",
+      "pages": "10, 16",
+      "evidence": "Hang gliding requirements: Age 16 or older and able to pass a three- to six-month training course. Skydiving requirements: Age 16 or older and in good shape.",
+      "choices": [
+        "Both require the person to carry a 40-pound weight while jogging.",
+        "Both require the person to be at least sixteen years old.",
+        "Both require six months of training.",
+        "All of the above."
+      ],
+      "correctChoice": 1,
+      "explanation": "Both sports require the person to be at least 16 years old. But they differ on other requirements — hang gliding needs 3-6 months training while skydiving needs 8 levels plus 20 solo jumps."
+    },
+    {
+      "id": "q5",
+      "level": 2,
+      "question": "Which of the following traits would you expect a skydiver to have?",
+      "section": "skydiving",
+      "pages": "13-18",
+      "evidence": "A skydiver leaps from a plane at 10,000 ft and free-falls at 120 mph. They need enough strength to carry 35 lbs of equipment and deal with extreme changes in temperature.",
+      "choices": [
+        "They are afraid of heights.",
+        "They are adventurous.",
+        "They are irresponsible.",
+        "They are timid."
+      ],
+      "correctChoice": 1,
+      "explanation": "Skydivers need to be adventurous — they leap from planes at 10,000 ft and free-fall at 120 mph! Being afraid of heights or timid would make this sport impossible."
+    },
+    {
+      "id": "q6",
+      "level": 2,
+      "question": "Which of the following does not have an age requirement?",
+      "section": "parasailing",
+      "pages": "21",
+      "evidence": "Unlike hang gliding and skydiving, parasailing has no minimum age requirement. There is no special training for the parasailor.",
+      "choices": [
+        "Parasailing",
+        "Skydiving",
+        "Hang gliding",
+        "Both A and B"
+      ],
+      "correctChoice": 0,
+      "explanation": "Parasailing has NO minimum age requirement. The book describes a 10-year-old girl parasailing. Both skydiving and hang gliding require the person to be at least 16."
+    },
+    {
+      "id": "q7",
+      "level": 2,
+      "question": "Which of the following states a fact?",
+      "section": "skydiving",
+      "pages": "14",
+      "evidence": "A fact can be proven true. An opinion expresses a belief or feeling. When a parachute opens, it fills with air and slows the fall — this can be proven.",
+      "choices": [
+        "People who skydive are crazy.",
+        "When a parachute opens, it fills with air and slows a skydiver's speed.",
+        "There should be an age requirement for parasailing.",
+        "Hang gliding is better than skydiving."
+      ],
+      "correctChoice": 1,
+      "explanation": "\"When a parachute opens, it fills with air and slows a skydiver's speed\" is a FACT — it can be proven by science. The other choices are OPINIONS."
+    },
+    {
+      "id": "q8",
+      "level": 2,
+      "question": "How is the way a skydiver launches different from the way a hang glider launches?",
+      "section": "hangGliding",
+      "pages": "7, 13",
+      "evidence": "Hang glider: A woman runs down a slope and leaps from the cliffs. Skydiver: A person crouching in the doorframe leaps out of a plane.",
+      "choices": [
+        "A skydiver is pulled by a motor boat.",
+        "A skydiver jumps off the side of a building.",
+        "A skydiver runs down a steep slope and leaps.",
+        "A skydiver jumps out of a plane."
+      ],
+      "correctChoice": 3,
+      "explanation": "A skydiver jumps out of a PLANE, while a hang glider pilot runs down a slope and leaps from a CLIFF. Both use gravity, but the launch methods are completely different."
+    },
+    {
+      "id": "q9",
+      "level": 2,
+      "question": "What is air pressure?",
+      "section": "airAndFlight",
+      "pages": "8",
+      "evidence": "Glossary: air pressure — the force of the gases that make up air combined with gravity.",
+      "choices": [
+        "Falling quickly through the air.",
+        "A rising column of warm air.",
+        "The height above a surface.",
+        "The force of air in the atmosphere."
+      ],
+      "correctChoice": 3,
+      "explanation": "Air pressure = the force of air gases combined with gravity. Greater air pressure underneath a wing creates lift."
+    },
+    {
+      "id": "q10",
+      "level": 2,
+      "question": "What happens after a skydiver pulls the ripcord?",
+      "section": "skydiving",
+      "pages": "13",
+      "evidence": "Finally, at about 762 meters above the ground, he pulls the ripcord. Out comes the small drogue chute that pulls out the canopy, or larger chute.",
+      "choices": [
+        "The skydiver instantly lands on the ground.",
+        "The small drogue chute comes out followed by the larger chute.",
+        "The larger chute comes out followed by the small drogue chute.",
+        "The skydiver begins to free-fall."
+      ],
+      "correctChoice": 1,
+      "explanation": "First the DROGUE (small) chute comes out, which then pulls out the CANOPY (larger) chute. It's a two-step process — small chute first, then big chute."
+    },
+    {
+      "id": "q11",
+      "level": 3,
+      "question": "Why doesn't a person need any training to go parasailing but does need training for skydiving and hang gliding? Use evidence from the text.",
+      "section": "parasailing",
+      "pages": "19-21",
+      "evidence": "",
+      "choices": [],
+      "correctChoice": -1,
+      "explanation": "Think about how each sport works. In parasailing, the boat driver controls everything. In skydiving and hang gliding, the person must control their own equipment and understand aerodynamics.",
+      "opinionPrompts": [
+        "Who controls the flight in each sport?",
+        "What happens if something goes wrong in each sport?",
+        "What evidence from the text supports your answer?"
+      ]
+    }
+  ],
+  "compareContrast": {
+    "title": "Comparing Wind Sports",
+    "explanation": "Compare how these three wind sports are alike and different. Fill in each cell with the correct information from the book.",
+    "objects": [
+      "Hang Gliding",
+      "Skydiving",
+      "Parasailing"
+    ],
+    "criteria": [
+      {
+        "name": "Method of launch",
+        "answers": [
+          "Run down slope and leap off cliff",
+          "Jump out of an airplane",
+          "Boat pulls flyer into the air"
+        ]
+      },
+      {
+        "name": "Type of chute/wing",
+        "answers": [
+          "Rigid triangular wing",
+          "Parachute (canopy + drogue)",
+          "Parachute (parasail)"
+        ]
+      },
+      {
+        "name": "Controls",
+        "answers": [
+          "Push/pull control bar, lean to turn",
+          "Toggle switches on the chute",
+          "Boat driver controls everything"
+        ]
+      },
+      {
+        "name": "Typical air speed",
+        "answers": [
+          "160 to 320 km/h",
+          "193 km/h free-fall; 16-20 km/h under chute",
+          "24 to 48 km/h boat speed"
+        ]
+      },
+      {
+        "name": "Typical height",
+        "answers": [
+          "1.5 m to 4,800 m above ground",
+          "3,048 m jump; 762 m chute altitude",
+          "61 m average; max 183 m"
+        ]
+      },
+      {
+        "name": "Training required",
+        "answers": [
+          "3 to 6 month course",
+          "8 levels plus 20 solo jumps",
+          "No special training needed"
+        ]
+      },
+      {
+        "name": "Minimum age",
+        "answers": [
+          "16 years old",
+          "16 years old",
+          "No minimum age"
+        ]
+      },
+      {
+        "name": "Approximate cost",
+        "answers": [
+          "$5,000 to $6,500",
+          "$3,000 to $6,000",
+          "$50+ per ride"
+        ]
+      }
+    ]
+  },
+  "grammar": {
+    "target": "commas-in-a-series",
+    "title": "Commas in a Series & Root Words",
+    "explanation": "When you list three or more things, use commas to separate them. Also, many long words have a shorter \"root word\" inside them that gives you a clue about meaning.",
+    "rules": [
+      "When listing 3+ items, put a comma between each: A, B, and C",
+      "The comma before \"and\" (the Oxford comma) helps avoid confusion",
+      "A root word is the smallest part of a word that can stand alone: resist → resistance",
+      "Prefixes are added to the beginning: in + expensive = not expensive",
+      "Suffixes are added to the end: admire + -ation = admiration (a noun)"
+    ],
+    "wordBuilding": [
+      {
+        "base": "hang gliding parachuting and parasailing",
+        "answer": "hang gliding, parachuting, and parasailing"
+      },
+      {
+        "base": "a sense of adventure the right equipment and an understanding of how wind works",
+        "answer": "a sense of adventure, the right equipment, and an understanding of how wind works"
+      },
+      {
+        "base": "turns circles climbs and dives",
+        "answer": "turns, circles, climbs, and dives"
+      },
+      {
+        "base": "harness helmet goggles parachute glider and flotation gear",
+        "answer": "harness, helmet, goggles, parachute, glider, and flotation gear"
+      },
+      {
+        "base": "landing accuracy free-fall speed and freestyle",
+        "answer": "landing accuracy, free-fall speed, and freestyle"
+      },
+      {
+        "base": "oceans lakes and bays",
+        "answer": "oceans, lakes, and bays"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "identify",
+        "sentence": "All you need is a sense of adventure, the right equipment, and an understanding of how wind works.",
+        "answers": [
+          "a sense of adventure",
+          "the right equipment",
+          "an understanding of how wind works"
+        ],
+        "hint": "Find the 3 things listed. Where are the commas?"
+      },
+      {
+        "type": "identify",
+        "sentence": "The pilot has to pay attention as he turns, circles, climbs, and dives.",
+        "answers": [
+          "turns",
+          "circles",
+          "climbs",
+          "dives"
+        ],
+        "hint": "Find the 4 actions listed. Where are the commas?"
+      },
+      {
+        "type": "fillBlank",
+        "sentence": "Add commas: \"Equipment: Harness helmet goggles parachute glider and flotation gear if near water.\"",
+        "options": [
+          "Equipment: Harness, helmet, goggles, parachute, glider, and flotation gear if near water.",
+          "Equipment: Harness helmet, goggles parachute, glider and flotation gear if near water.",
+          "Equipment, Harness helmet goggles parachute glider, and flotation gear if near water.",
+          "Equipment: Harness, helmet, goggles parachute glider and, flotation gear if near water."
+        ],
+        "answer": 0,
+        "explanation": "List of 6 items: harness, helmet, goggles, parachute, glider, and flotation gear — comma between each."
+      },
+      {
+        "type": "rootWord",
+        "word": "admiration",
+        "root": "admire",
+        "options": [
+          "admire",
+          "mir",
+          "admir",
+          "ration"
+        ],
+        "explanation": "The root word is 'admire' (to respect). Adding '-ation' changes it to a noun: 'admiration' (the feeling of respect)."
+      },
+      {
+        "type": "rootWord",
+        "word": "equipment",
+        "root": "equip",
+        "options": [
+          "equip",
+          "equi",
+          "ment",
+          "quip"
+        ],
+        "explanation": "The root word is 'equip' (to provide with tools). Adding '-ment' changes it to a noun: 'equipment' (the tools you need)."
+      },
+      {
+        "type": "rootWord",
+        "word": "resistance",
+        "root": "resist",
+        "options": [
+          "resist",
+          "res",
+          "stance",
+          "resis"
+        ],
+        "explanation": "The root word is 'resist' (to fight against). Adding '-ance' changes it to a noun: 'resistance' (the force that slows motion)."
+      },
+      {
+        "type": "rootWord",
+        "word": "recreational",
+        "root": "recreate",
+        "options": [
+          "recreate",
+          "re",
+          "creation",
+          "recreat"
+        ],
+        "explanation": "The root word is 'recreate' (to enjoy leisure). Adding '-ional' makes it an adjective: 'recreational' (related to fun activities)."
+      },
+      {
+        "type": "rootWord",
+        "word": "designated",
+        "root": "design",
+        "options": [
+          "design",
+          "des",
+          "ignated",
+          "designate"
+        ],
+        "explanation": "The root word is 'design' (to plan or mark). Adding '-ated' makes it an adjective: 'designated' (officially marked or assigned)."
+      }
+    ]
+  },
+  "notes": {
+    "airAndFlight": [
+      {
+        "type": "vocab",
+        "title": "Lift, Thrust, Resistance",
+        "content": "LIFT = upward force (wing pushes up). THRUST = forward force (engine/boat pushes forward). RESISTANCE = force that slows motion (air pushing against you)."
+      },
+      {
+        "type": "evidence",
+        "title": "How Wings Create Lift",
+        "content": "Curved top → air moves FASTER → lower air pressure. Flat bottom → slower air → higher air pressure. Higher pressure below PUSHES wing UP = LIFT!"
+      }
+    ],
+    "hangGliding": [
+      {
+        "type": "vocab",
+        "title": "Aerodynamics",
+        "content": "Aero = air, dynamics = movement. Aerodynamics = the study of how objects move through air. This is KEY for hang gliding!"
+      },
+      {
+        "type": "evidence",
+        "title": "How to Control a Hang Glider",
+        "content": "Pull bar BACK → gain speed, lose altitude. Push bar FORWARD → lose speed, gain altitude. Lean LEFT/RIGHT → turn. Stall = stop moving forward = gravity wins!"
+      }
+    ],
+    "skydiving": [
+      {
+        "type": "vocab",
+        "title": "Drogue & Canopy",
+        "content": "DROGUE = small chute that pulls out the CANOPY (big chute). Free-fall at 120 mph → ripcord → drogue → canopy → slow to 10-20 mph → enjoy the view for 3 minutes!"
+      },
+      {
+        "type": "evidence",
+        "title": "How Parachutes Work",
+        "content": "Gravity pulls DOWN at 120 mph → parachute opens → air fills canopy → air presses UP (RESISTANCE) → slows to 10-20 mph → safe landing!"
+      }
+    ],
+    "parasailing": [
+      {
+        "type": "vocab",
+        "title": "Thrust",
+        "content": "Thrust = forward force. In parasailing, the BOAT provides thrust. The parachute provides LIFT. Together they make you fly!"
+      },
+      {
+        "type": "evidence",
+        "title": "Compare: 3 Sports",
+        "content": "Hang gliding: launch from CLIFF, rigid wing, 3-6 months training. Skydiving: launch from PLANE, parachute, 8 levels + 20 jumps. Parasailing: launched by BOAT, no training needed!"
+      }
+    ]
+  }
+}
