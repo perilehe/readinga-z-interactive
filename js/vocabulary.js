@@ -286,7 +286,18 @@ const VocabularyModule = (() => {
             el.classList.add('used');
             StarSystem.earn('vocab-ctx-' + item.word);
             if (typeof updateAllTabStars === 'function') updateAllTabStars();
-            setTimeout(() => { idx++; show(); }, 1200);
+            // Show "Next" button instead of auto-advance
+            let nextBtn = panel.querySelector('#ctxNextBtn');
+            if (!nextBtn) {
+              nextBtn = document.createElement('button');
+              nextBtn.id = 'ctxNextBtn';
+              nextBtn.className = 'btn btn-primary';
+              nextBtn.style.cssText = 'display:block;margin:15px auto 0;padding:10px 30px;font-size:1em;';
+              nextBtn.textContent = 'Next →';
+              panel.appendChild(nextBtn);
+            }
+            nextBtn.style.display = 'block';
+            nextBtn.onclick = function() { idx++; show(); };
           } else {
             blank.classList.add('wrong-fill');
             setTimeout(() => {
