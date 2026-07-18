@@ -224,6 +224,19 @@ const GrammarModule = (() => {
   }
 
   function renderFillExercise(ex, idx) {
+    // Support both text-input and multiple-choice modes
+    if (ex.options && ex.options.length > 0) {
+      // MC mode: render buttons with options
+      return `
+        <div class="ex-type-badge">📝 Fill in the Blank</div>
+        <p class="ex-sentence">${ex.sentence}</p>
+        <div class="ex-options" id="ex-opts-${idx}">
+          ${ex.options.map((opt, i) => `<button class="ex-opt-btn" data-correct="${i === ex.answer}" data-idx="${idx}">${opt}</button>`).join('')}
+        </div>
+        <div class="ex-feedback" id="ex-fb-${idx}"></div>
+      `;
+    }
+    // Text input mode (original behavior)
     return `
       <div class="ex-type-badge">📝 Fill in the Blank</div>
       <p class="ex-sentence">${ex.sentence}</p>
