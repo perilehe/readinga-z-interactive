@@ -97,7 +97,11 @@
         ],
         "answer": 0
       },
-      "fillInOptions": ["different", "opposite", "similar"]
+      "fillInOptions": [
+        "different",
+        "opposite",
+        "similar"
+      ]
     },
     {
       "word": "efficient",
@@ -115,7 +119,11 @@
         ],
         "answer": 1
       },
-      "fillInOptions": ["productive", "wasteful", "careless"]
+      "fillInOptions": [
+        "productive",
+        "wasteful",
+        "careless"
+      ]
     },
     {
       "word": "emissions",
@@ -133,7 +141,11 @@
         ],
         "answer": 1
       },
-      "fillInOptions": ["gases", "liquids", "solids"]
+      "fillInOptions": [
+        "gases",
+        "liquids",
+        "solids"
+      ]
     },
     {
       "word": "environment",
@@ -151,7 +163,11 @@
         ],
         "answer": 0
       },
-      "fillInOptions": ["surroundings", "climate", "atmosphere"]
+      "fillInOptions": [
+        "surroundings",
+        "climate",
+        "atmosphere"
+      ]
     },
     {
       "word": "exhaust",
@@ -169,7 +185,11 @@
         ],
         "answer": 1
       },
-      "fillInOptions": ["fumes", "smoke", "vapor"]
+      "fillInOptions": [
+        "fumes",
+        "smoke",
+        "vapor"
+      ]
     },
     {
       "word": "hybrid",
@@ -187,7 +207,11 @@
         ],
         "answer": 1
       },
-      "fillInOptions": ["mixed", "combined", "pure"]
+      "fillInOptions": [
+        "mixed",
+        "combined",
+        "pure"
+      ]
     },
     {
       "word": "atoms",
@@ -205,7 +229,11 @@
         ],
         "answer": 1
       },
-      "fillInOptions": ["molecules", "particles", "cells"]
+      "fillInOptions": [
+        "molecules",
+        "particles",
+        "cells"
+      ]
     },
     {
       "word": "breakthrough",
@@ -223,7 +251,11 @@
         ],
         "answer": 0
       },
-      "fillInOptions": ["advance", "setback", "failure"]
+      "fillInOptions": [
+        "advance",
+        "setback",
+        "failure"
+      ]
     },
     {
       "word": "chemical reaction",
@@ -241,7 +273,11 @@
         ],
         "answer": 0
       },
-      "fillInOptions": ["physical change", "mixture", "solution"]
+      "fillInOptions": [
+        "physical change",
+        "mixture",
+        "solution"
+      ]
     },
     {
       "word": "flamboyant",
@@ -259,7 +295,11 @@
         ],
         "answer": 1
       },
-      "fillInOptions": ["showy", "plain", "modest"]
+      "fillInOptions": [
+        "showy",
+        "plain",
+        "modest"
+      ]
     },
     {
       "word": "mobility",
@@ -277,7 +317,11 @@
         ],
         "answer": 0
       },
-      "fillInOptions": ["movement", "stillness", "rest"]
+      "fillInOptions": [
+        "movement",
+        "stillness",
+        "rest"
+      ]
     },
     {
       "word": "pungent",
@@ -295,7 +339,11 @@
         ],
         "answer": 1
       },
-      "fillInOptions": ["sharp", "mild", "sweet"]
+      "fillInOptions": [
+        "sharp",
+        "mild",
+        "sweet"
+      ]
     }
   ],
   "questions": [
@@ -341,10 +389,10 @@
       "choices": [
         "Gas cars were much quieter and smoother than electric ones",
         "Electric cars could travel farther on a single charge",
-        "The government required people to buy only gas cars",
-        "Gas stations were spreading across the country for refueling"
+        "Gas stations were spreading across the country for refueling",
+        "The government required people to buy only gas cars"
       ],
-      "correctChoice": 3,
+      "correctChoice": 2,
       "explanation": "The text explains that gasoline was 'readily available at a growing network of gas stations' — this infrastructure gave gas cars a decisive advantage over electric cars that could not travel between cities."
     },
     {
@@ -453,10 +501,10 @@
       "choices": [
         "Only governments need to ban gas cars from all roads",
         "Drivers must stop caring about how far they can travel",
-        "Electric cars need to become louder so people hear them coming",
-        "Multiple improvements in batteries, charging, and cost are needed"
+        "Multiple improvements in batteries, charging, and cost are needed",
+        "Electric cars need to become louder so people hear them coming"
       ],
-      "correctChoice": 3,
+      "correctChoice": 2,
       "explanation": "The text lists several challenges: batteries must improve, charging stations must become widespread, and costs must come down. It takes multiple improvements — not just one change — for electric cars to become the standard."
     },
     {
@@ -491,7 +539,12 @@
         "Traffic jams are caused by too many electric cars on the road",
         "Steven Accardi invented the first electric car in the 1800s"
       ],
-      "transitionWords": ["As", "Although", "from their early success", "eventual resurgence"]
+      "transitionWords": [
+        "As",
+        "Although",
+        "from their early success",
+        "eventual resurgence"
+      ]
     },
     {
       "section": "whatIs",
@@ -507,7 +560,12 @@
         "Electric cars burn a special type of clean gasoline",
         "The tailpipe on an electric car releases water vapor"
       ],
-      "transitionWords": ["Instead of", "rather than", "However", "while driving"]
+      "transitionWords": [
+        "Instead of",
+        "rather than",
+        "However",
+        "while driving"
+      ]
     },
     {
       "section": "early",
@@ -523,7 +581,12 @@
         "Electric cars were first invented in the 1950s by Toyota",
         "Early electric cars were loud and produced thick smoke"
       ],
-      "transitionWords": ["when inventors", "By the 1880s", "compared to", "Unfortunately"]
+      "transitionWords": [
+        "when inventors",
+        "By the 1880s",
+        "compared to",
+        "Unfortunately"
+      ]
     },
     {
       "section": "bySteam",
@@ -539,7 +602,13 @@
         "Steam cars were the cleanest and quietest of all three types",
         "Electric cars could travel between cities without recharging"
       ],
-      "transitionWords": ["Before", "but", "While", "As filling stations spread", "However"]
+      "transitionWords": [
+        "Before",
+        "but",
+        "While",
+        "As filling stations spread",
+        "However"
+      ]
     },
     {
       "section": "decline",
@@ -555,7 +624,13 @@
         "The government passed a law banning electric cars in 1912",
         "Electric cars exploded and were too dangerous to drive"
       ],
-      "transitionWords": ["Around 1912", "Suddenly", "While gas cars improved", "By the mid-1900s", "firmly taken hold"]
+      "transitionWords": [
+        "Around 1912",
+        "Suddenly",
+        "While gas cars improved",
+        "By the mid-1900s",
+        "firmly taken hold"
+      ]
     },
     {
       "section": "resurgence",
@@ -571,7 +646,13 @@
         "Toyota's Prius was the first car to run entirely on steam power",
         "Oil shortages in the 1970s made gasoline free for all drivers"
       ],
-      "transitionWords": ["Beginning in the 1960s", "When oil shortages", "In the 1990s", "While driving at low speeds", "introduced in 1997"]
+      "transitionWords": [
+        "Beginning in the 1960s",
+        "When oil shortages",
+        "In the 1990s",
+        "While driving at low speeds",
+        "introduced in 1997"
+      ]
     },
     {
       "section": "future",
@@ -587,7 +668,13 @@
         "Tesla's electric cars still produce thick exhaust emissions while driving",
         "All countries have already banned gas-powered vehicles as of this year"
       ],
-      "transitionWords": ["More recently", "However", "Whether", "If these challenges are met", "Once such breakthroughs arrive"]
+      "transitionWords": [
+        "More recently",
+        "However",
+        "Whether",
+        "If these challenges are met",
+        "Once such breakthroughs arrive"
+      ]
     }
   ],
   "compareContrast": {
@@ -690,31 +777,42 @@
       {
         "type": "identify",
         "sentence": "Although most people think of electric cars as a modern invention, their history actually stretches back more than a century.",
-        "answers": ["Although"],
+        "answers": [
+          "Although"
+        ],
         "hint": "Which word introduces the dependent clause? (It's a subordinating conjunction that shows contrast.)"
       },
       {
         "type": "identify",
         "sentence": "When driving at low speeds, the car ran on electricity; when more power was needed, the gas engine automatically kicked in.",
-        "answers": ["When", "when"],
+        "answers": [
+          "When",
+          "when"
+        ],
         "hint": "Find both subordinating conjunctions that introduce dependent clauses telling WHEN something happened."
       },
       {
         "type": "identify",
         "sentence": "Around 1912, an inventor created the electric starter motor, which eliminated the need for hand-cranking a gas engine.",
-        "answers": ["which"],
+        "answers": [
+          "which"
+        ],
         "hint": "Which word introduces the dependent clause that gives extra information about the motor?"
       },
       {
         "type": "identify",
         "sentence": "Whether electric cars can fully replace gas-powered cars depends on several factors.",
-        "answers": ["Whether"],
+        "answers": [
+          "Whether"
+        ],
         "hint": "Which subordinating conjunction introduces the dependent clause presenting a condition/choice?"
       },
       {
         "type": "identify",
         "sentence": "If these challenges are met, the future of electric cars may be brighter than ever before.",
-        "answers": ["If"],
+        "answers": [
+          "If"
+        ],
         "hint": "Which word introduces the dependent clause showing a condition?"
       },
       {
@@ -804,19 +902,25 @@
       {
         "type": "identify",
         "sentence": "Gas-guzzling vehicles produced thick smog in major cities.",
-        "answers": ["Gas-guzzling"],
+        "answers": [
+          "Gas-guzzling"
+        ],
         "hint": "Find the hyphenated compound adjective describing the vehicles."
       },
       {
         "type": "identify",
         "sentence": "Tesla's electric cars produce zero-emission exhaust.",
-        "answers": ["zero-emission"],
+        "answers": [
+          "zero-emission"
+        ],
         "hint": "Which hyphenated word describes the type of exhaust?"
       },
       {
         "type": "identify",
         "sentence": "Toyota's Prius is one of the best-known hybrids in the world.",
-        "answers": ["best-known"],
+        "answers": [
+          "best-known"
+        ],
         "hint": "Which hyphenated compound adjective describes 'hybrids'?"
       },
       {
@@ -847,14 +951,20 @@
       {
         "type": "buildCompound",
         "instruction": "Combine the two words to make a hyphenated compound adjective:",
-        "words": ["gas", "electric"],
+        "words": [
+          "gas",
+          "electric"
+        ],
         "answer": "gas-electric",
         "explanation": "'Gas-electric' is a compound adjective describing something that uses both gas and electric power (like a hybrid)."
       },
       {
         "type": "buildCompound",
         "instruction": "Combine the two words to make a hyphenated compound adjective:",
-        "words": ["long", "distance"],
+        "words": [
+          "long",
+          "distance"
+        ],
         "answer": "long-distance",
         "explanation": "'Long-distance' describes trips or travel covering a great distance."
       }

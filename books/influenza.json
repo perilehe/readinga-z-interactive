@@ -361,12 +361,12 @@
       "pages": "4–22",
       "evidence": "By learning about the flu—what it is, what causes it, what its symptoms are, and how to treat it—you can fight back against this illness and stay healthy.",
       "choices": [
-        "to inform readers about the flu",
         "to entertain readers with a flu story",
+        "to inform readers about the flu",
         "to persuade readers to stay home",
         "to explain how to grow viruses in a lab"
       ],
-      "correctChoice": 0,
+      "correctChoice": 1,
       "explanation": "The book provides factual information about what the flu is, how it spreads, and how to prevent and treat it. Its purpose is to inform."
     },
     {
@@ -378,11 +378,11 @@
       "evidence": "Viruses use the cells of the hosts to reproduce. When a virus infects a human being, it uses its hard protein shell to make a hole in a cell, which it then invades.",
       "choices": [
         "grow larger in size",
-        "move from place to place",
         "reproduce itself",
+        "move from place to place",
         "hibernate until flu season"
       ],
-      "correctChoice": 2,
+      "correctChoice": 1,
       "explanation": "A virus invades cells and uses them to make copies of itself, or reproduce. The virus cannot reproduce on its own—it needs the host's cells."
     },
     {
@@ -459,10 +459,10 @@
       "choices": [
         "They jump directly from wild birds to humans every time.",
         "They only spread through the air over long distances.",
-        "They pass through a chain of animals, such as birds to farm chickens to pigs to humans.",
-        "They are carried by mosquitoes from animals to people."
+        "They are carried by mosquitoes from animals to people.",
+        "They pass through a chain of animals, such as birds to farm chickens to pigs to humans."
       ],
-      "correctChoice": 2,
+      "correctChoice": 3,
       "explanation": "The book explains that flu viruses often move through a chain of animals—from wild birds to farm chickens to pigs and then to humans—because these animals come in close contact on farms."
     },
     {
@@ -505,12 +505,12 @@
       "pages": "22",
       "evidence": "Because flu viruses can change and develop into new strains, influenza may never be eradicated.",
       "choices": [
-        "Because flu viruses can change and develop into new strains.",
+        "Because the flu only affects animals, not humans.",
         "Because vaccines stop working after one year for everyone.",
         "Because too few people get vaccinated each year.",
-        "Because the flu only affects animals, not humans."
+        "Because flu viruses can change and develop into new strains."
       ],
-      "correctChoice": 0,
+      "correctChoice": 3,
       "explanation": "The conclusion states that because flu viruses constantly mutate into new strains, the body and scientists must always adapt—which is why influenza may never be completely wiped out."
     },
     {
@@ -782,5 +782,109 @@
         "explanation": "'Invasive' means spreading into areas with harmful effects. 'Contained' is an antonym — it means limited and NOT spreading."
       }
     ]
-  }
+  },
+  "kwls": {
+    "prompts": {
+      "K": "What do you already know about the flu (influenza)?",
+      "W": "What do you want to learn about influenza?",
+      "L": "What did you learn from reading this book?",
+      "S": "What do you still want to know about influenza?"
+    },
+    "sampleAnswers": {
+      "L": [
+        "The flu is caused by a virus that enters the body and reproduces inside cells.",
+        "Flu symptoms include chills, fever, sore throat, stuffy nose, muscle aches, and headaches.",
+        "The body has antibodies that search for and destroy viruses.",
+        "Vaccines train the immune system to recognize and fight specific flu strains.",
+        "Flu viruses mutate into new strains each year, so vaccines must be updated.",
+        "The 1918 Spanish flu killed over 20 million people worldwide."
+      ]
+    }
+  },
+  "summarizeActivities": [
+    {
+      "section": "whatIsFlu",
+      "sectionTitle": "What Is the Flu?",
+      "mainIdea": "The flu is a contagious illness caused by influenza viruses that invade body cells and cause symptoms like fever, chills, and muscle aches.",
+      "keyDetails": [
+        "The flu is caused by a virus (a microorganism invisible to the naked eye)",
+        "Symptoms include chills, fever, sore throat, stuffy nose, and muscle aches",
+        "The virus spreads through the air when infected people cough or sneeze",
+        "Flu season runs from October through May in the northern hemisphere"
+      ],
+      "distractors": [
+        "The flu is caused by bacteria",
+        "The flu only affects old people"
+      ],
+      "transitionWords": [
+        "is caused by",
+        "enters",
+        "when",
+        "during"
+      ]
+    },
+    {
+      "section": "changingViruses",
+      "sectionTitle": "Changing Viruses",
+      "mainIdea": "Flu viruses constantly mutate into new strains, which is why last year's vaccine may not protect against this year's flu.",
+      "keyDetails": [
+        "Flu viruses mutate (change) their genetic material over time",
+        "New strains can jump from animals to humans",
+        "The avian flu of 1997 jumped directly from birds to humans",
+        "Each year's vaccine must contain the strains scientists predict will be most common"
+      ],
+      "distractors": [
+        "Flu viruses never change",
+        "Animals cannot carry the flu"
+      ],
+      "transitionWords": [
+        "constantly",
+        "which is why",
+        "Sometimes",
+        "each year"
+      ]
+    },
+    {
+      "section": "preventing",
+      "sectionTitle": "Preventing the Virus",
+      "mainIdea": "The best ways to prevent the flu include washing hands, avoiding sick people, and getting vaccinated, which trains the immune system to fight the virus.",
+      "keyDetails": [
+        "Washing hands frequently helps prevent spreading germs",
+        "Avoiding people who show flu symptoms reduces exposure",
+        "Vaccines train the immune system to recognize specific flu strains",
+        "The body produces antibodies that attack and destroy the virus"
+      ],
+      "distractors": [
+        "Antibiotics can cure the flu",
+        "There is no way to prevent the flu"
+      ],
+      "transitionWords": [
+        "The best way",
+        "also",
+        "which trains",
+        "produces"
+      ]
+    },
+    {
+      "section": "history",
+      "sectionTitle": "History of the Flu",
+      "mainIdea": "The flu has caused several deadly pandemics throughout history, including the 1918 Spanish flu that killed over 20 million people.",
+      "keyDetails": [
+        "The 1918 Spanish flu killed over 20 million people worldwide",
+        "The 1957 Asian flu and 1968 Hong Kong flu also caused major outbreaks",
+        "The 2009 H1N1 pandemic was the most recent major outbreak",
+        "Scientists continue to study flu viruses to better predict and prevent future pandemics"
+      ],
+      "distractors": [
+        "The flu has never caused a pandemic",
+        "All flu pandemics happened in the 2000s"
+      ],
+      "transitionWords": [
+        "killed",
+        "also",
+        "most recent",
+        "continue to"
+      ]
+    }
+  ]
 }

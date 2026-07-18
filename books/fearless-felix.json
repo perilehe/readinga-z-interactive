@@ -130,7 +130,11 @@
         ],
         "answer": 2
       },
-      "fillInOptions": ["height", "depth", "width"]
+      "fillInOptions": [
+        "height",
+        "depth",
+        "width"
+      ]
     },
     {
       "word": "BASE jumper",
@@ -148,7 +152,11 @@
         ],
         "answer": 1
       },
-      "fillInOptions": ["skydiver", "climber", "pilot"]
+      "fillInOptions": [
+        "skydiver",
+        "climber",
+        "pilot"
+      ]
     },
     {
       "word": "capsule",
@@ -166,7 +174,11 @@
         ],
         "answer": 1
       },
-      "fillInOptions": ["compartment", "container", "vehicle"]
+      "fillInOptions": [
+        "compartment",
+        "container",
+        "vehicle"
+      ]
     },
     {
       "word": "free fall",
@@ -184,7 +196,11 @@
         ],
         "answer": 2
       },
-      "fillInOptions": ["rapid descent", "slow float", "controlled glide"]
+      "fillInOptions": [
+        "rapid descent",
+        "slow float",
+        "controlled glide"
+      ]
     },
     {
       "word": "pressurized",
@@ -202,7 +218,11 @@
         ],
         "answer": 3
       },
-      "fillInOptions": ["sealed", "open", "ventilated"]
+      "fillInOptions": [
+        "sealed",
+        "open",
+        "ventilated"
+      ]
     },
     {
       "word": "speed of sound",
@@ -220,7 +240,11 @@
         ],
         "answer": 0
       },
-      "fillInOptions": ["velocity of light", "rate of gravity", "force of wind"]
+      "fillInOptions": [
+        "velocity of light",
+        "rate of gravity",
+        "force of wind"
+      ]
     },
     {
       "word": "claustrophobia",
@@ -238,7 +262,11 @@
         ],
         "answer": 2
       },
-      "fillInOptions": ["fear of small spaces", "fear of heights", "fear of speed"]
+      "fillInOptions": [
+        "fear of small spaces",
+        "fear of heights",
+        "fear of speed"
+      ]
     },
     {
       "word": "deploying",
@@ -256,7 +284,11 @@
         ],
         "answer": 2
       },
-      "fillInOptions": ["releasing", "collecting", "storing"]
+      "fillInOptions": [
+        "releasing",
+        "collecting",
+        "storing"
+      ]
     },
     {
       "word": "discipline",
@@ -274,7 +306,11 @@
         ],
         "answer": 2
       },
-      "fillInOptions": ["self-control", "chaos", "laziness"]
+      "fillInOptions": [
+        "self-control",
+        "chaos",
+        "laziness"
+      ]
     },
     {
       "word": "sensors",
@@ -292,7 +328,11 @@
         ],
         "answer": 0
       },
-      "fillInOptions": ["detectors", "switches", "buttons"]
+      "fillInOptions": [
+        "detectors",
+        "switches",
+        "buttons"
+      ]
     },
     {
       "word": "skydiving",
@@ -310,7 +350,11 @@
         ],
         "answer": 3
       },
-      "fillInOptions": ["parachuting", "swimming", "climbing"]
+      "fillInOptions": [
+        "parachuting",
+        "swimming",
+        "climbing"
+      ]
     },
     {
       "word": "specialized",
@@ -328,7 +372,11 @@
         ],
         "answer": 1
       },
-      "fillInOptions": ["custom-designed", "general-purpose", "ordinary"]
+      "fillInOptions": [
+        "custom-designed",
+        "general-purpose",
+        "ordinary"
+      ]
     }
   ],
   "questions": [
@@ -388,12 +436,12 @@
       "pages": "4",
       "evidence": "When Felix stepped out of the capsule and jumped, he fell faster than anyone had ever fallen. He broke the speed of sound. ... The jump was seen around the world — on television, on the internet, and on phones.",
       "choices": [
-        "It was broadcast live as Felix broke the speed of sound during his fall.",
+        "He jumped from a tall building for the very first time in history.",
         "He was the first person to ever use a parachute during a jump.",
         "He set a new record for the longest parachute ride in history.",
-        "He jumped from a tall building for the very first time in history."
+        "It was broadcast live as Felix broke the speed of sound during his fall."
       ],
-      "correctChoice": 0,
+      "correctChoice": 3,
       "explanation": "The jump was seen around the world because it was broadcast live on television, the internet, and phones — and Felix broke the speed of sound during his fall."
     },
     {
@@ -436,12 +484,12 @@
       "pages": "12",
       "evidence": "Before the big jump, Felix had to make several test jumps to make sure everything worked. Each test jump was higher than the last one. ... During the first test jumps, Felix jumped from 7,000 feet, then 15,000 feet, then much higher.",
       "choices": [
-        "He completed several test jumps, each higher than the last",
+        "He practiced in a large swimming pool to simulate landing before real jumps",
         "He made exactly three test jumps from 7,000, 15,000, and 30,000 feet",
         "He made just one test jump from 7,000 feet",
-        "He practiced in a large swimming pool to simulate landing before real jumps"
+        "He completed several test jumps, each higher than the last"
       ],
-      "correctChoice": 0,
+      "correctChoice": 3,
       "explanation": "Felix made several test jumps at increasing altitudes — 7,000 feet, then 15,000 feet, then much higher — to test all the equipment before the real jump."
     },
     {
@@ -926,5 +974,91 @@
         "content": "Felix set TWO records: highest altitude jump AND fastest free fall speed! But his jump was about MORE than records — the data could help astronauts, pilots, and future SPACE TRAVELERS stay safe!"
       }
     ]
-  }
+  },
+  "summarizeActivities": [
+    {
+      "section": "whoIsFelix",
+      "sectionTitle": "Who Is Felix?",
+      "mainIdea": "Felix Baumgartner discovered his passion for skydiving as a teenager and developed the discipline and work ethic that would define his career as a BASE jumper.",
+      "keyDetails": [
+        "Born in 1969 in Salzburg, Austria",
+        "Joined the Austrian military skydiving team for five years",
+        "Began training as a BASE jumper in his twenties",
+        "Set his first world record in 1999"
+      ],
+      "distractors": [
+        "He was an astronaut who traveled to space",
+        "He invented the pressurized suit"
+      ],
+      "transitionWords": [
+        "When",
+        "The discipline",
+        "In his twenties",
+        "because"
+      ]
+    },
+    {
+      "section": "firstRecord",
+      "sectionTitle": "First World Record",
+      "mainIdea": "Felix set his first world record by jumping from the Petronas Towers in 1999, disguising himself to get past security.",
+      "keyDetails": [
+        "The Petronas Towers were the tallest buildings in the world at the time",
+        "Authorities would not allow him to jump",
+        "He disguised himself as a businessman with a parachute in a briefcase",
+        "He jumped 1,479 feet (451 m) to the ground"
+      ],
+      "distractors": [
+        "He jumped from the Eiffel Tower",
+        "He used a jetpack"
+      ],
+      "transitionWords": [
+        "At the time",
+        "so",
+        "Climbing out",
+        "he jumped"
+      ]
+    },
+    {
+      "section": "stratosProject",
+      "sectionTitle": "The Stratosphere Project",
+      "mainIdea": "Felix and his team spent seven years planning and preparing for the highest and fastest free fall in history, overcoming challenges like claustrophobia.",
+      "keyDetails": [
+        "They aimed to break Joe Kittinger's 1960 records for speed, altitude, and free fall duration",
+        "It took seven years and a team of over 100 people",
+        "Felix developed claustrophobia from the pressurized suit",
+        "He worked with doctors to overcome his fear"
+      ],
+      "distractors": [
+        "The project lasted only one year",
+        "Felix did not need a team"
+      ],
+      "transitionWords": [
+        "began working",
+        "felt he could",
+        "it wouldn't be easy",
+        "As Felix spent more time"
+      ]
+    },
+    {
+      "section": "bigJump",
+      "sectionTitle": "The Big Jump",
+      "mainIdea": "On October 14, 2012, Felix broke two world records by jumping from 128,100 feet and reaching 834 mph — faster than the speed of sound.",
+      "keyDetails": [
+        "He rose 128,100 feet — breaking Kittinger's record by 25,300 feet",
+        "He reached 834 mph — more than 70 mph faster than the speed of sound",
+        "His free fall lasted 4 minutes and 22 seconds",
+        "He began to spin dangerously but managed to straighten out and deploy his parachute"
+      ],
+      "distractors": [
+        "Alan Eustace made the jump instead",
+        "Felix did not break any records"
+      ],
+      "transitionWords": [
+        "October 14, 2012",
+        "His speed increased",
+        "Near the end",
+        "Felix managed to"
+      ]
+    }
+  ]
 }

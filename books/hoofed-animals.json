@@ -869,5 +869,91 @@
         "explanation": "'Diverse' is the adjective meaning 'varied' or 'different.' It describes the noun 'creatures.'"
       }
     ]
-  }
+  },
+  "summarizeActivities": [
+    {
+      "section": "whatAreUngulates",
+      "sectionTitle": "What Are Ungulates?",
+      "mainIdea": "Ungulates are mammals with hooves — hard coverings on their feet made of keratin — and they are divided into two groups: odd-toed and even-toed.",
+      "keyDetails": [
+        "Ungulates are animals with hooves",
+        "Hooves are made of keratin, a strong protein",
+        "Odd-toed ungulates have one or three toes",
+        "Even-toed ungulates have two or four toes"
+      ],
+      "distractors": [
+        "Ungulates are reptiles with scales",
+        "All ungulates have the same number of toes"
+      ],
+      "transitionWords": [
+        "An ungulate is",
+        "they are",
+        "Odd-toed",
+        "Even-toed"
+      ]
+    },
+    {
+      "section": "oddToed",
+      "sectionTitle": "Odd-Toed Ungulates",
+      "mainIdea": "Odd-toed ungulates include horses, zebras, rhinos, and tapirs — they bear their weight on one or three toes and include some of the fastest land animals.",
+      "keyDetails": [
+        "Horses, zebras, and rhinos are odd-toed ungulates",
+        "They have either one toe (horses) or three toes (rhinos)",
+        "The cannon bone is the long foot bone in these animals",
+        "Horses can run up to 55 mph"
+      ],
+      "distractors": [
+        "Pigs and deer are odd-toed ungulates",
+        "Odd-toed ungulates have four toes"
+      ],
+      "transitionWords": [
+        "belong to this group",
+        "Since every",
+        "for example",
+        "however"
+      ]
+    },
+    {
+      "section": "evenToed",
+      "sectionTitle": "Even-Toed Ungulates",
+      "mainIdea": "Even-toed ungulates are the largest and most diverse group, including pigs, giraffes, hippos, camels, deer, and cattle — they are found in nearly every habitat.",
+      "keyDetails": [
+        "Even-toed ungulates include pigs, giraffes, hippos, camels, deer, and cattle",
+        "They have two or four toes on each foot",
+        "They are found worldwide in many different habitats",
+        "Some are domesticated (cattle, pigs) while others are wild (giraffes, deer)"
+      ],
+      "distractors": [
+        "Even-toed ungulates only live in Africa",
+        "Horses are even-toed ungulates"
+      ],
+      "transitionWords": [
+        "include",
+        "They have",
+        "while",
+        "Because"
+      ]
+    },
+    {
+      "section": "diets",
+      "sectionTitle": "What Do Ungulates Eat?",
+      "mainIdea": "Ungulates have different diets — herbivores eat plants, carnivores eat meat, and omnivores eat both — and they include grazers (grass) and browsers (leaves and twigs).",
+      "keyDetails": [
+        "Herbivores eat only plants",
+        "Carnivores eat only meat",
+        "Omnivores eat both plants and animals",
+        "Grazers feed on grass while browsers eat leaves, berries, and twigs"
+      ],
+      "distractors": [
+        "All ungulates are carnivores",
+        "Ungulates only drink water"
+      ],
+      "transitionWords": [
+        "eat",
+        "while",
+        "Both",
+        "feed on"
+      ]
+    }
+  ]
 }
