@@ -1,0 +1,727 @@
+{
+  "meta": {
+    "id": "mapping-the-woods",
+    "title": "Mapping the Woods: Maps and Cartography",
+    "level": "W",
+    "author": "Rachel Lawson",
+    "focusQuestion": "How do maps help us understand the world around us?"
+  },
+  "activities": [
+    "read",
+    "kwls",
+    "evidence",
+    "vocabulary",
+    "typing",
+    "grammar"
+  ],
+  "sections": [
+    {
+      "id": "mapsAndWhatTheyDo",
+      "title": "Maps and What They Do",
+      "paragraphs": [
+        "This is a map I drew of the woods that are by my house. The map shows the trails, roads, and buildings near my house. Be sure you have a copy of my map to follow along as you read this book.",
+        "A map is a drawing of an area. It shows where things are in relation to each other. Most maps show an area from above, as though you were looking down from an airplane. In fact, that’s how most maps are drawn today. Someone takes a photograph from an airplane or satellite, and then a mapmaker, or cartographer (car-TOG-ra-fer), uses that photograph to draw a map.",
+        "Before there were planes or spaceships, people drew maps by carefully remembering where things were, how far away they were from each other, and which direction they were from each other. Maps were also made by surveying, or taking mathematical measurements of how far and in which direction things were from each other. Many small maps are still made by surveying. Surveying creates an accurate map, though it takes a long time to survey a large area.",
+        "I drew my map by remembering and guessing where everything was—it was very hard to do. Some things still might be the wrong size. But if you were lost on the trails by my house, you could use this map to find your way out."
+      ]
+    },
+    {
+      "id": "whatIsOnAMap",
+      "title": "What Is on a Map?",
+      "paragraphs": [
+        "Most maps aren’t an exact drawing of the way an area looks. For instance, I didn’t draw the trees, grass, or buildings as they would look in a photo or painting. Cartographers use symbols so that their maps are easy to draw and read. Most maps have a box in the corner, called the key, that tells you what each symbol means.",
+        "The key on my map tells you the symbols I used to draw the woods and my neighborhood. The double lines are roads where cars drive. The single lines are walking trails. The boxes are buildings, and the slanted lines show water areas.",
+        "A four-pointed star called the compass rose inside the key tells you where north, south, east, and west are on the map. Most maps put north at the top, south at the bottom, east on the right, and west on the left. As you can see from my compass rose, my map is drawn with northeast at the top. I did this because my house faces northeast, so that is how I think of my neighborhood.",
+        "Most maps show the names of cities, roads, trails, and other geographical features such as rivers and oceans so that you can quickly tell where things are. I put the name of each trail, road, and building on my map. Look at my map and see if you can find the Hunter’s Ravine Trail and the high school.",
+        "The scale of a map tells you how big the map is compared to the actual area. Most maps show the scale by comparing two units.",
+        "On this map of the United States, the scale units are shown on a bar with marks and numbers on it. The top scale tells you the distance in the actual area. The bottom scale shows the distance on the map; this map is measured in centimeters. For example, on this map one centimeter is equal to almost 500 kilometers of actual distance.",
+        "Can you imagine if a map of the entire United States were drawn in the scale of my map of the woods? The map would have to show every single building in the United States, plus all of the spaces in between. It would be hundreds of kilometers wide—certainly too big to fold up and put in your pocket. If a cartographer draws a big area, he or she makes the map in a smaller scale. This map of the United States is in a very small scale.",
+        "If a map zooms in on a smaller area, the scale gets bigger and bigger. This map shows the northeastern part of the United States, where my woods are. The area is about four times smaller than the United States, so the scale is four times bigger.",
+        "Maps often show where important objects or things are. A landmark is an object that is special, important, or helps people find their way. It can also be something you might want to find if you were using the map. One landmark on my map is the water tower. When I see the water tower, I know I am close to my road. On many city maps, landmarks are important buildings, such as schools, hospitals, and courthouses.",
+        "Most important objects are shown using symbols. For instance, my water tower is drawn as a circle with slanted lines across it. On a city map, a hospital might be a blue or red cross. Symbols can also show important areas, events, or things that you can’t see. On a historical map, a drawing of an explosion or gun might show where a battle took place. On a weather map, a blue line with triangles represents colder weather moving in. Use the key to help you understand the symbols and identify the objects."
+      ]
+    },
+    {
+      "id": "typesOfMaps",
+      "title": "Types of Maps",
+      "paragraphs": [
+        "The information on a map depends on what the map is used for. If you are using a map on a boat trip, then the map needs to show rivers, lakes, and oceans, but it doesn’t need to show things on land. If you are using a map on a car trip, then the map needs to show roads, towns, and cities, but it doesn’t need to show farms, forests, or hiking trails.",
+        "There are three basic kinds of maps: physical, political, and data. Physical maps show natural things, such as rivers, mountains, plants, and weather. Political maps have to do with people. They show roads, cities, buildings, countries, and other human-made things. Some maps show a mix of the two. For example, the pictorial map, or map made with pictures instead of symbols, on the next page shows a ski area at the top of a small mountain. The map shows buildings, such as ski lodges, and areas of woods where it is not safe to ski. Both kinds of information, political and physical, are important to skiers.",
+        "The third kind of map, a data map, is used for showing information, especially information given in numbers, which is called statistics."
+      ]
+    },
+    {
+      "id": "mappingTheWoods",
+      "title": "Mapping the Woods",
+      "paragraphs": [
+        "One common physical map is a topographic map. It shows elevation, or how high or low the land is. Each line is one unit, such as one meter, higher or lower than the one next to it. When the lines are close together, the land is rising or falling steeply. When they are far apart, the land is flat. I turned part of my map into a topographic map that shows you where the land rises and falls, giving you a sense of the shape of the small mountain where my woods are.",
+        "Topographic maps are good for going out into the wilderness, where there are no roads or signs. Let’s say you got lost in the woods near Hunter’s Ravine Trail. Using my map, how could you find your way back to Pit Trail? Without a compass or compass rose to tell which way was north, it would be very hard to know where to go with just a trail map. But with a topographic map, you could match the shape of the land to the shape on the map, to get an idea of where you are depending on the direction you are walking.",
+        "Other kinds of maps show elevation. Relief maps use colors to show how high or low things are. They usually use light colors to show high areas and dark colors to show low areas. Here, I shaded part of my map to make it a relief map. You probably have seen a relief map of the world that shows major mountain chains. Other relief maps show imaginary shadows made by mountains and valley walls.",
+        "A vegetation map shows what kinds of plants grow where. It uses different colors or patterns to represent different kinds of plants. I colored my map so that it shows you where there are grass, shrubs and bushes, evergreen trees, blackberries, or trees that lose their leaves, such as maples and birches. You can use the key to tell which pattern is which. Can you use the map below to find the spots along Old Orchard Trail where there are berries?",
+        "A road map shows roads and where they go, and it is best for finding your way from one place to another. Here is a road map of part of the city of Auckland, New Zealand. How might you walk from the College Rifles Park to the Abbotts Park? How many times would you turn, and in which direction? You could use this map to help you find your way around if you ever went to Auckland.",
+        "My map of the woods is a kind of road map. It shows paths where you can go from one place to another. Use my map to figure out how to get from the water tower to Mr. Taranovitch’s field.",
+        "A boundary map shows who controls the land or whom it belongs to. A boundary map of the world shows the countries. A boundary map of the United States shows the individual states or counties. On this page, I made my map into a boundary map. Now it shows who owns the land.",
+        "A boundary map helps people know how they can use the land and who might be there. Parts of the woods belong to Mr. Taranovitch, who doesn’t like people to go hunting on his land. Hunters could use this boundary map to know where they are not allowed to hunt.",
+        "A data map is any kind of map that shows information in the form of numbers. You may have seen a data map on the news that showed how people voted in different areas. You may also have seen a data map on the weather report that showed how many centimeters of rain fell in different areas. Data maps can show natural or human information.",
+        "On this version of my map, I changed the way I drew the trails to show how many people use each path. Four lines mark trails where 30 to 40 people go each week. One line marks trails where 5 or fewer people go each week. Use the key to see how the other trails are drawn. You could use this data map to estimate which trails have the most erosion, or to plan a walking trip on which you wouldn’t run into many other people.",
+        "On this version of the map, I used a drawing of a newt to show how many red newts I see in different areas. Each drawing represents five red newts. You could use this map to see if the population of red newts is rising or falling. You could also use it to pick walking trails where you could see many red newts.",
+        "Data maps can represent almost any kind of information. Look in newspapers, magazines, and on the Internet to find different kinds of data maps. Remember to look at the key to see what each color or symbol means."
+      ]
+    },
+    {
+      "id": "bonVoyage",
+      "title": "Bon Voyage!",
+      "paragraphs": [
+        "Maps can tell you many things about a place without your ever having to visit it. Some maps help you find your way around, while others tell you what you might see. There are as many kinds of maps as there are places on Earth and things to see. Check out some maps around you. You can plan a wonderful journey, whether it is a real trip or just an adventure in your mind."
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "cartographers",
+      "pos": "n.",
+      "definition": "mapmakers; people who draw maps",
+      "section": "mapsAndWhatTheyDo",
+      "sentence": "Someone takes a photograph from an airplane or satellite, and then a mapmaker, or cartographer, uses that photograph to draw a map.",
+      "quiz": {
+        "prompt": "A cartographer is:",
+        "options": [
+          "someone who creates maps",
+          "a person who reads maps",
+          "someone who paints landscapes",
+          "a person who sells maps"
+        ],
+        "answer": 0
+      },
+      "fillInOptions": [
+        "mapmakers",
+        "surveyors",
+        "explorers"
+      ]
+    },
+    {
+      "word": "landmarks",
+      "pos": "n.",
+      "definition": "objects that are special, important, or help people find their way",
+      "section": "whatIsOnAMap",
+      "sentence": "A landmark is an object that is special, important, or helps people find their way.",
+      "quiz": {
+        "prompt": "A landmark on a map is:",
+        "options": [
+          "a symbol showing direction",
+          "a special object for navigation",
+          "a line showing elevation changes",
+          "a number telling the distance"
+        ],
+        "answer": 1
+      },
+      "fillInOptions": [
+        "monuments",
+        "buildings",
+        "boundaries"
+      ]
+    },
+    {
+      "word": "relief maps",
+      "pos": "n.",
+      "definition": "maps that use colors to show how high or low the land is",
+      "section": "mappingTheWoods",
+      "sentence": "Relief maps use colors to show how high or low things are.",
+      "quiz": {
+        "prompt": "Relief maps show elevation by using:",
+        "options": [
+          "lines to mark trails",
+          "colors to show height",
+          "symbols for buildings",
+          "numbers for distance"
+        ],
+        "answer": 1
+      },
+      "fillInOptions": [
+        "flat maps",
+        "political maps",
+        "data maps"
+      ]
+    },
+    {
+      "word": "scale",
+      "pos": "n.",
+      "definition": "the size of the map compared to the actual area it represents",
+      "section": "whatIsOnAMap",
+      "sentence": "The scale of a map tells you how big the map is compared to the actual area.",
+      "quiz": {
+        "prompt": "The scale of a map tells you:",
+        "options": [
+          "which direction is north on a map",
+          "what each symbol means on a map",
+          "how map size compares to real size",
+          "who controls or owns the mapped land"
+        ],
+        "answer": 2
+      },
+      "fillInOptions": [
+        "distance",
+        "direction",
+        "boundary"
+      ]
+    },
+    {
+      "word": "surveying",
+      "pos": "n.",
+      "definition": "taking mathematical measurements of distance and direction between objects",
+      "section": "mapsAndWhatTheyDo",
+      "sentence": "Maps were also made by surveying, or taking mathematical measurements of how far and in which direction things were from each other.",
+      "quiz": {
+        "prompt": "Surveying is the process of:",
+        "options": [
+          "measuring distances and angle",
+          "drawing symbols on a map",
+          "printing copies of a map",
+          "coloring in elevation changes"
+        ],
+        "answer": 0
+      },
+      "fillInOptions": [
+        "measuring",
+        "drawing",
+        "printing"
+      ]
+    },
+    {
+      "word": "topographic map",
+      "pos": "n.",
+      "definition": "a map that uses lines to show elevation, or how high or low the land is",
+      "section": "mappingTheWoods",
+      "sentence": "One common physical map is a topographic map. It shows elevation, or how high or low the land is.",
+      "quiz": {
+        "prompt": "A topographic map uses lines to show:",
+        "options": [
+          "roads and towns",
+          "elevation of the land",
+          "who owns the land",
+          "what plants grow there"
+        ],
+        "answer": 1
+      },
+      "fillInOptions": [
+        "relief map",
+        "political map",
+        "pictorial map"
+      ]
+    },
+    {
+      "word": "boundary",
+      "pos": "n.",
+      "definition": "a line that shows who controls the land or whom it belongs to",
+      "section": "mappingTheWoods",
+      "sentence": "A boundary map shows who controls the land or whom it belongs to.",
+      "quiz": {
+        "prompt": "A boundary on a map shows:",
+        "options": [
+          "how high the land is",
+          "who controls or owns the land",
+          "which direction is north",
+          "what kind of plants grow there"
+        ],
+        "answer": 1
+      },
+      "fillInOptions": [
+        "border",
+        "landmark",
+        "scale"
+      ]
+    },
+    {
+      "word": "compass rose",
+      "pos": "n.",
+      "definition": "a pointed symbol that shows where the directions are on a map",
+      "section": "whatIsOnAMap",
+      "sentence": "A four-pointed star called the compass rose inside the key tells you where north, south, east, and west are on the map.",
+      "quiz": {
+        "prompt": "A compass rose shows:",
+        "options": [
+          "the meaning of each symbol on a map",
+          "where N, S, E, and W are on a map",
+          "how large the mapped area is",
+          "what colors to use on a map"
+        ],
+        "answer": 1
+      },
+      "fillInOptions": [
+        "map key",
+        "map scale",
+        "map legend"
+      ]
+    },
+    {
+      "word": "elevation",
+      "pos": "n.",
+      "definition": "how high or low the land is",
+      "section": "mappingTheWoods",
+      "sentence": "It shows elevation, or how high or low the land is.",
+      "quiz": {
+        "prompt": "Elevation on a map refers to:",
+        "options": [
+          "the height of the land",
+          "the width of a river",
+          "the depth of a lake",
+          "the distance between cities"
+        ],
+        "answer": 0
+      },
+      "fillInOptions": [
+        "height",
+        "depth",
+        "distance"
+      ]
+    },
+    {
+      "word": "key",
+      "pos": "n.",
+      "definition": "the part of a map that explains what symbols and colors mean",
+      "section": "whatIsOnAMap",
+      "sentence": "Most maps have a box in the corner, called the key, that tells you what each symbol means.",
+      "quiz": {
+        "prompt": "A map’s key tells you:",
+        "options": [
+          "what each symbol means",
+          "where north, south, east, and west are",
+          "how to measure distance",
+          "who drew the map"
+        ],
+        "answer": 0
+      },
+      "fillInOptions": [
+        "legend",
+        "index",
+        "glossary"
+      ]
+    },
+    {
+      "word": "pictorial map",
+      "pos": "n.",
+      "definition": "a map made with pictures instead of symbols",
+      "section": "typesOfMaps",
+      "sentence": "For example, the pictorial map, or map made with pictures instead of symbols, on the next page shows a ski area at the top of a small mountain.",
+      "quiz": {
+        "prompt": "A pictorial map is:",
+        "options": [
+          "a map that uses lines to show elevation",
+          "a map with drawings, not symbols",
+          "a map showing who owns all land",
+          "a map showing numbers and data"
+        ],
+        "answer": 1
+      },
+      "fillInOptions": [
+        "relief map",
+        "political map",
+        "topographic map"
+      ]
+    },
+    {
+      "word": "statistics",
+      "pos": "n.",
+      "definition": "information given in numbers",
+      "section": "typesOfMaps",
+      "sentence": "The third kind of map, a data map, is used for showing information, especially information given in numbers, which is called statistics.",
+      "quiz": {
+        "prompt": "Statistics on a data map refers to:",
+        "options": [
+          "information shown as numbers",
+          "colors used for showing elevation",
+          "symbols representing landmarks",
+          "lines drawn to show walking trails"
+        ],
+        "answer": 0
+      },
+      "fillInOptions": [
+        "data",
+        "symbols",
+        "measurements"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "level": 1,
+      "question": "What is a cartographer?",
+      "section": "mapsAndWhatTheyDo",
+      "pages": "4",
+      "evidence": "Someone takes a photograph from an airplane or satellite, and then a mapmaker, or cartographer (car-TOG-ra-fer), uses that photograph to draw a map.",
+      "choices": [
+        "someone who creates maps",
+        "a person who is able to read a map",
+        "someone who carries things to a site",
+        "a person who gives out maps at a park"
+      ],
+      "correctChoice": 0,
+      "explanation": "A cartographer is a mapmaker — someone who creates maps. The word comes from ‘cartography,’ which means the science of making maps."
+    },
+    {
+      "id": "q2",
+      "level": 1,
+      "question": "Which method would produce a quicker and more accurate map?",
+      "section": "mapsAndWhatTheyDo",
+      "pages": "4–5",
+      "evidence": "Maps were also made by surveying, or taking mathematical measurements of how far and in which direction things were from each other. Surveying creates an accurate map.",
+      "choices": [
+        "drawing an area map from memory",
+        "drawing an area map by surveying",
+        "drawing an area map by viewing from the air",
+        "all methods would be equally accurate"
+      ],
+      "correctChoice": 1,
+      "explanation": "Surveying uses mathematical measurements to create an accurate map. Drawing from memory is less accurate, and while aerial photos help, surveying provides precise measurements."
+    },
+    {
+      "id": "q3",
+      "level": 1,
+      "question": "What are the three basic types of maps?",
+      "section": "typesOfMaps",
+      "pages": "12",
+      "evidence": "There are three basic kinds of maps: physical, political, and data.",
+      "choices": [
+        "paper, wooden, and electronic maps",
+        "scale, survey, and pictorial maps",
+        "physical, political, and data maps",
+        "road, trail, and river maps"
+      ],
+      "correctChoice": 2,
+      "explanation": "The three basic kinds of maps are physical (showing natural things), political (showing human-made things), and data (showing numerical information)."
+    },
+    {
+      "id": "q4",
+      "level": 1,
+      "question": "Where is north on most maps?",
+      "section": "whatIsOnAMap",
+      "pages": "7",
+      "evidence": "Most maps put north at the top, south at the bottom, east on the right, and west on the left.",
+      "choices": [
+        "at the right side",
+        "at the left side",
+        "at the bottom",
+        "at the top"
+      ],
+      "correctChoice": 3,
+      "explanation": "Most maps put north at the top. The compass rose on a map shows you which direction is which."
+    },
+    {
+      "id": "q5",
+      "level": 2,
+      "question": "Why do cartographers use symbols on maps?",
+      "section": "whatIsOnAMap",
+      "pages": "6",
+      "evidence": "Cartographers use symbols so that their maps are easy to draw and read.",
+      "choices": [
+        "to leave some things off the map",
+        "to make the map look more artistic",
+        "to make maps easy to draw and read",
+        "to require drawings on every map"
+      ],
+      "correctChoice": 2,
+      "explanation": "Symbols make maps easier to draw and read. Instead of drawing every tree or building realistically, cartographers use simple symbols that anyone can understand."
+    },
+    {
+      "id": "q6",
+      "level": 2,
+      "question": "When a mapmaker creates a map of a large area, what happens to the scale?",
+      "section": "whatIsOnAMap",
+      "pages": "9",
+      "evidence": "If a cartographer draws a big area, he or she makes the map in a smaller scale. This map of the United States is in a very small scale.",
+      "choices": [
+        "the map uses a scale that is much smaller",
+        "the map uses a scale that is about the same",
+        "the map uses a scale that is much bigger",
+        "the scale stays the same regardless of area"
+      ],
+      "correctChoice": 0,
+      "explanation": "When mapping a large area, the cartographer must use a smaller scale so the entire area fits on the map. A large-scale map of the whole United States would be hundreds of kilometers wide!"
+    },
+    {
+      "id": "q7",
+      "level": 2,
+      "question": "Who might want to use a boundary map?",
+      "section": "mappingTheWoods",
+      "pages": "18",
+      "evidence": "A boundary map shows who controls the land or whom it belongs to. A boundary map of the world shows the countries. A boundary map of the United States shows the individual states or counties.",
+      "choices": [
+        "only scientists who study wild animals",
+        "only pilots who fly over large areas of land",
+        "only people who live very close to national borders",
+        "neighbors, construction crews, and countries"
+      ],
+      "correctChoice": 3,
+      "explanation": "Boundary maps are useful for many people — neighbors checking property lines, construction crews knowing where to build, and countries understanding their borders."
+    },
+    {
+      "id": "q8",
+      "level": 2,
+      "question": "What is elevation on a map?",
+      "section": "mappingTheWoods",
+      "pages": "14",
+      "evidence": "It shows elevation, or how high or low the land is.",
+      "choices": [
+        "the height of the land",
+        "the depth of water areas",
+        "the distance between two points",
+        "the width of a mountain range"
+      ],
+      "correctChoice": 0,
+      "explanation": "Elevation means how high or low the land is. Topographic maps use lines to show elevation, and relief maps use colors."
+    },
+    {
+      "id": "q9",
+      "level": 2,
+      "question": "What is a landmark?",
+      "section": "whatIsOnAMap",
+      "pages": "11",
+      "evidence": "A landmark is an object that is special, important, or helps people find their way.",
+      "choices": [
+        "a location where land is marked",
+        "a special object to help people find their way",
+        "a place where large vehicles have already traveled",
+        "a marker that shows distance in miles or km"
+      ],
+      "correctChoice": 1,
+      "explanation": "A landmark is a special or important object that helps you find your way. For example, a water tower can be a landmark — when you see it, you know you’re close to your road."
+    },
+    {
+      "id": "q10",
+      "level": 2,
+      "question": "How would a vegetation map help you?",
+      "section": "mappingTheWoods",
+      "pages": "16",
+      "evidence": "A vegetation map shows what kinds of plants grow where. It uses different colors or patterns to represent different kinds of plants.",
+      "choices": [
+        "It would tell you if the vegetables were growing in a garden.",
+        "It would tell you what types of plants were growing where.",
+        "It would tell you when to pick the crops.",
+        "It would tell you when to water the plants."
+      ],
+      "correctChoice": 1,
+      "explanation": "A vegetation map shows what kinds of plants grow in different areas using colors or patterns. It helps you see where grass, trees, bushes, or berries are located."
+    },
+    {
+      "id": "q11",
+      "level": 3,
+      "question": "What is the author’s purpose for writing this book? Use evidence from the text to support your answer.",
+      "section": "bonVoyage",
+      "pages": "21",
+      "evidence": "",
+      "choices": [],
+      "correctChoice": -1,
+      "explanation": "The author’s purpose is to inform. The book teaches readers how to read maps, about different kinds of maps (physical, political, data), and gives experience making and using maps through the narrator’s personal map of the woods.",
+      "opinionPrompts": [
+        "What does the author want you to learn about maps?",
+        "How does the narrator’s own map help explain different map types?",
+        "What evidence from the text shows the author’s purpose is to inform?"
+      ]
+    }
+  ],
+  "kwls": {
+    "prompts": {
+      "K": "What do you already know about maps and how to read them?",
+      "W": "What do you WANT to learn about maps and cartography?",
+      "L": "What have you LEARNED about maps after reading this book?"
+    },
+    "sampleAnswers": {
+      "K": [
+        "Maps show where places are located.",
+        "Maps have symbols that stand for real things like roads and rivers.",
+        "You can use a map to find your way from one place to another.",
+        "Maps show north, south, east, and west."
+      ],
+      "W": [
+        "How do mapmakers decide what to put on a map?",
+        "What are the different types of maps?",
+        "How does a map show how high or low the land is?",
+        "What is a scale on a map?"
+      ],
+      "L": [
+        "There are three basic kinds of maps: physical, political, and data maps.",
+        "Cartographers use symbols and a key to make maps easy to read.",
+        "Topographic maps use lines to show elevation, and relief maps use colors.",
+        "The scale tells you how the map distance compares to real distance.",
+        "A boundary map shows who owns or controls the land."
+      ]
+    }
+  },
+  "grammar": {
+    "target": "commas-in-a-series",
+    "title": "Commas in a Series",
+    "explanation": "When you list three or more items in a sentence, use commas to separate them. The comma goes between each item, and many writers also place a comma before ‘and’ (the last item). This is called a series or a list.",
+    "rules": [
+      "Use commas to separate three or more items in a list: trails, roads, and buildings",
+      "Place a comma after each item except the last one",
+      "The comma before ‘and’ (the final item) is called the Oxford comma — it is optional but helpful for clarity",
+      "Do NOT use a comma between just two items: ‘grass and shrubs’ (no comma needed)"
+    ],
+    "exercises": [
+      {
+        "type": "identify",
+        "sentence": "The map shows the trails, roads, and buildings near my house.",
+        "answers": [
+          "trails,",
+          "roads,"
+        ],
+        "hint": "Which words in the list have commas after them?"
+      },
+      {
+        "type": "identify",
+        "sentence": "Physical maps show natural things, such as rivers, mountains, plants, and weather.",
+        "answers": [
+          "rivers,",
+          "mountains,",
+          "plants,"
+        ],
+        "hint": "Find all the items in the series — each one except the last should have a comma."
+      },
+      {
+        "type": "identify",
+        "sentence": "The double lines are roads where cars drive, the single lines are walking trails, and the boxes are buildings.",
+        "answers": [
+          "drive,",
+          "trails,"
+        ],
+        "hint": "Where does one item in the list end and the next begin?"
+      },
+      {
+        "type": "addCommas",
+        "sentence": "The key shows symbols for trees buildings and trails.",
+        "answer": "The key shows symbols for trees, buildings, and trails.",
+        "hint": "Add commas between each item in the list of three."
+      },
+      {
+        "type": "addCommas",
+        "sentence": "A boundary map can show countries states or counties.",
+        "answer": "A boundary map can show countries, states, or counties.",
+        "hint": "Separate each item in the series with a comma."
+      },
+      {
+        "type": "addCommas",
+        "sentence": "Cartographers use colors lines and symbols on their maps.",
+        "answer": "Cartographers use colors, lines, and symbols on their maps.",
+        "hint": "Three items need two commas between them."
+      },
+      {
+        "type": "multipleChoice",
+        "question": "Which sentence uses commas correctly in a series?",
+        "options": [
+          "I need a pencil, paper and a ruler.",
+          "I need a pencil, paper, and a ruler.",
+          "I need a pencil paper, and a ruler.",
+          "I need, a pencil paper and a ruler."
+        ],
+        "answer": 1,
+        "explanation": "In a series of three or more items, place a comma after EACH item (including before ‘and’). ‘I need a pencil, paper, and a ruler.’"
+      },
+      {
+        "type": "multipleChoice",
+        "question": "Which sentence is punctuated correctly?",
+        "options": [
+          "The map shows mountains rivers and lakes.",
+          "The map shows mountains, rivers, and, lakes.",
+          "The map shows mountains, rivers and lakes.",
+          "The map, shows mountains, rivers, and lakes."
+        ],
+        "answer": 2,
+        "explanation": "‘The map shows mountains, rivers and lakes.’ — Commas separate items in a series. Note: the comma before ‘and’ is optional (both B and C could be correct), but C shows the most standard usage without the Oxford comma."
+      },
+      {
+        "type": "fillBlank",
+        "sentence": "My neighborhood has shops, restaurants, _____ a library.",
+        "answer": "and",
+        "explanation": "In a series, the last item is connected with ‘and.’ The full sentence: ‘My neighborhood has shops, restaurants, and a library.’"
+      }
+    ]
+  },
+  "notes": {
+    "mapsAndWhatTheyDo": [
+      {
+        "type": "vocab",
+        "title": "Cartographer",
+        "content": "A cartographer is a MAPMAKER. The word sounds like ‘carton’ + ‘graph’ — think of someone who draws (graphs) areas on paper (carton). Cartographers use photos from airplanes and satellites to make accurate maps!"
+      },
+      {
+        "type": "vocab",
+        "title": "Surveying",
+        "content": "Surveying = taking MATH MEASUREMENTS of distance and direction. Before GPS and airplanes, this was the BEST way to make accurate maps — but it takes a LONG time!"
+      },
+      {
+        "type": "evidence",
+        "title": "Compare & Contrast",
+        "content": "The author compares TWO ways to make maps: (1) remembering/guessing (her way — hard and maybe inaccurate) vs. (2) surveying (mathematical — accurate but slow). Which would YOU trust?"
+      }
+    ],
+    "whatIsOnAMap": [
+      {
+        "type": "vocab",
+        "title": "Key vs. Compass Rose",
+        "content": "Don’t mix these up! The KEY explains what SYMBOLS mean. The COMPASS ROSE shows DIRECTIONS (N, S, E, W). Both are usually found in the corner of a map."
+      },
+      {
+        "type": "vocab",
+        "title": "Scale",
+        "content": "Scale = how the MAP compares to REALITY. Small scale = shows a BIG area (like the whole U.S.). Big scale = shows a SMALL area (like your neighborhood). Think: ‘small scale, big area!’"
+      },
+      {
+        "type": "grammar",
+        "title": "Commas in a Series",
+        "content": "Look for lists in this section: ‘trails, roads, and buildings.’ Each item is separated by a COMMA. When you see ‘and’ connecting the last two items, there’s usually a comma before it too!"
+      },
+      {
+        "type": "evidence",
+        "title": "Cause & Effect",
+        "content": "CAUSE: Maps can’t draw every tree and building realistically. EFFECT: Cartographers use SYMBOLS instead. The KEY tells you what each symbol means."
+      }
+    ],
+    "typesOfMaps": [
+      {
+        "type": "vocab",
+        "title": "Three Map Types",
+        "content": "Remember the 3 types: (1) PHYSICAL = natural things (rivers, mountains), (2) POLITICAL = human things (roads, countries), (3) DATA = numbers and statistics. Some maps combine types!"
+      },
+      {
+        "type": "vocab",
+        "title": "Pictorial Map",
+        "content": "A pictorial map uses PICTURES instead of symbols. The book shows a ski area map with drawings of lodges and woods — it combines physical AND political info that skiers need."
+      },
+      {
+        "type": "evidence",
+        "title": "Main Idea & Details",
+        "content": "MAIN IDEA: The type of map depends on what it’s used for. DETAIL: A boat map shows water but not land. A car map shows roads but not trails. Each map is designed for its purpose!"
+      }
+    ],
+    "mappingTheWoods": [
+      {
+        "type": "vocab",
+        "title": "Topographic vs. Relief",
+        "content": "Both show ELEVATION but differently! TOPOGRAPHIC = uses LINES (close together = steep, far apart = flat). RELIEF = uses COLORS (light = high, dark = low)."
+      },
+      {
+        "type": "vocab",
+        "title": "Boundary",
+        "content": "A boundary shows WHO OWNS the land. The narrator’s boundary map shows that Mr. Taranovitch owns part of the woods — and he doesn’t like hunters! Boundaries can be between countries, states, counties, or even backyards."
+      },
+      {
+        "type": "evidence",
+        "title": "Data Maps Show Numbers",
+        "content": "Data maps use STATISTICS (numbers). The narrator’s trail-use map shows 5, 15, 30–40 people per week. The newt map shows population counts. Data maps can show ALMOST ANYTHING!"
+      },
+      {
+        "type": "grammar",
+        "title": "Commas in Lists",
+        "content": "This section has LOTS of series: ‘rivers, mountains, plants, and weather’ (4 items, 3 commas). ‘grass, shrubs and bushes, evergreen trees, blackberries, or trees that lose their leaves’ (5 items!). Find them all!"
+      }
+    ],
+    "bonVoyage": [
+      {
+        "type": "evidence",
+        "title": "Author’s Purpose",
+        "content": "The author’s purpose is to INFORM. Throughout the book, the narrator teaches you: how maps work, what symbols mean, different map types, and how to make your own map. The personal story makes it engaging!"
+      }
+    ]
+  }
+}

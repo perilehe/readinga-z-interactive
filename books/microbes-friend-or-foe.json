@@ -1,0 +1,938 @@
+{
+  "meta": {
+    "id": "microbes-friend-or-foe",
+    "title": "Microbes: Friend or Foe?",
+    "level": "W",
+    "author": "Kira Freeman",
+    "focusQuestion": "How can microbes be both helpful and harmful, and how do we fight the harmful ones?"
+  },
+  "activities": [
+    "read",
+    "evidence",
+    "compareContrast",
+    "summarize",
+    "vocabulary",
+    "typing",
+    "grammar"
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "title": "What Are Microbes?",
+      "paragraphs": [
+        "Have you ever woken up with a sore throat, a runny nose, or a fever? These symptoms are signs that you are sick. Long ago, no one knew what made people sick. People thought bad air or evil spirits caused disease. Today, scientists know that tiny organisms called microbes, also known as germs, are the cause of many diseases.",
+        "Microbes are very small organisms that live all around us. They are so tiny that most of them can only be seen through a microscope. Some microbes are as small as one-thousandth of a millimeter. Billions of them could fit on the head of a pin. Despite their size, microbes are some of the most powerful living things on Earth.",
+        "Microbes can be found everywhere — in the air you breathe, in the water you drink, on the surfaces you touch, and even inside your own body. In fact, there are more microbes living inside your body right now than there are cells in your body. Most of these microbes are harmless or even helpful, but some can make you very sick.",
+        "Scientists divide microbes into four main groups: bacteria, viruses, fungi, and protozoa. Some microbes are friends because they help us in important ways. Others are foes because they invade our bodies and cause disease. Understanding the difference is the first step in staying healthy."
+      ]
+    },
+    {
+      "id": "immuneSystem",
+      "title": "The Immune System",
+      "paragraphs": [
+        "Your body has an amazing defense system that protects you from harmful microbes every minute of every day. This defense system is called the immune system. It is made up of a network of cells, tissues, and organs that work together to fight invaders.",
+        "The first line of defense is your skin. Your skin acts like a wall that keeps most microbes out of your body. If you get a cut, microbes can enter through the broken skin. That is why the area around a cut may become red, painful, and swollen — your body is fighting the microbes that got in.",
+        "Mucus in your nose and throat is another line of defense. Mucus traps microbes before they can travel deeper into your body. Tiny hairs in your nose called cilia also sweep trapped microbes away. When you cough or sneeze, your body is forcing microbes out.",
+        "If microbes do get past these barriers, the immune system sends out special white blood cells to fight them. Some white blood cells recognize the invaders and produce proteins called antibodies. Antibodies attach to markers on the surface of microbes called antigens. The antigens are like name tags that tell the immune system what kind of microbe it is fighting.",
+        "Other white blood cells destroy the infected cells. The battle between your immune system and the microbes is what causes symptoms like fever, swelling, and tiredness. When the immune system wins, you get better. When it cannot fight the microbes fast enough, the person gets sick and may need medicine to help."
+      ]
+    },
+    {
+      "id": "fourGroups",
+      "title": "Four Groups of Microbes",
+      "paragraphs": [
+        "Microbes come in many shapes and sizes, but scientists group them into four main types. Each type has special features that make it different from the others. The four groups are bacteria, viruses, fungi, and protozoa.",
+        "Bacteria are single-celled organisms that are found almost everywhere on Earth. Some bacteria are shaped like tiny rods, while others look like spheres or spirals. Many bacteria are harmless, and some are even helpful. For example, certain bacteria live in your intestines and help you digest food. Other bacteria are used to make cheese, yogurt, and bread. However, some bacteria cause diseases such as strep throat and pneumonia.",
+        "Viruses are much smaller than bacteria. They are not made of cells at all. Instead, a virus is a tiny packet of genetic material surrounded by a protein coat. Viruses cannot reproduce on their own — they must invade the cells of a living host and use those cells to make copies of themselves. This is why viral infections are often harder to fight than bacterial infections. Viruses cause the common cold, the flu, chickenpox, and many other diseases.",
+        "Fungi include mushrooms, molds, and yeasts. Unlike bacteria, which are always single-celled, some fungi can be multicelled. The mushrooms you see in a grocery store are actually the fruiting bodies of fungi. Some fungi are helpful — yeast is used to bake bread and brew drinks. Other fungi cause diseases such as athlete's foot and ringworm. Fungi get their food from other living or dead organisms.",
+        "Protozoa are single-celled organisms that can move on their own. They use tiny hair-like structures or tail-like flagella to swim through water. Some protozoa are harmless, but others are dangerous parasites. One of the most deadly protozoa causes malaria, a disease that infects millions of people around the world each year. Malaria is spread when a mosquito carrying the protozoa bites a person."
+      ]
+    },
+    {
+      "id": "spreadInfection",
+      "title": "How Do Microbes Spread Infection?",
+      "paragraphs": [
+        "Microbes spread in many different ways. Some microbes travel through the air. When a sick person coughs or sneezes, tiny droplets carrying microbes fly into the air. Another person can breathe in these droplets and become infected. This is how cold and flu viruses spread so quickly in schools and offices.",
+        "Other microbes spread through contaminated food and water. If food is not cooked or stored properly, bacteria can grow on it. Eating contaminated food can cause stomach illness with symptoms like vomiting and diarrhea. Clean water is essential for preventing waterborne diseases like cholera.",
+        "Some microbes spread through direct contact. Touching a contaminated surface like a doorknob and then touching your eyes, nose, or mouth can transfer microbes into your body. Shaking hands with a sick person or sharing drinking glasses can also spread infection.",
+        "Certain microbes need other living things to carry them. Mosquitoes carry the protozoa that causes malaria from person to person. Ticks can carry bacteria that cause Lyme disease. Animals themselves can carry microbes — birds can spread the flu virus, and rodents can carry bacteria that cause serious illnesses.",
+        "Microbes have also adapted to survive on surfaces for different lengths of time. Some bacteria can live on doorknobs and countertops for hours or even days. This is why washing your hands often and cleaning surfaces are important ways to stop the spread of infection."
+      ]
+    },
+    {
+      "id": "fightingBack",
+      "title": "Fighting Back",
+      "paragraphs": [
+        "People have been fighting microbes for hundreds of years. One of the most important discoveries in medical history was the vaccine. In the 1790s, a doctor named Edward Jenner noticed that people who got a mild disease called cowpox from cows never caught the deadly disease smallpox. Jenner tested his idea by giving people a dose of cowpox. It worked — their bodies learned to fight smallpox.",
+        "Vaccines work by teaching the immune system to recognize dangerous microbes before they can cause serious illness. A vaccine contains weakened or dead microbes, or pieces of microbes called antigens. When the vaccine enters the body, the immune system produces antibodies and remembers the microbe. If the real microbe tries to invade later, the body is ready to fight it quickly.",
+        "Thanks to vaccines, deadly diseases like smallpox have been completely wiped out in most parts of the world. Each year, millions of people get a flu shot, which is a vaccine that helps prevent the common but dangerous flu virus. Vaccines have also nearly destroyed polio, measles, and many other serious diseases.",
+        "Another powerful weapon against microbes is the antibiotic. Antibiotics are medicines that attack harmful bacteria. The first true antibiotic was penicillin, discovered by Alexander Fleming in 1928. Before penicillin, even a small cut could become infected and deadly. Antibiotics changed medicine forever.",
+        "However, antibiotics only work against bacteria — they do not work against viruses. When antibiotics are overused or misused, bacteria can mutate and develop resistance. This means the antibiotics no longer kill the bacteria. Scientists are always working to produce stronger antibiotics to fight these stronger, resistant microbes. Drug-resistant infections are a growing problem around the world.",
+        "You can also help your body fight microbes. Washing your hands often, eating a balanced diet, getting enough sleep, and brushing your teeth all help keep your immune system strong. Covering your mouth when you cough or sneeze stops microbes from spreading to others. These simple actions are some of the most powerful weapons you have."
+      ]
+    },
+    {
+      "id": "conclusion",
+      "title": "Conclusion",
+      "paragraphs": [
+        "Microbes are all around us and inside us. They are in the air we breathe, the food we eat, and the water we drink. Some microbes are friends — bacteria in our intestines help us digest food, fungi break down dead plants and animals, and vaccines use weakened microbes to protect us from disease.",
+        "Other microbes are foes — viruses cause the flu, bacteria cause strep throat, fungi cause athlete's foot, and protozoa cause malaria. When harmful microbes invade our bodies, they can cause epidemics or even pandemics that spread across the entire world.",
+        "Scientists have made incredible progress in understanding and fighting microbes. Vaccines prevent diseases before they start. Antibiotics kill harmful bacteria. The immune system fights off invaders every day. But the battle is never truly over, because microbes keep mutating and finding new ways to spread.",
+        "The most important thing you can do is learn about microbes so you can protect yourself and others. Washing your hands, staying healthy, and getting vaccinated are simple but powerful ways to keep dangerous microbes at bay. The next time you feel a sore throat coming on, remember — your immune system and modern medicine are working together to help you win the fight."
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "antigens",
+      "pos": "n.",
+      "definition": "markers on the surface of microbes that the immune system recognizes",
+      "section": "immuneSystem",
+      "sentence": "Antibodies attach to markers on the surface of microbes called antigens.",
+      "quiz": {
+        "prompt": "\"Antigens\" are:",
+        "options": [
+          "medicines that kill harmful bacteria in the body",
+          "markers on the surface of microbes that the immune system recognizes",
+          "white blood cells that destroy infected tissue",
+          "viruses that invade the body through the skin"
+        ],
+        "answer": 1
+      },
+      "fillInOptions": [
+        "markers",
+        "antibodies",
+        "vaccines"
+      ]
+    },
+    {
+      "word": "contaminated",
+      "pos": "adj.",
+      "definition": "made dirty or unsafe by contact with harmful substances or microbes",
+      "section": "spreadInfection",
+      "sentence": "Other microbes spread through contaminated food and water.",
+      "quiz": {
+        "prompt": "\"Contaminated\" means:",
+        "options": [
+          "made dirty or unsafe by contact with harmful substances or microbes",
+          "cleaned with special chemicals to kill germs",
+          "heated to a very high temperature to destroy bacteria",
+          "protected from all microbes and infections"
+        ],
+        "answer": 0
+      },
+      "fillInOptions": [
+        "polluted",
+        "clean",
+        "sterile"
+      ]
+    },
+    {
+      "word": "immune system",
+      "pos": "n.",
+      "definition": "the body's network of cells, tissues, and organs that fight harmful microbes",
+      "section": "immuneSystem",
+      "sentence": "This defense system is called the immune system.",
+      "quiz": {
+        "prompt": "The \"immune system\" is:",
+        "options": [
+          "the system that digests the food you eat",
+          "the body's network of cells, tissues, and organs that fight harmful microbes",
+          "the network of bones and muscles that help you move",
+          "the part of the brain that controls your thoughts"
+        ],
+        "answer": 1
+      },
+      "fillInOptions": [
+        "defense system",
+        "digestive system",
+        "nervous system"
+      ]
+    },
+    {
+      "word": "invade",
+      "pos": "v.",
+      "definition": "to enter a place by force, especially to cause harm",
+      "section": "intro",
+      "sentence": "Other microbes are foes because they invade our bodies and cause disease.",
+      "quiz": {
+        "prompt": "To \"invade\" means to:",
+        "options": [
+          "protect something from danger",
+          "enter a place by force, especially to cause harm",
+          "heal an injury or wound",
+          "study something under a microscope"
+        ],
+        "answer": 1
+      },
+      "fillInOptions": [
+        "attack",
+        "protect",
+        "heal"
+      ]
+    },
+    {
+      "word": "organisms",
+      "pos": "n.",
+      "definition": "living things, especially very small ones like microbes",
+      "section": "intro",
+      "sentence": "Microbes are very small organisms that live all around us.",
+      "quiz": {
+        "prompt": "\"Organisms\" are:",
+        "options": [
+          "chemicals found in medicines",
+          "living things, especially very small ones like microbes",
+          "minerals found in rocks and soil",
+          "machines used to study cells"
+        ],
+        "answer": 1
+      },
+      "fillInOptions": [
+        "living things",
+        "chemicals",
+        "minerals"
+      ]
+    },
+    {
+      "word": "vaccines",
+      "pos": "n.",
+      "definition": "treatments that teach the immune system to recognize and fight dangerous microbes",
+      "section": "fightingBack",
+      "sentence": "Vaccines work by teaching the immune system to recognize dangerous microbes before they can cause serious illness.",
+      "quiz": {
+        "prompt": "\"Vaccines\" are:",
+        "options": [
+          "medicines that kill bacteria inside the body",
+          "vitamins that give you more energy",
+          "treatments that teach the immune system to recognize and fight dangerous microbes",
+          "proteins produced by white blood cells"
+        ],
+        "answer": 2
+      },
+      "fillInOptions": [
+        "preventive treatments",
+        "antibiotics",
+        "vitamins"
+      ]
+    },
+    {
+      "word": "antibiotic",
+      "pos": "n.",
+      "definition": "a medicine that attacks harmful bacteria",
+      "section": "fightingBack",
+      "sentence": "Antibiotics are medicines that attack harmful bacteria.",
+      "quiz": {
+        "prompt": "An \"antibiotic\" is:",
+        "options": [
+          "a type of bacteria that lives in human cells",
+          "a disease for which there is no known cure",
+          "a vitamin supplement that helps you sleep",
+          "a medicine that attacks harmful bacteria"
+        ],
+        "answer": 3
+      },
+      "fillInOptions": [
+        "medicine against bacteria",
+        "medicine against viruses",
+        "vitamin supplement"
+      ]
+    },
+    {
+      "word": "cells",
+      "pos": "n.",
+      "definition": "the tiny basic units that make up all living things",
+      "section": "fourGroups",
+      "sentence": "Bacteria are single-celled organisms that are found almost everywhere on Earth.",
+      "quiz": {
+        "prompt": "\"Cells\" are:",
+        "options": [
+          "the tiny basic units that make up all living things",
+          "whole organs like the heart and lungs",
+          "large groups of tissues working together"
+        ],
+        "answer": 0
+      },
+      "fillInOptions": [
+        "basic body units",
+        "whole organs",
+        "tissues"
+      ]
+    },
+    {
+      "word": "disease",
+      "pos": "n.",
+      "definition": "an illness that affects people, animals, or plants",
+      "section": "intro",
+      "sentence": "Today, scientists know that tiny organisms called microbes are the cause of many diseases.",
+      "quiz": {
+        "prompt": "\"Disease\" means:",
+        "options": [
+          "a state of complete physical health",
+          "an illness that affects people, animals, or plants",
+          "a special kind of medicine or treatment",
+          "the body's natural ability to heal itself"
+        ],
+        "answer": 1
+      },
+      "fillInOptions": [
+        "illness",
+        "health",
+        "immunity"
+      ]
+    },
+    {
+      "word": "epidemic",
+      "pos": "n.",
+      "definition": "a widespread outbreak of a disease in a community or region",
+      "section": "conclusion",
+      "sentence": "When harmful microbes invade our bodies, they can cause epidemics or even pandemics.",
+      "quiz": {
+        "prompt": "An \"epidemic\" is:",
+        "options": [
+          "a single case of illness in one person",
+          "a disease that only affects animals",
+          "a widespread outbreak of a disease in a community or region",
+          "a chronic condition that lasts a lifetime"
+        ],
+        "answer": 2
+      },
+      "fillInOptions": [
+        "widespread outbreak",
+        "individual case",
+        "chronic condition"
+      ]
+    },
+    {
+      "word": "mutate",
+      "pos": "v.",
+      "definition": "to change form or characteristics, especially in the genetic material of a microbe",
+      "section": "fightingBack",
+      "sentence": "When antibiotics are overused or misused, bacteria can mutate and develop resistance.",
+      "quiz": {
+        "prompt": "To \"mutate\" means to:",
+        "options": [
+          "stay exactly the same over time",
+          "change form or characteristics, especially in genetic material",
+          "disappear completely from the environment"
+        ],
+        "answer": 1
+      },
+      "fillInOptions": [
+        "change",
+        "stay the same",
+        "disappear"
+      ]
+    },
+    {
+      "word": "pandemic",
+      "pos": "n.",
+      "definition": "an outbreak of disease that spreads across an entire country or the world",
+      "section": "conclusion",
+      "sentence": "When harmful microbes invade our bodies, they can cause epidemics or even pandemics that spread across the entire world.",
+      "quiz": {
+        "prompt": "A \"pandemic\" is:",
+        "options": [
+          "a minor cold that lasts a few days",
+          "a local illness in a single school",
+          "an outbreak of disease that spreads across an entire country or the world"
+        ],
+        "answer": 2
+      },
+      "fillInOptions": [
+        "global outbreak",
+        "local illness",
+        "minor cold"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "level": 1,
+      "question": "How are bacteria and fungi alike?",
+      "section": "fourGroups",
+      "pages": "9–11",
+      "evidence": "Many bacteria are harmless, and some are even helpful. For example, certain bacteria live in your intestines and help you digest food. Other bacteria are used to make cheese, yogurt, and bread. Some fungi are helpful — yeast is used to bake bread and brew drinks.",
+      "choices": [
+        "Both are always single-celled organisms.",
+        "Both can be used to create food products.",
+        "Both can cause athlete's foot in humans.",
+        "Both can cause strep throat in children."
+      ],
+      "correctChoice": 1,
+      "explanation": "Both bacteria and fungi can be used to create food products — bacteria help make cheese and yogurt, while fungi (yeast) are used to bake bread and brew drinks."
+    },
+    {
+      "id": "q2",
+      "level": 1,
+      "question": "What is the main purpose of the immune system?",
+      "section": "immuneSystem",
+      "pages": "6–8",
+      "evidence": "Your body has an amazing defense system that protects you from harmful microbes every minute of every day. This defense system is called the immune system.",
+      "choices": [
+        "To recognize and fight harmful microbes that cause disease.",
+        "To help digest the food you eat every single day.",
+        "To send oxygen to all parts of the body efficiently.",
+        "To produce energy needed for physical activity."
+      ],
+      "correctChoice": 0,
+      "explanation": "The immune system's main purpose is to recognize harmful microbes and fight them to keep you healthy."
+    },
+    {
+      "id": "q3",
+      "level": 1,
+      "question": "What is the main idea of the section \"Fighting Back\"?",
+      "section": "fightingBack",
+      "pages": "15–18",
+      "evidence": "Vaccines work by teaching the immune system to recognize dangerous microbes before they can cause serious illness. Another powerful weapon against microbes is the antibiotic.",
+      "choices": [
+        "Vaccines are useful in helping sick people recover from dangerous infections.",
+        "Antibiotics are able to kill all types of microbes including viruses.",
+        "Vaccines help prevent infections; antibiotics fight harmful bacteria.",
+        "Dr. Jenner discovered that cowpox could cure smallpox in patients."
+      ],
+      "correctChoice": 2,
+      "explanation": "The section covers BOTH vaccines (which prevent infections) AND antibiotics (which fight bacteria). The main idea must include both, not just one."
+    },
+    {
+      "id": "q4",
+      "level": 2,
+      "question": "What happens when antibiotics are overused or misused?",
+      "section": "fightingBack",
+      "pages": "17",
+      "evidence": "When antibiotics are overused or misused, bacteria can mutate and develop resistance. This means the antibiotics no longer kill the bacteria.",
+      "choices": [
+        "The antibiotics attack the wrong type of microbes in the body.",
+        "The antibiotics immediately change into a completely different form.",
+        "The antibiotics become much stronger and more effective.",
+        "Microbes develop resistance, and the antibiotics no longer work."
+      ],
+      "correctChoice": 3,
+      "explanation": "When antibiotics are overused, bacteria can mutate and become resistant, which means the antibiotics no longer kill them. This is why doctors are careful about prescribing antibiotics."
+    },
+    {
+      "id": "q5",
+      "level": 1,
+      "question": "What is an organism?",
+      "section": "intro",
+      "pages": "4–5",
+      "evidence": "Microbes are very small organisms that live all around us.",
+      "choices": [
+        "An organism is any living thing, including microbes.",
+        "An organism is a type of medicine used to cure disease.",
+        "An organism is a symptom that shows a person is sick.",
+        "An organism is a kind of disease caused by harmful germs."
+      ],
+      "correctChoice": 0,
+      "explanation": "An organism is a living thing. Microbes are very small organisms — they are alive, even though they are too small to see."
+    },
+    {
+      "id": "q6",
+      "level": 2,
+      "question": "What is one way that fungi and protozoa are different?",
+      "section": "fourGroups",
+      "pages": "10–11",
+      "evidence": "Unlike bacteria, which are always single-celled, some fungi can be multicelled. Protozoa are single-celled organisms that can move on their own.",
+      "choices": [
+        "Protozoa cannot spread to other people at all.",
+        "Fungi can be multicelled; protozoa are single-celled.",
+        "Fungi are only found as food for birds and fish.",
+        "Protozoa are much larger than any type of fungus."
+      ],
+      "correctChoice": 1,
+      "explanation": "One key difference is that some fungi can be multicelled (like mushrooms), while all protozoa are single-celled organisms."
+    },
+    {
+      "id": "q7",
+      "level": 2,
+      "question": "What is the difference between good microbes and bad microbes?",
+      "section": "intro",
+      "pages": "4–5",
+      "evidence": "Some microbes are friends because they help us in important ways. Others are foes because they invade our bodies and cause disease.",
+      "choices": [
+        "Good microbes are almost invisible, but bad microbes can be easily seen with the eye.",
+        "Only a few types of good microbes exist, but several harmful types of bad microbes exist.",
+        "Bad microbes cause disease, but good microbes can prevent or cure illness in people.",
+        "Good microbes live only in clean water, but bad microbes live only in the air we breathe."
+      ],
+      "correctChoice": 2,
+      "explanation": "The key difference is what microbes DO — bad microbes cause disease, while good microbes can help us by digesting food, making medicine, or protecting us from other microbes."
+    },
+    {
+      "id": "q8",
+      "level": 2,
+      "question": "Why do scientists keep trying to produce stronger antibiotics?",
+      "section": "fightingBack",
+      "pages": "17",
+      "evidence": "When antibiotics are overused or misused, bacteria can mutate and develop resistance. Scientists are always working to produce stronger antibiotics to fight these stronger, resistant microbes.",
+      "choices": [
+        "Because people can take each type of antibiotic only one time in their life.",
+        "Because all types of antibiotics can be produced only once in a laboratory.",
+        "Because antibiotics are no longer needed to fight disease in most countries.",
+        "Because stronger antibiotics are needed to fight resistant microbes that are forming."
+      ],
+      "correctChoice": 3,
+      "explanation": "As bacteria mutate and become resistant to existing antibiotics, scientists must develop stronger new antibiotics to fight these tougher, resistant microbes."
+    },
+    {
+      "id": "q9",
+      "level": 1,
+      "question": "What is an antibiotic?",
+      "section": "fightingBack",
+      "pages": "16",
+      "evidence": "Antibiotics are medicines that attack harmful bacteria.",
+      "choices": [
+        "A type of bacteria that lives inside human cells.",
+        "A medicine that attacks harmful bacteria.",
+        "A disease for which there is no known cure.",
+        "A rapid spread of illness around the world."
+      ],
+      "correctChoice": 1,
+      "explanation": "An antibiotic is a medicine that specifically attacks harmful bacteria. It does NOT work against viruses — only bacteria."
+    },
+    {
+      "id": "q10",
+      "level": 2,
+      "question": "How do microbes most likely spread from one person to another in a school?",
+      "section": "spreadInfection",
+      "pages": "12–14",
+      "evidence": "When a sick person coughs or sneezes, tiny droplets carrying microbes fly into the air. Another person can breathe in these droplets and become infected. This is how cold and flu viruses spread so quickly in schools and offices.",
+      "choices": [
+        "Microbes travel only through the food that students eat at the lunch cafeteria.",
+        "Microbes jump directly from one person's skin to another person's skin.",
+        "Through air droplets from coughs and by touching contaminated surfaces.",
+        "Microbes spread only when students share medicine or drinks with each other."
+      ],
+      "correctChoice": 2,
+      "explanation": "Microbes spread through the air when sick people cough or sneeze, AND through contaminated surfaces like doorknobs. Both paths are common in schools."
+    },
+    {
+      "id": "q11",
+      "level": 3,
+      "question": "Explain three things you can do daily to help prevent the spread of dangerous microbes. How can microbes be both friend and foe? Use examples from the text.",
+      "section": "fightingBack",
+      "pages": "15–18, 19–22",
+      "evidence": "",
+      "choices": [],
+      "correctChoice": -1,
+      "explanation": "Daily prevention: (1) Wash hands often and for at least fifteen seconds; (2) Cover mouth and nose with a tissue when coughing or sneezing; (3) Eat a balanced diet and get enough sleep to keep the immune system strong. Microbes are friends because bacteria help us digest food and vaccines use weakened microbes to protect us. Microbes are foes because viruses and protozoa can cause diseases like the flu and malaria.",
+      "opinionPrompts": [
+        "What are three daily actions that help prevent microbe spread?",
+        "Give one example of a microbe being a 'friend' and one being a 'foe.'",
+        "What evidence from the text supports your answer?"
+      ]
+    }
+  ],
+  "compareContrast": {
+    "title": "Comparing Four Groups of Microbes",
+    "explanation": "Compare how bacteria, viruses, fungi, and protozoa are alike and different. Fill in each cell with information from the section \"Four Groups of Microbes.\"",
+    "objects": [
+      "Bacteria",
+      "Viruses",
+      "Fungi",
+      "Protozoa"
+    ],
+    "criteria": [
+      {
+        "name": "Made of cells?",
+        "answers": [
+          "Single-celled organisms",
+          "Not made of cells; genetic material in protein coat",
+          "Some single-celled (yeast), some multicelled (mushrooms)",
+          "Single-celled organisms"
+        ]
+      },
+      {
+        "name": "Relative size",
+        "answers": [
+          "Small; larger than viruses",
+          "Much smaller than bacteria",
+          "Largest of the four groups",
+          "Single-celled; larger than bacteria"
+        ]
+      },
+      {
+        "name": "Can move on their own?",
+        "answers": [
+          "No; move by wind, water, or contact",
+          "No; must enter a host cell",
+          "No; spread by spores in air or water",
+          "Yes; use hair-like structures or tails to swim"
+        ]
+      },
+      {
+        "name": "Helpful examples",
+        "answers": [
+          "Help digest food; make cheese, yogurt, bread",
+          "None directly helpful; used in vaccines",
+          "Yeast for bread and drinks; decompose dead matter",
+          "Some help other animals digest food"
+        ]
+      },
+      {
+        "name": "Harmful examples",
+        "answers": [
+          "Strep throat, pneumonia",
+          "Common cold, flu, chickenpox",
+          "Athlete's foot, ringworm",
+          "Malaria"
+        ]
+      },
+      {
+        "name": "How they reproduce",
+        "answers": [
+          "Reproduce on their own by dividing",
+          "Must invade a host cell to reproduce",
+          "Release spores that grow into new fungi",
+          "Reproduce by dividing inside a host"
+        ]
+      },
+      {
+        "name": "How they spread",
+        "answers": [
+          "Through air, water, food, and contact",
+          "Through air droplets, bodily fluids, and contact",
+          "Through spores in air, direct contact, contaminated surfaces",
+          "Through insect bites (mosquitoes), contaminated water"
+        ]
+      }
+    ]
+  },
+  "summarizeActivities": [
+    {
+      "section": "intro",
+      "sectionTitle": "What Are Microbes?",
+      "mainIdea": "Microbes are tiny living organisms found everywhere, and they can be either helpful or harmful to people.",
+      "keyDetails": [
+        "Symptoms like sore throat and fever are signs that microbes may be making you sick",
+        "Microbes are so small they can only be seen through a microscope",
+        "Microbes are found in the air, water, on surfaces, and inside your body",
+        "Scientists divide microbes into four groups: bacteria, viruses, fungi, and protozoa"
+      ],
+      "distractors": [
+        "Microbes are large enough to be seen with your eyes",
+        "Scientists discovered microbes thousands of years ago"
+      ],
+      "transitionWords": [
+        "Long ago",
+        "Today",
+        "Despite their size",
+        "In fact"
+      ]
+    },
+    {
+      "section": "immuneSystem",
+      "sectionTitle": "The Immune System",
+      "mainIdea": "The immune system is the body's defense network that uses skin, mucus, white blood cells, and antibodies to fight harmful microbes.",
+      "keyDetails": [
+        "Skin is the first line of defense, acting like a wall to keep microbes out",
+        "Mucus and cilia in the nose trap and sweep microbes away",
+        "White blood cells produce antibodies that attach to antigens on microbes",
+        "When the immune system wins the fight against microbes, you get better"
+      ],
+      "distractors": [
+        "The immune system produces microbes to fight other microbes",
+        "Antibodies attach to the skin to prevent cuts"
+      ],
+      "transitionWords": [
+        "every minute",
+        "If microbes do get past",
+        "When the immune system wins",
+        "When it cannot fight"
+      ]
+    },
+    {
+      "section": "fourGroups",
+      "sectionTitle": "Four Groups of Microbes",
+      "mainIdea": "Bacteria, viruses, fungi, and protozoa are the four main types of microbes, each with unique features, and they can be helpful or harmful.",
+      "keyDetails": [
+        "Bacteria are single-celled; some help digest food and make cheese, but others cause strep throat",
+        "Viruses are much smaller than bacteria and must invade living cells to reproduce",
+        "Fungi can be multicelled; yeast helps bake bread, but some fungi cause athlete's foot",
+        "Protozoa are single-celled organisms that move on their own; some cause malaria"
+      ],
+      "distractors": [
+        "All four types of microbes are the same size",
+        "Viruses can reproduce on their own without a host"
+      ],
+      "transitionWords": [
+        "Many shapes and sizes",
+        "Unlike bacteria",
+        "For example",
+        "However"
+      ]
+    },
+    {
+      "section": "fightingBack",
+      "sectionTitle": "Fighting Back",
+      "mainIdea": "Scientists have developed vaccines to prevent infections and antibiotics to kill harmful bacteria, but overusing antibiotics creates resistant microbes.",
+      "keyDetails": [
+        "Dr. Jenner discovered that cowpox protected people from smallpox, leading to vaccines",
+        "Vaccines contain weakened or dead microbes so the body can learn to recognize and fight them",
+        "Antibiotics like penicillin kill harmful bacteria but do NOT work against viruses",
+        "Overusing antibiotics causes bacteria to mutate and become resistant to the medicine"
+      ],
+      "distractors": [
+        "Antibiotics can kill both bacteria and viruses equally well",
+        "Vaccines are given to cure people who are already very sick"
+      ],
+      "transitionWords": [
+        "In the 1790s",
+        "Thanks to vaccines",
+        "However",
+        "Before penicillin"
+      ]
+    }
+  ],
+  "notes": {
+    "intro": [
+      {
+        "type": "vocab",
+        "title": "Organisms",
+        "content": "An organism is any living thing — from the tiniest bacterium to the biggest whale! Microbes are organisms, and so are YOU!"
+      },
+      {
+        "type": "vocab",
+        "title": "Invade",
+        "content": "To 'invade' means to enter by force. When harmful microbes invade your body, they break in and try to take over your cells!"
+      },
+      {
+        "type": "grammar",
+        "title": "Compound Words",
+        "content": "A compound word is made of two smaller words joined together. 'Everywhere' = every + where. Can you find more compound words in this book?"
+      },
+      {
+        "type": "evidence",
+        "title": "Then vs. Now",
+        "content": "Long ago, people thought BAD AIR caused sickness. TODAY, we know MICROBES cause disease. Compare these two ideas — this is a KEY contrast in the text!"
+      }
+    ],
+    "immuneSystem": [
+      {
+        "type": "vocab",
+        "title": "Immune System",
+        "content": "Your body's ARMY! The immune system has skin (the wall), mucus (the trap), and white blood cells (the soldiers). They all WORK TOGETHER!"
+      },
+      {
+        "type": "vocab",
+        "title": "Antigens vs. Antibodies",
+        "content": "ANTIGENS are on the microbe's surface — like a NAME TAG. ANTIBODIES are made by YOUR body — they RECOGNIZE the name tag and attack!"
+      },
+      {
+        "type": "grammar",
+        "title": "Comparative Adjectives",
+        "content": "Your skin is the FIRST line of defense. 'First' is a comparative adjective. What is the SECOND line? What is the STRONGEST defense?"
+      },
+      {
+        "type": "evidence",
+        "title": "Cause & Effect",
+        "content": "Cause: Microbes get through broken skin. Effect: The area becomes red, painful, and swollen. Your body is FIGHTING!"
+      }
+    ],
+    "fourGroups": [
+      {
+        "type": "vocab",
+        "title": "Cells",
+        "content": "All living things are made of cells. Bacteria are SINGLE-celled (one cell). Mushrooms are MULTI-celled (many cells). You are made of TRILLIONS of cells!"
+      },
+      {
+        "type": "evidence",
+        "title": "Four Groups",
+        "content": "BACTERIA = single-celled, reproduce alone. VIRUSES = not cells, need a host. FUNGI = some single, some multi. PROTOZOA = single-celled, can move!"
+      },
+      {
+        "type": "evidence",
+        "title": "Compare & Contrast",
+        "content": "Bacteria vs. Viruses: Bacteria CAN reproduce alone; viruses CANNOT. Bacteria are LARGER; viruses are MUCH SMALLER. Both can cause disease!"
+      },
+      {
+        "type": "grammar",
+        "title": "Smaller, Smallest",
+        "content": "The text says viruses are SMALLER than bacteria. 'Smaller' is a COMPARATIVE adjective (comparing 2 things). What is the SUPERLATIVE? SMALLEST (comparing 3+)!"
+      }
+    ],
+    "spreadInfection": [
+      {
+        "type": "vocab",
+        "title": "Contaminated",
+        "content": "When something is contaminated, it has been made UNSAFE by germs. Contaminated food = food with harmful bacteria. Contaminated water = water with disease microbes!"
+      },
+      {
+        "type": "evidence",
+        "title": "Four Ways Microbes Spread",
+        "content": "1) AIR (coughs/sneezes), 2) FOOD & WATER (contaminated items), 3) CONTACT (touching surfaces, shaking hands), 4) INSECTS (mosquitoes, ticks)"
+      },
+      {
+        "type": "grammar",
+        "title": "Compound Words",
+        "content": "Do you see 'doorknob'? door + knob = doorknob. 'Countertop'? counter + top = countertop. These are compound words — two words joined into one!"
+      }
+    ],
+    "fightingBack": [
+      {
+        "type": "vocab",
+        "title": "Vaccines",
+        "content": "A vaccine teaches your immune system to RECOGNIZE a microbe BEFORE it makes you sick. It's like showing your body a WANTED poster!"
+      },
+      {
+        "type": "vocab",
+        "title": "Antibiotic",
+        "content": "Antibiotics KILL bacteria but NOT viruses! If you have a cold (virus), antibiotics WON'T help. If you have strep throat (bacteria), they WILL help."
+      },
+      {
+        "type": "vocab",
+        "title": "Mutate",
+        "content": "When bacteria MUTATE, they CHANGE their genetic material. This can make them STRONGER and harder to kill with antibiotics. This is called resistance!"
+      },
+      {
+        "type": "evidence",
+        "title": "Cause & Effect",
+        "content": "Cause: Antibiotics are OVERUSED. Effect: Bacteria mutate and become RESISTANT. Now the antibiotics don't work anymore! This is a growing worldwide problem."
+      },
+      {
+        "type": "grammar",
+        "title": "Compound Words",
+        "content": "'Outbreaks' = out + breaks. 'Worldwide' = world + wide. 'Airplane' = air + plane. Can you spot the compound words in this section?"
+      }
+    ],
+    "conclusion": [
+      {
+        "type": "vocab",
+        "title": "Epidemic vs. Pandemic",
+        "content": "EPIDEMIC = disease spreading through a COMMUNITY or region. PANDEMIC = disease spreading across the ENTIRE WORLD. Pandemics are BIGGER!"
+      },
+      {
+        "type": "evidence",
+        "title": "Friends AND Foes",
+        "content": "FRIENDS: bacteria help digest food, fungi decompose dead matter, vaccines protect us. FOES: viruses cause flu, bacteria cause strep, protozoa cause malaria."
+      },
+      {
+        "type": "evidence",
+        "title": "Main Idea",
+        "content": "Microbes are EVERYWHERE. Some HELP us, some HARM us. The key is to UNDERSTAND them so we can protect ourselves and others!"
+      }
+    ]
+  },
+  "grammar": {
+    "target": "comparative and superlative adjectives",
+    "title": "Comparative and Superlative Adjectives",
+    "explanation": "Comparative adjectives compare TWO things and usually end in -er (smaller, faster, stronger). Superlative adjectives compare THREE OR MORE things and usually end in -est (smallest, fastest, strongest). Use 'than' with comparatives and 'the' with superlatives.",
+    "rules": [
+      "Comparative adjectives (-er) compare TWO things: Viruses are smaller than bacteria.",
+      "Superlative adjectives (-est) compare THREE OR MORE things: Viruses are the smallest of all microbes.",
+      "Short adjectives add -er/-est directly: small → smaller → smallest, fast → faster → fastest",
+      "Adjectives ending in -y change y to i: deadly → deadlier → deadliest, tiny → tinier → tiniest",
+      "Long adjectives use 'more'/'most': dangerous → more dangerous → most dangerous",
+      "Some adjectives are irregular: good → better → best, bad → worse → worst"
+    ],
+    "exercises": [
+      {
+        "type": "identify",
+        "sentence": "Viruses are much smaller than bacteria.",
+        "answers": [
+          "smaller"
+        ],
+        "hint": "Which word ends in -er and compares two things?"
+      },
+      {
+        "type": "identify",
+        "sentence": "The harmful microbes that cause the most dangerous diseases are often the smallest.",
+        "answers": [
+          "most dangerous",
+          "smallest"
+        ],
+        "hint": "Find the superlative (-est) AND the comparative using 'most'."
+      },
+      {
+        "type": "identify",
+        "sentence": "Fungi can be multicelled, making them larger than viruses.",
+        "answers": [
+          "larger"
+        ],
+        "hint": "Which word compares fungi and viruses using -er?"
+      },
+      {
+        "type": "identify",
+        "sentence": "Bacteria reproduce faster than fungi in warm conditions.",
+        "answers": [
+          "faster"
+        ],
+        "hint": "Which word tells how bacteria compare to fungi?"
+      },
+      {
+        "type": "identify",
+        "sentence": "Some fungi are the deadliest microbes for plants.",
+        "answers": [
+          "deadliest"
+        ],
+        "hint": "Which word ends in -est and compares fungi to all other microbes?"
+      },
+      {
+        "type": "multipleChoice",
+        "question": "Which sentence uses the comparative form correctly?",
+        "options": [
+          "Viruses are the smaller than bacteria.",
+          "Viruses are smaller than bacteria.",
+          "Viruses are smallest than bacteria.",
+          "Viruses are more small than bacteria."
+        ],
+        "answer": 1,
+        "explanation": "'Smaller' is the comparative form. We use it with 'than' to compare two things. No 'the' or 'most' needed."
+      },
+      {
+        "type": "multipleChoice",
+        "question": "Which sentence uses the superlative form correctly?",
+        "options": [
+          "Viruses are the smallest of all microbes.",
+          "Viruses are smaller of all microbes.",
+          "Viruses are the most small of all microbes.",
+          "Viruses are smallester of all microbes."
+        ],
+        "answer": 0,
+        "explanation": "'Smallest' is the superlative form. We use 'the' with superlatives when comparing three or more things."
+      },
+      {
+        "type": "multipleChoice",
+        "question": "Which form should be used when comparing exactly TWO types of microbes?",
+        "options": [
+          "The superlative form (-est)",
+          "The comparative form (-er)",
+          "Neither form is correct",
+          "Both forms work equally well"
+        ],
+        "answer": 1,
+        "explanation": "When comparing TWO things, always use the comparative form (-er). Save the superlative (-est) for comparing three or more."
+      },
+      {
+        "type": "fillBlank",
+        "sentence": "Viruses are _____ (small) than bacteria.",
+        "answer": "smaller",
+        "explanation": "'Smaller' is the comparative form of 'small.' We compare TWO things (viruses and bacteria), so we use -er."
+      },
+      {
+        "type": "fillBlank",
+        "sentence": "Of all four microbe types, viruses are the _____ (small).",
+        "answer": "smallest",
+        "explanation": "'Smallest' is the superlative form. We are comparing FOUR things (all microbe types), so we use -est with 'the.'"
+      },
+      {
+        "type": "fillBlank",
+        "sentence": "A dangerous microbe became _____ (dangerous) after it mutated.",
+        "answer": "more dangerous",
+        "explanation": "'Dangerous' is a long adjective, so we use 'more' instead of -er: more dangerous."
+      },
+      {
+        "type": "fillBlank",
+        "sentence": "Malaria is one of the _____ (deadly) diseases in the world.",
+        "answer": "deadliest",
+        "explanation": "'Deadliest' is the superlative of 'deadly.' Change y to i and add -est."
+      },
+      {
+        "type": "fillBlank",
+        "sentence": "Bacteria are _____ (large) than viruses, but fungi can be the _____ (large) of all microbes.",
+        "answer": "larger, largest",
+        "explanation": "'Larger' compares bacteria and viruses (2 things, -er). 'Largest' compares all microbes (3+ things, -est)."
+      }
+    ]
+  }
+}
