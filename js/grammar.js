@@ -177,6 +177,26 @@ const GrammarModule = (() => {
           card.innerHTML = renderSuffixExercise(ex, idx);
         } else if (ex.type === 'parentheses') {
           card.innerHTML = renderParenthesesExercise(ex, idx);
+        } else if (ex.type === 'synonym' || ex.type === 'antonym') {
+          card.innerHTML = renderSynAntExercise(ex, idx);
+        } else if (ex.type === 'complexOrSimple') {
+          card.innerHTML = renderGenericMC(ex, idx, '🔗 Complex or Simple?');
+        } else if (ex.type === 'identifyClauses') {
+          card.innerHTML = renderGenericMC(ex, idx, '🔗 Identify the Clause');
+        } else if (ex.type === 'correctTheError') {
+          card.innerHTML = renderGenericMC(ex, idx, '✏️ Correct the Error');
+        } else if (ex.type === 'identifyCompoundAdjective') {
+          card.innerHTML = renderGenericMC(ex, idx, '🔗 Find the Compound Adjective');
+        } else if (ex.type === 'chooseCorrectForm') {
+          card.innerHTML = renderGenericMC(ex, idx, '✏️ Choose the Correct Form');
+        } else if (ex.type === 'hyphenateOrNot') {
+          card.innerHTML = renderGenericMC(ex, idx, '➖ Hyphenate or Not?');
+        } else if (ex.type === 'addCommas') {
+          card.innerHTML = renderGenericMC(ex, idx, '📝 Add the Commas');
+        } else if (ex.type === 'numberWord') {
+          card.innerHTML = renderGenericMC(ex, idx, '🔢 Number Words');
+        } else if (ex.type === 'compoundWord') {
+          card.innerHTML = renderGenericMC(ex, idx, '🧩 Compound Word');
         }
 
         exSection.appendChild(card);
@@ -194,10 +214,33 @@ const GrammarModule = (() => {
   // ===================== Exercise Renderers =====================
 
   function renderIdentifyExercise(ex, idx) {
+    const answers = ex.answers || [];
+    const hasPhrases = answers.some(a => a.includes(' '));
+
+    if (hasPhrases) {
+      // Phrase mode: render phrases as clickable spans
+      let sentenceHtml = ex.sentence;
+      // Sort answers by length (longest first) to avoid partial matches
+      const sortedAnswers = [...answers].sort((a, b) => b.length - a.length);
+      sortedAnswers.forEach(answer => {
+        const escaped = answer.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+        const regex = new RegExp('\\b' + escaped + '\\b', 'gi');
+        sentenceHtml = sentenceHtml.replace(regex,
+          `<span class="ex-phrase" data-answer="true" data-idx="${idx}">${answer}</span>`);
+      });
+      return `
+        <div class="ex-type-badge">🔍 Find the ${bookData.grammar?.target || 'phrase'}</div>
+        <p class="ex-sentence">${sentenceHtml}</p>
+        ${ex.hint ? `<p class="ex-hint">💡 ${ex.hint}</p>` : ''}
+        <div class="ex-feedback" id="ex-fb-${idx}"></div>
+      `;
+    }
+
+    // Word mode: original behavior for single-word answers (e.g., adverbs)
     const words = ex.sentence.split(/(\s+)/);
     let sentenceHtml = words.map(w => {
       const clean = w.replace(/[^a-zA-Z'-]/g, '');
-      if (ex.answers.includes(clean)) {
+      if (answers.includes(clean)) {
         return `<span class="ex-word" data-answer="true" data-idx="${idx}">${w}</span>`;
       }
       return `<span class="ex-word" data-answer="false" data-idx="${idx}">${w}</span>`;
@@ -369,6 +412,39 @@ const GrammarModule = (() => {
     `;
   }
 
+  // ===== SYNONYM / ANTONYM =====
+  function renderSynAntExercise(ex, idx) {
+    const label = ex.type === 'synonym' ? 'Synonym' : 'Antonym';
+    const icon = ex.type === 'synonym' ? '🔄' : '↔️';
+    return `
+      <div class="ex-type-badge">${icon} ${label}</div>
+      <p class="ex-question">Which word is a ${label.toLowerCase()} of "<strong>${ex.word}</strong>"?</p>
+      <div class="ex-options" id="ex-opts-${idx}">
+        ${ex.options.map((opt, i) => `<button class="ex-opt-btn" data-correct="${i === ex.answer}" data-idx="${idx}">${opt}</button>`).join('')}
+      </div>
+      <div class="ex-feedback" id="ex-fb-${idx}">
+        ${ex.explanation ? `<div class="ex-explanation" style="display:none;">${ex.explanation}</div>` : ''}
+      </div>
+    `;
+  }
+
+  // ===== GENERIC MC (for compoundWord, numberWord, addCommas, etc.) =====
+  function renderGenericMC(ex, idx, badgeText) {
+    const prompt = ex.question || ex.prompt || ex.sentence || '';
+    const sentence = ex.sentence && ex.question ? `<p class="ex-sentence">"${ex.sentence}"</p>` : '';
+    return `
+      <div class="ex-type-badge">${badgeText}</div>
+      <p class="ex-question">${prompt}</p>
+      ${sentence}
+      <div class="ex-options" id="ex-opts-${idx}">
+        ${ex.options.map((opt, i) => `<button class="ex-opt-btn" data-correct="${i === ex.answer}" data-idx="${idx}">${opt}</button>`).join('')}
+      </div>
+      <div class="ex-feedback" id="ex-fb-${idx}">
+        ${ex.explanation ? `<div class="ex-explanation" style="display:none;">${ex.explanation}</div>` : ''}
+      </div>
+    `;
+  }
+
   // ===================== Event Binding =====================
 
   function bindExerciseEvents(grammar) {
@@ -407,6 +483,80 @@ const GrammarModule = (() => {
           earnGrammarStar(`ex-${idx}`);
         }
       });
+    });
+
+    // Phrase-level clicking for identify exercises with multi-word answers
+    document.querySelectorAll('.ex-phrase').forEach(phrase => {
+      phrase.addEventListener('click', function() {
+        const idx = this.dataset.idx;
+        this.classList.toggle('selected');
+
+        // Check if all phrases are selected
+        const card = document.getElementById(`ex-${idx}`);
+        const allPhrases = card.querySelectorAll('.ex-phrase');
+        const selectedPhrases = card.querySelectorAll('.ex-phrase.selected');
+        const fb = document.getElementById(`ex-fb-${idx}`);
+
+        if (allPhrases.length === selectedPhrases.length) {
+          // All correct phrases selected
+          allPhrases.forEach(p => {
+            p.classList.remove('selected');
+            p.classList.add('correct');
+            p.style.pointerEvents = 'none';
+          });
+          fb.textContent = '✓ Correct!';
+          fb.className = 'ex-feedback correct show';
+          earnGrammarStar(`ex-${idx}`);
+        }
+      });
+    });
+
+    // Add a "Check" button for phrase identify exercises
+    document.querySelectorAll('.ex-card').forEach(card => {
+      const hasPhrases = card.querySelector('.ex-phrase');
+      if (!hasPhrases) return;
+      const idx = card.id.replace('ex-', '');
+      const existingBtn = card.querySelector('.ex-check-identify');
+      if (existingBtn) return; // Don't duplicate
+
+      const checkBtn = document.createElement('button');
+      checkBtn.className = 'btn btn-primary ex-check-identify';
+      checkBtn.textContent = '✓ Check';
+      checkBtn.dataset.idx = idx;
+      checkBtn.addEventListener('click', function() {
+        const exIdx = this.dataset.idx;
+        const cardEl = document.getElementById(`ex-${exIdx}`);
+        const allPhrases = cardEl.querySelectorAll('.ex-phrase');
+        const selectedPhrases = cardEl.querySelectorAll('.ex-phrase.selected');
+        const fb = document.getElementById(`ex-fb-${exIdx}`);
+
+        if (allPhrases.length === selectedPhrases.length) {
+          allPhrases.forEach(p => {
+            p.classList.remove('selected');
+            p.classList.add('correct');
+            p.style.pointerEvents = 'none';
+          });
+          fb.textContent = '✓ Correct!';
+          fb.className = 'ex-feedback correct show';
+          earnGrammarStar(`ex-${exIdx}`);
+        } else {
+          // Show which are wrong
+          allPhrases.forEach(p => {
+            if (p.classList.contains('selected')) {
+              p.classList.remove('selected');
+              p.classList.add('correct');
+            } else {
+              p.classList.add('missed');
+            }
+            p.style.pointerEvents = 'none';
+          });
+          fb.textContent = `✗ Found ${selectedPhrases.length} of ${allPhrases.length}. Missed ones highlighted.`;
+          fb.className = 'ex-feedback incorrect show';
+        }
+      });
+
+      const feedback = card.querySelector('.ex-feedback');
+      if (feedback) card.insertBefore(checkBtn, feedback);
     });
 
     // Add a "Check" button behavior for identify exercises

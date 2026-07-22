@@ -2197,3 +2197,32 @@ body {
   .cc-row { min-width: 600px; }
   .cc-opt-btn { font-size: 0.78em; padding: 6px 8px; }
 }
+
+/* ===== Phrase-level identify exercises ===== */
+.ex-phrase {
+  display: inline;
+  padding: 2px 4px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: all 0.2s;
+  border-bottom: 2px dashed #ccc;
+}
+.ex-phrase:hover {
+  background: rgba(102, 126, 234, 0.1);
+  border-bottom-color: var(--primary);
+}
+.ex-phrase.selected {
+  background: rgba(102, 126, 234, 0.2);
+  border-bottom-color: var(--primary);
+  border-bottom-style: solid;
+}
+.ex-phrase.correct {
+  background: var(--correct-bg);
+  border-bottom-color: var(--correct-text);
+  border-bottom-style: solid;
+}
+.ex-phrase.missed {
+  background: rgba(255, 152, 0, 0.2);
+  border-bottom-color: #ff9800;
+  border-bottom-style: solid;
+}
