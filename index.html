@@ -106,6 +106,19 @@
       margin-top: 8px;
     }
     .book-card-stars .earned { color: #667eea; font-weight: 600; }
+    .complete-badge {
+      position: absolute;
+      top: 8px;
+      right: 8px;
+      background: #4caf50;
+      color: white;
+      padding: 3px 10px;
+      border-radius: 12px;
+      font-size: 0.75em;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      font-weight: 600;
+    }
+    .book-cover { position: relative; }
     .empty-state {
       text-align: center;
       padding: 60px 20px;
@@ -191,6 +204,25 @@
         <span class="btn-icon">📋</span>
         <span class="btn-label">Catalog</span>
       </a>
+    </div>
+  </div>
+
+  <div id="progress-summary" style="max-width:1000px;margin:20px auto;padding:15px 20px;background:#fff;border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.08);font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;display:none;">
+    <div style="display:flex;gap:20px;flex-wrap:wrap;align-items:center;justify-content:space-between;">
+      <div>
+        <span style="font-size:1.5em;font-weight:700;color:#667eea;" id="summary-attempted">0</span>
+        <span style="color:#666;font-size:0.85em;"> / <span id="summary-total">0</span> books attempted</span>
+      </div>
+      <div>
+        <span style="font-size:1.5em;font-weight:700;color:#4caf50;" id="summary-completed">0</span>
+        <span style="color:#666;font-size:0.85em;"> books completed (all stars)</span>
+      </div>
+      <div>
+        <span style="font-size:1.5em;">⭐</span>
+        <span style="font-size:1.5em;font-weight:700;color:#ff9800;" id="summary-stars">0</span>
+        <span style="color:#666;font-size:0.85em;"> total stars earned</span>
+      </div>
+      <button onclick="ProgressIO.exportProgress()" style="padding:6px 14px;background:#667eea;color:#fff;border:none;border-radius:6px;cursor:pointer;font-size:0.85em;">📤 Export Data</button>
     </div>
   </div>
 
@@ -445,19 +477,77 @@
         card.className = 'book-card';
         card.href = `reader.html?book=${book.id}`;
         const earned = getEarnedStars(book.id);
+        const total = getTotalStarsForBook(book.id);
+        const pct = total > 0 ? Math.round(earned / total * 100) : 0;
+        const completeBadge = (total > 0 && earned >= total) ? '<span class="complete-badge">✓ Done</span>' : '';
         card.innerHTML = `
-          <div class="book-cover">${book.title}</div>
+          <div class="book-cover">${book.title}${completeBadge}</div>
           <div class="book-info">
             <span class="book-num">${book.num}</span>
             <h3>${book.title}</h3>
             <div class="author">by ${book.author}</div>
             <span class="level">Level ${book.level}</span>
-            <div class="book-card-stars">⭐ <span class="earned">${earned}</span> earned</div>
+            <div class="book-card-stars">⭐ <span class="earned">${earned}</span> / ${total} <span style="color:#999;font-size:0.85em">(${pct}%)</span></div>
           </div>
         `;
         shelf.appendChild(card);
       });
     }
+
+    // Update progress summary with async JSON loading for accurate totals
+    async function updateProgressSummary() {
+      const summaryEl = document.getElementById('progress-summary');
+      const totalBooks = books.length;
+      let attempted = 0, completed = 0, totalStarsEarned = 0, totalStarsPossible = 0;
+
+      for (const book of books) {
+        const earned = getEarnedStars(book.id);
+        if (earned > 0) attempted++;
+        totalStarsEarned += earned;
+
+        // Try to load book JSON for total star count
+        try {
+          const resp = await fetch(`books/${book.id}.json`);
+          if (resp.ok) {
+            const data = await resp.json();
+            const total = calculateTotalStars(data);
+            totalStarsPossible += total;
+            if (total > 0 && earned >= total) completed++;
+          }
+        } catch (e) { /* ignore */ }
+      }
+
+      if (attempted > 0 || totalBooks > 0) {
+        summaryEl.style.display = 'block';
+        document.getElementById('summary-attempted').textContent = attempted;
+        document.getElementById('summary-total').textContent = totalBooks;
+        document.getElementById('summary-completed').textContent = completed;
+        document.getElementById('summary-stars').textContent = totalStarsEarned + ' / ' + totalStarsPossible;
+      }
+    }
+
+    function calculateTotalStars(bookData) {
+      let total = 0;
+      if (bookData.vocabulary) total += bookData.vocabulary.length * 2; // matching + fill-in
+      if (bookData.questions) total += bookData.questions.length;
+      if (bookData.summarizeActivities) total += bookData.summarizeActivities.length;
+      if (bookData.grammar && bookData.grammar.wordBuilding) total += bookData.grammar.wordBuilding.length;
+      if (bookData.grammar && bookData.grammar.exercises) total += bookData.grammar.exercises.length;
+      if (bookData.sequenceEvents) total += bookData.sequenceEvents.length;
+      if (bookData.problemSolution) total += bookData.problemSolution.length * 4;
+      if (bookData.authorPurpose && bookData.authorPurpose.purposes) total += bookData.authorPurpose.purposes.length;
+      if (bookData.kwls) total += 2;
+      if (bookData.characterAnalysis && bookData.characterAnalysis.categories) {
+        const cats = Object.keys(bookData.characterAnalysis.categories);
+        total += cats.length + 1; // categories + quote
+      }
+      if (bookData.compareContrast && bookData.compareContrast.criteria && bookData.compareContrast.objects) {
+        total += bookData.compareContrast.criteria.length * bookData.compareContrast.objects.length;
+      }
+      return total;
+    }
+
+    updateProgressSummary();
 
     function getEarnedStars(bookId) {
       var saved = localStorage.getItem('stars_' + bookId);
@@ -466,6 +556,25 @@
         var stars = JSON.parse(saved);
         return Object.values(stars).filter(function(v) { return v; }).length;
       } catch (e) { return 0; }
+    }
+
+    // Cache for total stars per book
+    var bookTotalCache = {};
+    function getTotalStarsForBook(bookId) {
+      if (bookTotalCache[bookId] !== undefined) return bookTotalCache[bookId];
+      try {
+        var xhr = new XMLHttpRequest();
+        xhr.open('GET', 'books/' + bookId + '.json', false); // synchronous
+        xhr.send();
+        if (xhr.status === 200) {
+          var data = JSON.parse(xhr.responseText);
+          var total = calculateTotalStars(data);
+          bookTotalCache[bookId] = total;
+          return total;
+        }
+      } catch (e) { /* ignore */ }
+      bookTotalCache[bookId] = 0;
+      return 0;
     }
   </script>
   <script src="js/progress-io.js?v=9"></script>
